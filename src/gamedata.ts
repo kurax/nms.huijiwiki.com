@@ -173,33 +173,26 @@ for (const id in proceduralTechnologies.table) {
     const entry = proceduralTechnologies.table[id];
     if (typeof entry.Name === 'string') {
         const localizedName: Record<string, string[][]> = {};
-        let rarity: string | undefined;
-        if (entry.Quality === 'Normal') rarity = 'COMMON';
-        else if (entry.Quality === 'Legendary') rarity = 'SCLASS';
-        else if (typeof entry.Quality === 'string') rarity = entry.Quality.toUpperCase();
-        if (rarity)
+        const addNames = (prefix: string, index: number) => {
             for (let i = 1; ; i++) {
-                const key = `${entry.Name}_${rarity}_ADJ_${i}`;
+                const key = `${prefix}_${i}`;
                 const localizedValue = getLocalizedValue(entry, key);
                 if (localizedValue == null) break;
                 for (const locale in localizedValue) {
                     localizedName[locale] = localizedName[locale] ?? [];
-                    const names: string[] = localizedName[locale][0] ?? [];
+                    const names: string[] = localizedName[locale][index] ?? [];
                     names[i - 1] = localizedValue[locale];
-                    localizedName[locale][0] = names;
+                    localizedName[locale][index] = names;
                 }
             }
-        for (let i = 1; ; i++) {
-            const key = `${entry.Name}_COMP_${i}`;
-            const localizedValue = getLocalizedValue(entry, key);
-            if (localizedValue == null) break;
-            for (const locale in localizedValue) {
-                localizedName[locale] = localizedName[locale] ?? [];
-                const names: string[] = localizedName[locale][1] ?? [];
-                names[i - 1] = localizedValue[locale];
-                localizedName[locale][1] = names;
-            }
-        }
+        };
+
+        let rarity: string | undefined;
+        if (entry.Quality === 'Normal') rarity = 'COMMON';
+        else if (entry.Quality === 'Legendary') rarity = 'SCLASS';
+        else if (typeof entry.Quality === 'string') rarity = entry.Quality.toUpperCase();
+        if (rarity) addNames(`${entry.Name}_${rarity}_ADJ`, 0);
+        addNames(`${entry.Name}_COMP`, 1);
         entry.Name = _.isEmpty(localizedName) ? entry.Name : localizedName;
     }
 }
