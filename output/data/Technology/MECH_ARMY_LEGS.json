@@ -1,0 +1,111 @@
+{
+  "ID": "MECH_ARMY_LEGS",
+  "Group": "",
+  "Name": {
+    "English": "LIQUIDATOR LEGS",
+    "SimplifiedChinese": "清算员腿部",
+    "TraditionalChinese": "清算人雙腿"
+  },
+  "NameLower": {
+    "English": "Liquidator Legs",
+    "SimplifiedChinese": "清算员腿部",
+    "TraditionalChinese": "清算人雙腿"
+  },
+  "Subtitle": {
+    "English": "Minotaur Limb Replacement",
+    "SimplifiedChinese": "弥诺陶洛斯肢体替换组件",
+    "TraditionalChinese": "彌諾陶洛斯四肢替換零件"
+  },
+  "Description": {
+    "English": "An upgrade to the <span class=\"name name-technology\">Minotaur</span> Heavy Exocraft Hybrid, the Liquidator is a cutting-edge heavy-duty combat unit, designed to operate in the harshest of environments.<br><br>Installation will significantly improve the Minotaur's <span class=\"name name-technology\">engine and mobility</span> systems.",
+    "SimplifiedChinese": "作为<span class=\"name name-technology\">弥诺陶洛斯</span>重型混合强化艇的升级版本，清算员是一种尖端的重装作战单元，并且被设计成能够在最险恶的环境中执行任务。<br><br>安装这种腿部组建能够显著改善弥诺陶洛斯的<span class=\"name name-technology\">驱动器以及机动</span>系统。",
+    "TraditionalChinese": "清算人是一種尖端耐用戰鬥機體，為<span class=\"name name-technology\">彌諾陶洛斯</span>重型混合強化艇的升級，專為在最嚴苛的環境中運作而設計。<br><br>安裝後會顯著提升彌諾陶洛斯的<span class=\"name name-technology\">引擎和機動性</span>系統。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.mech.army.legs.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "QUAD_PROD": {
+      "ID": "QUAD_PROD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "Bonus": 0.9,
+      "Level": 2
+    },
+    {
+      "Stat": "Vehicle_BoostTanks",
+      "Bonus": 0.25,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "LEGSLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 500,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

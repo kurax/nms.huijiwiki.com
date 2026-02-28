@@ -1,0 +1,111 @@
+{
+  "ID": "SUB_RECHARGE",
+  "Group": "",
+  "Name": {
+    "English": "OSMOTIC GENERATOR",
+    "SimplifiedChinese": "渗压发电机",
+    "TraditionalChinese": "滲透發電機"
+  },
+  "NameLower": {
+    "English": "Osmotic Generator",
+    "SimplifiedChinese": "渗压发电机",
+    "TraditionalChinese": "滲透發電機"
+  },
+  "Subtitle": {
+    "English": "Humboldt Drive Upgrade",
+    "SimplifiedChinese": "洪堡驱动器升级",
+    "TraditionalChinese": "洪保德驅動器升級"
+  },
+  "Description": {
+    "English": "Installed into the drive system aboard the <span class=\"name name-stellar\">Nautilon Submarine</span>.<br><br>Captures energy by exploiting the saline gradient in deep water environments, allowing a slow recharge of the <span class=\"name name-technology\">Humboldt Drive</span> in the event of fuel emergencies.",
+    "SimplifiedChinese": "安装在<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>搭载的驱动系统当中。<br><br>能在燃料稀缺时，利用深水环境中的盐水梯度获取能量，为<span class=\"name name-technology\">洪堡驱动器</span>缓慢充能。",
+    "TraditionalChinese": "安裝於<span class=\"name name-stellar\">巡洋龍潛艇</span>的驅動器系統中。<br><br>利用深海環境的鹽份差異擷取能量，在燃料緊急情況下可以緩慢為<span class=\"name name-technology\">洪保德驅動器</span>充電。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.submarineenginemod.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Submarine",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "CLAMPEARL": {
+      "ID": "CLAMPEARL",
+      "Type": "Product",
+      "Amount": 6
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "Bonus": 0.8,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 350,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

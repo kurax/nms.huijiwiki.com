@@ -1,0 +1,148 @@
+{
+  "ID": "SHIPROCKETS",
+  "Group": "",
+  "Name": {
+    "English": "ROCKET LAUNCHER",
+    "SimplifiedChinese": "火箭发射器",
+    "TraditionalChinese": "火箭發射器"
+  },
+  "NameLower": {
+    "English": "Rocket Launcher",
+    "SimplifiedChinese": "火箭发射器",
+    "TraditionalChinese": "火箭發射器"
+  },
+  "Subtitle": {
+    "English": "Long Range Starship Weapon",
+    "SimplifiedChinese": "远距离飞船武器",
+    "TencentChinese": "飞船抛射武器",
+    "TraditionalChinese": "遠距離太空船武器"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">long range</span> starship weapon, capable of delivering a highly explosive torpedo across massive distances.<br><br>Note: explosive damage is <span class=\"name name-stellar\">highly effective</span> against <span class=\"name name-stellar\">unshielded</span> targets, but <span class=\"name name-title\">ineffective</span> against <span class=\"name name-title\">shielded</span> targets.<br><br>Use <span class=\"name name-img\">CYCLEWEAPON</span> to change weapon mode. Press <span class=\"name name-img\">SHIPFIRE</span> to fire.",
+    "SimplifiedChinese": "<span class=\"name name-technology\">远距离</span>飞船武器，能够远距离投掷高爆鱼雷。<br><br>注意：爆炸伤害对<span class=\"name name-stellar\">无护盾</span>目标<span class=\"name name-stellar\">非常有效</span>，但是对<span class=\"name name-title\">有护盾</span>目标<span class=\"name name-title\">没有效果</span>。<br><br>使用<span class=\"name name-img\">CYCLEWEAPON</span>变更武器模式。按下<span class=\"name name-img\">SHIPFIRE</span>发射。",
+    "TencentChinese": "该武器破坏力强，适合快速击沉敌方飞船。<br><br>按 <span class=\"name name-img\">SHIPFIRE</span> 激活。",
+    "TraditionalChinese": "一種<span class=\"name name-technology\">遠距離</span>太空船武器，能夠從很遠的距離發射高爆炸性的魚雷。<br><br>注意：爆炸傷害對<span class=\"name name-stellar\">無防護罩</span>的目標<span class=\"name name-stellar\">非常有效</span>，但對付<span class=\"name name-title\">有防護罩</span>的目標<span class=\"name name-title\">效果不彰</span>。<br><br>使用 <span class=\"name name-img\">CYCLEWEAPON</span> 即可切換武器模式。按住 <span class=\"name name-img\">SHIPFIRE</span> 即可開火。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.rocket.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Common",
+  "Value": 50,
+  "Requirements": {
+    "YELLOW2": {
+      "ID": "YELLOW2",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Ship_Weapons_Rockets",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Dispersion",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_BulletsPerShot",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "Bonus": 6500,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Range",
+      "Bonus": 5000,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Scale",
+      "Bonus": 2.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_CoolTime",
+      "Bonus": 10,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage_Radius",
+      "Bonus": 15,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.80392158,
+    "G": 0.380392164,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 100,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

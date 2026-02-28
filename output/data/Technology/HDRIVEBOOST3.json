@@ -1,0 +1,107 @@
+{
+  "ID": "HDRIVEBOOST3",
+  "Group": "",
+  "Name": {
+    "English": "INDIUM DRIVE",
+    "SimplifiedChinese": "铟驱动器",
+    "TraditionalChinese": "銦驅動器"
+  },
+  "NameLower": {
+    "English": "Indium Drive",
+    "SimplifiedChinese": "铟驱动器",
+    "TraditionalChinese": "銦驅動器"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Upgrade: Blue Systems",
+    "SimplifiedChinese": "超光速推进器升级：蓝色恒星系",
+    "TraditionalChinese": "超空間驅動器升級：藍色恆星系"
+  },
+  "Description": {
+    "English": "Upgrades the hyperdrive's computational matrix,  preventing temporal anomalies when attempting to reach rare-class <span class=\"name name-technology\">blue stellar bodies</span>.<br><br>User is advised to access Hyperdrive systems via the <VAL_ON>Galactic Map<>.",
+    "SimplifiedChinese": "对超光速推进器的计算矩阵进行升级，避免在尝试抵达稀有级<span class=\"name name-technology\">蓝色星体</span>时遇到时空异常。<br><br>建议使用者通过<VAL_ON>银河星图<>接入超光速推进系统。",
+    "TencentChinese": "超光速推进器保护矩阵已升级，现在能避免在尝试抵达稀有级<span class=\"name name-technology\">蓝色星球主体</span>时，出现现实故障。<br><br>建议用户通过<VAL_ON>星系图<>进入超光速推进系统。",
+    "TraditionalChinese": "升級超空間驅動器防護矩陣，試圖接近罕見等級<span class=\"name name-technology\">藍色恆星體</span>時，能防止現實失常。<br><br>建議使用者透過<VAL_ON>銀河地圖<>存取超空間驅動器系統。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/technology.indiumdrive.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Impossible",
+  "Value": 50,
+  "Requirements": {
+    "GREEN2": {
+      "ID": "GREEN2",
+      "Type": "Substance",
+      "Amount": 250
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 5
+    }
+  },
+  "BaseStat": "Ship_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Hyperdrive",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "HYPERDRIVE",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 200,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

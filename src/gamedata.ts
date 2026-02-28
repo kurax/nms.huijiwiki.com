@@ -3,6 +3,7 @@ import trueCasePath from 'true-case-path';
 import fs from 'node:fs';
 import path from 'node:path';
 import signale from 'signale';
+import _ from 'lodash';
 // import sortKeys from 'sort-keys';
 
 const DATA_DIR = 'data';
@@ -49,18 +50,44 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
         if (name == null) continue;
         const value = obj._attributes?.value;
         const id = obj._attributes?._id;
-        if (obj.Property == null) {
+        if (value === 'TkModelResource') result[`[IGNORED]${name}`] = null;
+        else if (obj.Property == null) {
             if (name !== 'ID' && typeof value === 'string' && localization.hasOwnProperty(value)) result[name] = getLocalizedValue(result, value);
             else result[name] = value ?? null;
-        } else if (value === 'TkModelResource') result[`[IGNORED]${name}`] = null;
-        else {
+        } else {
             const field = id ?? name;
+            // 数组类型
+            if (Array.isArray(obj.Property) && obj.Property.every((item: any) => item._attributes?.name === name && typeof item._attributes?._index === 'number')) {
+                result[field] = [];
+                for (const entry of _.sortBy(obj.Property, (item: any) => item._attributes?._index)) {
+                    const property = getValue([entry], [...fields, field]);
+                    result[field].push(typeof property[name] === 'object' ? _.omit(property[name], '_index') : property[name]);
+                }
+                continue;
+            }
             const properties = getValue(obj.Property, [...fields, field]);
-            if (['GcRealitySubstanceCategory', 'GcRarity', 'GcLegality', 'GcTradeCategory', 'GcScannerIconTypes'].includes(value))
-                result[name] = properties[Object.keys(properties)[0]];
-            else if (value === 'TkTextureResource') {
+            // 枚举类型
+            const enumTypes = [
+                'GcAlienRace',
+                'GcInventoryType',
+                'GcLegality',
+                'GcRarity',
+                'GcRealitySubstanceCategory',
+                'GcScannerIconTypes',
+                'GcStatsTypes',
+                'GcTechnologyRarity',
+                'GcTechnologyCategory',
+                'GcTradeCategory'
+            ];
+            if (enumTypes.includes(value)) {
+                result[field] = properties[Object.keys(properties)[0]];
+                continue;
+            }
+            // 图片类型
+            const textureTypes = ['TkTextureResource'];
+            if (textureTypes.includes(value)) {
                 const texture = properties.Filename;
-                if (icons[texture] != null) result[name] = icons[texture];
+                if (icons[texture] != null) result[field] = icons[texture];
                 else {
                     const paths = texture.split('/') as string[];
                     while (paths.length > 0)
@@ -68,10 +95,13 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
                         else break;
                     const filename = [...paths.slice(0, paths.length - 1), `${path.basename(paths[paths.length - 1], path.extname(paths[paths.length - 1]))}.png`].join('/');
                     const pngFile = path.join(DATA_DIR, filename);
-                    if (!fs.existsSync(pngFile)) result[name] = 'NotFound.png';
-                    else result[name] = icons[texture] = path.relative(path.resolve(DATA_DIR), trueCasePath.trueCasePathSync(pngFile)).replaceAll('\\', '/');
+                    if (!fs.existsSync(pngFile)) result[field] = 'NotFound.png';
+                    else result[field] = icons[texture] = path.relative(path.resolve(DATA_DIR), trueCasePath.trueCasePathSync(pngFile)).replaceAll('\\', '/');
                 }
-            } else result[field] = properties;
+                continue;
+            }
+            // 其他类型
+            result[field] = properties;
         }
     }
     return result;
@@ -80,7 +110,7 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
 const processData = async (file: string) => {
     try {
         const data = parser.parse(fs.readFileSync(path.join(REALITY_DIR, file))).Data[0];
-        // fs.writeFileSync('NMS_REALITY_GCSUBSTANCETABLE.json', JSON.stringify(data, null, 2));
+        // fs.writeFileSync(`data/${file.replace('.MXML', '.json')}`, JSON.stringify(data, null, 2));
         const template = data._attributes?.template;
         if (typeof template !== 'string') {
             signale.warn('No template found.');
@@ -117,8 +147,12 @@ const writeTableData = (data: Record<string, any>) => {
 };
 
 const substances = await processData('NMS_REALITY_GCSUBSTANCETABLE.MXML');
+const technologies = await processData('NMS_REALITY_GCTECHNOLOGYTABLE.MXML');
 
 writeTableData(substances);
+writeTableData(technologies);
+
+// fs.writeFileSync(path.join(DATA_DIR, 'technologies.json'), JSON.stringify(technologies.table, null, 2));
 
 // 图片
 signale.start('Icons');

@@ -1,0 +1,110 @@
+{
+  "ID": "ENERGY",
+  "Group": "",
+  "Name": {
+    "English": "LIFE SUPPORT",
+    "SimplifiedChinese": "生命维持",
+    "TraditionalChinese": "維生系統"
+  },
+  "NameLower": {
+    "English": "Life Support",
+    "SimplifiedChinese": "生命维持",
+    "TraditionalChinese": "維生系統"
+  },
+  "Subtitle": {
+    "English": "Suit Survival Power Pack",
+    "SimplifiedChinese": "套装生存能量包",
+    "TraditionalChinese": "套裝生存能量包"
+  },
+  "Description": {
+    "English": "The core of the Exosuit, the <span class=\"name name-technology\">Life Support System</span> continually filters and pumps breathable <span class=\"name name-fuel\">Oxygen</span>.<br><br>In addition to its role in the continued existence of the Exosuit user, the Life Support Unit uses surplus oxygen to generate power for secondary systems, such as the <span class=\"name name-technology\">Jetpack</span>, <span class=\"name name-technology\">Speed Augmentation</span> and <span class=\"name name-technology\">Torch</span>.",
+    "SimplifiedChinese": "套装的核心，<span class=\"name name-technology\">维生系统</span>能持续过滤和泵送可呼吸的<span class=\"name name-fuel\">氧气</span>。<br><br>除了帮助套装使用者持续生存，维生装置还能用富余的氧气为<span class=\"name name-technology\">喷气背包</span>、<span class=\"name name-technology\">速度增强设备</span>、<span class=\"name name-technology\">电筒</span>等辅助系统供能。",
+    "TraditionalChinese": "<span class=\"name name-technology\">維生系統</span>是強化套裝的核心，會持續過濾並打入可吸入的<span class=\"name name-fuel\">氧氣</span>。<br><br>維生系統元件除了維持強化套裝使用者的生命以外，也會使用過剩的氧氣替次要系統提供能量，例如<span class=\"name name-technology\">噴射背包</span>、<span class=\"name name-technology\">速度強化</span>及<span class=\"name name-technology\">照明</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.cell.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 100,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "OXYGEN",
+    "PRODFUEL2",
+    "COLD1"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Suit_Energy",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Energy",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Energy_Regen",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

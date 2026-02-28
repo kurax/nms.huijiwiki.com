@@ -1,0 +1,114 @@
+{
+  "ID": "BOLT_SM",
+  "Group": "",
+  "Name": {
+    "English": "BOLTCASTER SM",
+    "SimplifiedChinese": "离子闪电发射器 SM",
+    "TencentChinese": "离子闪电导弹发射器",
+    "TraditionalChinese": "雷霆砲 SM"
+  },
+  "NameLower": {
+    "English": "Boltcaster SM",
+    "SimplifiedChinese": "离子闪电发射器 SM",
+    "TencentChinese": "离子闪电导弹发射器",
+    "TraditionalChinese": "雷霆砲 SM"
+  },
+  "Subtitle": {
+    "English": "Boltcaster Companion Unit",
+    "SimplifiedChinese": "离子闪电发射器配件",
+    "TraditionalChinese": "雷霆砲輔助元件"
+  },
+  "Description": {
+    "English": "Boltcaster shots deliver added physical damage upon impact.<br><br>Grants additional kinetic energy to the user's ionised plasma distribution systems.<br><br>Operates automatically once constructed within user's Multi-Tool inventory.",
+    "SimplifiedChinese": "离子闪电发射器在命中时可造成额外的物理伤害。<br><br>能为使用者的离子化等离子分配系统提供额外动能。<br><br>本设备在使用者的多用途工具库存中制造完毕后自动生效。",
+    "TencentChinese": "本离子闪电发射器在命中时可造成额外的物理伤害。<br><br>给使用者的离子化等离子分配系统提供额外动能。<br><br>本设备在使用者的多用途工具库存中制造完毕后自动生效。",
+    "TraditionalChinese": "雷霆砲彈在接觸敵人後會增加物理傷害。<br><br>讓使用者的離子化電漿配流系統增加動能。<br><br>建造於使用者的工具組道具欄後便會自動啟用。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.projectile1mod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Weapon_Projectile",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Rate",
+      "Bonus": 1.2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_ClipSize",
+      "Bonus": 8,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 0.992156863,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 160,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,116 @@
+{
+  "ID": "UT_BUI_SCAN",
+  "Group": "",
+  "Name": {
+    "English": "SCAN HARMONISER",
+    "SimplifiedChinese": "扫描和谐器",
+    "TraditionalChinese": "掃描協和器"
+  },
+  "NameLower": {
+    "English": "Scan Harmoniser",
+    "SimplifiedChinese": "扫描和谐器",
+    "TraditionalChinese": "掃描協和器"
+  },
+  "Subtitle": {
+    "English": "Multi-Tool Upgrade",
+    "SimplifiedChinese": "多用途工具升级",
+    "TraditionalChinese": "工具組升級"
+  },
+  "Description": {
+    "English": "An attachment for the Multi-Tool <span class=\"name name-technology\">Scanner</span> that allows the device to detect and decode the cloaking signal of nearby Autophage units.<br><br>Use <span class=\"name name-img\">SCAN</span> to activate the Scanner. As its detector waveform passes over the local area, it will <span class=\"name name-stellar\">automatically reveal</span> any <span class=\"name name-stellar\">nearby Autophage entities</span>.",
+    "SimplifiedChinese": "多用途工具<span class=\"name name-technology\">扫描仪</span>的配件，允许设备侦测并破译附近自噬体单元的隐身信号。<br><br>使用<span class=\"name name-img\">SCAN</span>激活扫描仪。当扫描装置的波形经过本地区域，<span class=\"name name-stellar\">周遭的所有自噬体实体</span>都将被<span class=\"name name-stellar\">自动揭示</span>。",
+    "TraditionalChinese": "工具組<span class=\"name name-technology\">掃描器</span>的配件，能讓裝置偵測並破譯附近自噬單位的隱形訊號。<br><br>使用 <span class=\"name name-img\">SCAN</span> 啟動掃描器。偵測器波形經過當地區域時，會<span class=\"name name-stellar\">自動顯示</span><span class=\"name name-stellar\">附近任何自噬存在體</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.buildersscanmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "DRONE_SHARD": {
+      "ID": "DRONE_SHARD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "SPACEGUNK2": {
+      "ID": "SPACEGUNK2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Weapon_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Scan_BuilderReveal",
+      "Bonus": 1,
+      "Level": 3
+    },
+    {
+      "Stat": "Weapon_Scan_Radius",
+      "Bonus": 1.1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,101 @@
+{
+  "ID": "WEAPSLOT_DMG10",
+  "Group": "",
+  "Name": {
+    "English": "SHATTERED LENS",
+    "SimplifiedChinese": "镜头破碎",
+    "TraditionalChinese": "破碎的鏡頭"
+  },
+  "NameLower": {
+    "English": "Shattered Lens",
+    "SimplifiedChinese": "镜头破碎",
+    "TraditionalChinese": "破碎的鏡頭"
+  },
+  "Subtitle": {
+    "English": "Damaged Multi-Tool Component",
+    "SimplifiedChinese": "受损的多用途工具部件",
+    "TraditionalChinese": "受損工具組元件"
+  },
+  "Description": {
+    "English": "Multi-Tool subsystem <span class=\"name name-fuel\">critically damaged</span>.<br><br>Slot cannot be used until damage is repaired. Use <span class=\"name name-img\">REPAIR</span> to begin repair process.<br><br>Repairing will free slot up for general use.",
+    "SimplifiedChinese": "多用途工具子系统<span class=\"name name-fuel\">严重受损</span>。<br><br>栏位无法使用，直至损害得到修复。使用<span class=\"name name-img\">REPAIR</span>启动修复过程。<br><br>修复将使栏位空出，以供一般用途使用。",
+    "TencentChinese": "多用途工具子系统<span class=\"name name-fuel\">严重受损</span>。<br><br>栏位无法使用，直至损害得到修复。使用<span class=\"name name-img\">REPAIR</span>启动修复过程。",
+    "TraditionalChinese": "工具組系統<span class=\"name name-fuel\">嚴重受損</span>。<br><br>損害修復前，欄位無法使用。使用 <span class=\"name name-img\">REPAIR</span> 開始進行修復。<br><br>修復後欄位即可供一般使用。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.tech5.png",
+  "Colour": {
+    "R": 0.482352942,
+    "G": 0,
+    "B": 0,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": true,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 100,
+  "Requirements": {
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "WATER1": {
+      "ID": "WATER1",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

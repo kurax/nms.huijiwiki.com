@@ -1,0 +1,130 @@
+{
+  "ID": "SENT_LASER",
+  "Group": "",
+  "Name": {
+    "English": "HIJACKED LASER",
+    "SimplifiedChinese": "被劫持的激光发射器",
+    "TraditionalChinese": "遭奪雷射"
+  },
+  "NameLower": {
+    "English": "Hijacked Laser",
+    "SimplifiedChinese": "被劫持的激光发射器",
+    "TraditionalChinese": "遭奪雷射"
+  },
+  "Subtitle": {
+    "English": "Repurposed High-Energy Beam",
+    "SimplifiedChinese": "改造高能光束",
+    "TraditionalChinese": "改造版高能量光束"
+  },
+  "Description": {
+    "English": "This Multi-Tool is made with material and methods known to no conventional manufacturer, its core a unfathomable array of impossible optics and glassy foam. Nonetheless, there is a layer of recogniseable technology. It shows signs of having been <span class=\"name name-stellar\">tampered with</span> by an unknown craftsman, who has repurposed its scanner array into a <span class=\"name name-technology\">high-powered mining laser</span>.<br><br>Powered by <span class=\"name name-fuel\">Carbon-based Elements</span>. Fire the beam with <span class=\"name name-img\">ATTACK</span>.",
+    "SimplifiedChinese": "这把多用途工具使用了不同寻常的陌生材料与制作手段，装置的核心中安装了错综复杂的离奇光学工具与玻璃泡沫结构。尽管如此，其中依旧存在着能够识别的技术。有迹象表明有身份不明的工匠对其进行了<span class=\"name name-stellar\">改造</span>，并且将原本的扫描阵列转化为了一套<span class=\"name name-technology\">高功率开采激光</span>。<br><br>激光使用<span class=\"name name-fuel\">碳基元素</span>作为能源。使用<span class=\"name name-img\">ATTACK</span>发射光束。",
+    "TraditionalChinese": "這個工具組由普通製造者不知曉的材料與方法製作而成，核心由大量難以理解的光學與玻璃泡沫組成。不過仍使用了一層可辨識科技。看似已經被未知的工匠<span class=\"name name-stellar\">修改過</span>，掃描陣列被改造為<span class=\"name name-technology\">強力採礦雷射</span>。<br><br>需要<span class=\"name name-fuel\">碳基元素</span>驅動。使用 <span class=\"name name-img\">ATTACK</span> 即可發射光束。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.lasersentinel.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "FUEL1",
+    "FUEL2",
+    "HOT1"
+  ],
+  "ChargeMultiplier": 2,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 60
+    }
+  },
+  "BaseStat": "Weapon_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Laser_Mining_Speed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_HeatTime",
+      "Bonus": 8,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_Damage",
+      "Bonus": 20,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_ReloadTime",
+      "Bonus": 0.6,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_Drain",
+      "Bonus": 1.2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_MiningBonus",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,100 @@
+{
+  "ID": "MAINT_TECH4",
+  "Group": "",
+  "Name": {
+    "English": "INPUT TERMINAL",
+    "SimplifiedChinese": "输入终端",
+    "TraditionalChinese": "輸入終端站"
+  },
+  "NameLower": {
+    "English": "Input terminal",
+    "SimplifiedChinese": "输入终端",
+    "TraditionalChinese": "輸入終端站"
+  },
+  "Subtitle": {
+    "English": "Damaged Component",
+    "SimplifiedChinese": "受损部件",
+    "TraditionalChinese": "元件受損"
+  },
+  "Description": {
+    "English": "A terminal designed to allow manual control of the device. Damage prevents it actually receiving any input.",
+    "SimplifiedChinese": "一个专为设备的手动控制设计的终端。由于受损，导致其无法接收任何输入信息。",
+    "TraditionalChinese": "終端站的設計允許人工操作裝置，但毀損後再也無法接收指令。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.tech4.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "CATALYST1": {
+      "ID": "CATALYST1",
+      "Type": "Substance",
+      "Amount": 20
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

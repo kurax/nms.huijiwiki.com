@@ -1,0 +1,106 @@
+{
+  "ID": "UT_PROTECT",
+  "Group": "",
+  "Name": {
+    "English": "SHIELD LATTICE",
+    "SimplifiedChinese": "栅格护盾",
+    "TraditionalChinese": "防護罩晶格"
+  },
+  "NameLower": {
+    "English": "Shield Lattice",
+    "SimplifiedChinese": "栅格护盾",
+    "TraditionalChinese": "防護罩晶格"
+  },
+  "Subtitle": {
+    "English": "Hazard Protection Upgrade",
+    "SimplifiedChinese": "危险防护升级",
+    "TraditionalChinese": "危險防護升級"
+  },
+  "Description": {
+    "English": "Increases the base capacity of the <span class=\"name name-commodity\">Hazard Protection</span> system, allowing the user to spend longer in hazardous environments without recharging their Exosuit.",
+    "SimplifiedChinese": "增加<span class=\"name name-commodity\">危险防护</span>系统的基本容量，允许用户在危险环境中停留更长时间而无需为套装充能。",
+    "TraditionalChinese": "增加<span class=\"name name-commodity\">危險防護</span>系統的基本容量，允許用戶在危險環境中停留更長時間而無需為強化套裝充能。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protectgenericmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "CATALYST2": {
+      "ID": "CATALYST2",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection",
+      "Bonus": 0.2,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.788235307,
+    "G": 0.815686285,
+    "B": 0.894117653,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

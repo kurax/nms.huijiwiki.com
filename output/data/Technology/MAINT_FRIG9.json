@@ -1,0 +1,100 @@
+{
+  "ID": "MAINT_FRIG9",
+  "Group": "",
+  "Name": {
+    "English": "PHOTOVOLTAIC PANEL",
+    "SimplifiedChinese": "光伏板",
+    "TraditionalChinese": "光電面板"
+  },
+  "NameLower": {
+    "English": "Photovoltaic Panel",
+    "SimplifiedChinese": "光伏板",
+    "TraditionalChinese": "光電面板"
+  },
+  "Subtitle": {
+    "English": "Damaged Component",
+    "SimplifiedChinese": "受损部件",
+    "TraditionalChinese": "元件受損"
+  },
+  "Description": {
+    "English": "A small but efficient panel, designed to harvest light and convert it to power. However, the panel is now cracked and dusty, and can no longer be relied on.",
+    "SimplifiedChinese": "小型但高效的面板，用于获取光线并将其转化为电能。然而，面板现已破灭，布满灰尘，无法继续使用。",
+    "TraditionalChinese": "小型但高效能的面板，設計用來採集光線，再轉換成電力。不過面板出現裂縫又滿是灰塵，已不堪用。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/farmprod.3.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "CATALYST2": {
+      "ID": "CATALYST2",
+      "Type": "Substance",
+      "Amount": 20
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

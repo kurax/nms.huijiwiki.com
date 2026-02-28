@@ -1,0 +1,106 @@
+{
+  "ID": "UT_ROCKETS",
+  "Group": "",
+  "Name": {
+    "English": "LARGE ROCKET TUBES",
+    "SimplifiedChinese": "大型火箭管",
+    "TraditionalChinese": "大型火箭管"
+  },
+  "NameLower": {
+    "English": "Large Rocket Tubes",
+    "SimplifiedChinese": "大型火箭管",
+    "TraditionalChinese": "大型火箭管"
+  },
+  "Subtitle": {
+    "English": "Starship Rockets Upgrade",
+    "SimplifiedChinese": "飞船火箭升级",
+    "TraditionalChinese": "太空船火箭升級"
+  },
+  "Description": {
+    "English": "Expands the loading chamber of the starship <span class=\"name name-technology\">Rocket Launcher</span>, improving exhaust performance and allowing for significantly faster <span class=\"name name-stellar\">heat recovery</span>.",
+    "SimplifiedChinese": "扩大飞船的<span class=\"name name-technology\">火箭发射器</span>装载室，改善排气性能并显著提升<span class=\"name name-stellar\">过热恢复</span>速度。",
+    "TraditionalChinese": "擴大太空船的<span class=\"name name-technology\">火箭發射器</span>裝載室，改善排氣性能並顯著提升<span class=\"name name-stellar\">過熱恢復</span>速度。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.rocketmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "GRENFUEL1": {
+      "ID": "GRENFUEL1",
+      "Type": "Product",
+      "Amount": 4
+    }
+  },
+  "BaseStat": "Ship_Weapons_Rockets",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_CoolTime",
+      "Bonus": 0.8,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "SHIPROCKETS",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.80392158,
+    "G": 0.380392164,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 50,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

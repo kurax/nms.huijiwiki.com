@@ -1,0 +1,126 @@
+{
+  "ID": "VEHICLE_ENGINE",
+  "Group": "",
+  "Name": {
+    "English": "FUSION ENGINE",
+    "SimplifiedChinese": "聚变发动机",
+    "TraditionalChinese": "核融合引擎"
+  },
+  "NameLower": {
+    "English": "Fusion Engine",
+    "SimplifiedChinese": "聚变发动机",
+    "TraditionalChinese": "核融合引擎"
+  },
+  "Subtitle": {
+    "English": "Exocraft Power System",
+    "SimplifiedChinese": "强化艇能量系统",
+    "TraditionalChinese": "強化艇動力系統"
+  },
+  "Description": {
+    "English": "A compact fusion core common to all Exocraft.<br><br>Requires fuel to function.",
+    "SimplifiedChinese": "所有强化艇通用的坚固熔合核。<br><br>运行需要燃料。",
+    "TraditionalChinese": "強化艇通用的小型核融合反應爐心。<br><br>需要燃料以運轉。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.engine.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 300,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 25
+    },
+    "PRODFUEL2": {
+      "ID": "PRODFUEL2",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Engine",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_EngineTopSpeed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_Grip",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_SkidGrip",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

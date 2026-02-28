@@ -1,0 +1,164 @@
+{
+  "ID": "CANNON",
+  "Group": "",
+  "Name": {
+    "English": "NEUTRON CANNON",
+    "SimplifiedChinese": "中子大炮",
+    "TraditionalChinese": "中子砲"
+  },
+  "NameLower": {
+    "English": "Neutron Cannon",
+    "SimplifiedChinese": "中子大炮",
+    "TraditionalChinese": "中子砲"
+  },
+  "Subtitle": {
+    "English": "Explosive Energy Weapon",
+    "SimplifiedChinese": "爆炸性能量武器",
+    "TraditionalChinese": "爆炸能量武器"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">high-energy weapon</span> attachment for the <span class=\"name name-technology\">Multi-Tool</span>. The Neutron Cannon energises atmospheric particles before propelling them towards hostile targets, delivering <span class=\"name name-stellar\">significant area damage</span><br><br>Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span>. Charge the weapon with <span class=\"name name-img\">ATTACK</span>, then release to unleash a <span class=\"name name-stellar\">volley of ionised particles</span>.<br><br>While the cannon can deliver instantaneous single shots, <span class=\"name name-technology\">longer charges</span> will result in significant increases to the <span class=\"name name-technology\">speed and volume of released particles</span>.",
+    "SimplifiedChinese": "一种为<span class=\"name name-stellar\">多用途工具</span>设计的<span class=\"name name-technology\">高能武器</span>组件。中子大炮通过发射高能大气悬浮颗粒对敌对目标造成<span class=\"name name-stellar\">大量范围伤害</span><br><br>按<span class=\"name name-img\">CYCLEWEAPON</span>激活开火模式。按<span class=\"name name-img\">ATTACK</span>为武器充能，松开后即可施放<span class=\"name name-stellar\">一连串离子颗粒</span>。<br><br>中子大炮可以随时发射单枚投射物，不过<span class=\"name name-technology\">持续充能</span>能够显著提高<span class=\"name name-technology\">投射粒子的速度与数量</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的<span class=\"name name-stellar\">高能量武器</span>配件。中子砲會將大氣粒子充能後，向敵對目標推進，造成<span class=\"name name-stellar\">重大區域傷害</span><br><br>按下 <span class=\"name name-img\">CYCLEWEAPON</span> 進入開火模式。按下 <span class=\"name name-img\">ATTACK</span> 替武器充能，放開後即可釋放<span class=\"name name-stellar\">電離粒子群</span>。<br><br>雖然大砲可瞬間單發射擊，但<span class=\"name name-technology\">較長的充能時間</span>會顯著增加<span class=\"name name-technology\">釋放粒子的速度和數量</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.cannon.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 500,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "FUEL1",
+    "FUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Rare",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 95
+    },
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Cannon",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "Bonus": 120,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Range",
+      "Bonus": 800,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Recoil",
+      "Bonus": 1600,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Dispersion",
+      "Bonus": 2.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_MinimumCharge",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_MaximumCharge",
+      "Bonus": 6,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_ChargedProjectile_ChargeTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_ChargedProjectile_CooldownDuration",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_ChargedProjectile_ExtraSpeed",
+      "Bonus": 180,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Grenade_Radius",
+      "Bonus": 2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCooldown",
+      "Bonus": 0.5,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.717647076,
+    "G": 0.858823538,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 250,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

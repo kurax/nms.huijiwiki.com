@@ -1,0 +1,106 @@
+{
+  "ID": "POWERGLOVE",
+  "Group": "",
+  "Name": {
+    "English": "HAZ-MAT GAUNTLET",
+    "SimplifiedChinese": "防护手套",
+    "TraditionalChinese": "危險物質防護手套"
+  },
+  "NameLower": {
+    "English": "Haz-Mat Gauntlet",
+    "SimplifiedChinese": "防护手套",
+    "TraditionalChinese": "危險物質防護手套"
+  },
+  "Subtitle": {
+    "English": "Exosuit Augmentation",
+    "SimplifiedChinese": "增强型机械护甲套装",
+    "TraditionalChinese": "強化套裝擴充"
+  },
+  "Description": {
+    "English": "Upgrades the metallic shielding of the <span class=\"name name-technology\">Exosuit's gloves</span>.<br><br>An advanced blend of reinforced metal and catalytic shielding allows the user to safely handle <span class=\"name name-catalyst\">hazardous substances</span>, as well as perform the necessary feats of strength required to harvest certain <span class=\"name name-tradeable\">farmable flora</span>.",
+    "SimplifiedChinese": "升级<span class=\"name name-technology\">套装手套</span>的金属防护。<br><br>通过这种强化金属和催化防护的先进组合，使用者可以安全地处理<span class=\"name name-catalyst\">有害物质</span>，并能得到收获部分<span class=\"name name-tradeable\">可耕种植物</span>所需的力量。",
+    "TraditionalChinese": "升級<span class=\"name name-technology\">強化套裝手套</span>的金屬防護層。<br><br>強化金屬與催化防護層兩者的改良混合產品，能讓使用者安全處理<span class=\"name name-catalyst\">危險物質</span>，也能施展出採集特定<span class=\"name name-tradeable\">可栽種植物</span>時所需的必要力量。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update1/tech.powerglove.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Catalyst",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 120,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CATALYST2": {
+      "ID": "CATALYST2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "BaseStat": "Suit_Utility",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Utility",
+      "Bonus": 1,
+      "Level": 0
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.8,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "ATLAS",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 80,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

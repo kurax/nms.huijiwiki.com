@@ -1,0 +1,111 @@
+{
+  "ID": "UT_WATER",
+  "Group": "",
+  "Name": {
+    "English": "AERATION MEMBRANE",
+    "SimplifiedChinese": "曝气膜",
+    "TraditionalChinese": "曝氣黏膜"
+  },
+  "NameLower": {
+    "English": "Aeration Membrane",
+    "SimplifiedChinese": "曝气膜",
+    "TraditionalChinese": "曝氣黏膜"
+  },
+  "Subtitle": {
+    "English": "Aquatic Respiration Aid",
+    "SimplifiedChinese": "水上呼吸援助",
+    "TraditionalChinese": "水中呼吸輔助器"
+  },
+  "Description": {
+    "English": "User is able to swim underwater for extended periods.<br><br>Absorbs gases dissolved in water through a membrane contactor that, if user is of a conventionally structured species, is placed over the mouth or facial breathing hole.<br><br>Operates automatically once constructed within user's exosuit inventory.",
+    "SimplifiedChinese": "延长使用者在水下游泳的时间。<br><br>通过膜接触器吸收水中溶解的气体，如果使用者是常规结构物种，则佩戴在嘴部或面部用来呼吸的地方。<br><br>本设备在使用者的套装库存中制造完毕后自动生效。",
+    "TraditionalChinese": "可讓使用者在水下游泳的時間增長。<br><br>能透過黏膜吸收器吸收溶解在水中的氣體。如果使用者是身體結構普通的物種，黏膜吸收器就會安裝在口部或臉部呼吸孔上。<br><br>建造於使用者的強化套裝道具欄後便會自動啟用。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.helmet.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "OXYGEN": {
+      "ID": "OXYGEN",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "YELLOW2": {
+      "ID": "YELLOW2",
+      "Type": "Substance",
+      "Amount": 75
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_WaterDrain",
+      "Bonus": 1.33,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.788235307,
+    "G": 0.815686285,
+    "B": 0.894117653,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

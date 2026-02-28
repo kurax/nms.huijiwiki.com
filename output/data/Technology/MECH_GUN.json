@@ -1,0 +1,121 @@
+{
+  "ID": "MECH_GUN",
+  "Group": "",
+  "Name": {
+    "English": "MINOTAUR CANNON",
+    "SimplifiedChinese": "弥诺陶洛斯大炮",
+    "TraditionalChinese": "彌諾陶洛斯大砲"
+  },
+  "NameLower": {
+    "English": "Minotaur Cannon",
+    "SimplifiedChinese": "弥诺陶洛斯大炮",
+    "TraditionalChinese": "彌諾陶洛斯大砲"
+  },
+  "Subtitle": {
+    "English": "Heavy Mounted Weapon",
+    "SimplifiedChinese": "重型机载武器",
+    "TraditionalChinese": "重型加裝武器"
+  },
+  "Description": {
+    "English": "A mounted cannon specifically designed for the <span class=\"name name-stellar\">Minotaur Heavy Exosuit Hybrid</span>.<br><br>Designed primarily for damage against biological entities and inefficient when deployed as a mining device.",
+    "SimplifiedChinese": "专为<span class=\"name name-stellar\">弥诺陶洛斯混合重型套件</span>设计的机载大炮。<br><br>设计主旨是伤害生物实体，作为采矿设备效率很低。",
+    "TraditionalChinese": "特別針對<span class=\"name name-stellar\">彌諾陶洛斯重型強化套裝混合體</span>設計的含基座砲口<br><br>主要功能是造成生物體傷害，作為採礦裝備並無明顯作用。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_gun.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 400,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "AMMO": {
+      "ID": "AMMO",
+      "Type": "Product",
+      "Amount": 200
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_Gun",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "Bonus": 420,
+      "Level": 2
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "Bonus": 0.35,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SCANNERLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 210,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

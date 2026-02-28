@@ -1,0 +1,119 @@
+{
+  "ID": "LIFESUP_ROBO",
+  "Group": "",
+  "Name": {
+    "English": "PILOT INTERFACE",
+    "SimplifiedChinese": "驾驶员接口",
+    "TraditionalChinese": "駕駛員介面"
+  },
+  "NameLower": {
+    "English": "Pilot Interface",
+    "SimplifiedChinese": "驾驶员接口",
+    "TraditionalChinese": "駕駛員介面"
+  },
+  "Subtitle": {
+    "English": "Glass / Boundary Terminal",
+    "SimplifiedChinese": "玻璃/边界终端",
+    "TraditionalChinese": "玻璃/邊界終端站"
+  },
+  "Description": {
+    "English": "This device allows a pilot's brain to <span class=\"name name-special\">interface</span> with the mind of the Sentinel Interceptor, granting the pilot access to ship control systems and external sensors.<br><br>The enmeshing of the pilot's mind with that of the vessel is necessary to prevent <span class=\"name name-fuel\">rejection</span>/<span class=\"name name-special\">consumption</span> of the pilot by the ship's vestigial cockpit.",
+    "SimplifiedChinese": "此设备允许一名驾驶员的大脑与护卫拦截机的意识进行<span class=\"name name-special\">连接</span>，并赋予驾驶员对于飞船控制系统与外部传感器的操作权限。<br><br>驾驶员自身的意识与飞船意识的融合能够避免驾驶员被飞船已经退化的驾驶舱<span class=\"name name-fuel\">拒绝</span>/<span class=\"name name-special\">吞噬</span>。",
+    "TraditionalChinese": "此裝置讓駕駛員的頭腦得以與巡警攔截艦的心智<span class=\"name name-special\">互動</span>，授與駕駛員權限存取太空船控制系統及外部感應器。<br><br>為了避免駕駛員被太空船的殘餘駕駛艙<span class=\"name name-fuel\">拒絕</span>/<span class=\"name name-special\">吞噬</span>，駕駛員的心智必須與太空船心智彼此交織在一起。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Switch Weapon Mode by pressing <span class=\"name name-img\">SHIPCYCLEWEAPON</span><br>Fire Weapons with <span class=\"name name-img\">SHIPFIRE</span>",
+    "SimplifiedChinese": "按 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切换武器模式<br>按 <span class=\"name name-img\">SHIPFIRE</span> 用武器开火",
+    "TraditionalChinese": "按下 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切換武器模式<br>按下 <span class=\"name name-img\">SHIPFIRE</span> 發射武器"
+  },
+  "Icon": "ui/frontend/icons/technology/robotship.interface.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "RobotShip",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "DRONE_SHARD": {
+      "ID": "DRONE_SHARD",
+      "Type": "Product",
+      "Amount": 6
+    },
+    "DRONE_SALVAGE": {
+      "ID": "DRONE_SALVAGE",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "SHIPBRAIN_CLEAN": {
+      "ID": "SHIPBRAIN_CLEAN",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Ship_LifeSupport",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_LifeSupport",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.0156862754,
+    "G": 0.349019617,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 0.992156863,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": true,
+  "DamagedDescription": {
+    "English": "The Sentinel vessel has its own mind, its own way of being. It <span class=\"name name-fuel\">rejects</span> the control of an outside entity.<br><br>It appears there has been a previous attempt to cut out the ship's brain and make its vestigial cockpit habitable, handing control of the ship to a conventional pilot. Complete this installation to <span class=\"name name-stellar\">claim the ship</span>.",
+    "SimplifiedChinese": "护卫飞船是拥有着自我意识的活生生的存在。飞船会<span class=\"name name-fuel\">拒绝</span>来自一个外部实体的操作。<br><br>似乎之前有人试图切除飞船的脑部从而为其中退化的驾驶舱创造操作空间，将飞船控制权移交给常规驾驶员。完成此次安装以<span class=\"name name-stellar\">获取飞船</span>。",
+    "TraditionalChinese": "巡警太空船擁有自己的心智、自己的習性。它<span class=\"name name-fuel\">拒絕</span>被外部實體控制。<br><br>之前似乎有人嘗試割除這艘太空船的大腦，改造殘餘駕駛艙，把太空船控制權轉交給普通駕駛員。完成安裝以<span class=\"name name-stellar\">領取太空船</span>。"
+  },
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

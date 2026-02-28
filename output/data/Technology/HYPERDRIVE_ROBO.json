@@ -1,0 +1,120 @@
+{
+  "ID": "HYPERDRIVE_ROBO",
+  "Group": "",
+  "Name": {
+    "English": "CRIMSON CORE",
+    "SimplifiedChinese": "绯红核心",
+    "TraditionalChinese": "緋紅核心"
+  },
+  "NameLower": {
+    "English": "Crimson Core",
+    "SimplifiedChinese": "绯红核心",
+    "TraditionalChinese": "緋紅核心"
+  },
+  "Subtitle": {
+    "English": "Interstellar Atlas Propulsion",
+    "SimplifiedChinese": "星际阿特拉斯推进器",
+    "TraditionalChinese": "星際寰宇推進裝置"
+  },
+  "Description": {
+    "English": "A raw optic organ, red and unblinking. Suspended above the ship's engines, it gazes down tunnels in spacetime, allowing FTL travel between star systems.<br><br>Direct the core's attention to remote destinations via the Galactic Map.",
+    "SimplifiedChinese": "永远保持着睁开状态的猩红色原始视觉器官。悬浮在飞船驱动器上方的眼睛凝视着时空间的通道，并使得飞船能够通过超光速旅行穿越至其他恒星系。<br><br>通过银河星图指引核心注视遥远的目的地。",
+    "TraditionalChinese": "一種未經加工的光學器官，顏色鮮紅欲滴，感光核心眨也不眨。懸掛在太空船的引擎之上，向下凝視時空中的通道，能在各星系之間進行超光速旅行。<br><br>使用銀河地圖，把核心注意力引導至遠方目的地。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/robotship.hyperdrive.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 120,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "HYPERFUEL1",
+    "HYPERFUEL2",
+    "DRONE_SHARD"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "RobotShip",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "SPIDER_PROD": {
+      "ID": "SPIDER_PROD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "DRONE_SHARD": {
+      "ID": "DRONE_SHARD",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "BaseStat": "Ship_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Hyperdrive",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpDistance",
+      "Bonus": 600,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpsPerCell",
+      "Bonus": 2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

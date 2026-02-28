@@ -1,0 +1,139 @@
+{
+  "ID": "SCAN1",
+  "Group": "",
+  "Name": {
+    "English": "SCANNER",
+    "SimplifiedChinese": "扫描仪",
+    "TraditionalChinese": "掃描器"
+  },
+  "NameLower": {
+    "English": "Scanner",
+    "SimplifiedChinese": "扫描仪",
+    "TraditionalChinese": "掃描器"
+  },
+  "Subtitle": {
+    "English": "Topographic Survey",
+    "SimplifiedChinese": "地形测量",
+    "TraditionalChinese": "地貌調查"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">Personal Surface Radar</span> augmentation for the Multi-Tool. <br><br>The Scanner releases a high-energy pulse that reveals any <span class=\"name name-commodity\">critical survival resources</span> in the immediate area. Data is transmitted via the Exosuit directly into the user's visual nervous system.<br> <br>Press <span class=\"name name-img\">SCAN</span> to activate a local scan.",
+    "SimplifiedChinese": "用于多用途工具的<span class=\"name name-technology\">个人地标雷达</span>增强设备。<br><br>扫描仪可以发射出高能脉冲，显示附近地区任意<span class=\"name name-commodity\">重要的生存资源</span>。数据将通过套装直接传回使用者的视觉神经系统。<br> <br>按下<span class=\"name name-img\">SCAN</span>开始本地扫描。",
+    "TraditionalChinese": "工具組的<span class=\"name name-technology\">個人用地表雷達</span>擴充元件。<br><br>掃描器能釋放高能量脈衝，找出當前區域的任何<span class=\"name name-commodity\">關鍵維生資源</span>。資料會經由強化套裝，直接傳送至使用者的視覺神經系統。<br><br>按 <span class=\"name name-img\">SCAN</span> 啟動當地掃描。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Press <span class=\"name name-img\">SCAN</span> to activate Pulse Scan",
+    "SimplifiedChinese": "按 <span class=\"name name-img\">SCAN</span> 激活脉冲扫描",
+    "TraditionalChinese": "按下 <span class=\"name name-img\">SCAN</span> 啟動脈衝掃描"
+  },
+  "Icon": "ui/frontend/icons/technology/render.scan.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 150
+    }
+  },
+  "BaseStat": "Weapon_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Scan",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Scan_Radius",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Scan_Terrain_Resource",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Creature",
+      "Bonus": 1,
+      "Level": 0
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Flora",
+      "Bonus": 1,
+      "Level": 0
+    },
+    {
+      "Stat": "Weapon_Scan_Recharge_Time",
+      "Bonus": 1,
+      "Level": 0
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Mineral",
+      "Bonus": 1,
+      "Level": 0
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": {
+    "English": "The scanner is a <span class=\"name name-technology\">personal surface radar</span> device. It releases a high-energy pulse that reveals any <span class=\"name name-commodity\">critical survival resources</span> in the immediate area.",
+    "SimplifiedChinese": "扫描仪是一种<span class=\"name name-technology\">个人表面雷达</span>设备。它可以发射出高能脉冲，显示附近地区任意<span class=\"name name-commodity\">重要的生存资源</span>。",
+    "TraditionalChinese": "掃描器是一種<span class=\"name name-technology\">個人用地表雷達</span>裝置。它能釋放高能量脈衝，找出當前區域的任何<span class=\"name name-commodity\">關鍵生存資源</span>。"
+  },
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

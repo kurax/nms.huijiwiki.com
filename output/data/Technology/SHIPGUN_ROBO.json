@@ -1,0 +1,150 @@
+{
+  "ID": "SHIPGUN_ROBO",
+  "Group": "",
+  "Name": {
+    "English": "SENTINEL CANNON",
+    "SimplifiedChinese": "护卫加农炮",
+    "TraditionalChinese": "巡警大砲"
+  },
+  "NameLower": {
+    "English": "Sentinel Cannon",
+    "SimplifiedChinese": "护卫加农炮",
+    "TraditionalChinese": "巡警大砲"
+  },
+  "Subtitle": {
+    "English": "Sentinel Ship Gun",
+    "SimplifiedChinese": "护卫舰炮",
+    "TraditionalChinese": "巡警太空船艦砲"
+  },
+  "Description": {
+    "English": "Sentinel-grade weapons system, engineered for the singular purpose of annihilating rogue ships in violation of system regulations.<br><br>Press <span class=\"name name-img\">SHIPFIRE</span> to administer lethal force.",
+    "SimplifiedChinese": "护卫级武器系统，只为达到摧毁违反星系规定的不法飞船这一个目的。<br><br>按<span class=\"name name-img\">SHIPFIRE</span>发动致命打击。",
+    "TraditionalChinese": "巡警級武器系統，殲滅違反星系規範的惡質太空船是其唯一設計目的。<br><br>按下 <span class=\"name name-img\">SHIPFIRE</span> 動用致命武力。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Switch Weapon Mode by pressing <span class=\"name name-img\">SHIPCYCLEWEAPON</span><br>Fire Weapons with <span class=\"name name-img\">SHIPFIRE</span>",
+    "SimplifiedChinese": "按 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切换武器模式<br>按 <span class=\"name name-img\">SHIPFIRE</span> 用武器开火",
+    "TraditionalChinese": "按下 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切換武器模式<br>按下 <span class=\"name name-img\">SHIPFIRE</span> 發射武器"
+  },
+  "Icon": "ui/frontend/icons/technology/robotship.weapon.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "RobotShip",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "DRONE_SALVAGE": {
+      "ID": "DRONE_SALVAGE",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 90
+    }
+  },
+  "BaseStat": "Ship_Weapons_Guns",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "Bonus": 11,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Dispersion",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_BulletsPerShot",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 12,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "Bonus": 220,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Range",
+      "Bonus": 1500,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Scale",
+      "Bonus": 6,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_CoolTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage_Radius",
+      "Bonus": 2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.0156862754,
+    "G": 0.349019617,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 0.992156863,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

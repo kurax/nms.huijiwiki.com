@@ -1,0 +1,89 @@
+{
+  "ID": "MAINT_HOOVER",
+  "Group": "",
+  "Name": {
+    "English": "EXTRACTOR UNIT",
+    "SimplifiedChinese": "提取器单元",
+    "TraditionalChinese": "抽取單位"
+  },
+  "NameLower": {
+    "English": "Extractor Unit",
+    "SimplifiedChinese": "提取器单元",
+    "TraditionalChinese": "抽取單位"
+  },
+  "Subtitle": {
+    "English": "Stellar Extractor Core",
+    "SimplifiedChinese": "星球提取器核心",
+    "TraditionalChinese": "恆星萃取器核心"
+  },
+  "Description": {
+    "English": "Gathers resources directly from the interstellar medium, via a complex system of suction intakes and condensing tubes. The gathered substance <span class=\"name name-technology\">varies</span> with the local <span class=\"name name-technology\">star classification</span>.<br><br>Powered directly from the freighter's main electrical loop. Functionality is entirely <span class=\"name name-stellar\">autonomous</span>.",
+    "SimplifiedChinese": "使用复杂的吸气口和冷凝管系统直接从星际介质中收集资源。收集的物质随当地<span class=\"name name-technology\">星体分类</span>而具有<span class=\"name name-technology\">不同种类</span>。<br><br>直接由货船的主电力回路提供动力。功能完全<span class=\"name name-stellar\">自主</span>。",
+    "TraditionalChinese": "透過複雜的吸取和冷凝管系統，直接從星體中心收集資源。收集而來的資源會因當地的<span class=\"name name-technology\">星球分類</span>而<span class=\"name name-technology\">有所不同</span>。<br><br>直接透過貨船的主電子迴圈充電。功能完全<span class=\"name name-stellar\">自動</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.fuel3.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": null,
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

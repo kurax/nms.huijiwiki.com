@@ -1,0 +1,121 @@
+{
+  "ID": "SUB_LASER",
+  "Group": "",
+  "Name": {
+    "English": "TETHYS BEAM",
+    "SimplifiedChinese": "特提斯光束",
+    "TraditionalChinese": "忒堤斯光束"
+  },
+  "NameLower": {
+    "English": "Tethys Beam",
+    "SimplifiedChinese": "特提斯光束",
+    "TraditionalChinese": "忒堤斯光束"
+  },
+  "Subtitle": {
+    "English": "Submarine Mining Laser",
+    "SimplifiedChinese": "潜水艇开采激光",
+    "TraditionalChinese": "潛艇採礦雷射"
+  },
+  "Description": {
+    "English": "A mounted laser system specifically designed for the <span class=\"name name-stellar\">Nautilon Submarine</span>.<br><br>Fires a concentrated plasma beam towards the intended target, which is then ignited. Such a trigger mechanism allows the use of high-energy optical mining systems in a liquid medium.",
+    "SimplifiedChinese": "专为<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>设计的机载激光系统。<br><br>能向预定目标发射浓缩的等离子体束，随后将其点燃。得益于这样的触发机制，用户可以在液体介质中使用高能光学开采系统。",
+    "TraditionalChinese": "特別針對<span class=\"name name-stellar\">巡洋龍</span>設計的含基座雷射系統。<br><br>針對目標發射高度濃縮的電漿光束，然後加以點燃。這樣的啟動機制可以在液體媒介中使用高能量光學採礦系統。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_laser.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Submarine",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "WATER2": {
+      "ID": "WATER2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "CLAMPEARL": {
+      "ID": "CLAMPEARL",
+      "Type": "Product",
+      "Amount": 10
+    }
+  },
+  "BaseStat": "Vehicle_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_LaserDamage",
+      "Bonus": 240,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_LaserHeatTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_LaserStrongLaser",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 450,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

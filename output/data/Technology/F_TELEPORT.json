@@ -1,0 +1,111 @@
+{
+  "ID": "F_TELEPORT",
+  "Group": "",
+  "Name": {
+    "English": "MATTER BEAM",
+    "SimplifiedChinese": "物质束",
+    "TraditionalChinese": "物質光束"
+  },
+  "NameLower": {
+    "English": "Matter Beam",
+    "SimplifiedChinese": "物质束",
+    "TraditionalChinese": "物質光束"
+  },
+  "Subtitle": {
+    "English": "Freighter-Mounted Teleportation Device",
+    "SimplifiedChinese": "货船内置传送装置",
+    "TraditionalChinese": "配備於貨船的瞬間傳送裝置"
+  },
+  "Description": {
+    "English": "A device that modulates standard freighter communication signals to enable the <span class=\"name name-technology\">interplanetary transport of matter</span> as well as data.<br><br>Freighters fitted with such a device can send and receive products and substances to a user's <span class=\"name name-stellar\">Exosuit</span> over a <span class=\"name name-stellar\">long distance</span>.",
+    "SimplifiedChinese": "一种用来调节标准货船通讯信号的装置，使之能够<span class=\"name name-technology\">跨星际传输物质</span>和数据。<br><br>安装了此设备的货船能够跨越<span class=\"name name-stellar\">长距离</span>向使用者的<span class=\"name name-stellar\">套装</span>发送或接收产品和物质。",
+    "TraditionalChinese": "將標準貨船傳通訊訊號模組化、以啟用<span class=\"name name-technology\">跨星球物質傳輸裝置</span>及資料傳輸。<br><br>配備了這種裝置的貨船可以<span class=\"name name-stellar\">遠端</span>傳送並接收使用者<span class=\"name name-stellar\">強化套裝</span>的產品與物質。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4tech/render.freighterteleport.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "Impossible",
+  "Value": 50,
+  "Requirements": {
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 10
+    }
+  },
+  "BaseStat": "Freighter_Teleport",
+  "StatBonuses": [
+    {
+      "Stat": "Freighter_Teleport",
+      "Bonus": 100,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 5,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

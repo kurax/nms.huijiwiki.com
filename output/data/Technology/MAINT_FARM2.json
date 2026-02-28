@@ -1,0 +1,103 @@
+{
+  "ID": "MAINT_FARM2",
+  "Group": "",
+  "Name": {
+    "English": "AUTO SPRINKLER",
+    "SimplifiedChinese": "自动洒水器",
+    "TraditionalChinese": "自動灑水器"
+  },
+  "NameLower": {
+    "English": "Auto Sprinkler",
+    "SimplifiedChinese": "自动洒水器",
+    "TraditionalChinese": "自動灑水器"
+  },
+  "Subtitle": {
+    "English": "Autonomous Agriculture Unit",
+    "SimplifiedChinese": "自动化农业单元",
+    "TraditionalChinese": "自動農耕機"
+  },
+  "Description": {
+    "English": "An automatic sprinkler system that tunes itself to the needs of the plants, deploying water as a fine mist, a heavy downpour, or anything in-between.",
+    "SimplifiedChinese": "自动洒水系统，可以自行调整满足植物的需求，以细小喷雾、滂沱大水或是二者间的任意形式洒水。",
+    "TraditionalChinese": "自動灑水系統，可以依據植物需求，在噴霧至強勁水流的灑水強度之間自動調整。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.farm2.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 50,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "FUEL1",
+    "FUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "PRODFUEL2": {
+      "ID": "PRODFUEL2",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

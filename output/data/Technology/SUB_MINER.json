@@ -1,0 +1,111 @@
+{
+  "ID": "SUB_MINER",
+  "Group": "",
+  "Name": {
+    "English": "DREDGING LASER",
+    "SimplifiedChinese": "疏浚激光",
+    "TraditionalChinese": "疏通雷射"
+  },
+  "NameLower": {
+    "English": "Dredging Laser",
+    "SimplifiedChinese": "疏浚激光",
+    "TraditionalChinese": "疏通雷射"
+  },
+  "Subtitle": {
+    "English": "Nautilon Terrain Manipulator",
+    "SimplifiedChinese": "大鹦鹉螺地形操纵器",
+    "TraditionalChinese": "巡洋龍地形改造器"
+  },
+  "Description": {
+    "English": "Adds <span class=\"name name-stellar\">Terrain Manipulation</span> capability to the laser systems of the <span class=\"name name-stellar\">Nautilon Submarine</span>.<br><br>Cooled by specially designed water intakes, it is specifically calibrated to carve through the complex geology of the sea floor.",
+    "SimplifiedChinese": "为<span class=\"name name-stellar\">大鹦鹉螺潜艇</span>的激光系统添加<span class=\"name name-stellar\">地形操纵</span>能力。<br><br>通过特制的进水口进行冷却，这种经过精密校准过的装备能够切割海底的复杂地形。",
+    "TraditionalChinese": "為<span class=\"name name-stellar\">巡洋龍潛艇</span>的雷射系統加上<span class=\"name name-stellar\">地形改造</span>功能。<br><br>它透過特殊設計的進水口冷卻，經過專門校準，可用於穿透海底的複雜地質結構。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.submarinecannonmod.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 1000,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 5,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Submarine",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 80
+    },
+    "WATERWORLD1": {
+      "ID": "WATERWORLD1",
+      "Type": "Substance",
+      "Amount": 90
+    },
+    "VENTGEM": {
+      "ID": "VENTGEM",
+      "Type": "Product",
+      "Amount": 4
+    }
+  },
+  "BaseStat": "Vehicle_TerrainEdit",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_TerrainEdit",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 390,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

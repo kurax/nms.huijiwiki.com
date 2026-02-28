@@ -1,0 +1,101 @@
+{
+  "ID": "T_RAIL",
+  "Group": {
+    "English": "Blaze Javelin",
+    "SimplifiedChinese": "火焰标枪",
+    "TraditionalChinese": "火焰標槍"
+  },
+  "Name": {
+    "English": "UPGRADE MODULE",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "NameLower": {
+    "English": "Upgrade Module",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "Subtitle": "TEMPLATE_SUB",
+  "Description": "TEMPLATE_DESC",
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.blazejavelinmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 0,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": true,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "GRAVBALL": {
+      "ID": "GRAVBALL",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Weapon_Rail",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.964705884,
+    "G": 0.254901975,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 160,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": true,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,128 @@
+{
+  "ID": "SPOOK_PACK",
+  "Group": "",
+  "Name": {
+    "English": "ANOMALY SUPPRESSOR",
+    "SimplifiedChinese": "异象抑制器",
+    "TraditionalChinese": "異常抑制器"
+  },
+  "NameLower": {
+    "English": "Anomaly Suppressor",
+    "SimplifiedChinese": "异象抑制器",
+    "TraditionalChinese": "異常抑制器"
+  },
+  "Subtitle": {
+    "English": "Automated Breach Integrity Device",
+    "SimplifiedChinese": "自动化裂隙完整性装置",
+    "TraditionalChinese": "自動裂痕完整度裝置"
+  },
+  "Description": {
+    "English": "As the boundaries of reality begin to weaken, the risk of <span class=\"name name-special\">catastrophic breach anomalies</span> increases.<br><br>This device monitors and maintains the local <span class=\"name name-technology\">boundary strength</span>, guarding against reality continuity errors. Supply the device with <span class=\"name name-special\">glass</span> to maintain functionality.",
+    "SimplifiedChinese": "随着现实的边界不断崩塌，发生<span class=\"name name-special\">灾难性裂隙异象</span>的威胁正在不断扩大。<br><br>这种设备能够监控并维护本地的<span class=\"name name-technology\">边界强度</span>，同时抵御现实连续体的崩坏。为装置提供<span class=\"name name-special\">玻璃</span>以确保其能够持续运作。",
+    "TraditionalChinese": "隨著現實邊界開始變得脆弱，<span class=\"name name-special\">災難性異常裂痕</span>出現機率提升。<br><br>這個裝置能監控並維持局部<span class=\"name name-technology\">邊界強度</span>，以防現實連續性發生錯誤。補充<span class=\"name name-special\">玻璃</span>便能使該裝置正常運作。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.hazard.spook.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": [
+    "SPOOK_JUICE"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_DamageReduce_Radiation",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_DamageReduce_Toxic",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_DamageReduce_Cold",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_DamageReduce_Heat",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Stamina_Recovery",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

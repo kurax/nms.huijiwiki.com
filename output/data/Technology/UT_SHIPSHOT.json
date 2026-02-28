@@ -1,0 +1,111 @@
+{
+  "ID": "UT_SHIPSHOT",
+  "Group": "",
+  "Name": {
+    "English": "FRAGMENT SUPERCHARGER",
+    "SimplifiedChinese": "碎片增压器",
+    "TraditionalChinese": "碎片超載器"
+  },
+  "NameLower": {
+    "English": "Fragment Supercharger",
+    "SimplifiedChinese": "碎片增压器",
+    "TraditionalChinese": "碎片超載器"
+  },
+  "Subtitle": {
+    "English": "Starship Positron Ejector Upgrade",
+    "SimplifiedChinese": "飞船正电子冲击波升级",
+    "TraditionalChinese": "太空船正電子彈射器升級"
+  },
+  "Description": {
+    "English": "Overhauls the firing mechanism of the <span class=\"name name-technology\">Positron Ejector</span>, resulting in faster, more accurate particles.<br><br>Improves <span class=\"name name-stellar\">range</span> and <span class=\"name name-stellar\">accuracy</span>.",
+    "SimplifiedChinese": "整改<span class=\"name name-technology\">正电子冲击波</span>的点火机制，从而产生更加快速和精确的粒子。<br><br>提升<span class=\"name name-stellar\">范围</span>和<span class=\"name name-stellar\">精度</span>。",
+    "TraditionalChinese": "改進<span class=\"name name-technology\">正電子彈射器</span>的點火機制，從而產生更加快速和精確的粒子。<br><br>提升<span class=\"name name-stellar\">半徑</span>和<span class=\"name name-stellar\">精度</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.photonblastmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 50,
+  "Requirements": {
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_Shotgun",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_Dispersion",
+      "Bonus": 0.8,
+      "Level": 2
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Range",
+      "Bonus": 1.25,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPSHOTGUN",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.847058833,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

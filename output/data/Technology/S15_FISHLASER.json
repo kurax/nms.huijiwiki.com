@@ -1,0 +1,111 @@
+{
+  "ID": "S15_FISHLASER",
+  "Group": "",
+  "Name": {
+    "English": "LOST ANGLER'S RIG",
+    "SimplifiedChinese": "迷途垂钓者的渔具",
+    "TraditionalChinese": "失落垂釣者的裝備"
+  },
+  "NameLower": {
+    "English": "Lost Angler's Rig",
+    "SimplifiedChinese": "迷途垂钓者的渔具",
+    "TraditionalChinese": "失落垂釣者的裝備"
+  },
+  "Subtitle": {
+    "English": "Unique Angling Device",
+    "SimplifiedChinese": "独特垂钓装置",
+    "TraditionalChinese": "獨特的垂釣裝置"
+  },
+  "Description": {
+    "English": "A versatile piece of <span class=\"name name-technology\">angling equipment</span>, enabling the user to <span class=\"name name-stellar\">fish</span> in a variety of water conditions. This rig was once owned by the legendary <span class=\"name name-stellar\">Lost Angler</span>.<br><br>Access the fishing rig by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and cast your line into a body of water with <span class=\"name name-img\">ATTACK</span>. With a fish hooked, press and hold <span class=\"name name-img\">ATTACK</span> to haul in your catch.",
+    "SimplifiedChinese": "多功能<span class=\"name name-technology\">垂钓装备</span>，允许使用者在各类水体环境中进行<span class=\"name name-stellar\">垂钓</span>。曾经属于传说中的<span class=\"name name-stellar\">迷途垂钓者</span>的渔具。<br><br>按<span class=\"name name-img\">CYCLEWEAPON</span>启用渔具并使用<span class=\"name name-img\">ATTACK</span>抛竿。鱼上钩时长按<span class=\"name name-img\">ATTACK</span>收线并收取你的渔获。",
+    "TraditionalChinese": "一套萬用的<span class=\"name name-technology\">垂釣裝備</span>，能協助使用者在各種水域條件下<span class=\"name name-stellar\">釣魚</span>。這套釣具曾經是傳奇人物<span class=\"name name-stellar\">失落垂釣者</span>的所有物。<br><br>若要使用這套釣具，請按下 <span class=\"name name-img\">CYCLEWEAPON</span>，然後使用 <span class=\"name name-img\">ATTACK</span> 將魚線拋入水中。待魚上鉤後，按住 <span class=\"name name-img\">ATTACK</span> 即可將魚釣上來。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.s15fishlaser.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "WATER1": {
+      "ID": "WATER1",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 90
+    }
+  },
+  "BaseStat": "Weapon_Fish",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Fish",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": true
+}

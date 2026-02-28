@@ -1,0 +1,111 @@
+{
+  "ID": "WORMREADER",
+  "Group": "",
+  "Name": {
+    "English": "ARCHIVE BYPASS IMPLANT",
+    "SimplifiedChinese": "档案馆分流植入物",
+    "TraditionalChinese": "資料庫繞道移植物"
+  },
+  "NameLower": {
+    "English": "Archive Bypass Implant",
+    "SimplifiedChinese": "档案馆分流植入物",
+    "TraditionalChinese": "資料庫繞道移植物"
+  },
+  "Subtitle": {
+    "English": "Subcutaneous Access Circuit",
+    "SimplifiedChinese": "皮下许可电路",
+    "TraditionalChinese": "皮下連通迴路"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">biotechnical firewall</span>, developed as a safeguard against textual cognitohazards. It is coated in something slippery, and has started to bubble along the surface.<br><br>Embedded beneath the skin, this grants administrative access to ancient forbidden texts bound at a <span class=\"name name-special\">Planetary Archive</span>.<br><span class=\"name name-fuel\">Warning</span>: Do not unbind the forbidden texts. Exposure to forbidden texts carries extreme risk.",
+    "SimplifiedChinese": "用于避免因文字造成意识损坏的<span class=\"name name-technology\">生物防火墙</span>。外面摸上去滑溜溜的，而且表面已经开始冒泡。<br><br>进行皮下安装之后，这种装置将允许使用者查看<span class=\"name name-special\">行星档案馆</span>中的古代禁忌文本。<br><span class=\"name name-fuel\">警告</span>：请勿揭示禁忌文字。接触禁忌文字将带来极端威胁！",
+    "TraditionalChinese": "一道<span class=\"name name-technology\">生物技術防火牆</span>，被開發用以防止暴露於文本所造成的認知危險。被包覆在某種濕滑物質中，表面已開始冒泡。<br><br>嵌入皮下組織後，能授予<span class=\"name name-special\">星球資料庫</span>古老禁忌文本冊的管理者存取權限。<br><span class=\"name name-fuel\">警告</span>：請勿解開禁忌文本。暴露在禁忌文本之下，會帶來極大風險。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/tech.wormreader.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "WATERPLANT": {
+      "ID": "WATERPLANT",
+      "Type": "Substance",
+      "Amount": 90
+    },
+    "FISHCORE": {
+      "ID": "FISHCORE",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection",
+      "Bonus": 0.2,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 90,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,111 @@
+{
+  "ID": "EXO_PROT_TOX",
+  "Group": "",
+  "Name": {
+    "English": "AIR FILTRATION UNIT",
+    "SimplifiedChinese": "空气过滤单元",
+    "TraditionalChinese": "空氣過濾裝置"
+  },
+  "NameLower": {
+    "English": "Air Filtration Unit",
+    "SimplifiedChinese": "空气过滤单元",
+    "TraditionalChinese": "空氣過濾裝置"
+  },
+  "Subtitle": {
+    "English": "Exocraft Hazard Protection Unit",
+    "SimplifiedChinese": "强化艇危险防护单元",
+    "TraditionalChinese": "強化艇風險防護裝置"
+  },
+  "Description": {
+    "English": "Double-vacuumed air filtration systems allow no trace of the planetary atmosphere into the Exocraft cabin without being thoroughly scrubbed.<br><br>Entirely prevents all damage or energy drain while inside an Exocraft in <span class=\"name name-tradeable\">toxic environments</span>.",
+    "SimplifiedChinese": "双重真空空气过滤系统可避免未经彻底过滤的行星大气进入强化艇舱内。<br><br>在强化艇中时可完全避免<span class=\"name name-tradeable\">毒性环境</span>下的所有伤害或能量消耗。",
+    "TraditionalChinese": "雙真空空氣過濾系統，能徹底清潔任何進入強化艇機艙的星球大氣。<br><br>在<span class=\"name name-tradeable\">有毒環境</span>下待在強化艇中，能避免任何損害或能量消耗。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protecttoxic.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "YELLOW2": {
+      "ID": "YELLOW2",
+      "Type": "Substance",
+      "Amount": 160
+    },
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Suit_Protection_Toxic",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_Toxic",
+      "Bonus": 3,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

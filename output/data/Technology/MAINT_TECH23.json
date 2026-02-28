@@ -1,0 +1,100 @@
+{
+  "ID": "MAINT_TECH23",
+  "Group": "",
+  "Name": {
+    "English": "ALTERNATOR",
+    "SimplifiedChinese": "交流发电机",
+    "TraditionalChinese": "交流發電機"
+  },
+  "NameLower": {
+    "English": "Alternator",
+    "SimplifiedChinese": "交流发电机",
+    "TraditionalChinese": "交流發電機"
+  },
+  "Subtitle": {
+    "English": "Damaged Component",
+    "SimplifiedChinese": "受损部件",
+    "TraditionalChinese": "元件受損"
+  },
+  "Description": {
+    "English": "The alternator generates and regulates power for the device. A strange corrosion seeps through it, preventing it from working.",
+    "SimplifiedChinese": "产生和调节设备电力的交流发电机。由于奇怪的腐蚀物渗漏，阻止了其正常运行。",
+    "TraditionalChinese": "交流發電機為裝置發電並調節電力。發電機出現腐蝕，無法正常運轉。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/tradeprod.energy2.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

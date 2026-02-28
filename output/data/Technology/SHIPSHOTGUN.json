@@ -1,0 +1,148 @@
+{
+  "ID": "SHIPSHOTGUN",
+  "Group": "",
+  "Name": {
+    "English": "POSITRON EJECTOR",
+    "SimplifiedChinese": "正电子冲击波",
+    "TraditionalChinese": "正電子彈射器"
+  },
+  "NameLower": {
+    "English": "Positron Ejector",
+    "SimplifiedChinese": "正电子冲击波",
+    "TraditionalChinese": "正電子彈射器"
+  },
+  "Subtitle": {
+    "English": "Close Range Starship Weapon",
+    "SimplifiedChinese": "近距离飞船武器",
+    "TencentChinese": "高能飞船武器",
+    "TraditionalChinese": "近距離太空船武器"
+  },
+  "Description": {
+    "English": "A powerful starship weapon, capable of delivering <span class=\"name name-stellar\">extreme destruction</span> at <span class=\"name name-technology\">close range</span>. <br><br>Note: these particles show <span class=\"name name-title\">decreased effectiveness</span> against shielded targets.<br><br>Use <span class=\"name name-img\">CYCLEWEAPON</span> to change weapon mode. Press <span class=\"name name-img\">SHIPFIRE</span> to fire.",
+    "SimplifiedChinese": "一种强大的飞船武器，能够在<span class=\"name name-technology\">近距离范围</span>内提供<span class=\"name name-stellar\">极限破坏力</span>。<br><br>注意：这些炮弹对有护盾的目标<span class=\"name name-title\">有效性降低</span>。<br><br>使用<span class=\"name name-img\">CYCLEWEAPON</span>变更武器模式。按下<span class=\"name name-img\">SHIPFIRE</span>发射。",
+    "TencentChinese": "射击能破坏大片锥形区域内的一切。<br> <br>由于射程和射速有所降低，建议使用者用于近距离目标。",
+    "TraditionalChinese": "一種強大的太空船武器，能在<span class=\"name name-technology\">近距離</span>造成<span class=\"name name-stellar\">極端性破壞</span>。<br><br>注意：對付有防護罩的目標時，這些粒子的<span class=\"name name-title\">效果會降低</span>。<br><br>使用 <span class=\"name name-img\">CYCLEWEAPON</span> 即可切換武器模式。按住 <span class=\"name name-img\">SHIPFIRE</span> 即可開火。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.photonblast.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "RADIO1": {
+      "ID": "RADIO1",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_Shotgun",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "Bonus": 2,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Dispersion",
+      "Bonus": 10,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_BulletsPerShot",
+      "Bonus": 14,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 1.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "Bonus": 280,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Range",
+      "Bonus": 500,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Scale",
+      "Bonus": 100,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_CoolTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage_Radius",
+      "Bonus": 3,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.847058833,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,116 @@
+{
+  "ID": "UT_S10_SCAN",
+  "Group": "",
+  "Name": {
+    "English": "RESONANCE AMPLIFIER",
+    "SimplifiedChinese": "共振放大器",
+    "TraditionalChinese": "共振增幅器"
+  },
+  "NameLower": {
+    "English": "Resonance Amplifier",
+    "SimplifiedChinese": "共振放大器",
+    "TraditionalChinese": "共振增幅器"
+  },
+  "Subtitle": {
+    "English": "Echo Seed Detection Device",
+    "SimplifiedChinese": "回音种子侦测设备",
+    "TraditionalChinese": "回音種子偵測裝置"
+  },
+  "Description": {
+    "English": "An attachment for the Multi-Tool <span class=\"name name-technology\">Scanner</span>, designed by Specialist Polo for the detection of atlantideum-infused <span class=\"name name-special\">sentience echoes</span>.<br><br>On <span class=\"name name-special\">dissonant</span> worlds, use the Analysis Visor (<span class=\"name name-img\">AIM</span>) to locate sentience echoes. On arrival at an echo site, use <span class=\"name name-img\">SCAN</span> to <span class=\"name name-special\">fully reveal</span> nearby anomalies.",
+    "SimplifiedChinese": "多用途工具<span class=\"name name-technology\">扫描仪</span>配件，由保罗专家为实现侦测与亚特拉迪姆融合的<span class=\"name name-special\">智慧回音</span>的目的而专门设计。<br><br>在<span class=\"name name-special\">不谐</span>世界上使用分析面甲（<span class=\"name name-img\">AIM</span>）定位智慧回音。抵达回音地点后，使用<span class=\"name name-img\">SCAN</span><span class=\"name name-special\">完全揭示</span>周遭异象。",
+    "TraditionalChinese": "工具組的附屬<span class=\"name name-technology\">掃描器</span>，由專家波羅所設計，用於偵測注入亞特蘭提德鋼的<span class=\"name name-special\">智慧生物回音</span>。<br><br>身處<span class=\"name name-special\">不和諧</span>世界時，使用分析護目鏡 (<span class=\"name name-img\">AIM</span>) 即可找到智慧生物回音。到達回音地點後，使用 <span class=\"name name-img\">SCAN</span> 即可<span class=\"name name-special\">完全揭示</span>附近的異常。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.buildersscanmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAUNCHSUB": {
+      "ID": "LAUNCHSUB",
+      "Type": "Substance",
+      "Amount": 160
+    },
+    "GRAVBALL": {
+      "ID": "GRAVBALL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "DRONE_SHARD": {
+      "ID": "DRONE_SHARD",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Scan_BuilderReveal",
+      "Bonus": 1,
+      "Level": 3
+    },
+    {
+      "Stat": "Weapon_Scan_Radius",
+      "Bonus": 1.1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

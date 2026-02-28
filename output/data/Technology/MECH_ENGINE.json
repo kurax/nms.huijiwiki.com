@@ -1,0 +1,131 @@
+{
+  "ID": "MECH_ENGINE",
+  "Group": "",
+  "Name": {
+    "English": "DAEDALUS ENGINE",
+    "SimplifiedChinese": "代达罗斯引擎",
+    "TraditionalChinese": "代達洛斯引擎"
+  },
+  "NameLower": {
+    "English": "Daedalus Engine",
+    "SimplifiedChinese": "代达罗斯引擎",
+    "TraditionalChinese": "代達洛斯引擎"
+  },
+  "Subtitle": {
+    "English": "Minotaur Power Unit",
+    "SimplifiedChinese": "弥诺陶洛斯能量装置",
+    "TraditionalChinese": "彌諾陶洛斯動力裝置"
+  },
+  "Description": {
+    "English": "A compact reactor unit, this engine is the heart of the Minotaur. It is mounted on a gyroscope to prevent fuel incidents during rapid movement.<br><br>Powered by conventional <span class=\"name name-fuel\">carbon-base fuels</span>.",
+    "SimplifiedChinese": "该引擎是一个紧凑的反应堆单元，它是弥诺陶洛斯的核心。它被安装在陀螺仪上，以防止快速移动时发生燃油事故。<br><br>使用传统的<span class=\"name name-fuel\">碳基燃料</span>驱动。",
+    "TraditionalChinese": "精巧的反應器裝置，此引擎是彌諾陶洛斯的核心。安裝於陀螺儀上，以避免快速移動發生燃料意外。<br><br>動力來源為傳統<span class=\"name name-fuel\">碳基燃料</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.engine.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 300,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "HYPERFUEL2": {
+      "ID": "HYPERFUEL2",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Engine",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "Bonus": 0.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_EngineTopSpeed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_Grip",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_SkidGrip",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "BODYLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

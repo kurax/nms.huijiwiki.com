@@ -1,0 +1,116 @@
+{
+  "ID": "F_SCANNER",
+  "Group": "",
+  "Name": {
+    "English": "INTERSTELLAR SCANNER",
+    "SimplifiedChinese": "星际扫描仪",
+    "TraditionalChinese": "星際掃描器"
+  },
+  "NameLower": {
+    "English": "Interstellar Scanner",
+    "SimplifiedChinese": "星际扫描仪",
+    "TraditionalChinese": "星際掃描器"
+  },
+  "Subtitle": {
+    "English": "Long Range Sensor Technology",
+    "SimplifiedChinese": "长距离传感器技术",
+    "TraditionalChinese": "遠距離感測器科技"
+  },
+  "Description": {
+    "English": "An upgrade to the freighter's <span class=\"name name-technology\">galactic-scale sensors</span>.<br><br>This device allows the user to access <span class=\"name name-stellar\">detailed economic and conflict data</span> for a system, even without having previously visited.",
+    "SimplifiedChinese": "货船<span class=\"name name-technology\">星际传感器</span>升级。<br><br>此件装置允许使用者能够在不用拜访恒星系的前提下查看<span class=\"name name-stellar\">详细经济和冲突数据</span>。",
+    "TraditionalChinese": "一種貨船<span class=\"name name-technology\">銀河級感測器</span>的升級。<br><br>此驅動器能讓使用者在沒拜訪過一個星系的情況下，也能取得該星系的<span class=\"name name-stellar\">詳細經濟和衝突資料</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.freighterscanner.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "VeryRare",
+  "Value": 50,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 160
+    },
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 70
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Scan_ConflictFilter",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Scan_ConflictFilter",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Scan_EconomyFilter",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 4,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

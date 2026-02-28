@@ -1,0 +1,163 @@
+{
+  "ID": "SHOTGUN",
+  "Group": "",
+  "Name": {
+    "English": "SCATTER BLASTER",
+    "SimplifiedChinese": "散射爆破器",
+    "TencentChinese": "散射迸裂器",
+    "TraditionalChinese": "雙管霰彈槍"
+  },
+  "NameLower": {
+    "English": "Scatter Blaster",
+    "SimplifiedChinese": "散射爆破器",
+    "TencentChinese": "散射迸裂器",
+    "TraditionalChinese": "雙管霰彈槍"
+  },
+  "Subtitle": {
+    "English": "Scatter Shot Projectile Weapon",
+    "SimplifiedChinese": "分散型抛射武器",
+    "TraditionalChinese": "霰彈射彈武器"
+  },
+  "Description": {
+    "English": "Specialist <span class=\"name name-stellar\">close combat</span> weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technology\">Scatter Blaster</span> reconfigures the Multi-Tool to heat and shatter <span class=\"name name-earth\">Metallic Elements</span>, firing them in a <span class=\"name name-stellar\">wide cone of destruction</span>. Range is limited, but the shrapnel is highly effective at close range.",
+    "SimplifiedChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的专业型<span class=\"name name-stellar\">近战</span>武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">散射爆破器</span>重新配置的多用途工具可将加热和捣碎的<span class=\"name name-earth\">金属元素</span>射出，并制造<span class=\"name name-stellar\">锥形的大范围破坏</span>。射程有限，但弹片在近距离范围内非常有效。",
+    "TencentChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的专业型<span class=\"name name-stellar\">近战</span>武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">散射迸裂器</span>重新配置的多用途工具可将加热和捣碎的<span class=\"name name-earth\">金属元素</span>射出，并制造<span class=\"name name-stellar\">锥形的大范围破坏</span>。射程有限，但弹片在近距离范围内非常有效。",
+    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的專家<span class=\"name name-stellar\">近戰</span>武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br><span class=\"name name-technology\">雙管霰彈槍</span>會重新設定工具組，讓工具組加熱並打碎<span class=\"name name-metal\">金屬元素</span>，再以<span class=\"name name-stellar\">大範圍掃射</span>的方式射出。射程有限，但碎片在短距離之內殺傷力強。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.scatterblaster.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 200,
+  "ChargeType": "Earth",
+  "ChargeBy": [
+    "LAND1",
+    "LAND2",
+    "LAND3"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": true,
+  "AmmoId": "AMMO",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Shotgun",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Projectile_Range",
+      "Bonus": 55,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_ClipSize",
+      "Bonus": 96,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BulletsPerShot",
+      "Bonus": 8,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "Bonus": 150,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Dispersion",
+      "Bonus": 10,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Rate",
+      "Bonus": 2.2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Recoil",
+      "Bonus": 1000,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_ReloadTime",
+      "Bonus": 1.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCap",
+      "Bonus": 2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCooldown",
+      "Bonus": 1.28,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_MaximumCharge",
+      "Bonus": 100,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.972549,
+    "G": 0.792156875,
+    "B": 0.0745098069,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.847058833,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 250,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

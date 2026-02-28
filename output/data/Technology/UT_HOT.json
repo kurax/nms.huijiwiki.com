@@ -1,0 +1,111 @@
+{
+  "ID": "UT_HOT",
+  "Group": "",
+  "Name": {
+    "English": "COOLANT NETWORK",
+    "SimplifiedChinese": "冷却网格",
+    "TraditionalChinese": "冷卻網層"
+  },
+  "NameLower": {
+    "English": "Coolant Network",
+    "SimplifiedChinese": "冷却网格",
+    "TraditionalChinese": "冷卻網層"
+  },
+  "Subtitle": {
+    "English": "Hazard Protection Unit",
+    "SimplifiedChinese": "危险防护单元",
+    "TraditionalChinese": "風險防護單位"
+  },
+  "Description": {
+    "English": "User is guarded from extreme heat damage on scorched worlds.<br><br>Provides relief from intense atmospheric and solar heat through a threaded dermal distribution network of liquid frenium.<br><br>Device is charged by <span class=\"name name-earth\">mineral extracts</span> found in hot environments. Operates automatically once constructed within user's exosuit inventory.",
+    "SimplifiedChinese": "使用者在酷热星球探索时可免受高温灼伤。<br><br>液态弗莱纽姆经由内衬的网络流遍全身，替在高气温环境中或炽烈阳光下的使用者消暑。<br><br>炎热环境中的<span class=\"name name-earth\">矿产提取物</span>可为本设备充能。本设备在使用者的套装库存中制造完毕后自动生效。",
+    "TraditionalChinese": "可保護使用者不受焦土世界的極熱傷害。<br><br>藉由分布於皮膚上的交織網路釋放降溫液，舒緩刺激環境或太陽熱量造成的不適。<br><br>裝置需使用可在炎熱環境中取得的<span class=\"name name-earth\">礦物萃取物</span>補充。建造於使用者的強化套裝道具欄後便會自動啟用。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protectheat.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "HOT1": {
+      "ID": "HOT1",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "YELLOW2": {
+      "ID": "YELLOW2",
+      "Type": "Substance",
+      "Amount": 75
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_HeatDrain",
+      "Bonus": 1.2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.788235307,
+    "G": 0.815686285,
+    "B": 0.894117653,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 160,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

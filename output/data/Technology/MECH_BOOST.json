@@ -1,0 +1,121 @@
+{
+  "ID": "MECH_BOOST",
+  "Group": "",
+  "Name": {
+    "English": "ARIADNE'S FLAME",
+    "SimplifiedChinese": "阿里阿德涅的烈焰",
+    "TraditionalChinese": "阿里阿德涅火焰"
+  },
+  "NameLower": {
+    "English": "Ariadne's Flame",
+    "SimplifiedChinese": "阿里阿德涅的烈焰",
+    "TraditionalChinese": "阿里阿德涅火焰"
+  },
+  "Subtitle": {
+    "English": "Minotaur Thruster System",
+    "SimplifiedChinese": "弥诺陶洛斯助推器系统",
+    "TraditionalChinese": "彌諾陶洛斯推進系統"
+  },
+  "Description": {
+    "English": "A series of agile, high-powered jet thrusters mounted to the rear of the rear of the Minotaur. Precise use allows the Minotaur to quickly and powerfully traverse all manner of terrain.<br><br>Press and hold <span class=\"name name-img\">JUMP</span> to activate. Limited in-flight control is possible.",
+    "SimplifiedChinese": "安装在弥诺陶洛斯尾部的一系列敏捷、高功率的喷气推进器。精确地使用可让弥诺陶洛斯快速有力地穿越各种地形。<br><br>长按<span class=\"name name-img\">JUMP</span>可激活。可进行有限的飞行控制。",
+    "TraditionalChinese": "一整組靈敏的強力噴射推進器，能安裝到彌諾陶洛斯尾部。準確使用，彌諾陶洛斯就能快速有力地通過任何地形。<br><br>按住 <span class=\"name name-img\">JUMP</span> 即可啟動。在飛行中能進行有限的控制。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.boost.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "BIO": {
+      "ID": "BIO",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 4
+    },
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 10
+    }
+  },
+  "BaseStat": "Vehicle_Boost",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Boost",
+      "Bonus": 1,
+      "Level": 4
+    },
+    {
+      "Stat": "Vehicle_BoostSpeed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_BoostTanks",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "BODYLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 180,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

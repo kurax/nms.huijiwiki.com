@@ -1,0 +1,135 @@
+{
+  "ID": "ATLAS_LASER",
+  "Group": "",
+  "Name": {
+    "English": "RUNIC LENS",
+    "SimplifiedChinese": "符文棱镜",
+    "TraditionalChinese": "符文透鏡"
+  },
+  "NameLower": {
+    "English": "Runic Lens",
+    "SimplifiedChinese": "符文棱镜",
+    "TraditionalChinese": "符文透鏡"
+  },
+  "Subtitle": {
+    "English": "Geometric Anomaly",
+    "SimplifiedChinese": "几何异象",
+    "TraditionalChinese": "幾何異常"
+  },
+  "Description": {
+    "English": "The geometric heart of this ancient weapon is the <span class=\"name name-technology\">Runic Lens</span>. Its impossible geometry not only concentrates light into a high-powered <span class=\"name name-technology\">Mining Laser</span>, but can also warp the local electromagnetic field so as to render the user <span class=\"name name-stellar\">invisible</span>.<br><br>Powered by <span class=\"name name-fuel\">Carbon-based Elements</span>. Fire the beam with <span class=\"name name-img\">ATTACK</span>. Select its secondary cloaking function with <span class=\"name name-img\">CYCLEALTWEAPON</span> and hold <span class=\"name name-img\">ALTATTACK</span> to activate.",
+    "SimplifiedChinese": "<span class=\"name name-technology\">符文棱镜</span>是这种远古武器的几何之心。这种不可思议的形状不仅能够将光线聚焦为大功率<span class=\"name name-technology\">开采激光</span>，同时还能够扭曲周遭的电磁力场，为使用者提供<span class=\"name name-stellar\">隐身</span>的效果。<br><br>通过<span class=\"name name-fuel\">碳基元素</span>驱动。使用<span class=\"name name-img\">ATTACK</span>发射光束。使用<span class=\"name name-img\">CYCLEALTWEAPON</span>选择次要隐形功能并长按<span class=\"name name-img\">ALTATTACK</span>激活。",
+    "TraditionalChinese": "這把古代武器的幾何核心是<span class=\"name name-technology\">符文透鏡</span>。不可思義的幾何形狀不僅能將光線集中形成一道高功率<span class=\"name name-technology\">採礦雷射</span>，也可以扭曲局部電磁場，從而讓使用者<span class=\"name name-stellar\">隱形</span>。<br><br>需要<span class=\"name name-fuel\">碳基元素</span>提供動能。按 <span class=\"name name-img\">ATTACK</span> 發射光束。按 <span class=\"name name-img\">CYCLEALTWEAPON</span> 選擇次要隱形功能並按住 <span class=\"name name-img\">ALTATTACK</span> 啟動。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/tech.atlaslaser.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "FUEL1",
+    "FUEL2",
+    "HOT1"
+  ],
+  "ChargeMultiplier": 2,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 60
+    }
+  },
+  "BaseStat": "Weapon_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Laser_Mining_Speed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_HeatTime",
+      "Bonus": 12,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_Damage",
+      "Bonus": 20,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_ReloadTime",
+      "Bonus": 0.6,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_Drain",
+      "Bonus": 1.2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_MiningBonus",
+      "Bonus": 1.1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Stealth",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

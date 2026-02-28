@@ -1,0 +1,111 @@
+{
+  "ID": "F_HACCESS4",
+  "Group": "",
+  "Name": {
+    "English": "RESONANCE MATRIX",
+    "SimplifiedChinese": "共振矩阵",
+    "TraditionalChinese": "共振矩陣"
+  },
+  "NameLower": {
+    "English": "Resonance Matrix",
+    "SimplifiedChinese": "共振矩阵",
+    "TraditionalChinese": "共振矩陣"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Upgrade: Purple Systems",
+    "SimplifiedChinese": "超光速推进器升级：紫色星系",
+    "TraditionalChinese": "超空間驅動器升級：紫色恆星系"
+  },
+  "Description": {
+    "English": "Sideloads a <span class=\"name name-special\">resonant memory packet</span> into your warp computer,  allowing the ship to pass through the dissonant space surrounding <span class=\"name name-special\">purple stellar bodies</span>.<br><br>User is advised to access Hyperdrive systems via the <VAL_ON>Galactic Map<>.",
+    "SimplifiedChinese": "为你的曲速飞行电脑植入<span class=\"name name-special\">共振回忆数据包</span>，这将允许飞船穿越笼罩<span class=\"name name-special\">紫色恒星</span>的不谐空间。<br><br>建议通过<VAL_ON>银河星图<>查看超光速推进器系统。",
+    "TraditionalChinese": "將<span class=\"name name-special\">共振記憶包</span>側載進入空間跳躍電腦，讓太空船通過環繞<span class=\"name name-special\">紫色星體</span>的不和諧空間。<br><br>建議使用者透過<VAL_ON>銀河地圖<>存取超空間驅動器系統。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/technology.freighterpurple.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 4,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "Impossible",
+  "Value": 100,
+  "Requirements": {
+    "SPIDER_PROD": {
+      "ID": "SPIDER_PROD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ROBOT2": {
+      "ID": "ROBOT2",
+      "Type": "Substance",
+      "Amount": 160
+    },
+    "PURPLE2": {
+      "ID": "PURPLE2",
+      "Type": "Substance",
+      "Amount": 250
+    }
+  },
+  "BaseStat": "Freighter_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Freighter_Hyperdrive_JumpDistance",
+      "Bonus": 50,
+      "Level": 6
+    }
+  ],
+  "RequiredTech": "F_HYPERDRIVE",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 8,
+  "DispensingRace": "Traders",
+  "FragmentCost": 12,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

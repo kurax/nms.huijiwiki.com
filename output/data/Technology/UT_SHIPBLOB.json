@@ -1,0 +1,107 @@
+{
+  "ID": "UT_SHIPBLOB",
+  "Group": "",
+  "Name": {
+    "English": "DYSON PUMP",
+    "SimplifiedChinese": "戴森泵",
+    "TraditionalChinese": "戴森泵"
+  },
+  "NameLower": {
+    "English": "Dyson Pump",
+    "SimplifiedChinese": "戴森泵",
+    "TraditionalChinese": "戴森泵"
+  },
+  "Subtitle": {
+    "English": "Starship Cyclotron Upgrade",
+    "SimplifiedChinese": "飞船回旋加速升级",
+    "TraditionalChinese": "太空船迴旋加速升級"
+  },
+  "Description": {
+    "English": "Replaces the heat sink of the <span class=\"name name-technology\">Cyclotron Ballista</span> by encompassing the entire unit with a heat-absorbing megastructure. Heat output is recycled to boost combat efficiency.<br><br>Significantly improves <span class=\"name name-stellar\">heat performance</span>.",
+    "SimplifiedChinese": "用吸热巨型结构包围整个装置，取代<span class=\"name name-technology\">回旋加速弩炮</span>的散热器。回收热量输出以提升战斗效率。<br><br>显著提升<span class=\"name name-stellar\">热性能</span>。",
+    "TencentChinese": "用吸热巨型结构包围整个装置，取代<span class=\"name name-technology\">回旋加速弩炮</span>的提示接收器。回收热量输出以提升战斗效率。<br><br>显著提升<span class=\"name name-stellar\">热性能</span>。",
+    "TraditionalChinese": "用吸熱巨型結構包圍整個裝置，取代<span class=\"name name-technology\">迴旋加速弩砲</span>的散熱器。回收熱量輸出以提升戰鬥效率。<br><br>顯著提升<span class=\"name name-stellar\">熱性能</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.ionblastmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 50,
+  "Requirements": {
+    "BIO": {
+      "ID": "BIO",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_Plasma",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 1.1,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "SHIPPLASMA",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.80392158,
+    "G": 0.380392164,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

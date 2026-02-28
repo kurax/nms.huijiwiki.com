@@ -1,0 +1,92 @@
+{
+  "ID": "MAINT_FUEL4",
+  "Group": "",
+  "Name": {
+    "English": "GENERATOR COUPLING",
+    "SimplifiedChinese": "发电机耦合器",
+    "TraditionalChinese": "發電機聯軸節"
+  },
+  "NameLower": {
+    "English": "Generator Coupling",
+    "SimplifiedChinese": "发电机耦合器",
+    "TraditionalChinese": "發電機聯軸節"
+  },
+  "Subtitle": {
+    "English": "Chargeable Power Unit",
+    "SimplifiedChinese": "可充电能源单位",
+    "TraditionalChinese": "可充填能量裝置"
+  },
+  "Description": {
+    "English": "The generator coupling is an important piece of the machine's rechargeable power systems. Without it, the generator would fruitlessly spin, pumping power out into the void.",
+    "SimplifiedChinese": "发电机耦合器是机器可充电能量系统中重要的一部分。没有它，发电机将徒劳地旋转，平白消耗能量。",
+    "TraditionalChinese": "發電機聯軸節是該機械可充能式能量系統的重要零件。少了此零件，發電機便會空轉，讓能量白白流掉。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.fuel4.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 100,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "FUEL1",
+    "FUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": null,
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

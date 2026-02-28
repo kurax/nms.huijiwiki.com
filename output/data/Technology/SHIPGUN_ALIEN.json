@@ -1,0 +1,150 @@
+{
+  "ID": "SHIPGUN_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "SPEWING VENTS",
+    "SimplifiedChinese": "喷口",
+    "TraditionalChinese": "噴射口"
+  },
+  "NameLower": {
+    "English": "Spewing Vents",
+    "SimplifiedChinese": "喷口",
+    "TraditionalChinese": "噴射口"
+  },
+  "Subtitle": {
+    "English": "Fused Organic Technology",
+    "SimplifiedChinese": "有机融合技术",
+    "TraditionalChinese": "融合有機科技"
+  },
+  "Description": {
+    "English": "A mess of sacs and sphincters, these vents generate and expel globules of plasma. When fused to the weapon systems of the ship, these are super-heated and then expelled at high-pressure.<br><br>Press <span class=\"name name-img\">SHIPFIRE</span> to ask if the ship would direct its vents towards the current target.",
+    "SimplifiedChinese": "一团囊和括约肌，这些喷口产生并排出等离子体球。当熔合到飞船的武器系统上时，这些系统会过热，然后在高压下被排出。<br><br>按<span class=\"name name-img\">SHIPFIRE</span>询问飞船是否会将喷口对准当前目标。",
+    "TraditionalChinese": "噴射口由大量囊袋和括約肌組成，可以分泌並排出滴狀電漿。和太空船的武器系統融合後，會過熱噴射出高壓電漿。<br><br>按下 <span class=\"name name-img\">SHIPFIRE</span> 詢問太空船願不願意將噴射口瞄準目前的目標。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Switch Weapon Mode by pressing <span class=\"name name-img\">SHIPCYCLEWEAPON</span><br>Fire Weapons with <span class=\"name name-img\">SHIPFIRE</span>",
+    "SimplifiedChinese": "按 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切换武器模式<br>按 <span class=\"name name-img\">SHIPFIRE</span> 用武器开火",
+    "TraditionalChinese": "按下 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切換武器模式<br>按下 <span class=\"name name-img\">SHIPFIRE</span> 發射武器"
+  },
+  "Icon": "ui/frontend/icons/technology/bio/biotech.lumps.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "SACVENOM": {
+      "ID": "SACVENOM",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "SPACEGUNK4": {
+      "ID": "SPACEGUNK4",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_Weapons_Guns",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "Bonus": 10,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Dispersion",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_BulletsPerShot",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 10,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "Bonus": 340,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Range",
+      "Bonus": 1500,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Scale",
+      "Bonus": 6,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_CoolTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage_Radius",
+      "Bonus": 2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.41568628,
+    "G": 0.815686285,
+    "B": 0.117647059,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.41568628,
+    "G": 0.815686285,
+    "B": 0.117647059,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

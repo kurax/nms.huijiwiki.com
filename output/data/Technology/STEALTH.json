@@ -1,0 +1,112 @@
+{
+  "ID": "STEALTH",
+  "Group": "",
+  "Name": {
+    "English": "CLOAKING DEVICE",
+    "SimplifiedChinese": "隐形装置",
+    "TraditionalChinese": "隱形裝置"
+  },
+  "NameLower": {
+    "English": "Cloaking Device",
+    "SimplifiedChinese": "隐形装置",
+    "TraditionalChinese": "隱形裝置"
+  },
+  "Subtitle": {
+    "English": "Active Camouflage Unit",
+    "SimplifiedChinese": "主动迷彩单位",
+    "TraditionalChinese": "主動偽裝單位"
+  },
+  "Description": {
+    "English": "On activation, this module draws power from <VAL_ON>Exosuit Life Support<> systems to manipulate the gravitational field around the user, refracting the light and creating an <span class=\"name name-stellar\">active camouflage effect</span>.<br><br>This <span class=\"name name-stellar\">temporary</span> effect can be used to escape unwanted hostile attention. WARNING: active camouflage will be aborted upon dramatic Exosuit manoeuvres such as jetpack activation, or by activating Multi-Tool weapons systems.",
+    "SimplifiedChinese": "激活后，这种模块将消耗<VAL_ON>套装维生<>系统的能源来扭曲使用者周围的重力场，折射光线并创造<span class=\"name name-stellar\">主动迷彩效果</span>。<br><br>这种<span class=\"name name-stellar\">暂时性</span>的效果能够用来摆脱敌人的抓捕。警告：使用套装进行类似启动喷气背包或者是激活多用途工具武器系统等剧烈动作将会关闭主动迷彩。",
+    "TraditionalChinese": "啟動後，此模組會從<VAL_ON>強化套裝維生<>系統中抽取能量，控制使用者周遭的重力場、折射光線，並創造一個<span class=\"name name-stellar\">主動迷彩效果</span>。<br><br>這個<span class=\"name name-stellar\">暫時的</span>效果可用於逃離非必要的敵對注意範圍。警告：主動迷彩會因激烈的強化套裝動作而中止，像是操控噴射背包或是啟動工具組武器系統。",
+    "USEnglish": "On activation, this module draws power from <VAL_ON>Exosuit Life Support<> systems to manipulate the gravitational field around the user, refracting the light and creating an <span class=\"name name-stellar\">active camouflage effect</span>.<br><br>This <span class=\"name name-stellar\">temporary</span> effect can be used to escape unwanted hostile attention. WARNING: active camouflage will be aborted upon dramatic Exosuit maneuvers such as jetpack activation, or by activating Multi-Tool weapons systems."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4tech/render.stealth.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "VeryRare",
+  "Value": 100,
+  "Requirements": {
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "POWERCELL": {
+      "ID": "POWERCELL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Stealth",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Stealth",
+      "Bonus": 1,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 80,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

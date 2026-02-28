@@ -1,0 +1,118 @@
+{
+  "ID": "UT_BOLT",
+  "Group": "",
+  "Name": {
+    "English": "BARREL IONISER",
+    "SimplifiedChinese": "枪管电离器",
+    "TraditionalChinese": "槍管離化器"
+  },
+  "NameLower": {
+    "English": "Barrel Ioniser",
+    "SimplifiedChinese": "枪管电离器",
+    "TraditionalChinese": "槍管離化器",
+    "USEnglish": "Barrel Ionizer"
+  },
+  "Subtitle": {
+    "English": "Boltcaster Upgrade",
+    "SimplifiedChinese": "离子闪电发射器升级",
+    "TraditionalChinese": "雷霆砲升級"
+  },
+  "Description": {
+    "English": "Inserts a powerful field ionisation device into the barrel of the <span class=\"name name-technology\">Boltcaster</span>, increasing projectile stability through the air.<br><br>Improves <span class=\"name name-stellar\">device accuracy</span> and allows the user to fire for longer periods without degrading combat performance.",
+    "SimplifiedChinese": "在<span class=\"name name-technology\">离子闪电发射器</span>的枪管中嵌入一个强大的场电离装置，增加炮弹在空中的稳定性。<br><br>提高<span class=\"name name-stellar\">装置精度</span>并允许用户进行更长时间的射击而不降低战斗性能。",
+    "TraditionalChinese": "在<span class=\"name name-technology\">雷霆砲</span>的槍管中嵌入一個強大的場電離裝置，增加射彈在空中的穩定性。<br><br>提高<span class=\"name name-stellar\">裝置準確度</span>並允許用戶進行更長時間的射擊而不降低戰鬥性能。",
+    "USEnglish": "Inserts a powerful field ionization device into the barrel of the <span class=\"name name-technology\">Boltcaster</span>, increasing projectile stability through the air.<br><br>Improves <span class=\"name name-stellar\">device accuracy</span> and allows the user to fire for longer periods without degrading combat performance."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.projectile1mod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 4
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Projectile",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Projectile_Recoil",
+      "Bonus": 0.7,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCap",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCooldown",
+      "Bonus": 0.95,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "BOLT",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 0.992156863,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 90,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

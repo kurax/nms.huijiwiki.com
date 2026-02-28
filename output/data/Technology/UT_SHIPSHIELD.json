@@ -1,0 +1,114 @@
+{
+  "ID": "UT_SHIPSHIELD",
+  "Group": "",
+  "Name": {
+    "English": "ABLATIVE ARMOUR",
+    "SimplifiedChinese": "烧蚀装甲",
+    "TraditionalChinese": "燒蝕裝甲",
+    "USEnglish": "ABLATIVE ARMOR"
+  },
+  "NameLower": {
+    "English": "Ablative Armour",
+    "SimplifiedChinese": "烧蚀装甲",
+    "TraditionalChinese": "燒蝕裝甲",
+    "USEnglish": "Ablative Armor"
+  },
+  "Subtitle": {
+    "English": "Starship Shield Upgrade",
+    "SimplifiedChinese": "飞船护罩升级",
+    "TraditionalChinese": "太空船防護罩升級"
+  },
+  "Description": {
+    "English": "Adds a layer of superheated shielding to the starship's defense array, vaporising incoming fire.<br><br>Significantly increases <span class=\"name name-stellar\">starship shield performance</span>.",
+    "SimplifiedChinese": "在飞船防御阵形上增加一层过热护盾，汽化掉敌方攻击。<br><br>显著提升<span class=\"name name-stellar\">飞船护盾性能</span>。",
+    "TraditionalChinese": "在太空船防禦陣形上增加一層過熱防護罩，汽化掉敵方攻擊。<br><br>顯著提升<span class=\"name name-stellar\">太空船防護罩性能</span>。",
+    "USEnglish": "Adds a layer of superheated shielding to the starship's defense array, vaporizing incoming fire.<br><br>Significantly increases <span class=\"name name-stellar\">starship shield performance</span>."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.shieldmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "CATALYST2": {
+      "ID": "CATALYST2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Ship_Armour_Shield",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Armour_Shield_Strength",
+      "Bonus": 0.05,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPSHIELD",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.972549,
+    "B": 0.650980413,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 85,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

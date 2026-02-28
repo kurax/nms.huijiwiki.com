@@ -1,0 +1,89 @@
+{
+  "ID": "MAINT_PORTAL7",
+  "Group": "",
+  "Name": {
+    "English": "GLYPH SEVEN",
+    "SimplifiedChinese": "符文7",
+    "TraditionalChinese": "符號七"
+  },
+  "NameLower": {
+    "English": "Glyph Seven",
+    "SimplifiedChinese": "符文7",
+    "TraditionalChinese": "符號七"
+  },
+  "Subtitle": {
+    "English": "Ancient Technology",
+    "SimplifiedChinese": "古代技术",
+    "TraditionalChinese": "遠古科技"
+  },
+  "Description": {
+    "English": "A solemn power radiates from this ancient carving. Though the imagery is simple and the rendering rough, the meaning of the glyph has mathematical precision.<br><br>This is glyph <span class=\"name name-special\">7</span> of <span class=\"name name-special\">16</span>.",
+    "SimplifiedChinese": "这古老的雕刻散发着庄严的力量，尽管图像简单，形式朴素，但符文的含义却有着数学的精度。<br><br>这是<span class=\"name name-special\">16</span>枚符文中的<span class=\"name name-special\">7</span>号符文。",
+    "TraditionalChinese": "這古老的雕刻散發出莊嚴的力量。雖然意象簡單、手法粗糙，表達出的符號含意卻如數學般精準。<br><br>這是 <span class=\"name name-special\">16</span> 個符號中的第 <span class=\"name name-special\">7</span> 個。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/portalsymbol.6.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 20,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": null,
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

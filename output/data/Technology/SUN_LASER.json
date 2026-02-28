@@ -1,0 +1,107 @@
+{
+  "ID": "SUN_LASER",
+  "Group": "",
+  "Name": {
+    "English": "SOLAR RAY",
+    "SimplifiedChinese": "太阳能射线",
+    "TraditionalChinese": "太陽射線"
+  },
+  "NameLower": {
+    "English": "Solar Ray",
+    "SimplifiedChinese": "太阳能射线",
+    "TraditionalChinese": "太陽射線"
+  },
+  "Subtitle": {
+    "English": "Alchemical Laser",
+    "SimplifiedChinese": "炼金术激光",
+    "TraditionalChinese": "煉金雷射"
+  },
+  "Description": {
+    "English": "A highly specialised addition to the Multi-Tool's mining capabilities, transforming <span class=\"name name-stellar\">terrain deposits</span> into <span class=\"name name-stellar\">liquid sun</span>.<br><br>A powerful laser array amplifies local solar radiation, allowing for the rapid reconfiguration of nearby mineral ores.",
+    "SimplifiedChinese": "多用途工具采矿能力的高度专业化补充，能把<span class=\"name name-stellar\">地形矿床</span>转变为<span class=\"name name-stellar\">液体太阳</span>。<br><br>通过一组强大的激光阵列放大本地的太阳能辐射，用以快速重组附近的矿石。",
+    "TraditionalChinese": "工具組採礦功能的專門額外功能，能將<span class=\"name name-stellar\">地形資源產地</span>轉變成<span class=\"name name-stellar\">液體太陽</span>。<br><br>強大的雷射陣列能強化當地的太陽輻射，讓附近的礦物快速重組。",
+    "USEnglish": "A highly specialized addition to the Multi-Tool's mining capabilities, transforming <span class=\"name name-stellar\">terrain deposits</span> into <span class=\"name name-stellar\">liquid sun</span>.<br><br>A powerful laser array amplifies local solar radiation, allowing for the rapid reconfiguration of nearby mineral ores."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.sunlaser.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Catalyst",
+  "ChargeBy": null,
+  "ChargeMultiplier": 2,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CAVE1": {
+      "ID": "CAVE1",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Weapon_SunLaser",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_SunLaser",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 160,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,115 @@
+{
+  "ID": "SHIPSHIELD_ROBO",
+  "Group": "",
+  "Name": {
+    "English": "AERON SHIELD",
+    "SimplifiedChinese": "艾伦护盾",
+    "TraditionalChinese": "太空防護罩"
+  },
+  "NameLower": {
+    "English": "Aeron Shield",
+    "SimplifiedChinese": "艾伦护盾",
+    "TraditionalChinese": "太空防護罩"
+  },
+  "Subtitle": {
+    "English": "Radiant Defensive Barrier",
+    "SimplifiedChinese": "光耀保护屏障",
+    "TraditionalChinese": "放射性防禦屏障"
+  },
+  "Description": {
+    "English": "A defensive crimson cocoon, obfuscating the ship's physical form and providing protection from collision and laser fire.<br><br>The core self-heals over time, but may be quickly replenished with <span class=\"name name-catalyst\">catalytic elements</span> or <span class=\"name name-special\">radiant shards</span>.",
+    "SimplifiedChinese": "用于防御的猩红色茧，能够遮蔽飞船的物理形态并提供针对撞击与激光攻击的保护。<br><br>核心能够缓慢自我再生，但同时也能够通过<span class=\"name name-catalyst\">催化元素</span>或<span class=\"name name-special\">光耀碎片</span>快速恢复。",
+    "TraditionalChinese": "一種防禦性緋紅色繭袋，可模糊太空船的實體外型，提供碰撞及雷射砲火防護。<br><br>核心會隨時間自我修復，不過也可以使用<span class=\"name name-catalyst\">催化元素</span>或<span class=\"name name-special\">發光裂片</span>快速修復。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/robotship.shield.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Catalyst",
+  "ChargeBy": [
+    "CATALYST1",
+    "CATALYST2",
+    "DRONE_SHARD"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "RobotShip",
+  "Rarity": "Always",
+  "Value": 5,
+  "Requirements": {
+    "DRONE_SHARD": {
+      "ID": "DRONE_SHARD",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "DRONE_SALVAGE": {
+      "ID": "DRONE_SALVAGE",
+      "Type": "Product",
+      "Amount": 4
+    }
+  },
+  "BaseStat": "Ship_Armour_Shield",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Armour_Shield",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Armour_Shield_Strength",
+      "Bonus": 0.65,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.972549,
+    "B": 0.650980413,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

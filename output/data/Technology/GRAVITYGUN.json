@@ -1,0 +1,112 @@
+{
+  "ID": "GRAVITYGUN",
+  "Group": "",
+  "Name": {
+    "English": "GRAVITINO COIL",
+    "SimplifiedChinese": "引力微子线圈",
+    "TraditionalChinese": "伴重力子線圈"
+  },
+  "NameLower": {
+    "English": "Gravitino Coil",
+    "SimplifiedChinese": "引力微子线圈",
+    "TraditionalChinese": "伴重力子線圈"
+  },
+  "Subtitle": {
+    "English": "Industrial Waste Manipulation Device",
+    "SimplifiedChinese": "工业废料处理装置",
+    "TraditionalChinese": "工業廢棄物操控裝置"
+  },
+  "Description": {
+    "English": "This remarkable technology transforms the Multi-Tool into a powerful kinetic manipulator, capable of attracting and repelling industrial waste via a localised magnetic field.<br><br>Access the Gravitino Coil by pressing <span class=\"name name-img\">CYCLEWEAPON</span>, and attract industrial waste with <span class=\"name name-img\">ALTATTACK</span>. Magnetised objects can be launched from the Coil with <span class=\"name name-img\">ATTACK</span>, or gently released with <span class=\"name name-img\">ALTATTACK</span>.",
+    "SimplifiedChinese": "这项卓越的技术将多用途工具转变为强大的动能操纵器，能够通过局部磁场吸引和排斥工业废料。<br><br>按下<span class=\"name name-img\">CYCLEWEAPON</span>即可进入引力微子线圈，并使用<span class=\"name name-img\">ALTATTACK</span>吸引工业废料。磁性物体可使用<span class=\"name name-img\">ATTACK</span>从线圈中发射出去，或使用<span class=\"name name-img\">ALTATTACK</span>来轻轻释放。",
+    "TraditionalChinese": "這項卓越的科技將工具組轉化為強大的動力操控器，能夠透過局部磁場吸引或排斥工業廢棄物。<br><br>按下 <span class=\"name name-img\">CYCLEWEAPON</span> 即可開啟伴重力子線圈，然後使用 <span class=\"name name-img\">ALTATTACK</span> 吸引工業廢棄物。磁性物體可使用 <span class=\"name name-img\">ATTACK</span> 從線圈中發射，或使用 <span class=\"name name-img\">ALTATTACK</span> 輕輕放開。",
+    "USEnglish": "This remarkable technology transforms the Multi-Tool into a powerful kinetic manipulator, capable of attracting and repelling industrial waste via a localized magnetic field.<br><br>Access the Gravitino Coil by pressing <span class=\"name name-img\">CYCLEWEAPON</span>, and attract industrial waste with <span class=\"name name-img\">ALTATTACK</span>. Magnetized objects can be launched from the Coil with <span class=\"name name-img\">ATTACK</span>, or gently released with <span class=\"name name-img\">ALTATTACK</span>."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.gravitygun.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 600,
+  "ChargeType": "Metal",
+  "ChargeBy": null,
+  "ChargeMultiplier": 3,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "GRAVBALL": {
+      "ID": "GRAVBALL",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Weapon_Gravity",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Gravity",
+      "Bonus": 0,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 520,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

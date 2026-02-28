@@ -1,0 +1,111 @@
+{
+  "ID": "VEHICLE_SCOPE",
+  "Group": "",
+  "Name": {
+    "English": "CYCLOPS SCOPE",
+    "SimplifiedChinese": "独眼巨人瞄准器",
+    "TraditionalChinese": "獨眼巨人瞄準器"
+  },
+  "NameLower": {
+    "English": "Cyclops Scope",
+    "SimplifiedChinese": "独眼巨人瞄准器",
+    "TraditionalChinese": "獨眼巨人瞄準器"
+  },
+  "Subtitle": {
+    "English": "Exocraft Survey Device",
+    "SimplifiedChinese": "强化艇调查设备",
+    "TraditionalChinese": "強化艇調查裝置"
+  },
+  "Description": {
+    "English": "An enhancement to the Exocraft's navigational capabilities, attaching to the driver's visor display. Analyses surroundings and projects detailed data over the environment, identifying <span class=\"name name-stellar\">points of interest</span> and generating <span class=\"name name-commodity\">valuable data</span> when used to study <span class=\"name name-tradeable\">flora</span>, <span class=\"name name-fuel\">fauna</span> and <span class=\"name name-technology\">minerals</span>.<br><br>Hold <span class=\"name name-img\">AIM</span> to operate.",
+    "SimplifiedChinese": "对强化艇导航系统的一项改进，该改进装置安装在驾驶员的面甲上。它能分析周围环境，并将详细数据投射到环境中，从而识别<span class=\"name name-stellar\">兴趣点</span>并将这些<span class=\"name name-commodity\">有价值的数据</span>用于研究<span class=\"name name-tradeable\">植物群系</span>、<span class=\"name name-fuel\">动物群系</span>和<span class=\"name name-technology\">矿物</span>。<br><br>按下<span class=\"name name-img\">AIM</span>运行。",
+    "TraditionalChinese": "加強強化艇的導航功能，並可連接至駕駛者的護目鏡顯示器。能分析周圍環境，並將詳細資料投射到環境中，以辨識<span class=\"name name-stellar\">重要地點</span>並生成<span class=\"name name-commodity\">珍貴資料</span>，可用於研究<span class=\"name name-tradeable\">植物</span>、<span class=\"name name-fuel\">動物</span>和<span class=\"name name-technology\">礦物</span>。<br><br>按住 <span class=\"name name-img\">AIM</span> 以操作。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.scope.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllVehicles",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Scan_Binoculars",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Scan_Binoculars",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 320,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

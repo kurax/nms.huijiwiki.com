@@ -1,0 +1,114 @@
+{
+  "ID": "F_HACCESS2",
+  "Group": "",
+  "Name": {
+    "English": "CHROMATIC WARP SHIELDING",
+    "SimplifiedChinese": "色度曲速防护",
+    "TencentChinese": "曲速防护（陶型）",
+    "TraditionalChinese": "染色空間跳躍防護罩"
+  },
+  "NameLower": {
+    "English": "Chromatic Warp Shielding",
+    "SimplifiedChinese": "色度曲速防护",
+    "TencentChinese": "曲速防护（陶型）",
+    "TraditionalChinese": "染色空間跳躍防護罩"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Upgrade: Green Systems",
+    "SimplifiedChinese": "超光速推进器升级：绿色恒星系",
+    "TraditionalChinese": "超空間驅動器升級：綠色恆星系"
+  },
+  "Description": {
+    "English": "Upgrades the hyperdrive's shield integrity, preventing reality glitches when attempting to reach rare-class <span class=\"name name-tradeable\">green stellar bodies</span>.<br><br>User is advised to access Hyperdrive systems via the <VAL_ON>Galactic Map<>.",
+    "SimplifiedChinese": "对超光速推进器的护盾健全性进行升级，避免在尝试抵达稀有级<span class=\"name name-tradeable\">绿色星体</span>时出现现实故障。<br><br>建议使用者通过<VAL_ON>银河星图<>接入超光速推进系统。",
+    "TencentChinese": "超光速推进器护盾矩阵已升级，现在能避免在尝试抵达稀有级<span class=\"name name-tradeable\">绿色星球主体</span>时，出现时间异常。<br><br>建议用户通过<VAL_ON>星系图<>进入超光速推进系统。",
+    "TraditionalChinese": "升級超空間驅動器防護罩強度，試圖接近罕見等級<span class=\"name name-tradeable\">綠色恆星體</span>時，能防止現實失常。<br><br>建議使用者透過<VAL_ON>銀河地圖<>存取超空間驅動器系統。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/technology.freightertau.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "Impossible",
+  "Value": 100,
+  "Requirements": {
+    "HYPERFUEL2": {
+      "ID": "HYPERFUEL2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "GREEN2": {
+      "ID": "GREEN2",
+      "Type": "Substance",
+      "Amount": 250
+    }
+  },
+  "BaseStat": "Freighter_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Freighter_Hyperdrive_JumpDistance",
+      "Bonus": 50,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "F_HYPERDRIVE",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 6,
+  "DispensingRace": "Traders",
+  "FragmentCost": 8,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

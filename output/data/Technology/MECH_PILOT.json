@@ -1,0 +1,111 @@
+{
+  "ID": "MECH_PILOT",
+  "Group": "",
+  "Name": {
+    "English": "MINOTAUR AI PILOT",
+    "SimplifiedChinese": "弥诺陶洛斯人工智能驾驶员",
+    "TraditionalChinese": "彌諾陶洛斯人工智慧駕駛員"
+  },
+  "NameLower": {
+    "English": "Minotaur AI Pilot",
+    "SimplifiedChinese": "弥诺陶洛斯人工智能驾驶员",
+    "TraditionalChinese": "彌諾陶洛斯人工智慧駕駛員"
+  },
+  "Subtitle": {
+    "English": "Autonomous Control Unit",
+    "SimplifiedChinese": "自主控制单元",
+    "TraditionalChinese": "自主控制單位"
+  },
+  "Description": {
+    "English": "A semi-autonomous <span class=\"name name-technology\">artificial pilot plugin</span> for the Minotaur Heavy Exocraft Hybrid. Installation allows the Minotaur to <span class=\"name name-stellar\">traverse planets itself</span> and engage in <span class=\"name name-stellar\">combat</span> or <span class=\"name name-stellar\">mining</span> activities to support its primary operator.<br><br>The AI pilot will always cede control to the primary operator when they enter the cockpit.<br><br>Piloting routines are highly localised. It is incapable of developing emotional bonds nor exercising independent control of the Minotaur.",
+    "SimplifiedChinese": "专为弥诺陶洛斯重型混合强化艇设计的半自主<span class=\"name name-technology\">智能导航插件</span>。安装后，弥诺陶洛斯将能够<span class=\"name name-stellar\">独立跨越行星</span>并与敌人<span class=\"name name-stellar\">交战</span>，除此以外还能进行<span class=\"name name-stellar\">采矿</span>以帮助自己的主要操作员。<br><br>当主要操作员进入驾驶舱后，人工智能驾驶员将移交设备控制权。<br><br>导航程序已经过高度本地化。人工智能无法与操作员产生情感联系，也无法完全独立操纵弥诺陶洛斯。",
+    "TraditionalChinese": "一種半自主<span class=\"name name-technology\">人工駕駛員外掛程式</span>，用於彌諾陶洛斯重型混合強化艇。安裝後能讓彌諾陶洛斯<span class=\"name name-stellar\">獨自穿越星球</span>並進行<span class=\"name name-stellar\">戰鬥</span>或者<span class=\"name name-stellar\">採礦</span>活動，以支援其主要操作員。<br><br>主要操作員進入駕駛艙後，人工駕駛員將會交付控制權。<br><br>飛行程序高度在地化。無法發展出情感連結，也無法自由控制彌諾陶洛斯。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicleautopilot.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "COMPUTER": {
+      "ID": "COMPUTER",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_AutoPilot",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_AutoPilot",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SCANNERLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 480,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

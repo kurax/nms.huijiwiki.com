@@ -1,0 +1,111 @@
+{
+  "ID": "MECH_MINER",
+  "Group": "",
+  "Name": {
+    "English": "MINOTAUR BORE",
+    "SimplifiedChinese": "弥诺陶洛斯钻孔",
+    "TraditionalChinese": "彌諾陶洛斯鑽機"
+  },
+  "NameLower": {
+    "English": "Minotaur Bore",
+    "SimplifiedChinese": "弥诺陶洛斯钻孔",
+    "TraditionalChinese": "彌諾陶洛斯鑽機"
+  },
+  "Subtitle": {
+    "English": "Minotaur Digging Laser",
+    "SimplifiedChinese": "弥诺陶洛斯挖掘激光",
+    "TraditionalChinese": "彌諾陶洛斯挖掘雷射"
+  },
+  "Description": {
+    "English": "Adds <span class=\"name name-stellar\">Terrain Manipulation</span> capability to the laser array of the <span class=\"name name-stellar\">Minotaur Heavy Exosuit Hybrid</span>.<br><br>A special mount allows the rapid deployment of a high-energy terrain excavator, without risking clogging the Minotaur's delicate joints and servos with dirt.",
+    "SimplifiedChinese": "增加<span class=\"name name-stellar\">弥诺陶洛斯混合重型套件</span>激光阵列的<span class=\"name name-stellar\">地形操纵</span>能力。<br><br>一个可让高能地形挖掘机快速部署的特殊装置，而不会出现泥土堵塞弥诺陶洛斯脆弱接合处和伺服系统的危险。",
+    "TraditionalChinese": "在<span class=\"name name-stellar\">彌諾陶洛斯重型強化套裝混合體</span>的雷射陣列新增<span class=\"name name-stellar\">地形改造</span>功能。<br><br>這特殊配件能快速部署高能量地形挖掘機，不會害彌諾陶洛斯精密的關節和伺服卡灰塵。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_gun.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 800,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 4,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "SAND1": {
+      "ID": "SAND1",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "CAVE1": {
+      "ID": "CAVE1",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_TerrainEdit",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_TerrainEdit",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SCANNERLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 210,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

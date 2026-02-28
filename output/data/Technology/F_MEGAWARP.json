@@ -1,0 +1,111 @@
+{
+  "ID": "F_MEGAWARP",
+  "Group": "",
+  "Name": {
+    "English": "SINGULARITY ENGINE",
+    "SimplifiedChinese": "奇点引擎",
+    "TraditionalChinese": "奇異點引擎"
+  },
+  "NameLower": {
+    "English": "Singularity Engine",
+    "SimplifiedChinese": "奇点引擎",
+    "TraditionalChinese": "奇異點引擎"
+  },
+  "Subtitle": {
+    "English": "Wormhole Propulsion Drive",
+    "SimplifiedChinese": "虫洞推进装置",
+    "TraditionalChinese": "蟲洞推進驅動器"
+  },
+  "Description": {
+    "English": "An unstable and highly-experimental piece of <span class=\"name name-technology\">freighter hyperdrive technology</span>. This extreme gravity device generates a <span class=\"name name-special\">wormhole</span> deep within the freighter's reactor core, inverting the entire vessel and transporting it across the universe.<br><br>Speak to the <span class=\"name name-stellar\">freighter's commander</span> to engage the drive. <span class=\"name name-fuel\">Warning</span>: destination is not controllable.",
+    "SimplifiedChinese": "一件不稳定的、高度实验性的<span class=\"name name-technology\">货运飞船超光速推进器技术</span>。这个极端重力装置在货船反应堆核心深处产生一个<span class=\"name name-special\">虫洞</span>，将整艘船倒置，使其在宇宙中穿行。<br><br>与<span class=\"name name-stellar\">货船指挥官</span>对话，以启动该驱动器。<span class=\"name name-fuel\">警告</span>：目的地无法控制。",
+    "TraditionalChinese": "一種不穩定且高度實驗性質的<span class=\"name name-technology\">貨船超空間驅動器科技</span>。這種超重力裝置能夠在貨船的反應爐核心深處產生一個<span class=\"name name-special\">蟲洞</span>，顛倒整艘船艦，並在宇宙中瞬間移動。<br><br>和<span class=\"name name-stellar\">貨船指揮官</span>對話即可啟動此驅動器。<span class=\"name name-fuel\">警告</span>：無法控制目的地。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/technology.freighter.megawarp.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 6,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "Impossible",
+  "Value": 50,
+  "Requirements": {
+    "HYPERFUEL2": {
+      "ID": "HYPERFUEL2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "VENTGEM": {
+      "ID": "VENTGEM",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 120
+    }
+  },
+  "BaseStat": "Freighter_MegaWarp",
+  "StatBonuses": [
+    {
+      "Stat": "Freighter_MegaWarp",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 4,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,122 @@
+{
+  "ID": "JET1",
+  "Group": "",
+  "Name": {
+    "English": "JETPACK",
+    "SimplifiedChinese": "喷气背包",
+    "TraditionalChinese": "噴射背包"
+  },
+  "NameLower": {
+    "English": "Jetpack",
+    "SimplifiedChinese": "喷气背包",
+    "TraditionalChinese": "噴射背包"
+  },
+  "Subtitle": {
+    "English": "Aerial Propulsion Booster",
+    "SimplifiedChinese": "空中动力增强道具",
+    "TraditionalChinese": "飛航推進加速器"
+  },
+  "Description": {
+    "English": "Provides the Exosuit with <span class=\"name name-technology\">advanced movement capabilities</span>, including temporary flight.<br><br>Control thrust with <span class=\"name name-img\">JUMP</span>. The flightpack uses energy from the <span class=\"name name-fuel\">Exosuit Life Support</span> system to pressurise and vent bursts of gas, propelling the user into the air.<br><br>Jetpack can be temporarily overloaded by gathering <span class=\"name name-technology\">Deuterium-rich plants</span>, causing a dramatic increase in available thrust.",
+    "SimplifiedChinese": "为套装提供<span class=\"name name-technology\">高级移动功能</span>，包括短暂飞行。<br><br>采用<span class=\"name name-img\">JUMP</span>来控制推进。飞行包使用<span class=\"name name-fuel\">套装生命维持</span>系统的能量来增压和排出阵阵气体，从而将使用者推向空中。<br><br>可以通过收集<span class=\"name name-technology\">富氘植物</span>使喷气背包暂时获得过载能力，显著提升最大推力。",
+    "TraditionalChinese": "使強化套裝獲得<span class=\"name name-technology\">進階移動能力</span>，包括短暫飛行。<br><br>按 <span class=\"name name-img\">JUMP</span> 控制推進力道。飛行背包利用<span class=\"name name-fuel\">強化套裝維生</span>系統的能量，加壓並釋放氣體，將使用者推向空中。<br><br>收集<span class=\"name name-technology\">含氘量高植物</span>可以暫時使噴射背包超載，大幅提升可用的推進力量。",
+    "USEnglish": "Provides the Exosuit with <span class=\"name name-technology\">advanced movement capabilities</span>, including temporary flight.<br><br>Control thrust with <span class=\"name name-img\">JUMP</span>. The flightpack uses energy from the <span class=\"name name-fuel\">Exosuit Life Support</span> system to pressurize and vent bursts of gas, propelling the user into the air.<br><br>Jetpack can be temporarily overloaded by gathering <span class=\"name name-technology\">Deuterium-rich plants</span>, causing a dramatic increase in available thrust."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.jetpack.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Suit_Jetpack",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Jetpack",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Jetpack_Tank",
+      "Bonus": 2.75,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Jetpack_Drain",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Jetpack_Ignition",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Jetpack_Refill",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

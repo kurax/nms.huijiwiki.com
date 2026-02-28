@@ -1,0 +1,111 @@
+{
+  "ID": "UT_LAUNCHER",
+  "Group": "",
+  "Name": {
+    "English": "EFFICIENT THRUSTERS",
+    "SimplifiedChinese": "高效推进器",
+    "TraditionalChinese": "高效推進器"
+  },
+  "NameLower": {
+    "English": "Efficient Thrusters",
+    "SimplifiedChinese": "高效推进器",
+    "TraditionalChinese": "高效推進器"
+  },
+  "Subtitle": {
+    "English": "Starship Launch System Upgrade",
+    "SimplifiedChinese": "飞船发射系统升级",
+    "TraditionalChinese": "太空船啟動系統升級"
+  },
+  "Description": {
+    "English": "Upgrades the starship launch systems, decreasing the <span class=\"name name-stellar\">fuel cost</span> of takeoff.",
+    "SimplifiedChinese": "升级飞船发射系统，减少升空的<span class=\"name name-stellar\">燃料花费</span>。",
+    "TraditionalChinese": "升級太空船起飛系統，減少升空的<span class=\"name name-stellar\">燃料花費</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.landinggearmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 50,
+  "Requirements": {
+    "JELLY": {
+      "ID": "JELLY",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Launcher",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Launcher_TakeOffCost",
+      "Bonus": 0.8,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "LAUNCHER",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

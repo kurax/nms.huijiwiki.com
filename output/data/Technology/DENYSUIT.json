@@ -1,0 +1,115 @@
+{
+  "ID": "DENYSUIT",
+  "Group": "",
+  "Name": {
+    "English": "MARK OF THE DENIER",
+    "SimplifiedChinese": "反抗者的标记",
+    "TraditionalChinese": "拒者的印記"
+  },
+  "NameLower": {
+    "English": "Mark of the Denier",
+    "SimplifiedChinese": "反抗者的标记",
+    "TraditionalChinese": "拒者的印記"
+  },
+  "Subtitle": {
+    "English": "Cosmic Brand",
+    "SimplifiedChinese": "宇宙系带",
+    "TencentChinese": "无价碎片",
+    "TraditionalChinese": "宇宙烙印"
+  },
+  "Description": {
+    "English": "A tiny mote of stardust, no more than a speck. On closer examination, its surface is all crystalline shards and distorted crimson geometry.<br><br>It flickers with pent-up energy, demanding to be free.<br><br><span class=\"name name-stellar\">Empower</span> the mark as you <span class=\"name name-technology\">discover</span> systems, planets and objects across the universe.",
+    "SimplifiedChinese": "一簇微不足道的星尘颗粒。仔细查看时能够发现星尘表面遍布着晶体碎片与扭曲的绯红色几何图案。<br><br>星尘中积累的能量因渴望被释放而悸动不停。<br><br>通过<span class=\"name name-technology\">发现</span>宇宙中的星系、行星以及各类对象来为标记<span class=\"name name-stellar\">充能</span>。",
+    "TencentChinese": "GoogleTranslated",
+    "TraditionalChinese": "一粒微不足道的星塵，極其渺小。仔細一看，表面布滿了結晶碎片和緋紅色的扭曲幾何形狀。<br><br>這粒能量備受壓抑的塵埃閃閃發亮，似乎想要掙脫。<br><br>只要<span class=\"name name-technology\">發現</span>星系、星球等宇宙中的物體，就能為印記<span class=\"name name-stellar\">充能</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4products/product.hereticcore.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": [
+    "TECHFRAG"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Impossible",
+  "Value": 120,
+  "Requirements": {
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 16
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 16
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 16
+    }
+  },
+  "BaseStat": "Suit_Denier",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Denier",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.8,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

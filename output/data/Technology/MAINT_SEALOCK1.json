@@ -1,0 +1,96 @@
+{
+  "ID": "MAINT_SEALOCK1",
+  "Group": "",
+  "Name": {
+    "English": "PEARL OFFERING",
+    "SimplifiedChinese": "珍珠供品",
+    "TraditionalChinese": "珍珠獻物"
+  },
+  "NameLower": {
+    "English": "Pearl Offering",
+    "SimplifiedChinese": "珍珠供品",
+    "TraditionalChinese": "珍珠獻物"
+  },
+  "Subtitle": {
+    "English": "Offering to the Sea",
+    "SimplifiedChinese": "供奉给大海",
+    "TraditionalChinese": "深海獻祭"
+  },
+  "Description": {
+    "English": "The chest requires a <span class=\"name name-special\">Living Pearl</span>, harvested from the giant mother-molluscs that grow on the ocean floor.",
+    "SimplifiedChinese": "打开此箱，需要一只<span class=\"name name-special\">活体珍珠</span>，海底生长的巨型母系软体动物身上可以收获到那样的东西。",
+    "TraditionalChinese": "寶箱需要<span class=\"name name-special\">活珍珠</span>方能開啟，活珍珠可於生長在海底的巨大蚌中取得。",
+    "USEnglish": "The chest requires a <span class=\"name name-special\">Living Pearl</span>, harvested from the giant mother-mollusks that grow on the ocean floor."
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4products/product.clampearl.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "CLAMPEARL": {
+      "ID": "CLAMPEARL",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,120 @@
+{
+  "ID": "WARP_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "SINGULARITY CORTEX",
+    "SimplifiedChinese": "奇点主茎",
+    "TraditionalChinese": "奇異點皮質"
+  },
+  "NameLower": {
+    "English": "Singularity Cortex",
+    "SimplifiedChinese": "奇点主茎",
+    "TraditionalChinese": "奇異點皮質"
+  },
+  "Subtitle": {
+    "English": "Fused Organic Technology",
+    "SimplifiedChinese": "有机融合技术",
+    "TraditionalChinese": "融合有機科技"
+  },
+  "Description": {
+    "English": "A complex bio-metallic stem plugged directly into an antimatter heart. Registers high activity during interstellar jumps. It appears to delight in the complex calculations required for FTL travel.<br><br>Access long-distance navigation systems through Galactic Map. Keep the ship happy by regularly jumping between systems.",
+    "SimplifiedChinese": "一种复杂的生物金属茎，直接插入反物质心脏。在星际跳跃中特别活跃。它似乎对超光速旅行所需的复杂计算感到高兴。<br><br>通过银河星图访问远程导航系统。定期在两个星系之间跃迁，以保持船的快乐。",
+    "TraditionalChinese": "直接嵌入反物質心臟的複雜生物金屬主幹，在星際跳躍時會有大量活動。它似乎很享受超光速旅行所需的複雜計算。<br><br>透過銀河地圖使用長途導航系統，定期在星系之間跳躍就能讓太空船保持好心情。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/biotech.eyecluster.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 120,
+  "ChargeType": "Stellar",
+  "ChargeBy": [
+    "STELLAR2",
+    "FOOD_R_MEAT",
+    "SPACEGUNK4"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "FIENDCORE": {
+      "ID": "FIENDCORE",
+      "Type": "Product",
+      "Amount": 4
+    },
+    "SPACEGUNK5": {
+      "ID": "SPACEGUNK5",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Hyperdrive",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpDistance",
+      "Bonus": 100,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpsPerCell",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "HYPERDRIVE",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

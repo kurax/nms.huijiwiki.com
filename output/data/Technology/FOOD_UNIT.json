@@ -1,0 +1,111 @@
+{
+  "ID": "FOOD_UNIT",
+  "Group": "",
+  "Name": {
+    "English": "NUTRIENT INGESTOR",
+    "SimplifiedChinese": "营养摄入器",
+    "TraditionalChinese": "營養攝取器"
+  },
+  "NameLower": {
+    "English": "Nutrient Ingestor",
+    "SimplifiedChinese": "营养摄入器",
+    "TraditionalChinese": "營養攝取器"
+  },
+  "Subtitle": {
+    "English": "Automatic Feeding Unit",
+    "SimplifiedChinese": "自动喂食单元",
+    "TraditionalChinese": "自動餵食裝置"
+  },
+  "Description": {
+    "English": "The nutrient ingestor improves <span class=\"name name-technology\">exosuit performance</span> via the automatic portioning and processing of various <span class=\"name name-stellar\">cooked items</span>.<br><br>Select <span class=\"name name-commodity\">Begin Ingestion</span> to commence automatic consumption of supplied ingredients.",
+    "SimplifiedChinese": "营养摄入器能够对各类<span class=\"name name-technology\">烹饪过的物品</span>进行自动化分类与加工以提高<span class=\"name name-stellar\">套装性能</span>。<br><br>选择<span class=\"name name-commodity\">开始摄入</span>以自动消耗补给品。",
+    "TraditionalChinese": "營養攝取器能透過自動分配和處理各種<span class=\"name name-stellar\">熟食</span>，改善<span class=\"name name-technology\">強化套裝效能</span>。<br><br>選擇<span class=\"name name-commodity\">開始攝取</span>將開始自動消耗提供的材料。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/feeding.tube.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "FARMPROD2": {
+      "ID": "FARMPROD2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Suit_FoodUnit",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_FoodUnit",
+      "Bonus": 1,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 350,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

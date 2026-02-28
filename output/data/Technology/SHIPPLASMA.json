@@ -1,0 +1,148 @@
+{
+  "ID": "SHIPPLASMA",
+  "Group": "",
+  "Name": {
+    "English": "CYCLOTRON BALLISTA",
+    "SimplifiedChinese": "回旋加速弩炮",
+    "TraditionalChinese": "迴旋加速弩砲"
+  },
+  "NameLower": {
+    "English": "Cyclotron Ballista",
+    "SimplifiedChinese": "回旋加速弩炮",
+    "TraditionalChinese": "迴旋加速弩砲"
+  },
+  "Subtitle": {
+    "English": "Anti-Electronics Starship Weapon",
+    "SimplifiedChinese": "反电子飞船武器",
+    "TencentChinese": "非引导性飞船武器",
+    "TraditionalChinese": "反電子太空船武器"
+  },
+  "Description": {
+    "English": "A powerful ship-to-ship weapon, flinging plasmatic balls of ionising radiation towards the selected target. These projectiles can <span class=\"name name-technology\">disable starship engines</span>, leaving the target vulnerable to attack from other weapons.<br><br>These charged particles are <span class=\"name name-stellar\">extremely effective</span> against starship <span class=\"name name-stellar\">shields</span>, and considerably weaker against the metal armour of a ship's hull.<br><br>Use <span class=\"name name-img\">CYCLEWEAPON</span> to change weapon mode. Press <span class=\"name name-img\">SHIPFIRE</span> to fire.",
+    "SimplifiedChinese": "一种强大的舰对舰武器，将电离辐射的等离子球体射向选定的目标。这些射弹可以<span class=\"name name-technology\">使飞船驱动器失效</span>，从而使目标更容易受到其他武器的攻击。<br><br>这些带电粒子对飞船的<span class=\"name name-stellar\">护盾</span><span class=\"name name-stellar\">极为有效</span>，但是对船体的金属装甲破坏力较弱。<br><br>使用<span class=\"name name-img\">CYCLEWEAPON</span>变更武器模式。按下<span class=\"name name-img\">SHIPFIRE</span>发射。",
+    "TencentChinese": "向前方目标发射充满粒子的巨大浓缩球，造成巨大伤害。非定向，且将继续沿弹道飞行直至撞击物体。",
+    "TraditionalChinese": "一種強大的太空船作戰武器，可向選定的目標投擲離子化輻射電漿球。這些射彈可以<span class=\"name name-technology\">癱瘓太空船引擎</span>，讓目標暴露在其他武器的攻擊下。<br><br>這些充能粒子對付太空船<span class=\"name name-stellar\">防護罩</span><span class=\"name name-stellar\">極為有效</span>，對付太空船船身的金屬裝甲則顯得弱勢許多。<br><br>使用 <span class=\"name name-img\">CYCLEWEAPON</span> 即可切換武器模式。按住 <span class=\"name name-img\">SHIPFIRE</span> 即可開火。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.ionblast.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "COLD1": {
+      "ID": "COLD1",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_Plasma",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "Bonus": 3,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Dispersion",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_BulletsPerShot",
+      "Bonus": 2,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 2,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "Bonus": 600,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Range",
+      "Bonus": 1250,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Scale",
+      "Bonus": 3,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_CoolTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage_Radius",
+      "Bonus": 3,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.80392158,
+    "G": 0.380392164,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Normal",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

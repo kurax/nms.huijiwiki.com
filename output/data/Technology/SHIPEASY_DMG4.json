@@ -1,0 +1,96 @@
+{
+  "ID": "SHIPEASY_DMG4",
+  "Group": "",
+  "Name": {
+    "English": "CORRODED TANKS",
+    "SimplifiedChinese": "燃料箱腐蚀",
+    "TraditionalChinese": "腐蝕的燃料槽"
+  },
+  "NameLower": {
+    "English": "Corroded Tanks",
+    "SimplifiedChinese": "燃料箱腐蚀",
+    "TraditionalChinese": "腐蝕的燃料槽"
+  },
+  "Subtitle": {
+    "English": "Damaged Starship Component",
+    "SimplifiedChinese": "受损的飞船部件",
+    "TraditionalChinese": "受損太空船元件"
+  },
+  "Description": {
+    "English": "Starship subsystem <span class=\"name name-fuel\">severely damaged</span>. Slot cannot be used for <span class=\"name name-stellar\">storage</span> or <span class=\"name name-technology\">technology</span> until damage is repaired. Use <span class=\"name name-img\">REPAIR</span> to begin repair process.<br><br>Core starship functionality is not affected. Repairing this damage will free slot up for general inventory use.",
+    "SimplifiedChinese": "飞船子系统<span class=\"name name-fuel\">严重受损</span>。栏位无法用于<span class=\"name name-stellar\">储存</span>或<span class=\"name name-technology\">技术</span>用途，直至损害得到修复。使用<span class=\"name name-img\">REPAIR</span>启动修复过程。<br><br>飞船核心机能将不受影响。修复该损伤将使栏位空出，以供一般库存用途使用。",
+    "TencentChinese": "飞船子系统<span class=\"name name-fuel\">严重受损</span>。<br><br>栏位无法用于<span class=\"name name-stellar\">储存</span>或<span class=\"name name-technology\">技术</span>，直至损害得到修复。使用<span class=\"name name-img\">REPAIR</span>启动修复过程。",
+    "TraditionalChinese": "太空船子系統<span class=\"name name-fuel\">嚴重受損</span>。損害修復前，欄位無法用於<span class=\"name name-stellar\">儲存</span>或<span class=\"name name-technology\">科技</span>。使用 <span class=\"name name-img\">REPAIR</span> 開始進行修復。<br><br>太空船的核心功能不會受到影響。修復毀損部分後，欄位即可供一般使用。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4products/product.s10.robotcore.png",
+  "Colour": {
+    "R": 0.482352942,
+    "G": 0,
+    "B": 0,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": true,
+  "Category": "Ship",
+  "Rarity": "Impossible",
+  "Value": 100,
+  "Requirements": {
+    "OXYGEN": {
+      "ID": "OXYGEN",
+      "Type": "Substance",
+      "Amount": 70
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

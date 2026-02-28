@@ -1,0 +1,165 @@
+{
+  "ID": "BOLT",
+  "Group": "",
+  "Name": {
+    "English": "BOLTCASTER",
+    "SimplifiedChinese": "离子闪电发射器",
+    "TraditionalChinese": "雷霆砲"
+  },
+  "NameLower": {
+    "English": "Boltcaster",
+    "SimplifiedChinese": "离子闪电发射器",
+    "TraditionalChinese": "雷霆砲"
+  },
+  "Subtitle": {
+    "English": "Energy Projectile Weapon",
+    "SimplifiedChinese": "能量射弹武器",
+    "TraditionalChinese": "能量射彈武器"
+  },
+  "Description": {
+    "English": "Generalist weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technololy\">Boltcaster</span> reconfigures the Multi-Tool to supercharge <span class=\"name name-earth\">Metallic Elements</span>, firing them as <span class=\"name name-stellar\">high-velocity projectiles</span> capable of causing extreme damage.",
+    "SimplifiedChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的通用型武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">离子闪电发射器</span>重新配置的多用途工具可将增压的<span class=\"name name-earth\">金属元素</span>以<span class=\"name name-stellar\">高速射弹</span>的形式射出，并造成巨大伤害。",
+    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的通用武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br><span class=\"name name-technology\">雷霆砲</span>會重新設定工具組，讓工具組過量充能<span class=\"name name-earth\">金屬元素</span>，再把這些金屬當成可造成極大傷害的<span class=\"name name-stellar\">高速子彈</span>射出。",
+    "USEnglish": "Generalist weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technology\">Boltcaster</span> reconfigures the Multi-Tool to supercharge <span class=\"name name-earth\">Metallic Elements</span>, firing them as <span class=\"name name-stellar\">high-velocity projectiles</span> capable of causing extreme damage."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Switch Multi-Tool mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span>",
+    "SimplifiedChinese": "按下<span class=\"name name-img\">CYCLEWEAPON</span>切换多用途工具模式",
+    "TraditionalChinese": "按下 <span class=\"name name-img\">CYCLEWEAPON</span> 切換工具組模式"
+  },
+  "Icon": "ui/frontend/icons/technology/render.projectile1.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 200,
+  "ChargeType": "Earth",
+  "ChargeBy": [
+    "LAND1",
+    "LAND2",
+    "LAND3"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": true,
+  "AmmoId": "AMMO",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "VeryCommon",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "BaseStat": "Weapon_Projectile",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Projectile",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "Bonus": 180,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Range",
+      "Bonus": 300,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Rate",
+      "Bonus": 7.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_ClipSize",
+      "Bonus": 64,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Recoil",
+      "Bonus": 200,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_ReloadTime",
+      "Bonus": 0.8,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Dispersion",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCap",
+      "Bonus": 6,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCooldown",
+      "Bonus": 0.66,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_MaximumCharge",
+      "Bonus": 200,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 0.992156863,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,116 @@
+{
+  "ID": "VEHICLE_GRIP2",
+  "Group": "",
+  "Name": {
+    "English": "GRIP BOOST SUSPENSION",
+    "SimplifiedChinese": "控制推进悬挂",
+    "TraditionalChinese": "抓地推進懸吊"
+  },
+  "NameLower": {
+    "English": "Grip Boost Suspension",
+    "SimplifiedChinese": "控制推进悬挂",
+    "TraditionalChinese": "抓地推進懸吊"
+  },
+  "Subtitle": {
+    "English": "Exocraft Handling Modification",
+    "SimplifiedChinese": "强化艇操控改装",
+    "TraditionalChinese": "強化艇操縱改造"
+  },
+  "Description": {
+    "English": "Overhauls Exocraft handling values through a combination of software tweaks, pressure adjustments and the insertion of microgravity wells into key suspension components.<br><br>Specifically tuned to increase the ability of the Exocraft to <span class=\"name name-stellar\">turn sharply</span>.",
+    "SimplifiedChinese": "通过软件微调、压力调整和将微重力井插入关键悬挂部件的组合，彻底改变强化艇的操控数值。<br><br>专门调试以增加强化艇的<span class=\"name name-stellar\">急转</span>能力。",
+    "TraditionalChinese": "結合軟體微調、壓力調整，並將微重力穴插入重要懸吊元件，來改良強化艇操縱值。<br><br>特別經過校正，以提高強化艇的功能，以利<span class=\"name name-stellar\">過急彎</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.traction.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Grip",
+      "Bonus": 0.5,
+      "Level": 3
+    },
+    {
+      "Stat": "Vehicle_SkidGrip",
+      "Bonus": 2.1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 10,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

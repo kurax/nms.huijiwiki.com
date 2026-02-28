@@ -1,0 +1,102 @@
+{
+  "ID": "T_SHIP_PLASMA",
+  "Group": "",
+  "Name": {
+    "English": "PLASMA STARSHIP TRAIL",
+    "SimplifiedChinese": "等离子飞船尾迹",
+    "TraditionalChinese": "電漿太空船尾跡"
+  },
+  "NameLower": {
+    "English": "Plasma Starship Trail",
+    "SimplifiedChinese": "等离子飞船尾迹",
+    "TraditionalChinese": "電漿太空船尾跡"
+  },
+  "Subtitle": {
+    "English": "Starship Exhaust Override",
+    "SimplifiedChinese": "飞船排气管覆盖品",
+    "TraditionalChinese": "太空船排氣管覆寫"
+  },
+  "Description": {
+    "English": "An exclusive <span class=\"name name-stellar\">Starship Exhaust Modifier</span>.<br><br>A visual enhancement for the starship, replacing traditional exhaust jets with a plasma thruster and generating a dramatic plume of ionised matter.<br><br>Install this <span class=\"name name-technology\">technology</span> in your starship inventory to change the appearance of the engine exhaust trails.",
+    "SimplifiedChinese": "专属的<span class=\"name name-stellar\">飞船排气管修改器</span>。<br><br>一种飞船的视觉增强装置，用等离子推进器取代传统的排气喷射器，会产生壮丽的离子化物质尾迹。<br><br>在你的飞船库存中安装这个<span class=\"name name-technology\">技术</span>以改变驱动器排气管尾迹的外观。",
+    "TraditionalChinese": "獨特的<span class=\"name name-stellar\">太空船排氣管改造器</span>。<br><br>強化太空船的視覺效果，用電漿推進器取代傳統的噴射口，產生大量的離子物質氣流。<br><br>安裝此<span class=\"name name-technology\">科技</span>到你的太空船道具欄，改變引擎廢氣尾跡的外觀。",
+    "USEnglish": "An exclusive <span class=\"name name-stellar\">Starship Exhaust Modifier</span>.<br><br>A visual enhancement for the starship, replacing traditional exhaust jets with a plasma thruster and generating a dramatic plume of ionized matter.<br><br>Install this <span class=\"name name-technology\">technology</span> in your starship inventory to change the appearance of the engine exhaust trails."
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/specialshop/expedition.s19.shiptrail.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShips",
+  "Rarity": "Impossible",
+  "Value": 1,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 10
+    }
+  },
+  "BaseStat": "Ship_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Boost",
+      "Bonus": 1.01,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

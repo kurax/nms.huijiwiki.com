@@ -1,0 +1,126 @@
+{
+  "ID": "SCANBINOC1",
+  "Group": "",
+  "Name": {
+    "English": "ANALYSIS VISOR",
+    "SimplifiedChinese": "分析面甲",
+    "TraditionalChinese": "分析護目鏡"
+  },
+  "NameLower": {
+    "English": "Analysis Visor",
+    "SimplifiedChinese": "分析面甲",
+    "TraditionalChinese": "分析護目鏡"
+  },
+  "Subtitle": {
+    "English": "Binocular Tagging Device",
+    "SimplifiedChinese": "双筒望远镜标记装置",
+    "TraditionalChinese": "雙筒望遠鏡外接裝置"
+  },
+  "Description": {
+    "English": "Specialist <span class=\"name name-technology\">Discovery</span> and <span class=\"name name-technology\">Survey</span> unit.<br><br>Augments standard <span class=\"name name-technology\">Scanner</span> capabilities by projecting detailed environmental data directly over the user's visor. Allows the identification of <span class=\"name name-stellar\">distant points of interest</span>.<br><br>The Visor will generate <span class=\"name name-commodity\">valuable data</span> when used to study <span class=\"name name-tradeable\">flora</span>, <span class=\"name name-fuel\">fauna</span> and <span class=\"name name-technology\">minerals</span>.<br><br>Hold <span class=\"name name-img\">AIM</span> to operate. Press <span class=\"name name-img\">ZOOM</span> to zoom.",
+    "SimplifiedChinese": "用于<span class=\"name name-technology\">探索</span>和<span class=\"name name-technology\">调查</span>的专业型装置。<br><br>通过将详细的环境数据直接投射至使用者的视觉系统来增强标准<span class=\"name name-technology\">扫描仪</span>的功能。可以识别<span class=\"name name-stellar\">遥远的重要地点</span>。<br><br>面甲可在研究<span class=\"name name-tradeable\">植物群系</span>、<span class=\"name name-fuel\">动物群系</span>和<span class=\"name name-technology\">矿物</span>时生成<span class=\"name name-commodity\">有价值的数据</span>。<br><br>按住<span class=\"name name-img\">AIM</span>操作。按下<span class=\"name name-img\">ZOOM</span>缩放。",
+    "TencentChinese": "用于<span class=\"name name-technology\">探索</span>和<span class=\"name name-technology\">调查</span>的专业型装置。<br><br>通过将详细的环境数据直接投射至使用者的视觉系统来增强标准<span class=\"name name-technology\">扫描仪</span>的功能。可以识别<span class=\"name name-stellar\">遥远的兴趣点</span>。<br><br>面甲可在研究<span class=\"name name-tradeable\">植物群系</span>、<span class=\"name name-fuel\">动物群系</span>和<span class=\"name name-technology\">矿物</span>时生成<span class=\"name name-commodity\">有价值的数据</span>。<br><br>按住<span class=\"name name-img\">AIM</span>操作。按下<span class=\"name name-img\">ZOOM</span>缩放。",
+    "TraditionalChinese": "專家<span class=\"name name-technology\">發現</span>與<span class=\"name name-technology\">調查</span>單元。<br><br>能強化標準的<span class=\"name name-technology\">掃描器</span>，將詳細的環境資料直接投影至使用者的護目鏡。允許辨識<span class=\"name name-stellar\">遙遠的重要地點</span>。<br><br>使用護目鏡研究<span class=\"name name-tradeable\">植物</span>、<span class=\"name name-fuel\">動物</span>及<span class=\"name name-technology\">礦物</span>時，會產出<span class=\"name name-commodity\">珍貴資料</span>。<br><br>按住 <span class=\"name name-img\">AIM</span> 操作。按下 <span class=\"name name-img\">ZOOM</span> 縮放。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Use %TECH% by holding <span class=\"name name-img\">AIM</span><br>Zoom in by pressing <span class=\"name name-img\">ZOOM</span>",
+    "SimplifiedChinese": "长按 <span class=\"name name-img\">AIM</span> 使用%TECH%<br>按 <span class=\"name name-img\">ZOOM</span> 缩放",
+    "TraditionalChinese": "按住 <span class=\"name name-img\">AIM</span> 以使用%TECH%<br>按下 <span class=\"name name-img\">ZOOM</span> 放大"
+  },
+  "Icon": "ui/frontend/icons/technology/render.binoculars.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Always",
+  "Value": 15,
+  "Requirements": {
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Scan_Binoculars",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Scan_Binoculars",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Creature",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Flora",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Scan_Secondary",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": {
+    "English": "The Analysis Visor is a planetary <span class=\"name name-technology\">exploration device</span> that locates and <span class=\"name name-technology\">highlights nearby points of interest</span>.<br><br>It can also be used to analyse <span class=\"name name-tradeable\">flora</span>, <span class=\"name name-fuel\">fauna</span> and <span class=\"name name-technology\">minerals</span>. Analysis results in <span class=\"name name-commodity\">commercially valuable data</span>, as well as revealing <span class=\"name name-technology\">additional resources</span>.",
+    "SimplifiedChinese": "分析面甲是一种星际<span class=\"name name-technology\">探索设备</span>，可以定位并<span class=\"name name-technology\">标记附近的兴趣点</span>。<br><br>也可以用于分析<span class=\"name name-tradeable\">植物</span>、<span class=\"name name-fuel\">动物</span>以及<span class=\"name name-technology\">矿物</span>。分析结果将得出<span class=\"name name-commodity\">商用宝贵数据</span>，并发现<span class=\"name name-technology\">额外资源</span>。",
+    "TraditionalChinese": "分析護目鏡是行星<span class=\"name name-technology\">探索裝置</span>，能用來定位及<span class=\"name name-technology\">標示附近的重要地點</span>。<br><br>這種裝置也可以用來分析<span class=\"name name-tradeable\">植物</span>、<span class=\"name name-fuel\">動物</span>以及<span class=\"name name-technology\">礦物</span>。分析能得出<span class=\"name name-commodity\">具商業價值的數據</span>，也能找出<span class=\"name name-technology\">額外資源</span>。",
+    "USEnglish": "The Analysis Visor is a planetary <span class=\"name name-technology\">exploration device</span> that locates and <span class=\"name name-technology\">highlights nearby points of interest</span>.<br><br>It can also be used to analyze <span class=\"name name-tradeable\">flora</span>, <span class=\"name name-fuel\">fauna</span> and <span class=\"name name-technology\">minerals</span>. Analysis results in <span class=\"name name-commodity\">commercially valuable data</span>, as well as revealing <span class=\"name name-technology\">additional resources</span>."
+  },
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

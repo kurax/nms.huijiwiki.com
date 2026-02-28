@@ -1,0 +1,95 @@
+{
+  "ID": "MAINT_FRIG3",
+  "Group": "",
+  "Name": {
+    "English": "THERMOREGULATOR",
+    "SimplifiedChinese": "调温器",
+    "TraditionalChinese": "溫度調節器"
+  },
+  "NameLower": {
+    "English": "Thermoregulator",
+    "SimplifiedChinese": "调温器",
+    "TraditionalChinese": "溫度調節器"
+  },
+  "Subtitle": {
+    "English": "Damaged Component",
+    "SimplifiedChinese": "受损部件",
+    "TraditionalChinese": "元件受損"
+  },
+  "Description": {
+    "English": "A control unit designed to keep temperatures even across the device. The sensor unit is damaged, causing it to vent or generate heat at inappropriate times.",
+    "SimplifiedChinese": "一个控制单元，用于使设备保持恒温。由于传感器单元受损，使其在不适当时间通风或聚热。",
+    "TraditionalChinese": "控制元件，設計能讓裝置內各處溫度維持穩定。感應元件已毀損，導致元件在不當時機抽風或生熱。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.fuel3.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

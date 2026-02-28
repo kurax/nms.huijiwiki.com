@@ -1,0 +1,111 @@
+{
+  "ID": "PRESSURE_SUIT",
+  "Group": "",
+  "Name": {
+    "English": "PRESSURE MEMBRANE",
+    "SimplifiedChinese": "压力薄膜",
+    "TraditionalChinese": "壓力膜"
+  },
+  "NameLower": {
+    "English": "Pressure Membrane",
+    "SimplifiedChinese": "压力薄膜",
+    "TraditionalChinese": "壓力膜"
+  },
+  "Subtitle": {
+    "English": "Reinforced Barometric Stabiliser",
+    "SimplifiedChinese": "强化气压稳定器",
+    "TraditionalChinese": "強化氣壓穩定器"
+  },
+  "Description": {
+    "English": "Extreme pressure environments - such as deep water - cause elevated stress on the Exosuit's <span class=\"name name-technology\">oxygen circulation</span> and general life support systems.<br><br>Installation of this reinforced pressurisation shell increases <span class=\"name name-stellar\">efficiency</span> and <span class=\"name name-stellar\">protection</span> while operating in high-pressure environments.",
+    "SimplifiedChinese": "类似深海区域等极端压力环境会给套装的<span class=\"name name-technology\">氧气循环</span>以及常规维生系统带来巨大的压力。<br><br>安装这层强化增压外壳能够提高在高压环境下进行作业时的<span class=\"name name-stellar\">效率</span>与<span class=\"name name-stellar\">保护</span>。",
+    "TraditionalChinese": "極端壓力環境 (例如深水) 會導致強化套裝的<span class=\"name name-technology\">氧氣循環</span>和一般維生系統承受更大的壓力。<br><br>安裝這種強化增壓殼，能提升高壓作業環境下的<span class=\"name name-stellar\">效率</span>和<span class=\"name name-stellar\">防護</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protectgenericmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "OXYGEN": {
+      "ID": "OXYGEN",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "CARBON_SEAL": {
+      "ID": "CARBON_SEAL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "SUBFUEL": {
+      "ID": "SUBFUEL",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_Pressure",
+      "Bonus": 1.8,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.788235307,
+    "G": 0.815686285,
+    "B": 0.894117653,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 320,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

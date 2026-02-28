@@ -1,0 +1,111 @@
+{
+  "ID": "FISH_SKIFF",
+  "Group": "",
+  "Name": {
+    "English": "EXO-SKIFF",
+    "SimplifiedChinese": "强化快艇",
+    "TraditionalChinese": "強化艇"
+  },
+  "NameLower": {
+    "English": "Exo-Skiff",
+    "SimplifiedChinese": "强化快艇",
+    "TraditionalChinese": "強化艇"
+  },
+  "Subtitle": {
+    "English": "Deployable Fishing Platform",
+    "SimplifiedChinese": "可部署垂钓平台",
+    "TraditionalChinese": "可部署釣魚平台"
+  },
+  "Description": {
+    "English": "A deployable static platform, allowing the user to comfortably survey the seas in any weather. As well as providing a steady and easily accessible fishing spot, the Exo-Skiff also features abundant <span class=\"name name-technology\">Cold Storage</span>, granting additional space to store your catch. <br><br><span class=\"name name-stellar\">Summon</span> the Exo-Skiff to any suitable body of water using the Quick Menu (<span class=\"name name-img\">QUICK_MENU</span>).",
+    "SimplifiedChinese": "可部署的静态平台，允许使用者在所有气候条件下惬意观赏海洋风光。除此以外还能够提供稳定而且方便的钓鱼点，强化快艇内置有容量充足的<span class=\"name name-technology\">冷藏箱</span>，能够为你提供存放渔获的额外空间。<br><br>使用快捷菜单（<span class=\"name name-img\">QUICK_MENU</span>）在符合条件的水体上<span class=\"name name-stellar\">召唤</span>强化快艇。",
+    "TraditionalChinese": "可部署的固定平台，方便使用者無懼天候舒適地探勘海洋。強化艇不僅提供穩定、方便的釣魚地點，更備有容量龐大的<span class=\"name name-technology\">冷藏庫</span>，利用額外的空間儲藏漁獲。<br><br>使用快捷選單 (<span class=\"name name-img\">QUICK_MENU</span>) 在任何適合的水域中<span class=\"name name-stellar\">召喚</span>強化艇。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/tech.fishskiff.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 120
+    },
+    "WATER1": {
+      "ID": "WATER1",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "VENTGEM": {
+      "ID": "VENTGEM",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Suit_FishPlatform",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_FishPlatform",
+      "Bonus": 1,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 90,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

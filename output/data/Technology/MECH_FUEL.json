@@ -1,0 +1,111 @@
+{
+  "ID": "MECH_FUEL",
+  "Group": "",
+  "Name": {
+    "English": "SELF-GREASING SERVOS",
+    "SimplifiedChinese": "自润滑伺服系统",
+    "TraditionalChinese": "自動潤滑伺服"
+  },
+  "NameLower": {
+    "English": "Self-Greasing Servos",
+    "SimplifiedChinese": "自润滑伺服系统",
+    "TraditionalChinese": "自動潤滑伺服"
+  },
+  "Subtitle": {
+    "English": "Motor Efficiency Upgrade",
+    "SimplifiedChinese": "马达效率升级",
+    "TraditionalChinese": "馬達節能升級"
+  },
+  "Description": {
+    "English": "An automatically-regulated lubricant dispenser fitted to the leg joints of the Minotaur reduce friction and encourage fuel-efficient motion.<br><br>Significantly <span class=\"name name-stellar\">reduces fuel burn</span> in the Minotaur's Daedalus Engine.",
+    "SimplifiedChinese": "安装在弥诺陶洛斯腿部接合处的自动调节润滑剂分配器，可减少摩擦，并促进节能运动。<br><br>显著减少弥诺陶洛斯搭载的代达罗斯引擎的<span class=\"name name-stellar\">燃料消耗</span>。",
+    "TraditionalChinese": "有自動調節功能的潤滑劑分注器，能安裝到彌諾陶洛斯腿部關節，減少摩擦，能節省行動消耗的燃料。<br><br>針對彌諾陶洛斯的代達洛斯引擎，大幅<span class=\"name name-stellar\">降低燃料消耗</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.engine.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "FARMPROD1": {
+      "ID": "FARMPROD1",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "Bonus": 0.8,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "BODYLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

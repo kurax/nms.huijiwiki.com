@@ -1,0 +1,122 @@
+{
+  "ID": "UT_SHIPDRIFT",
+  "Group": "",
+  "Name": {
+    "English": "FLIGHT ASSIST OVERRIDE",
+    "SimplifiedChinese": "超控飞行协助",
+    "TraditionalChinese": "飛行輔助覆寫"
+  },
+  "NameLower": {
+    "English": "Flight Assist Override",
+    "SimplifiedChinese": "超控飞行协助",
+    "TraditionalChinese": "飛行輔助覆寫"
+  },
+  "Subtitle": {
+    "English": "Advanced Starship Pilot Module",
+    "SimplifiedChinese": "高级飞船驾驶模块",
+    "TraditionalChinese": "高級太空船駕駛員模組"
+  },
+  "Description": {
+    "English": "This grey-market electronics module disables critical safety and pilot-assistance modules usually baked into the starship's fly-by-wire control system. Despite its dubious legal status and its implication in a series of high-speed asteroid impacts, this module remains popular with smugglers, mercenaries, and others who think of themselves as advanced pilots.<br><br>Specifically tuned to increase the ability of the starship to <span class=\"name name-stellar\">drift</span> during spaceflight.",
+    "SimplifiedChinese": "这种灰色市场流通的电子模块能使关键的安全和飞行员辅助模块失效。这些模块通常被植入飞船的飞控系统，尽管它的合法性令人怀疑，而且与一系列高速小行星撞击事故有关，但这个装置仍然受到走私者、雇佣兵和其他自以为是资深驾驶员的人的欢迎。<br><br>经过专门调整，以增加飞船在太空飞行中<span class=\"name name-stellar\">漂移</span>的能力。",
+    "TraditionalChinese": "這種來自灰市的電子模組，能夠關閉重要的安全和駕駛輔助模組，後兩者通常會直接裝在太空船的線傳控制系統中。除了它可疑的法律定位，還有可能會導致一系列的高速小行星撞擊外，這個模組在走私者、傭兵，還有那些自認為是高超駕駛員的人之間十分熱門。<br><br>經過特別調校，能讓太空船在太空飛行時<span class=\"name name-stellar\">甩尾</span>。",
+    "USEnglish": "This gray-market electronics module disables critical safety and pilot-assistance modules usually baked into the starship's fly-by-wire control system. Despite its dubious legal status and its implication in a series of high-speed asteroid impacts, this module remains popular with smugglers, mercenaries, and others who think of themselves as advanced pilots.<br><br>Specifically tuned to increase the ability of the starship to <span class=\"name name-stellar\">drift</span> during spaceflight."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.pulsedrivemod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "VeryRare",
+  "Value": 10,
+  "Requirements": {
+    "HYPERFUEL2": {
+      "ID": "HYPERFUEL2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 200
+    }
+  },
+  "BaseStat": "Ship_PulseDrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Drift",
+      "Bonus": 0.6,
+      "Level": 3
+    },
+    {
+      "Stat": "Ship_BoostManeuverability",
+      "Bonus": 1.1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "Bonus": 1.005,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPJUMP1",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.945098042,
+    "G": 0.529411793,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 460,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

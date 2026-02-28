@@ -1,0 +1,121 @@
+{
+  "ID": "SOLAR_SAIL",
+  "Group": "",
+  "Name": {
+    "English": "VESPER SAIL",
+    "SimplifiedChinese": "维斯珀之帆",
+    "TraditionalChinese": "黃昏帆"
+  },
+  "NameLower": {
+    "English": "Vesper Sail",
+    "SimplifiedChinese": "维斯珀之帆",
+    "TraditionalChinese": "黃昏帆"
+  },
+  "Subtitle": {
+    "English": "Advanced Engine Technology",
+    "SimplifiedChinese": "高级驱动器技术",
+    "TraditionalChinese": "先進引擎科技"
+  },
+  "Description": {
+    "English": "A high-performance <span class=\"name name-stellar\">solar sail</span>, deployed automatically during flight. This advanced <span class=\"name name-technology\">propulsion device</span> generates an electric field within the sails themselves, allowing the starship to build momentum from the solar wind.<br><br>Offers substantial gains in <span class=\"name name-stellar\">fuel efficiency</span> and <span class=\"name name-stellar\">boost</span> performance over conventional engine systems, as well as enabling photovoltaic <span class=\"name name-stellar\">recharge</span> of the starship's <span class=\"name name-technology\">launch systems</span>.",
+    "SimplifiedChinese": "一面高性能<span class=\"name name-stellar\">太阳能帆</span>，能在飞行过程中自动部署。这种先进的<span class=\"name name-technology\">推进装置</span>在帆内产生电场，使飞船能够从太阳风中获得动力。<br><br>该技术相较传统的驱动器系统在<span class=\"name name-stellar\">燃料效率</span>和<span class=\"name name-stellar\">增压</span>性能方面有极大提高，同时还能为飞船的<span class=\"name name-technology\">发射系统</span>进行光伏<span class=\"name name-stellar\">充电</span>。",
+    "TraditionalChinese": "高性能的<span class=\"name name-stellar\">太陽能帆</span>，會在飛行過程中自動展開。這種先進的<span class=\"name name-technology\">推進裝置</span>會在帆內產生電場，讓太空船從太陽風中累積動力。<br><br>能夠大幅提高<span class=\"name name-stellar\">燃料效率</span>，並且比傳統引擎系統更能夠<span class=\"name name-stellar\">增強</span>性能，可使用光電<span class=\"name name-stellar\">充能</span>太空船的<span class=\"name name-technology\">啟動系統</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.solarsail.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Ship",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "LAUNCHSUB2": {
+      "ID": "LAUNCHSUB2",
+      "Type": "Substance",
+      "Amount": 125
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "BaseStat": "Ship_PulseDrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpFuelSpending",
+      "Bonus": 0.2,
+      "Level": 4
+    },
+    {
+      "Stat": "Ship_Launcher_AutoCharge",
+      "Bonus": 1,
+      "Level": 4
+    },
+    {
+      "Stat": "Ship_Boost",
+      "Bonus": 1.15,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_BoostManeuverability",
+      "Bonus": 1.1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,115 @@
+{
+  "ID": "SHIELD_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "SCREAM SUPPRESSOR",
+    "SimplifiedChinese": "尖叫抑制器",
+    "TraditionalChinese": "尖叫抑制器"
+  },
+  "NameLower": {
+    "English": "Scream Suppressor",
+    "SimplifiedChinese": "尖叫抑制器",
+    "TraditionalChinese": "尖叫抑制器"
+  },
+  "Subtitle": {
+    "English": "Fused Organic Technology",
+    "SimplifiedChinese": "有机融合技术",
+    "TraditionalChinese": "融合有機科技"
+  },
+  "Description": {
+    "English": "This small extension to the ship's automated defense network appears to be its own autonomous organism. A small mouth in the centre of its flesh hungers for <span class=\"name name-special\">Pugneum</span>.<br><br>During combat, it seems to hijack the neurological array and prevent fear or pain from traumatising the rest of the ship's body.",
+    "SimplifiedChinese": "该舰自动化防御网络的这一小部分延伸似乎是它自己的自主有机体。它的中央有一个小嘴巴渴望吞食<span class=\"name name-special\">普茵</span>。<br><br>在战斗中，它似乎劫持了神经系统阵列，防止恐惧或疼痛对船上其他部位造成创伤。",
+    "TraditionalChinese": "這是太空船自動防禦系統的小型配件，彷彿像是獨立存在的生物。位於肉體中心的小型口腔渴望<span class=\"name name-special\">搏</span>。<br><br>戰鬥時，尖叫抑制器會控制神經陣列，避免恐懼或疼痛對太空船的其他部位造成創傷。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/biotech.scales.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Exotic",
+  "ChargeBy": [
+    "ROBOT1",
+    "CREATURE1",
+    "LAUNCHSUB"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Always",
+  "Value": 5,
+  "Requirements": {
+    "FISHCORE": {
+      "ID": "FISHCORE",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "SPACEGUNK2": {
+      "ID": "SPACEGUNK2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_Armour_Shield",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Armour_Shield",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Armour_Shield_Strength",
+      "Bonus": 0.65,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

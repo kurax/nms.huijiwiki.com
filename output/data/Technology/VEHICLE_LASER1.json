@@ -1,0 +1,113 @@
+{
+  "ID": "VEHICLE_LASER1",
+  "Group": "",
+  "Name": {
+    "English": "ADVANCED EXOCRAFT LASER",
+    "SimplifiedChinese": "高级强化艇激光",
+    "TencentChinese": "强化艇开采激光升级（西格玛型）",
+    "TraditionalChinese": "先進強化艇雷射"
+  },
+  "NameLower": {
+    "English": "Advanced Exocraft Laser",
+    "SimplifiedChinese": "高级强化艇激光",
+    "TencentChinese": "强化艇开采激光升级（西格玛型）",
+    "TraditionalChinese": "先進強化艇雷射"
+  },
+  "Subtitle": {
+    "English": "Exocraft Mining Upgrade",
+    "SimplifiedChinese": "强化艇开采升级",
+    "TraditionalChinese": "強化艇採礦雷射"
+  },
+  "Description": {
+    "English": "Increases power of the Exocraft Mining Laser.",
+    "SimplifiedChinese": "提升强化艇开采激光的力量。",
+    "TraditionalChinese": "提昇強化艇採礦雷射的力量。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_laseru1.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Vehicle_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_LaserDamage",
+      "Bonus": 50,
+      "Level": 3
+    },
+    {
+      "Stat": "Vehicle_LaserStrongLaser",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 210,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

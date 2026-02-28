@@ -1,0 +1,136 @@
+{
+  "ID": "MECH_ARMY_R_ARM",
+  "Group": "",
+  "Name": {
+    "English": "LIQUIDATOR RIGHT ARM",
+    "SimplifiedChinese": "清算员右臂",
+    "TraditionalChinese": "清算人右臂"
+  },
+  "NameLower": {
+    "English": "Liquidator Right Arm",
+    "SimplifiedChinese": "清算员右臂",
+    "TraditionalChinese": "清算人右臂"
+  },
+  "Subtitle": {
+    "English": "Minotaur Limb Replacement",
+    "SimplifiedChinese": "弥诺陶洛斯肢体替换组件",
+    "TraditionalChinese": "彌諾陶洛斯四肢替換零件"
+  },
+  "Description": {
+    "English": "An upgrade to the <span class=\"name name-technology\">Minotaur</span> Heavy Exocraft Hybrid, the Liquidator is a cutting-edge heavy-duty combat unit, designed to operate in the harshest of environments.<br><br>This limb override also functions as its own <span class=\"name name-stellar\">dedicated combat system</span> - a <span class=\"name name-technology\">flamethrower</span> for extreme damage at close range.<br><br>Use <span class=\"name name-img\">CYCLEWEAPON</span> to cycle available weapon modes.",
+    "SimplifiedChinese": "作为<span class=\"name name-technology\">弥诺陶洛斯</span>重型混合强化艇的升级版本，清算员是一种尖端的重装作战单元，并且被设计成能够在最险恶的环境中执行任务。<br><br>这种肢体的超控系统也能够作为<span class=\"name name-stellar\">专用战斗系统</span> - <span class=\"name name-technology\">火焰喷射器</span>能够在近距离造成显著伤害。<br><br>使用<span class=\"name name-img\">CYCLEWEAPON</span>切换可用的武器模式。",
+    "TraditionalChinese": "清算人是一種尖端耐用戰鬥機體，為<span class=\"name name-technology\">彌諾陶洛斯</span>重型混合強化艇的升級，專為在最嚴苛的環境中運作而設計。<br><br>此肢體覆寫能夠充當<span class=\"name name-stellar\">專用戰鬥系統</span>，在近距離發揮<span class=\"name name-technology\">火焰噴射器</span>的極大破壞力。<br><br>使用 <span class=\"name name-img\">CYCLEWEAPON</span> 切換可用的武器模式。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.mech.army.rarm.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 400,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "GRENFUEL1": {
+      "ID": "GRENFUEL1",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Flame",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "Bonus": 3,
+      "Level": 3
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "Bonus": 0.75,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "Bonus": 0.08,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_FireDOT",
+      "Bonus": 1,
+      "Level": 4
+    },
+    {
+      "Stat": "Weapon_FireDOT_Duration",
+      "Bonus": 3,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_FireDOT_DPS",
+      "Bonus": 25,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "RIGHTARMLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 500,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,111 @@
+{
+  "ID": "UT_STUNDMG",
+  "Group": "",
+  "Name": {
+    "English": "VOLTAIC AMPLIFIER",
+    "SimplifiedChinese": "电压放大器",
+    "TraditionalChinese": "伏打增幅器"
+  },
+  "NameLower": {
+    "English": "Voltaic Amplifier",
+    "SimplifiedChinese": "电压放大器",
+    "TraditionalChinese": "伏打增幅器"
+  },
+  "Subtitle": {
+    "English": "Damage Overload Module",
+    "SimplifiedChinese": "伤害过载模块",
+    "TraditionalChinese": "傷害超載模組"
+  },
+  "Description": {
+    "English": "A generalised upgrade for all Multi-Tool <span class=\"name name-technology\">weapon systems</span>, causing its projectiles to resonate dramatically upon impact with any appropriate electromagnetic field.<br><br>Will significantly increase the <span class=\"name name-stellar\">damage</span> dealt to any organic and inorganic entities that are currently <span class=\"name name-stellar\">stunned</span>.",
+    "SimplifiedChinese": "适用于所有多用途工具<span class=\"name name-technology\">武器系统</span>的通用型升级组件，能够使投射物与接触到的任何电磁场产生剧烈共鸣。<br><br>这种组件能够大幅提高对处于<span class=\"name name-stellar\">晕眩</span>状态的有机与无机体造成的<span class=\"name name-stellar\">伤害</span>。",
+    "TraditionalChinese": "工具組<span class=\"name name-technology\">武器系統</span>的通用升級，讓射彈在與任何適當的電磁力場碰撞時，產生劇烈的共振。<br><br>針對所有處於<span class=\"name name-stellar\">暈眩</span>狀態的有機和無機存在體，顯著提高其受到的<span class=\"name name-stellar\">傷害</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.stundamagemod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Rare",
+  "Value": 10,
+  "Requirements": {
+    "LAVA1": {
+      "ID": "LAVA1",
+      "Type": "Substance",
+      "Amount": 70
+    },
+    "POWERCELL": {
+      "ID": "POWERCELL",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Stun",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Stun_Damage_Multiplier",
+      "Bonus": 1.2,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.717647076,
+    "G": 0.858823538,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 180,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

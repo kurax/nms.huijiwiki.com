@@ -1,0 +1,126 @@
+{
+  "ID": "MECH_PROT",
+  "Group": "",
+  "Name": {
+    "English": "ENVIRONMENT CONTROL UNIT",
+    "SimplifiedChinese": "环境控制单元",
+    "TraditionalChinese": "環境管控裝置"
+  },
+  "NameLower": {
+    "English": "Environment Control Unit",
+    "SimplifiedChinese": "环境控制单元",
+    "TraditionalChinese": "環境管控裝置"
+  },
+  "Subtitle": {
+    "English": "Exocraft Hazard Protection Unit",
+    "SimplifiedChinese": "强化艇危险防护单元",
+    "TraditionalChinese": "強化艇風險防護裝置"
+  },
+  "Description": {
+    "English": "This powerful environmental neutralising system is plugged directly into the pilot as they enter the cockpit. The system is powered via the Minotaur's main engine and requires no additional input. Some minor pain may be noticed around the insertion site.<br><br>Renders the Minotaur pilot impervious to <span class=\"name name-stellar\">all environmental hazards</span>.",
+    "SimplifiedChinese": "当驾驶员进入驾驶舱时，一个强大的环境中和系统会直接插入他们体内。该系统由弥诺陶洛斯的主引擎供能，不需要额外操作。插入部位周围可能会有轻微的疼痛。<br><br>使弥诺陶洛斯驾驶员不受<span class=\"name name-stellar\">所有环境危害</span>的影响。",
+    "TraditionalChinese": "駕駛員進入駕駛艙時，這套強力環境中和系統會直接插入駕駛員的套裝。此系統的動力由彌諾陶洛斯主引擎提供，無須額外輸入。插入位置可能會出現輕微疼痛。<br><br>能使彌諾陶洛斯駕駛員不受<span class=\"name name-stellar\">任何惡劣環境</span>影響。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protectgeneric.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "STORM_CRYSTAL": {
+      "ID": "STORM_CRYSTAL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Suit_Protection_Heat",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_Heat",
+      "Bonus": 1,
+      "Level": 4
+    },
+    {
+      "Stat": "Suit_Protection_Cold",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Protection_Radiation",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Protection_Toxic",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "BODYLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

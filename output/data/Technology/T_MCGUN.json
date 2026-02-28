@@ -1,0 +1,96 @@
+{
+  "ID": "T_MCGUN",
+  "Group": {
+    "English": "Minotaur Cannon",
+    "SimplifiedChinese": "弥诺陶洛斯大炮",
+    "TraditionalChinese": "彌諾陶洛斯大砲"
+  },
+  "Name": {
+    "English": "UPGRADE MODULE",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "NameLower": {
+    "English": "Upgrade Module",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "Subtitle": "TEMPLATE_SUB",
+  "Description": "TEMPLATE_DESC",
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_gunmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 0,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": true,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 30,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 80
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Gun",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.964705884,
+    "G": 0.254901975,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.847058833,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 200,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": true,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,111 @@
+{
+  "ID": "SHIPSCAN_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "WORMHOLE BRAIN",
+    "SimplifiedChinese": "虫洞脑",
+    "TraditionalChinese": "蟲洞腦"
+  },
+  "NameLower": {
+    "English": "Wormhole Brain",
+    "SimplifiedChinese": "虫洞脑",
+    "TraditionalChinese": "蟲洞腦"
+  },
+  "Subtitle": {
+    "English": "Sentient Vessel Node",
+    "SimplifiedChinese": "有感知的容器节点",
+    "TraditionalChinese": "感知太空船節點"
+  },
+  "Description": {
+    "English": "The wormhole brain permits the ship <span class=\"name name-technology\">vision of systems far beyond its own experience</span>.  It consists of strands of neural matter, wrapped around a micro-singularity and tethered directly to the ship's visual cortex.<br><br><span class=\"name name-stellar\">Detailed economic and conflict data</span> will become available on the Galaxy Map, should the ship permit it.",
+    "SimplifiedChinese": "虫洞脑可以使得飞船<span class=\"name name-technology\">展望远远超出其自身经验的行星系统</span>。 它由多股神经物质组成，包裹着一个微型星体，并直接与飞船的视觉皮层相连。<br><br><span class=\"name name-stellar\">如果飞船允许，星系图上可以显示详细的经济和冲突数据</span>。",
+    "TraditionalChinese": "蟲洞腦能讓太空船<span class=\"name name-technology\">看到遠超其體驗的星系</span>。擁有神經物質束，包覆在微奇異點上，直接連接到太空船的視覺皮層。<br><br>若太空船允許，可以在銀河系地圖上看到<span class=\"name name-stellar\">詳細的經濟和衝突資料</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/product.stem4.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "FOOD_M_HORROR": {
+      "ID": "FOOD_M_HORROR",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "EYEBALL": {
+      "ID": "EYEBALL",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Scan_EconomyFilter",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Scan_EconomyFilter",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Scan_ConflictFilter",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

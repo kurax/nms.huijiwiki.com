@@ -1,0 +1,145 @@
+{
+  "ID": "GRENADE",
+  "Group": "",
+  "Name": {
+    "English": "PLASMA LAUNCHER",
+    "SimplifiedChinese": "等离子发射器",
+    "TraditionalChinese": "電漿發射器"
+  },
+  "NameLower": {
+    "English": "Plasma Launcher",
+    "SimplifiedChinese": "等离子发射器",
+    "TraditionalChinese": "電漿發射器"
+  },
+  "Subtitle": {
+    "English": "Explosive Grenades",
+    "SimplifiedChinese": "爆炸性榴弹",
+    "TencentChinese": "不稳定迸裂弹",
+    "TraditionalChinese": "爆裂手榴彈"
+  },
+  "Description": {
+    "English": "High-impact projectile weapon. Launched plasma shells bounce off surfaces until their internal timer triggers a large explosion.<br> <br>Charged with <span class=\"name name-fuel\">Unstable Plasma</span>. Careless use can result in damage to user.<br> <br>Press <span class=\"name name-img\">ALTATTACK</span> to activate.",
+    "SimplifiedChinese": "高强度抛射武器。所发射的等离子弹从表面弹开，直到其内部定时器激活大爆炸。<br> <br><span class=\"name name-fuel\">不稳定的等离子</span>可给本设备充能。请小心使用，不然可能会对使用者造成伤害。<br> <br>按 <span class=\"name name-img\">ALTATTACK</span> 激活。",
+    "TencentChinese": "高强度抛射武器。所发射的等离子弹从表面弹开，直到其内部定时器激活。<br> <br><span class=\"name name-fuel\">不稳定的等离子</span>可给本设备充能。请小心使用，不然可能会对使用者造成伤害。<br> <br>按 <span class=\"name name-img\">ALTATTACK</span> 激活。",
+    "TraditionalChinese": "高衝擊射彈武器。發射持續將彈殼彈回的電漿彈，直到內部計時器啟動大爆炸。<br><br>使用<span class=\"name name-fuel\">不穩定電漿</span>補充。使用時如果不小心，可能會傷害使用者。<br><br>按 <span class=\"name name-img\">ATTACK</span> 啟動。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Launch Grenades with <span class=\"name name-img\">ALTATTACK</span>",
+    "SimplifiedChinese": "按 <span class=\"name name-img\">ALTATTACK</span> 发射榴弹",
+    "TencentChinese": "按 <span class=\"name name-img\">ALTATTACK</span> 发射迸裂弹",
+    "TraditionalChinese": "按下 <span class=\"name name-img\">ALTATTACK</span> 發射榴彈"
+  },
+  "Icon": "ui/frontend/icons/technology/render.grenade.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": true,
+  "ChargeAmount": 20,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "GRENFUEL1"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "BIO": {
+      "ID": "BIO",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CARBON_SEAL": {
+      "ID": "CARBON_SEAL",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Grenade",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Grenade_Damage",
+      "Bonus": 500,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Grenade_Bounce",
+      "Bonus": 3,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Grenade_Radius",
+      "Bonus": 2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_FireDOT",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_FireDOT_Duration",
+      "Bonus": 5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_FireDOT_DPS",
+      "Bonus": 50,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.796078444,
+    "G": 0.270588249,
+    "B": 0.615686297,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 150,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

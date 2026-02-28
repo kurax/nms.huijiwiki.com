@@ -1,0 +1,124 @@
+{
+  "ID": "LAUNCHER_ROBO",
+  "Group": "",
+  "Name": {
+    "English": "ANTI-GRAVITY WELL",
+    "SimplifiedChinese": "反重力井",
+    "TraditionalChinese": "反重力井"
+  },
+  "NameLower": {
+    "English": "Anti-Gravity Well",
+    "SimplifiedChinese": "反重力井",
+    "TraditionalChinese": "反重力井"
+  },
+  "Subtitle": {
+    "English": "Aeron Sub-Orbital Engine",
+    "SimplifiedChinese": "艾伦亚轨道引擎",
+    "TraditionalChinese": "太空次軌道引擎"
+  },
+  "Description": {
+    "English": "Gently detaches the starship from gravitational fields, lifting it toward the stars.<br> <br>The well hungers for <span class=\"name name-special\">pugneum</span> or <span class=\"name name-special\">radiant shards</span>, and must be sufficiently fueled before launch.<br> <br>Hold <span class=\"name name-img\">THRUST</span> to take off from planet.<br>Hold <span class=\"name name-img\">BOOST</span> to initiate in-flight speed boost.",
+    "SimplifiedChinese": "将飞船轻柔牵离重力场，并将其“托”向星辰。<br><br>反重力井需要<span class=\"name name-special\">普茵</span>或<span class=\"name name-special\">光耀碎片</span>，并且只有在填补足够燃料之后才能够启动。<br><br>长按<span class=\"name name-img\">THRUST</span>升空并离开星球。<br>长按<span class=\"name name-img\">BOOST</span>在飞行中进行速度提升。",
+    "TraditionalChinese": "使太空船輕巧地脫離重力場，飛入群星之中。<br><br>這口井渴望著<span class=\"name name-special\">搏</span>或<span class=\"name name-special\">發光裂片</span>的能量，發射前必須補充足夠的燃料。<br><br>按住 <span class=\"name name-img\">THRUST</span> 自星球起飛。<br>按住 <span class=\"name name-img\">BOOST</span> 啟動飛行加速功能。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/robotship.launcher.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "ROBOT1",
+    "DRONE_SHARD"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "RobotShip",
+  "Rarity": "Always",
+  "Value": 5,
+  "Requirements": {
+    "DRONE_SALVAGE": {
+      "ID": "DRONE_SALVAGE",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "SPIDER_PROD": {
+      "ID": "SPIDER_PROD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 170
+    }
+  },
+  "BaseStat": "Ship_Launcher",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Launcher",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Launcher_TakeOffCost",
+      "Bonus": 25,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Launcher_AutoCharge",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

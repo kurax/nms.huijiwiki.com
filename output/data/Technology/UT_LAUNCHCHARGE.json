@@ -1,0 +1,113 @@
+{
+  "ID": "UT_LAUNCHCHARGE",
+  "Group": "",
+  "Name": {
+    "English": "LAUNCH AUTO-CHARGER",
+    "SimplifiedChinese": "启动自动充能器",
+    "TencentChinese": "发射系统充能器",
+    "TraditionalChinese": "啟動自動充電器"
+  },
+  "NameLower": {
+    "English": "Launch Auto-Charger",
+    "SimplifiedChinese": "启动自动充能器",
+    "TencentChinese": "发射系统充能器",
+    "TraditionalChinese": "啟動自動充電器"
+  },
+  "Subtitle": {
+    "English": "Starship Launch System Upgrade",
+    "SimplifiedChinese": "飞船发射系统升级",
+    "TraditionalChinese": "太空船啟動系統升級"
+  },
+  "Description": {
+    "English": "Photovoltaic panels fitted to the starship <span class=\"name name-technology\">Launch Thrusters</span> allow for a slow trickle charge while the ship is not in operation.<br><br>Harvested light is used to fuse di-hydrogen from the atmosphere and over time will <span class=\"name name-stellar\">refuel the Launch Thrusters automatically</span>.",
+    "SimplifiedChinese": "安装在飞船<span class=\"name name-technology\">发射推进器</span>上的光伏板能够在飞船停止运作时进行缓慢的涓流充电。<br><br>收集的光用于融合大气中的氢，并随着时间的推移<span class=\"name name-stellar\">自动为发射推进器补充燃料</span>。",
+    "TraditionalChinese": "安裝在太空船<span class=\"name name-technology\">啟動推進器</span>上的光電板，讓太空船待命時，可以緩慢充能。<br><br>充能器收集光線，自大氣中融合生成二氫，即可<span class=\"name name-stellar\">自動補充啟動推進器所需能量</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.landinggearmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 4,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "VeryRare",
+  "Value": 50,
+  "Requirements": {
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Launcher",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Launcher_AutoCharge",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "LAUNCHER",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 460,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

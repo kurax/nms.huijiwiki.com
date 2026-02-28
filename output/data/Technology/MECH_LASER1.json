@@ -1,0 +1,111 @@
+{
+  "ID": "MECH_LASER1",
+  "Group": "",
+  "Name": {
+    "English": "PRECISION MINOTAUR LASER",
+    "SimplifiedChinese": "精准弥诺陶洛斯激光",
+    "TraditionalChinese": "精準彌諾陶洛斯雷射"
+  },
+  "NameLower": {
+    "English": "Precision Minotaur Laser",
+    "SimplifiedChinese": "精准弥诺陶洛斯激光",
+    "TraditionalChinese": "精準彌諾陶洛斯雷射"
+  },
+  "Subtitle": {
+    "English": "Advanced Minotaur Mining Laser",
+    "SimplifiedChinese": "进阶弥诺陶洛斯开采激光",
+    "TraditionalChinese": "先進彌諾陶洛斯採礦雷射"
+  },
+  "Description": {
+    "English": "An upgrade for the <span class=\"name name-stellar\">Minotaur Heavy Exosuit Hybrid</span>'s laser array system.<br><br>Amplifies the power deployed by the mining beam, increasing mining speed and enabling the processing of difficult to mine raw materials.",
+    "SimplifiedChinese": "<span class=\"name name-stellar\">弥诺陶洛斯混合重型套件</span>激光阵列系统的升级版。<br><br>放大了开采激光的功率，提高了采矿速度，并能够处理难以开采的原材料。",
+    "TraditionalChinese": "<span class=\"name name-stellar\">彌諾陶洛斯重型強化套裝混合體</span>的雷射陣列系統升級。<br><br>能強化採礦光束輸出的能量，加快採礦速度，還能處理開採難度高的原物料。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_laseru1.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "GRAVBALL": {
+      "ID": "GRAVBALL",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_LaserDamage",
+      "Bonus": 50,
+      "Level": 3
+    },
+    {
+      "Stat": "Vehicle_LaserStrongLaser",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SCANNERLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 210,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

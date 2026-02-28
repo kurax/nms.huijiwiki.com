@@ -1,0 +1,111 @@
+{
+  "ID": "UT_SCAN",
+  "Group": "",
+  "Name": {
+    "English": "WAVEFORM RECYCLER",
+    "SimplifiedChinese": "波形循环器",
+    "TraditionalChinese": "波形循環器"
+  },
+  "NameLower": {
+    "English": "Waveform Recycler",
+    "SimplifiedChinese": "波形循环器",
+    "TraditionalChinese": "波形循環器"
+  },
+  "Subtitle": {
+    "English": "Multi-Tool Upgrade",
+    "SimplifiedChinese": "多用途工具升级",
+    "TraditionalChinese": "工具組升級"
+  },
+  "Description": {
+    "English": "A powerful lateral processor inserted into the Multi-Tool <span class=\"name name-technology\">Scanning System</span> allows the device to recharge at a significantly improved rate.<br><br>Increases <span class=\"name name-stellar\">potential scan frequency</span>.",
+    "SimplifiedChinese": "一个嵌入多用途工具<span class=\"name name-technology\">扫描系统</span>的强大横向处理器，显著提升装置的充能速度。<br><br>增加<span class=\"name name-stellar\">潜在扫描频率</span>。",
+    "TraditionalChinese": "一個嵌入工具組<span class=\"name name-technology\">掃描系統</span>的強大橫向處理器，顯著提升裝置的充能速度。<br><br>增加<span class=\"name name-stellar\">潛在掃描頻率</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.scanmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "POWERCELL": {
+      "ID": "POWERCELL",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Scan_Recharge_Time",
+      "Bonus": 0.8,
+      "Level": 2
+    },
+    {
+      "Stat": "Weapon_Scan_Radius",
+      "Bonus": 1.1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

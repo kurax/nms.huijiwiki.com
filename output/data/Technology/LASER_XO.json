@@ -1,0 +1,109 @@
+{
+  "ID": "LASER_XO",
+  "Group": "",
+  "Name": {
+    "English": "PLASMA RESONATOR",
+    "SimplifiedChinese": "光束冷却系统（西格玛型）",
+    "TencentChinese": "[SONY]光束冷却系统（西格玛型）",
+    "TraditionalChinese": "光束冷卻系統 SIGMA"
+  },
+  "NameLower": {
+    "English": "Plasma Resonator",
+    "SimplifiedChinese": "光束冷却系统（西格玛型）",
+    "TencentChinese": "[SONY]光束冷却系统（西格玛型）",
+    "TraditionalChinese": "光束冷卻系統 Sigma"
+  },
+  "Subtitle": {
+    "English": "Mining Beam Upgrade",
+    "SimplifiedChinese": "开采光束升级",
+    "TraditionalChinese": "採礦光束升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Mining Beam</span>.<br><br>Upgrades the Mining Laser's primary crystal chamber, boosting core <span class=\"name name-stellar\">beam energy</span> while decreasing unwanted <span class=\"name name-stellar\">heat spill</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">开采光束</span>的<span class=\"name name-technology\">显著</span>提升。<br><br>在采矿激光发生器的主晶室内插入额外的反射元件，提高核心<span class=\"name name-stellar\">光束能量</span>，同时减少不必要的<span class=\"name name-stellar\">热量溢出</span>。",
+    "TencentChinese": "[SONY]对<span class=\"name name-technology\">开采光束</span>的<span class=\"name name-technology\">显著</span>提升。<br><br>在采矿激光发生器的主晶室内插入额外的反射元件，提高核心<span class=\"name name-stellar\">光束能量</span>，同时减少不必要的<span class=\"name name-stellar\">热量溢出</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">採礦光束</span>的<span class=\"name name-technology\">重大</span>升級。<br><br>加入額外的反射元件至採礦雷射光束的主要結晶槍膛，提升核心<span class=\"name name-stellar\">光束能量</span>同時減少不必要的<span class=\"name name-stellar\">熱溢散</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.laser1mod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Weapon_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Laser_Mining_Speed",
+      "Bonus": 0.95,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_HeatTime",
+      "Bonus": 1.05,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 160,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

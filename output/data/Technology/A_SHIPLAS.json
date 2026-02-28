@@ -1,0 +1,96 @@
+{
+  "ID": "A_SHIPLAS",
+  "Group": {
+    "English": "Spewing Vents",
+    "SimplifiedChinese": "喷口",
+    "TraditionalChinese": "噴射口"
+  },
+  "Name": {
+    "English": "UPGRADE MODULE",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "NameLower": {
+    "English": "Upgrade Module",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "Subtitle": "TEMPLATE_SUB",
+  "Description": "TEMPLATE_DESC",
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/biotech.eye.mod.png",
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "Level": 0,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": true,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Impossible",
+  "Value": 20,
+  "Requirements": {
+    "EYEBALL": {
+      "ID": "EYEBALL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "SPACEGUNK5": {
+      "ID": "SPACEGUNK5",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_Weapons_Lasers",
+  "StatBonuses": null,
+  "RequiredTech": "SHIPLAS_ALIEN",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 170,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": true,
+  "ExclusivePrimaryStat": false
+}

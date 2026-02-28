@@ -1,0 +1,89 @@
+{
+  "ID": "MAINT_BAIT",
+  "Group": "",
+  "Name": {
+    "English": "BAIT BOX",
+    "SimplifiedChinese": "诱饵盒子",
+    "TraditionalChinese": "誘餌盒"
+  },
+  "NameLower": {
+    "English": "Bait Box",
+    "SimplifiedChinese": "诱饵盒子",
+    "TraditionalChinese": "誘餌盒"
+  },
+  "Subtitle": {
+    "English": "Automatic Bait Dispenser",
+    "SimplifiedChinese": "自动诱饵投放器",
+    "TraditionalChinese": "自動投餌機"
+  },
+  "Description": {
+    "English": "Insert <span class=\"name name-stellar\">bait or lures</span> to attract <span class=\"name name-technology\">specific fish</span>, or to improve <span class=\"name name-technology\">catch chances</span>. Note: any foodstuff may be used as bait.<br><br>Current Bait: <%NAMETAG%>%BAIT%<><br>Catch Rarity Improvement: <%RARETAG%>%RARE_BOOST%%<><br>Catch Size Improvement <%SIZETAG%>%SIZE_BOOST%%<><br>Other notes: <%TAG%>%NOTES%<>",
+    "SimplifiedChinese": "嵌入<span class=\"name name-stellar\">诱饵与鱼饵</span>以吸引<span class=\"name name-technology\">特定种类的鱼</span>或者提升<span class=\"name name-technology\">捕获几率</span>。注意：所有食物都能被用作诱饵。<br><br>当前诱饵：<%NAMETAG%>%BAIT%<><br>稀有鱼类捕获几率提升：<%RARETAG%>%RARE_BOOST%%<><br>捕获尺寸提升<%SIZETAG%>%SIZE_BOOST%%<><br>其他注意事项：<%TAG%>%NOTES%<>",
+    "TraditionalChinese": "放入<span class=\"name name-stellar\">誘餌或假餌</span>可以吸引<span class=\"name name-technology\">特定魚類</span>或增加<span class=\"name name-technology\">捕獲機會</span>。注意：任何食物都可以當作誘餌使用。<br><br>目前誘餌：<%NAMETAG%>%BAIT%<><br>漁獲稀有度提升度：<%RARETAG%>%RARE_BOOST%%<><br>漁獲大小提升度：<%SIZETAG%>%SIZE_BOOST%%<><br>其他說明：<%TAG%>%NOTES%<>"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/tradeprod.commodity4.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": null,
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

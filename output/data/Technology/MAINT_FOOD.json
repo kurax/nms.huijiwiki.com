@@ -1,0 +1,89 @@
+{
+  "ID": "MAINT_FOOD",
+  "Group": "",
+  "Name": {
+    "English": "INGESTOR EMPTY",
+    "SimplifiedChinese": "摄入器已空",
+    "TraditionalChinese": "攝取器空空如也"
+  },
+  "NameLower": {
+    "English": "Ingestor Empty",
+    "SimplifiedChinese": "摄入器已空",
+    "TraditionalChinese": "攝取器空空如也"
+  },
+  "Subtitle": {
+    "English": "Automatic Feeding Unit",
+    "SimplifiedChinese": "自动喂食单元",
+    "TraditionalChinese": "自動餵食裝置"
+  },
+  "Description": {
+    "English": "The nutrient ingestor improves <span class=\"name name-technology\">exosuit performance</span> via the automatic portioning and processing of various <span class=\"name name-stellar\">cooked items</span>.<br><br>Current Nutrition Source: <%NAMETAG%>%NAME%<><br>Duration: <%TIMETAG%>%TIME%<><br>Effect: <%EFFECTTAG%>%EFFECT%<>",
+    "SimplifiedChinese": "营养摄入器能够通过自动化分类与处理各种<span class=\"name name-stellar\">烹饪品</span>来改进<span class=\"name name-technology\">套装性能</span>。<br><br>当前营养来源：<%NAMETAG%>%NAME%<><br>持续时间：<%TIMETAG%>%TIME%<><br>效果：<%EFFECTTAG%>%EFFECT%<>",
+    "TraditionalChinese": "營養攝取器能透過自動分配和處理各種<span class=\"name name-stellar\">熟食</span>，改善<span class=\"name name-technology\">強化套裝效能</span>。<br><br>目前營養來源：<%NAMETAG%>%NAME%<><br>持續時間：<%TIMETAG%>%TIME%<><br>效果：<%EFFECTTAG%>%EFFECT%<>"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/feeding.tube.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": null,
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,111 @@
+{
+  "ID": "UT_QUICKWARP",
+  "Group": "",
+  "Name": {
+    "English": "EMERGENCY WARP UNIT",
+    "SimplifiedChinese": "紧急曲速飞行装置",
+    "TraditionalChinese": "緊急空間跳躍裝置"
+  },
+  "NameLower": {
+    "English": "Emergency Warp Unit",
+    "SimplifiedChinese": "紧急曲速飞行装置",
+    "TraditionalChinese": "緊急空間跳躍裝置"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Augmentation",
+    "SimplifiedChinese": "超光速推进器强化",
+    "TraditionalChinese": "超空間驅動器擴充"
+  },
+  "Description": {
+    "English": "A significant upgrade to the <span class=\"name name-technology\">Hyperdrive</span> that allows an <span class=\"name name-stellar\">instantaneous warp</span> even while conventional systems are blocked by <span class=\"name name-warning\">starship combat</span>. Access to the emergency warp system is via the <span class=\"name name-stellar\">Quick Menu</span>.<br><br><span class=\"name name-fuel\">WARNING:</span> Fast scramble systems mean the user is unable to plot a destination. Uncalculated lightspeed events will damage the unit and require <span class=\"name name-stellar\">frequent repairs</span>.",
+    "SimplifiedChinese": "能够为<span class=\"name name-technology\">超光速推进器</span>带来显著提升，使得飞船即使是在常规系统因<span class=\"name name-warning\">飞船战斗</span>而被屏蔽的情况下，也能进行<span class=\"name name-stellar\">瞬间曲速飞行</span>。可通过<span class=\"name name-stellar\">快捷菜单</span>打开紧急曲速飞行系统。<br><br><span class=\"name name-fuel\">警告：</span>快速进入超光速系统意味着用户不能指定目的地。未经计划的光速事件会损坏装置，且推进器需要<span class=\"name name-stellar\">频繁修理</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">超空間驅動器</span>的重大升級，即使傳統系統在<span class=\"name name-warning\">太空船戰鬥</span>遭到阻擋時，還是能進行<span class=\"name name-stellar\">瞬間空間跳躍</span>。可從<span class=\"name name-stellar\">快捷選單</span>使用緊急空間跳躍系統。<br><br><span class=\"name name-fuel\">警告：</span>快速緊急行動系統代表使用者無法選擇目的地。未經計算的光速活動會損害裝置，需要<span class=\"name name-stellar\">經常維修</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.hyperdrivemod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "HYPERFUEL1": {
+      "ID": "HYPERFUEL1",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 220
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 4
+    }
+  },
+  "BaseStat": "Ship_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Hyperdrive_QuickWarp",
+      "Bonus": 1,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "HYPERDRIVE",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 240,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

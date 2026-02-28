@@ -1,0 +1,124 @@
+{
+  "ID": "HYPERDRIVE_SPEC",
+  "Group": "",
+  "Name": {
+    "English": "FRAMESHIFT CATAPULT",
+    "SimplifiedChinese": "移码投射器",
+    "TraditionalChinese": "框移彈射系統"
+  },
+  "NameLower": {
+    "English": "Frameshift Catapult",
+    "SimplifiedChinese": "移码投射器",
+    "TraditionalChinese": "框移彈射系統"
+  },
+  "Subtitle": {
+    "English": "Illegally Modified Warp Drive",
+    "SimplifiedChinese": "采用了违法改造手段的曲速驱动器",
+    "TraditionalChinese": "非法改造空間跳躍驅動器"
+  },
+  "Description": {
+    "English": "This experimental drive augments conventional <span class=\"name name-technology\">hyperdrive</span> technology by distorting local geometry at the point of warp initialisation, boosting <span class=\"name name-stellar\">range</span> and <span class=\"name name-stellar\">efficiency</span> far beyond standard drives.<br><br>User is advised to access Hyperdrive systems through the <span class=\"name name-stellar\">Galactic Map</span>.",
+    "SimplifiedChinese": "这种试作型驱动器能够在跃迁初始化阶段扭曲所在空间的几何结构，并大副提高传统<span class=\"name name-technology\">超光速推进器</span>科技的<span class=\"name name-stellar\">范围</span>以及<span class=\"name name-stellar\">效率</span>。<br><br>建议通过<span class=\"name name-stellar\">银河星图</span>操作超光速推进器系统。",
+    "TraditionalChinese": "一款實驗性十足的驅動器，藉扭曲空間跳躍起始時間點的局部幾何結構，增強一般<span class=\"name name-technology\">超空間驅動器</span>科技的威力，其<span class=\"name name-stellar\">距離</span>和<span class=\"name name-stellar\">效率</span>遠超過標準驅動器。<br><br>建議使用者透過<span class=\"name name-stellar\">銀河地圖</span>存取超空間驅動器系統。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/specialshop/special.mysterytracker.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 120,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "HYPERFUEL1",
+    "HYPERFUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Ship",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 125
+    },
+    "FIENDCORE": {
+      "ID": "FIENDCORE",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "GRAVBALL": {
+      "ID": "GRAVBALL",
+      "Type": "Product",
+      "Amount": 5
+    }
+  },
+  "BaseStat": "Ship_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Hyperdrive",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpDistance",
+      "Bonus": 600,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpsPerCell",
+      "Bonus": 2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "HYPERDRIVE_SPEC",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

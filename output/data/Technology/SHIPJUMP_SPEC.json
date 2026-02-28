@@ -1,0 +1,139 @@
+{
+  "ID": "SHIPJUMP_SPEC",
+  "Group": "",
+  "Name": {
+    "English": "WAVEFORM ENGINE",
+    "SimplifiedChinese": "波形驱动器",
+    "TraditionalChinese": "波形引擎"
+  },
+  "NameLower": {
+    "English": "Waveform Engine",
+    "SimplifiedChinese": "波形驱动器",
+    "TraditionalChinese": "波形引擎"
+  },
+  "Subtitle": {
+    "English": "Highly Customised Starship Engine",
+    "SimplifiedChinese": "高度定制化的飞船驱动器",
+    "TraditionalChinese": "高度客製化太空船引擎"
+  },
+  "Description": {
+    "English": "A highly-tuned version of the conventional starship <span class=\"name name-technology\">Pulse Engine</span>. Wavefront occupancy has been pushed to the limit, creating a pulse experience that is both <span class=\"name name-stellar\">efficient</span> and <span class=\"name name-stellar\">highly responsive</span>.<br><br>User is advised that <span class=\"name name-exotic\">Tritium</span> is required to charge the drive. Tritium is abundant in <span class=\"name name-commodity\">near-space asteroid fields</span>. Scan (<span class=\"name name-img\">SHIPSCAN</span>) to search for <span class=\"name name-technology\">tritium-rich asteroids</span>.<br><br>Hold <span class=\"name name-img\">PULSEJUMP</span> to engage Pulse Jump. Hold <span class=\"name name-img\">BOOST</span> to initiate in-flight speed boost.",
+    "SimplifiedChinese": "经过缜密调试过的传统飞船<span class=\"name name-technology\">脉冲驱动器</span>。接近极限的波面频率将能够提供<span class=\"name name-stellar\">高效</span>而且<span class=\"name name-stellar\">极度灵敏</span>的脉冲动力。<br><br>建议使用<span class=\"name name-exotic\">氚</span>作为驱动器燃料。<span class=\"name name-commodity\">近太空小行星带</span>中能够找到丰富的氚。扫描（<span class=\"name name-img\">SHIPSCAN</span>）以搜寻<span class=\"name name-technology\">富含氚的小行星</span>。<br><br>长按<span class=\"name name-img\">PULSEJUMP</span>将启动脉冲跃迁。在飞行时长按<span class=\"name name-img\">BOOST</span>激活加速。",
+    "TraditionalChinese": "經高度調整的常規太空船<span class=\"name name-technology\">脈衝引擎</span>。波陣面使用率已達到極限，可產生<span class=\"name name-stellar\">高效率</span>與<span class=\"name name-stellar\">高響應</span>的脈衝事件。<br><br>提醒使用者，驅動器需使用<span class=\"name name-exotic\">氚</span>充能。<span class=\"name name-commodity\">近太空的小行星帶</span>內有大量的氚。掃描 (<span class=\"name name-img\">SHIPSCAN</span>) 即可找尋<span class=\"name name-technology\">富含氚的小行星</span>。<br><br>按住 <span class=\"name name-img\">PULSEJUMP</span> 發動脈衝跳躍。按住 <span class=\"name name-img\">BOOST</span> 啟動飛行加速功能。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/ultraprod.1.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Exotic",
+  "ChargeBy": [
+    "ROCKETSUB",
+    "DUSTY1"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Ship",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "VENTGEM": {
+      "ID": "VENTGEM",
+      "Type": "Product",
+      "Amount": 6
+    }
+  },
+  "BaseStat": "Ship_PulseDrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_PulseDrive",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpFuelSpending",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Boost",
+      "Bonus": 120,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "Bonus": 1.1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpSpeed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_BoostManeuverability",
+      "Bonus": 1.25,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "Bonus": 1.005,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPJUMP_SPEC",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.945098042,
+    "G": 0.529411793,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

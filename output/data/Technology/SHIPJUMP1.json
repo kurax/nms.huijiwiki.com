@@ -1,0 +1,139 @@
+{
+  "ID": "SHIPJUMP1",
+  "Group": "",
+  "Name": {
+    "English": "PULSE ENGINE",
+    "SimplifiedChinese": "脉冲驱动器",
+    "TraditionalChinese": "脈衝驅動器"
+  },
+  "NameLower": {
+    "English": "Pulse Engine",
+    "SimplifiedChinese": "脉冲驱动器",
+    "TraditionalChinese": "脈衝驅動器"
+  },
+  "Subtitle": {
+    "English": "Starship Flight Booster",
+    "SimplifiedChinese": "飞船飞行推进器",
+    "TraditionalChinese": "太空船飛行加速器"
+  },
+  "Description": {
+    "English": "Spaceflight propulsion, boosts and on-demand Pulse Jumps through local system.<br> <br>User is advised that <span class=\"name name-exotic\">Tritium</span> is required to charge Pulse Engine. Tritium is abundant in <span class=\"name name-commodity\">near-space asteroid fields</span>. Locate Tritium with the starship scanner (<span class=\"name name-img\">SCAN</span>).<br><br>Hold <span class=\"name name-img\">PULSEJUMP</span> to engage Pulse Jump.<br>Hold <span class=\"name name-img\">BOOST</span> to initiate in-flight speed boost.",
+    "SimplifiedChinese": "飞行推进装置，可加速并按照指令在本地恒星系中进行脉冲跃迁。<br><br>使用者请注意，必须用<span class=\"name name-exotic\">氚</span>给脉冲驱动器充能。<span class=\"name name-commodity\">近太空小行星带</span>含有丰富的氚。使用飞船扫描仪（<span class=\"name name-img\">SCAN</span>）以确定氚的位置。<br><br>同时按住<span class=\"name name-img\">PULSEJUMP</span>启动脉冲跃迁。<br>在飞行中按<span class=\"name name-img\">BOOST</span>启动加速。",
+    "TencentChinese": "飞行推进装置，可加速并按照指令在本地恒星系中进行脉冲跳跃。<br> <br>使用者请注意，必须用<span class=\"name name-exotic\">氚</span>给脉冲驱动器充能。<span class=\"name name-commodity\">近太空小行星带</span>含有丰富的氚。<br><br>同时按住<span class=\"name name-img\">ROLLLEFT</span>和<span class=\"name name-img\">ROLLRIGHT</span>启动脉冲跳跃。<br>在飞行中按<span class=\"name name-img\">BOOST</span>启动加速。",
+    "TraditionalChinese": "太空飛行推進器，能在當地星系加速並發動脈衝跳躍。<br> <br>提醒使用者，脈衝引擎需使用<span class=\"name name-exotic\">氚</span>充能。<span class=\"name name-commodity\">近太空的小行星帶</span>可以找到大量氚。使用太空船掃描器 (<span class=\"name name-img\">SCAN</span>) 找出氚。<br><br>按住 <span class=\"name name-img\">PULSEJUMP</span> 發動脈衝跳躍。<br>按住 <span class=\"name name-img\">BOOST</span> 啟動飛行加速功能。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.pulsedrive.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Exotic",
+  "ChargeBy": [
+    "ROCKETSUB",
+    "DUSTY1"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Ship",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "CARBON_SEAL": {
+      "ID": "CARBON_SEAL",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Ship_PulseDrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_PulseDrive",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpFuelSpending",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Boost",
+      "Bonus": 100,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpSpeed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Drift",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPJUMP1",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.945098042,
+    "G": 0.529411793,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": {
+    "English": "Provides space and atmospheric flight propulsion.<br><br>System is highly damaged and requires <span class=\"name name-commodity\">Metal Plating</span> and a <span class=\"name name-commodity\">Hermetic Seal</span> to repair.",
+    "SimplifiedChinese": "提供太空和大气层内飞行推进。<br><br>系统高度受损，需要<span class=\"name name-commodity\">金属电镀</span>和<span class=\"name name-commodity\">密封剂</span>修复。",
+    "TraditionalChinese": "為太空與大氣飛行提供推進動力。<br><br>系統嚴重毀損，需要<span class=\"name name-commodity\">金屬電鍍</span>與<span class=\"name name-commodity\">密封劑</span>才能修復。"
+  },
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

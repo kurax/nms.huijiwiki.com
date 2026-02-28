@@ -1,0 +1,89 @@
+{
+  "ID": "MAINT_BURNER",
+  "Group": "",
+  "Name": {
+    "English": "FURNACE TANK",
+    "SimplifiedChinese": "熔炉罐",
+    "TraditionalChinese": "燃燒槽"
+  },
+  "NameLower": {
+    "English": "Furnace Tank",
+    "SimplifiedChinese": "熔炉罐",
+    "TraditionalChinese": "燃燒槽"
+  },
+  "Subtitle": {
+    "English": "Fuel Incineration Device",
+    "SimplifiedChinese": "燃料焚化装置",
+    "TraditionalChinese": "燃料焚燒裝置"
+  },
+  "Description": {
+    "English": "High-temperature burn unit, designed to consume a wide range of biological material. Insert materials to initiate burn.<br><br>When active, drives an internal turbine to generate <span class=\"name name-stellar\">power</span>.",
+    "SimplifiedChinese": "一种高温燃烧装置，设计用于消耗多种生物材料。置入材料开始燃烧。<br><br>启用时，驱动内部涡轮机产生<span class=\"name name-stellar\">能量</span>。",
+    "TraditionalChinese": "高溫燃燒單位，為焚燒各類生物材料而設計。放入材料，即會開始燃燒。<br><br>運作時會推動內部渦輪，發出<span class=\"name name-stellar\">電力</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.fuel1.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 150,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1800,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": null,
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

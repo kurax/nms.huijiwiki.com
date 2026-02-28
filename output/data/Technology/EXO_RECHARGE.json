@@ -1,0 +1,111 @@
+{
+  "ID": "EXO_RECHARGE",
+  "Group": "",
+  "Name": {
+    "English": "ICARUS FUEL SYSTEM",
+    "SimplifiedChinese": "伊卡勒斯燃料系统",
+    "TraditionalChinese": "伊卡洛斯燃料系統"
+  },
+  "NameLower": {
+    "English": "Icarus Fuel System",
+    "SimplifiedChinese": "伊卡勒斯燃料系统",
+    "TraditionalChinese": "伊卡洛斯燃料系統"
+  },
+  "Subtitle": {
+    "English": "Solar Recharge Unit",
+    "SimplifiedChinese": "太阳能充能单元",
+    "TraditionalChinese": "日光充能裝置"
+  },
+  "Description": {
+    "English": "The Icarus system takes advantage of existing metal panelling, upgrading them into photovoltaic surfaces. This reactive coating generates energy during daylight hours, offsetting fuel consumption.<br><br>Enables <span class=\"name name-stellar\">automatic engine recharging</span> during the <span class=\"name name-stellar\">day</span>.",
+    "SimplifiedChinese": "伊卡勒斯系统会利用现有的金属面板，将其升级为光伏表面。这种活性涂层会在日光下产生能量，用于补偿燃料消耗。<br><br>启用<span class=\"name name-stellar\">白天</span>时<span class=\"name name-stellar\">自动引擎充能</span>。",
+    "TraditionalChinese": "伊卡洛斯系統利用了現有的金屬嵌版，並升級為光電表層。此活性塗層會在日照時間生成能量，抵銷燃料耗損。<br><br>能在<span class=\"name name-stellar\">日間</span>開啟<span class=\"name name-stellar\">自動引擎充能</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.enginemod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllVehicles",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "STORM_CRYSTAL": {
+      "ID": "STORM_CRYSTAL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_FuelRegen",
+      "Bonus": 4,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

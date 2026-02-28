@@ -1,0 +1,101 @@
+{
+  "ID": "T_SHIP_GOLD",
+  "Group": "",
+  "Name": {
+    "English": "GOLDEN STARSHIP TRAIL",
+    "SimplifiedChinese": "金色飞船尾迹",
+    "TraditionalChinese": "金色太空船尾跡"
+  },
+  "NameLower": {
+    "English": "Golden Starship Trail",
+    "SimplifiedChinese": "金色飞船尾迹",
+    "TraditionalChinese": "金色太空船尾跡"
+  },
+  "Subtitle": {
+    "English": "Starship Exhaust Override",
+    "SimplifiedChinese": "飞船排气管覆盖品",
+    "TraditionalChinese": "太空船排氣管覆寫"
+  },
+  "Description": {
+    "English": "An exclusive <span class=\"name name-stellar\">Starship Exhaust Modifier</span>.<br><br>Gold injection nozzles add a dazzling gold flair to the Pulse Engine's output.<br><br>Install this <span class=\"name name-technology\">technology</span> in your starship inventory to change the appearance of the engine exhaust trails.",
+    "SimplifiedChinese": "专属的<span class=\"name name-stellar\">飞船排气管修改物品</span>。<br><br>黄金喷嘴在脉冲驱动器的产出物中加入了亮眼的金色色泽。<br><br>在你的飞船库存中安装这个<span class=\"name name-technology\">技术</span>以改变驱动器排气管尾迹的外观。",
+    "TraditionalChinese": "特殊的<span class=\"name name-stellar\">太空船排氣管改造器</span>。<br><br>金色噴嘴為脈衝引擎的輸出增添一抹搶眼的金色。<br><br>安裝此<span class=\"name name-technology\">科技</span>到你的太空船道具欄，改變引擎廢氣尾跡的外觀。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/specialshop/special.shiptrail.gold.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShips",
+  "Rarity": "Impossible",
+  "Value": 1,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 10
+    }
+  },
+  "BaseStat": "Ship_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Boost",
+      "Bonus": 1.01,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

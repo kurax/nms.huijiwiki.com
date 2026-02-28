@@ -1,0 +1,114 @@
+{
+  "ID": "F_HDRIVEBOOST3",
+  "Group": "",
+  "Name": {
+    "English": "REALITY DE-THREADER",
+    "SimplifiedChinese": "现实反纠缠器",
+    "TencentChinese": "货船 曲速反应器（西塔型）",
+    "TraditionalChinese": "現實重串器"
+  },
+  "NameLower": {
+    "English": "Reality De-Threader",
+    "SimplifiedChinese": "现实反纠缠器",
+    "TencentChinese": "货船 曲速反应器（西塔型）",
+    "TraditionalChinese": "現實重串器"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Companion Unit",
+    "SimplifiedChinese": "超光速推进配件",
+    "TraditionalChinese": "超空間驅動器輔助元件"
+  },
+  "Description": {
+    "English": "An augmentation for the colossal hyperdrive engine of an <span class=\"name name-stellar\">interstellar freighter</span>.<br><br>Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space.",
+    "SimplifiedChinese": "用于<span class=\"name name-stellar\">星际货船</span>巨型超光速推进引擎的增强装置。<br><br>这种热核反应系统没有能量输出的限制，但做了稳定化处理。装进使用者的超光速推进引擎后，飞船在深空中跳跃的距离可进一步增加。",
+    "TencentChinese": "这种热核反应系统没有能量输出的限制，但做了稳定化处理。装进使用者的超光速推进后，飞船在深空中跳跃的距离可进一步增加。",
+    "TraditionalChinese": "<span class=\"name name-stellar\">星際貨船</span>的巨大超空間驅動器的強化工具。<br><br>未加保護蓋，但仍穩定的融合系統，藉由改裝與使用者的超空間驅動器合而為一。能讓太空船在太空深處跳躍的距離更長。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/technology.freightertheta.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 4,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "Impossible",
+  "Value": 100,
+  "Requirements": {
+    "BLUE2": {
+      "ID": "BLUE2",
+      "Type": "Substance",
+      "Amount": 250
+    },
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "AM_HOUSING": {
+      "ID": "AM_HOUSING",
+      "Type": "Product",
+      "Amount": 6
+    }
+  },
+  "BaseStat": "Freighter_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Freighter_Hyperdrive_JumpDistance",
+      "Bonus": 800,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "F_HYPERDRIVE",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 8,
+  "DispensingRace": "Traders",
+  "FragmentCost": 12,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

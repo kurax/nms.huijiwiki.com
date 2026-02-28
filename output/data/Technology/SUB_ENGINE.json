@@ -1,0 +1,128 @@
+{
+  "ID": "SUB_ENGINE",
+  "Group": "",
+  "Name": {
+    "English": "HUMBOLDT DRIVE",
+    "SimplifiedChinese": "洪堡驱动器",
+    "TraditionalChinese": "洪保德驅動器"
+  },
+  "NameLower": {
+    "English": "Humboldt Drive",
+    "SimplifiedChinese": "洪堡驱动器",
+    "TraditionalChinese": "洪保德驅動器"
+  },
+  "Subtitle": {
+    "English": "Exocraft Power System",
+    "SimplifiedChinese": "强化艇能量系统",
+    "TraditionalChinese": "強化艇動力系統"
+  },
+  "Description": {
+    "English": "A thermally-efficient, inversion-proof reactor engine capable of powering the Nautilon even at extreme depths.<br><br>Powered by <span class=\"name name-fuel\">Hydrothermal Fuel Cells</span>.",
+    "SimplifiedChinese": "一种热高效、防反转的反应堆引擎，能够在极深的海域为大鹦鹉螺供能。<br><br>由<span class=\"name name-fuel\">热液燃料电池</span>驱动。",
+    "TraditionalChinese": "具備熱效力，可防逆溫的反應爐引擎，可驅動巡洋龍前往極深之處。<br><br>由<span class=\"name name-fuel\">熱液燃料電池</span>驅動。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.submarineengine.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 400,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "SUBFUEL"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Submarine",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 25
+    },
+    "PRODFUEL2": {
+      "ID": "PRODFUEL2",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Engine",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Engine",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_EngineTopSpeed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_SubBoostSpeed",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_BoostTanks",
+      "Bonus": 4,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

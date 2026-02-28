@@ -1,0 +1,111 @@
+{
+  "ID": "F_LIFESUPP",
+  "Group": "",
+  "Name": {
+    "English": "ATMOSPHERIC CONTROL UNIT",
+    "SimplifiedChinese": "大气控制单元",
+    "TraditionalChinese": "大氣控制器"
+  },
+  "NameLower": {
+    "English": "Atmospheric Control Unit",
+    "SimplifiedChinese": "大气控制单元",
+    "TraditionalChinese": "大氣控制器"
+  },
+  "Subtitle": {
+    "English": "Freighter Life Support Module",
+    "SimplifiedChinese": "货船维生系统模块",
+    "TraditionalChinese": "貨船維生系統模組"
+  },
+  "Description": {
+    "English": "A critical freighter subsystem, vital for maintaining a habitable and safe environment for all on-board organic lifeforms.<br><br>Capable of generated a limited <span class=\"name name-stellar\">breathable atmosphere</span> even when damaged or unpowered, but only for a short period of time.",
+    "SimplifiedChinese": "关键的货船子系统，对维持机上有机生命体的宜居和安全环境至关重要。<br><br>即使在损坏或无动力的情况下，也能产生有限的<span class=\"name name-stellar\">可呼吸的大气层</span>，但只能持续很短的时间。",
+    "TraditionalChinese": "一種極為重要的貨船子系統，對於維持船上所有有機生命體的宜居且安全環境至關重要。<br><br>即使在損壞或斷電時也能產生有限的<span class=\"name name-stellar\">可呼吸大氣</span>，但只能短時間維持。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/technology.freighter.lifesupp.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 6,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "Impossible",
+  "Value": 50,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 120
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": [
+    {
+      "Stat": "Unspecified",
+      "Bonus": 1.1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 4,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

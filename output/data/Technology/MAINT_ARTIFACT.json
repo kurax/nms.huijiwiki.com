@@ -1,0 +1,95 @@
+{
+  "ID": "MAINT_ARTIFACT",
+  "Group": "",
+  "Name": {
+    "English": "ANCIENT LOCK",
+    "SimplifiedChinese": "古代的锁",
+    "TraditionalChinese": "古老鎖鑰"
+  },
+  "NameLower": {
+    "English": "Ancient Lock",
+    "SimplifiedChinese": "古代的锁",
+    "TraditionalChinese": "古老鎖鑰"
+  },
+  "Subtitle": {
+    "English": "Heavy Locking Mechanism",
+    "SimplifiedChinese": "重型锁定机制",
+    "TraditionalChinese": "重型上鎖機制"
+  },
+  "Description": {
+    "English": "A mysterious lock with several keyholes, this relic protects what must surely be a valuable treasure.",
+    "SimplifiedChinese": "一把拥有几个锁眼的神秘锁，这件遗物中一定保存着珍贵的财宝。",
+    "TraditionalChinese": "神秘鎖鑰上有數個鑰匙孔，這遺物內肯定藏有珍貴的寶藏。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/products/product.vortexcube.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "ARTIFACT_KEY": {
+      "ID": "ARTIFACT_KEY",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

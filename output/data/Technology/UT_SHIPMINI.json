@@ -1,0 +1,113 @@
+{
+  "ID": "UT_SHIPMINI",
+  "Group": "",
+  "Name": {
+    "English": "Q-RESONATOR",
+    "SimplifiedChinese": "Q-共振器",
+    "TencentChinese": "量子共振器",
+    "TraditionalChinese": "Q-共振器"
+  },
+  "NameLower": {
+    "English": "Q-Resonator",
+    "SimplifiedChinese": "Q-共振器",
+    "TencentChinese": "量子共振器",
+    "TraditionalChinese": "Q-共振器"
+  },
+  "Subtitle": {
+    "English": "Starship Infra-Knife Upgrade",
+    "SimplifiedChinese": "飞船红外切割机升级",
+    "TraditionalChinese": "太空船紅外線刀升級"
+  },
+  "Description": {
+    "English": "Upgrades the <span class=\"name name-technology\">Infra-Knife Accelerator</span>, compressing internal waveforms to allow an extra shot to be weaved in to the conventional fire patterns.",
+    "SimplifiedChinese": "升级<span class=\"name name-technology\">红外切割机</span>，压缩内部波形以便在常规射击模式中增加一次额外的射击。",
+    "TraditionalChinese": "升級<span class=\"name name-technology\">紅外線刀</span>，壓縮內部波形以便在常規射擊模式中增加一次額外的射擊。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.photonaccelmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 50,
+  "Requirements": {
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "COMPUTER": {
+      "ID": "COMPUTER",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_MiniGun",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_BulletsPerShot",
+      "Bonus": 3,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "SHIPMINIGUN",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.964705884,
+    "G": 0.254901975,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

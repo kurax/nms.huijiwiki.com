@@ -1,0 +1,107 @@
+{
+  "ID": "SHIPSCAN_ECON",
+  "Group": "",
+  "Name": {
+    "English": "ECONOMY SCANNER",
+    "SimplifiedChinese": "经济扫描仪",
+    "TraditionalChinese": "經濟掃描器"
+  },
+  "NameLower": {
+    "English": "Economy Scanner",
+    "SimplifiedChinese": "经济扫描仪",
+    "TraditionalChinese": "經濟掃描器"
+  },
+  "Subtitle": {
+    "English": "Long-range Sensor Technology",
+    "SimplifiedChinese": "长距离传感器技术",
+    "TraditionalChinese": "遠距離偵測科技"
+  },
+  "Description": {
+    "English": "An upgrade to the starship's <span class=\"name name-technology\">galactic-scale sensors</span>. This device allows the user to access detailed <span class=\"name name-stellar\">economic data</span> about a system without having to visit. See collected data automatically on the <span class=\"name name-technology\">Galaxy Map</span>.<br><br>Active the scanner's internal <span class=\"name name-technology\">Trade Computer</span> with <span class=\"name name-img\">FE_ALT1</span> to search for highly-profitable <span class=\"name name-stellar\">trading surge events</span>.",
+    "SimplifiedChinese": "飞船<span class=\"name name-technology\">星际传感器</span>的升级。此件装置允许使用者远程查看一个星系的详细<span class=\"name name-stellar\">经济数据</span>。在<span class=\"name name-technology\">星系图</span>中自动查看收集到的数据。<br><br>使用<span class=\"name name-img\">FE_ALT1</span>激活扫描仪内部的<span class=\"name name-technology\">交易电脑</span>以搜索收益率极高的<span class=\"name name-stellar\">贸易激增事件</span>。",
+    "TencentChinese": "飞船星际传感器升级。此件装置允许使用者能够在不用拜访恒星系的前提下查看详细经济数据。",
+    "TraditionalChinese": "太空船<span class=\"name name-technology\">銀河級感應器</span>的升級。此裝置能讓使用者無需拜訪星系即可了解詳細<span class=\"name name-stellar\">經濟資料</span>。使用<span class=\"name name-technology\">銀河系地圖</span>自動查看收集的資料。<br><br>使用<span class=\"name name-technology\">FE_ALT1</span>啟動掃描器的內部的<span class=\"name name-img\">交易電腦</span>，以尋找高利潤的<span class=\"name name-stellar\">交易飆升事件</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.shipscan_econ.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 10,
+  "Requirements": {
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Ship_Scan_EconomyFilter",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Scan_EconomyFilter",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

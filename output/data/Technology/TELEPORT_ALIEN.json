@@ -1,0 +1,106 @@
+{
+  "ID": "TELEPORT_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "GRASPING TENDRILS",
+    "SimplifiedChinese": "紧抓的卷须",
+    "TraditionalChinese": "抓握觸手"
+  },
+  "NameLower": {
+    "English": "Grasping Tendrils",
+    "SimplifiedChinese": "紧抓的卷须",
+    "TraditionalChinese": "抓握觸手"
+  },
+  "Subtitle": {
+    "English": "Sentient Vessel Node",
+    "SimplifiedChinese": "有感知的容器节点",
+    "TraditionalChinese": "感知太空船節點"
+  },
+  "Description": {
+    "English": "Filaments of sinew and neuron warp and weave across the ship, their complex geometry darting between the visible world and some unfathomable dimension beyond.<br><br>These tendrils reach across time and space, searching out a <span class=\"name name-technology\">long-distance link</span> between the vessel and their target's Exosuit inventory.",
+    "SimplifiedChinese": "无数丝线状的筋腱与神经元在飞船上扭曲缠绕，复杂的几何图形不断在现实世界与难以名状的彼界位面之间来回穿梭。<br><br>这些卷须穿越了时间与空间，寻觅着飞船与目标套装库存之间的<span class=\"name name-technology\">远距离链接</span>。",
+    "TraditionalChinese": "肌腱和神經元的細絲在飛船上扭曲交織，其複雜的幾何形狀在可見世界和某個深不可測的維度之間穿梭。<br><br>這些觸手跨越時間和空間，尋找船艦與目標的強化套裝道具欄之間的<span class=\"name name-technology\">長距離連結</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/biotech.scales.mod.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "QUEEN_PROD": {
+      "ID": "QUEEN_PROD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CREATURE1": {
+      "ID": "CREATURE1",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "BaseStat": "Ship_Teleport",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Teleport",
+      "Bonus": 300,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

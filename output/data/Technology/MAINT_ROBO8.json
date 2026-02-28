@@ -1,0 +1,95 @@
+{
+  "ID": "MAINT_ROBO8",
+  "Group": "",
+  "Name": {
+    "English": "NEURAL IGNITOR",
+    "SimplifiedChinese": "神经点火器",
+    "TraditionalChinese": "神經點火器"
+  },
+  "NameLower": {
+    "English": "Neural Ignitor",
+    "SimplifiedChinese": "神经点火器",
+    "TraditionalChinese": "神經點火器"
+  },
+  "Subtitle": {
+    "English": "Damaged Autophage Component",
+    "SimplifiedChinese": "受损的自噬体构件",
+    "TraditionalChinese": "受損的自噬元件"
+  },
+  "Description": {
+    "English": "This autophage is far from working order, but its subcomponents shows the signs of a previous repair attempt. With a few additional tweaks, the work might be completed...<br><br>Repair this component with <span class=\"name name-img\">REPAIR</span>, or use <span class=\"name name-img\">PIN</span> to locate the needed materials.",
+    "SimplifiedChinese": "这台自噬体还远远谈不上完整，但是它的子部件上存在着以前尝试修复时留下的痕迹。只需要在原先的基础上稍加改进，自噬体说不定就能恢复运作......<br><br>使用<span class=\"name name-img\">REPAIR</span>修复构件，或者使用<span class=\"name name-img\">PIN</span>定位需要的材料。",
+    "TraditionalChinese": "這個自噬遠未達到能正常運作的狀態，但其子元件顯示之前有嘗試修復過的跡象。再進行些許額外調整，應該能夠完成......<br><br>按 <span class=\"name name-img\">REPAIR</span> 修復此元件，或按 <span class=\"name name-img\">PIN</span> 找出所需材料。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.fuel2.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "AM_HOUSING": {
+      "ID": "AM_HOUSING",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

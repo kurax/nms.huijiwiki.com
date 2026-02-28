@@ -1,0 +1,96 @@
+{
+  "ID": "A_SHIPJUMP",
+  "Group": {
+    "English": "Pulsing Heart",
+    "SimplifiedChinese": "搏动心脏",
+    "TraditionalChinese": "脈動心臟"
+  },
+  "Name": {
+    "English": "UPGRADE MODULE",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "NameLower": {
+    "English": "Upgrade Module",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "Subtitle": "TEMPLATE_SUB",
+  "Description": "TEMPLATE_DESC",
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/biotech.heart.mod.png",
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "Level": 0,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": true,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Impossible",
+  "Value": 50,
+  "Requirements": {
+    "FOOD_R_MEAT": {
+      "ID": "FOOD_R_MEAT",
+      "Type": "Product",
+      "Amount": 15
+    },
+    "SPACEGUNK2": {
+      "ID": "SPACEGUNK2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_PulseDrive",
+  "StatBonuses": null,
+  "RequiredTech": "SHIPJUMP_ALIEN",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 100,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": true,
+  "ExclusivePrimaryStat": false
+}

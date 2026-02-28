@@ -1,0 +1,111 @@
+{
+  "ID": "UT_PULSESPEED",
+  "Group": "",
+  "Name": {
+    "English": "SUB-LIGHT AMPLIFIER",
+    "SimplifiedChinese": "亚光速放大器",
+    "TraditionalChinese": "次光速增幅器"
+  },
+  "NameLower": {
+    "English": "Sub-Light Amplifier",
+    "SimplifiedChinese": "亚光速放大器",
+    "TraditionalChinese": "次光速增幅器"
+  },
+  "Subtitle": {
+    "English": "Pulse Engine Augmentation",
+    "SimplifiedChinese": "脉冲驱动器强化",
+    "TraditionalChinese": "脈衝引擎擴充"
+  },
+  "Description": {
+    "English": "A highly-advanced upgrade for the <span class=\"name name-technology\">Pulse Engine</span>, vastly increasing <span class=\"name name-stellar\">interplanetary speed</span>.<br><br>Naturally occuring frameshift effects within the Pulse Engine are amplified by tritium-based resonators, increasing its maximum sub-light speed.",
+    "SimplifiedChinese": "用于<span class=\"name name-technology\">脉冲驱动器</span>的一种极为先进的升级组件，能够大幅提升<span class=\"name name-stellar\">星际航行速度</span>。<br><br>采用基于氚的共鸣器来放大脉冲驱动器内自然发生的移码效应，增大其最大亚光速速度。",
+    "TraditionalChinese": "<span class=\"name name-technology\">脈衝引擎</span>的極致先進升級項目，能大幅提升<span class=\"name name-stellar\">跨星球速度</span>。<br><br>氚共振器會加強脈衝引擎內自然產生的框架轉移效應，增加次光速的上限。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.pulsedrivemod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "VeryRare",
+  "Value": 10,
+  "Requirements": {
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 200
+    }
+  },
+  "BaseStat": "Ship_PulseDrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpSpeed",
+      "Bonus": 1.3,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "SHIPJUMP1",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.945098042,
+    "G": 0.529411793,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 460,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

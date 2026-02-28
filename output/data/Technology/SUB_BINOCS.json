@@ -1,0 +1,112 @@
+{
+  "ID": "SUB_BINOCS",
+  "Group": "",
+  "Name": {
+    "English": "HIGH-POWER SONAR",
+    "SimplifiedChinese": "高功率声纳",
+    "TraditionalChinese": "高功率聲納"
+  },
+  "NameLower": {
+    "English": "High-Power Sonar",
+    "SimplifiedChinese": "高功率声纳",
+    "TraditionalChinese": "高功率聲納"
+  },
+  "Subtitle": {
+    "English": "Submarine Analysis Device",
+    "SimplifiedChinese": "潜水艇分析设备",
+    "TraditionalChinese": "潛艇分析裝置"
+  },
+  "Description": {
+    "English": "A high-detail sonar device, capable of upgrading the scanner technology aboard a Nautilon-class submarine to <span class=\"name name-technology\">Analysis Visor</span> levels, pinning to the HUD all information typically revealed by the Analysis Visor.<br><br>Press <span class=\"name name-img\">SCAN</span> to activate the High-Power Sonar.",
+    "SimplifiedChinese": "一种高细节声纳设备，能把大鹦鹉螺级潜水艇上的扫描仪技术升级至<span class=\"name name-technology\">分析面甲</span>水平，在HUD上显示与分析面甲相同的信息。<br><br>按<span class=\"name name-img\">SCAN</span>激活高功率声纳。",
+    "TencentChinese": "一种高细节声纳设备，能把大鹦鹉螺级潜水艇上的扫描仪技术升级至分析面甲水平。<br>按下 <span class=\"name name-img\">SCAN</span> 启动高功率声纳。",
+    "TraditionalChinese": "可呈現高度細節的聲納裝置，可以將巡洋龍級別潛艇上的掃描器科技升級為<span class=\"name name-technology\">分析護目鏡</span>等級，將其釘選至抬頭顯示器即可查看所有分析護目鏡所示資訊。<br><br>使用 <span class=\"name name-img\">SCAN</span> 啟用高功率聲納。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.subscan.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Submarine",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "VENTGEM": {
+      "ID": "VENTGEM",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Vehicle_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Scan",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 10,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,104 @@
+{
+  "ID": "MAINT_FARM4",
+  "Group": "",
+  "Name": {
+    "English": "AUTO-PROPAGATOR",
+    "SimplifiedChinese": "自动增殖器",
+    "TraditionalChinese": "自動插枝機"
+  },
+  "NameLower": {
+    "English": "Auto-Propagator",
+    "SimplifiedChinese": "自动增殖器",
+    "TraditionalChinese": "自動插枝機"
+  },
+  "Subtitle": {
+    "English": "Autonomous Agriculture Unit",
+    "SimplifiedChinese": "自动化农业单元",
+    "TraditionalChinese": "自動農耕機"
+  },
+  "Description": {
+    "English": "This advanced bank of lasers prunes and propagates plants as required, the cauterising light offering unequaled precision.",
+    "SimplifiedChinese": "先进的激光射线群，用来修剪并繁殖所需的植物，灼热的光线提供绝妙的精度。",
+    "TraditionalChinese": "此機器裝有整排先進的雷射光束，可以按照需求替植物進行修剪與插枝，準度無人能敵。",
+    "USEnglish": "This advanced bank of lasers prunes and propagates plants as required, the cauterizing light offering unequaled precision."
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.farm4.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 50,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "FUEL1",
+    "FUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "PRODFUEL2": {
+      "ID": "PRODFUEL2",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

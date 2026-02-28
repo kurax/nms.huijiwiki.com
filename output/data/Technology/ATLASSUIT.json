@@ -1,0 +1,106 @@
+{
+  "ID": "ATLASSUIT",
+  "Group": "",
+  "Name": {
+    "English": "REMEMBRANCE",
+    "SimplifiedChinese": "纪念物",
+    "TraditionalChinese": "記憶"
+  },
+  "NameLower": {
+    "English": "Remembrance",
+    "SimplifiedChinese": "纪念物",
+    "TraditionalChinese": "記憶"
+  },
+  "Subtitle": {
+    "English": "A relic of another place",
+    "SimplifiedChinese": "别处的遗物",
+    "TraditionalChinese": "另一個地方的遺物"
+  },
+  "Description": {
+    "English": "Everything you ever knew is within.",
+    "SimplifiedChinese": "其中包含你所知的一切。",
+    "TraditionalChinese": "你知道的所有東西都在裡頭。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/products/product.atlasstone.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Catalyst",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Impossible",
+  "Value": 120,
+  "Requirements": {
+    "ATLAS_SEED_10": {
+      "ID": "ATLAS_SEED_10",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 16
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Armour_Health",
+      "Bonus": 20,
+      "Level": 20
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.8,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

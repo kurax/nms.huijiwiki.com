@@ -1,0 +1,121 @@
+{
+  "ID": "UT_SMG_DOT",
+  "Group": "",
+  "Name": {
+    "English": "IMPACT IGNITER",
+    "SimplifiedChinese": "冲击点火器",
+    "TraditionalChinese": "衝擊點火器"
+  },
+  "NameLower": {
+    "English": "Impact Igniter",
+    "SimplifiedChinese": "冲击点火器",
+    "TraditionalChinese": "衝擊點火器"
+  },
+  "Subtitle": {
+    "English": "Pulse Spitter Upgrade",
+    "SimplifiedChinese": "脉冲喷射器升级",
+    "TraditionalChinese": "脈衝槍升級"
+  },
+  "Description": {
+    "English": "A powerful combat upgrade for the <span class=\"name name-technology\">Pulse Spitter</span>. This module installs series of delicately calibrated fuel-injection nozzles within the firing chamber, which are used to initiate a controlled burn within its plasma projectiles.<br><br>Causes targets hit by the Pulse Spitter to <span class=\"name name-stellar\">burn</span> for a short while, causing additional damage.",
+    "SimplifiedChinese": "强大的<span class=\"name name-technology\">脉冲喷射器</span>战斗升级组件。该模块能够在发射室中安装一系列精准调校过的燃料喷嘴，用于在武器的等离子投射物中引发局部燃烧。<br><br>被脉冲喷射器击中的目标短时间内将会<span class=\"name name-stellar\">燃烧</span>，承受额外伤害。",
+    "TraditionalChinese": "<span class=\"name name-technology\">脈衝槍</span>的強大戰鬥升級。此模組在燃燒室中安裝了一系列經過精密校準的燃料噴射噴嘴，用於在其電漿射彈的範圍內造成可控制燃燒。<br><br>讓脈衝槍擊中的目標在短時間內<span class=\"name name-stellar\">燃燒</span>，造成額外傷害。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.pulsespittermod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "HOT1": {
+      "ID": "HOT1",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "CARBON_SEAL": {
+      "ID": "CARBON_SEAL",
+      "Type": "Product",
+      "Amount": 4
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Burst",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_FireDOT",
+      "Bonus": 1,
+      "Level": 4
+    },
+    {
+      "Stat": "Weapon_FireDOT_Duration",
+      "Bonus": 3.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_FireDOT_DPS",
+      "Bonus": 80,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SMG",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 1,
+    "B": 0.627451,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 180,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,147 @@
+{
+  "ID": "SHIPMINIGUN",
+  "Group": "",
+  "Name": {
+    "English": "INFRA-KNIFE ACCELERATOR",
+    "SimplifiedChinese": "红外切割加速器",
+    "TraditionalChinese": "紅外線刀加速器"
+  },
+  "NameLower": {
+    "English": "Infra-Knife Accelerator",
+    "SimplifiedChinese": "红外切割加速器",
+    "TraditionalChinese": "紅外線刀加速器"
+  },
+  "Subtitle": {
+    "English": "Rapid Fire Starship Weapon",
+    "SimplifiedChinese": "急速飞船武器",
+    "TraditionalChinese": "快速射擊太空船武器"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">rapid fire</span> starship weapon that launches superheated globes of liquid metal at hostile targets. These projectiles are <span class=\"name name-stellar\">extremely effective</span> against <span class=\"name name-stellar\">unshielded</span> starship hulls.<br><br>Note: the Accelerator's internal components are vulnerable to rapid <span class=\"name name-fuel\">overheating</span>. Sustained burst fire is not recommended.<br><br>Use <span class=\"name name-img\">CYCLEWEAPON</span> to change weapon mode. Press <span class=\"name name-img\">SHIPFIRE</span> to fire.",
+    "SimplifiedChinese": "一种向敌对目标发射过热的液态金属球的<span class=\"name name-technology\">快速射击</span>飞船武器。这些射弹对<span class=\"name name-stellar\">无护盾</span>的船体有着<span class=\"name name-stellar\">极为有效</span>的杀伤力。<br><br>注意：加速器的内部构件容易受到快速<span class=\"name name-fuel\">过热</span>的影响。不建议连续射击。<br><br>使用<span class=\"name name-img\">CYCLEWEAPON</span>变更武器模式。按下<span class=\"name name-img\">SHIPFIRE</span>发射。",
+    "TencentChinese": "可短时快速连续开火。<br><br>容易过热，建议使用者开火时限制连发。",
+    "TraditionalChinese": "向敵方目標<span class=\"name name-technology\">快速發射</span>超熱液態金屬球的太空船武器。這些射彈對付<span class=\"name name-stellar\">無防護罩</span>的太空船船身<span class=\"name name-stellar\">極為有效</span>。<br><br>注意：加速器的內部元件容易受快速<span class=\"name name-fuel\">過熱</span>的影響。不建議持續連射。<br><br>使用 <span class=\"name name-img\">CYCLEWEAPON</span> 即可切換武器模式。按住 <span class=\"name name-img\">SHIPFIRE</span> 即可開火。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.photonaccel.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "HOT1": {
+      "ID": "HOT1",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_MiniGun",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "Bonus": 9,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Dispersion",
+      "Bonus": 0.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_BulletsPerShot",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 3,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "Bonus": 205,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Range",
+      "Bonus": 2200,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Scale",
+      "Bonus": 6.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_CoolTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Damage_Radius",
+      "Bonus": 3,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.964705884,
+    "G": 0.254901975,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Normal",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

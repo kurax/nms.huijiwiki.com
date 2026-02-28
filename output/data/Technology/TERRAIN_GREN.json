@@ -1,0 +1,114 @@
+{
+  "ID": "TERRAIN_GREN",
+  "Group": "",
+  "Name": {
+    "English": "GEOLOGY CANNON",
+    "SimplifiedChinese": "地质大炮",
+    "TraditionalChinese": "地質砲"
+  },
+  "NameLower": {
+    "English": "Geology Cannon",
+    "SimplifiedChinese": "地质大炮",
+    "TraditionalChinese": "地質砲"
+  },
+  "Subtitle": {
+    "English": "Terrain Destruction Device",
+    "SimplifiedChinese": "地形破坏设备",
+    "TraditionalChinese": "地形破壞裝置"
+  },
+  "Description": {
+    "English": "Large-bore projectile launcher. Propels plasma shells designed for <span class=\"name name-stellar\">rapid ground excavation</span>.<br> <br>Charged with <span class=\"name name-fuel\">Unstable Plasma</span>. Warning: Explosive hole creation may also damage nearby organic matter.<br> <br>Press <span class=\"name name-img\">ALTATTACK</span> to activate.",
+    "SimplifiedChinese": "大口径炮弹发射器。为专为<span class=\"name name-stellar\">快速地下掘进</span>而设计的等离子炮弹提供动力。<br> <br>使用<span class=\"name name-fuel\">不稳定的等离子</span>充能。警告：爆破开孔可能会危害附近的有机物质。<br> <br>按<span class=\"name name-img\">ALTATTACK</span>启用。",
+    "TencentChinese": "大口径炮弹发射器。为专为<span class=\"name name-stellar\">快速地下掘进</span>而设计的等离子炮弹提供动力。<br><br>使用<span class=\"name name-fuel\">不稳定的等离子</span>充能。警告：迸裂开孔可能会危害附近的有机物质。<br><br>按<span class=\"name name-img\">ALTATTACK</span>启用。",
+    "TraditionalChinese": "大口徑射彈發射器。能射出電漿砲彈，專為<span class=\"name name-stellar\">迅速地表開挖</span>而設計。<br> <br>以<span class=\"name name-fuel\">不穩定電漿</span>充能。警告：開鑿出會爆炸的洞口可能傷及鄰近有機物質。<br> <br>按下 <span class=\"name name-img\">ALTATTACK</span> 來發動。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.terraingrenade.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": true,
+  "ChargeAmount": 20,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "GRENFUEL1"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_MineGrenade",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Grenade_Damage",
+      "Bonus": 1000,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Grenade_Radius",
+      "Bonus": 2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.796078444,
+    "G": 0.270588249,
+    "B": 0.615686297,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 150,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

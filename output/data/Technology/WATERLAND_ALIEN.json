@@ -1,0 +1,106 @@
+{
+  "ID": "WATERLAND_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "SALINE CARAPACE",
+    "SimplifiedChinese": "盐水甲壳",
+    "TraditionalChinese": "鹽水甲殼"
+  },
+  "NameLower": {
+    "English": "Saline Carapace",
+    "SimplifiedChinese": "盐水甲壳",
+    "TraditionalChinese": "鹽水甲殼"
+  },
+  "Subtitle": {
+    "English": "Sentient Vessel Node",
+    "SimplifiedChinese": "有感知的容器节点",
+    "TraditionalChinese": "感知太空船節點"
+  },
+  "Description": {
+    "English": "A salty membrane encases the ship, dramatically increasing its natural buoyancy.<br><br>The carapace will allow the vessel to <span class=\"name name-technology\">float</span>, making <span class=\"name name-stellar\">water landings</span> possible.",
+    "SimplifiedChinese": "充满盐分的薄膜包裹着飞船，大幅提升飞船浮力。<br><br>通过让飞船<span class=\"name name-technology\">飘浮</span>在水体上，甲壳能够允许飞船进行<span class=\"name name-stellar\">水上着陆</span>",
+    "TraditionalChinese": "太空船外包覆的一層阻鹽薄膜，可大幅增加船身的自然浮力。<br><br>甲殼有助太空船<span class=\"name name-technology\">漂浮</span>，實現<span class=\"name name-stellar\">水上降落</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/product.bioexotic.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "FISHCORE": {
+      "ID": "FISHCORE",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "WATER1": {
+      "ID": "WATER1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "BaseStat": "Ship_WaterLandingJet",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_WaterLandingJet",
+      "Bonus": 1,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

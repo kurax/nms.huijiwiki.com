@@ -1,0 +1,115 @@
+{
+  "ID": "VEHICLE_SCAN1",
+  "Group": "",
+  "Name": {
+    "English": "RADAR AMPLIFIER",
+    "SimplifiedChinese": "雷达增幅器",
+    "TencentChinese": "强化艇信号推进器升级（西格玛型）",
+    "TraditionalChinese": "雷達增幅器"
+  },
+  "NameLower": {
+    "English": "Radar Amplifier",
+    "SimplifiedChinese": "雷达增幅器",
+    "TencentChinese": "强化艇信号推进器升级（西格玛型）",
+    "TraditionalChinese": "雷達增幅器"
+  },
+  "Subtitle": {
+    "English": "Exocraft Signal Detection Upgrade",
+    "SimplifiedChinese": "强化艇信号侦察升级",
+    "TencentChinese": "强化艇信号推进器升级",
+    "TraditionalChinese": "強化艇訊號偵測升級"
+  },
+  "Description": {
+    "English": "Allows for additional building types to be acquired by the Exocraft Radar, including planetary <span class=\"name name-stellar\">Drop Pods</span>, <span class=\"name name-stellar\">Abandoned Structures</span>, and <span class=\"name name-stellar\">Waste Heaps</span>.",
+    "SimplifiedChinese": "允许强化艇雷达获得额外建筑类型，包括行星<span class=\"name name-stellar\">补给舱</span>、<span class=\"name name-stellar\">废弃设施</span>以及<span class=\"name name-stellar\">废料堆</span>。",
+    "TencentChinese": "允许强化艇信号推进器获得额外建筑类型。",
+    "TraditionalChinese": "可讓強化艇雷達捕捉到額外建築物類型，包括星球<span class=\"name name-stellar\">空投艙</span>、<span class=\"name name-stellar\">廢棄建築物</span>和<span class=\"name name-stellar\">廢棄物堆</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.scanu1.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "POWERCELL": {
+      "ID": "POWERCELL",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Vehicle_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Scan",
+      "Bonus": 1,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 210,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

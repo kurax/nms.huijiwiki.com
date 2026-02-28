@@ -1,0 +1,89 @@
+{
+  "ID": "MAINT_FUEL5",
+  "Group": "",
+  "Name": {
+    "English": "KINETIC DYNAMO",
+    "SimplifiedChinese": "动力发电机",
+    "TraditionalChinese": "動力發電機"
+  },
+  "NameLower": {
+    "English": "Kinetic Dynamo",
+    "SimplifiedChinese": "动力发电机",
+    "TraditionalChinese": "動力發電機"
+  },
+  "Subtitle": {
+    "English": "Chargeable Power Unit",
+    "SimplifiedChinese": "可充电能源单位",
+    "TraditionalChinese": "可充填能量裝置"
+  },
+  "Description": {
+    "English": "The kinetic dynamo takes a small initial charge and uses it to run power-harvesting systems that tap into the orbit of the planet. This frees autonomous machinery from frequent fuel inspections, allowing them to endure extremely long maintenance cycles.",
+    "SimplifiedChinese": "动力发电机只需在初始时充少量电，即可使用其运行接入星球轨道的能量采集系统。这能使自动机械免除频繁的燃料检查，使其具有超长维护周期。",
+    "TraditionalChinese": "動力發電機只需一開始稍微充能，便可控制接入星球軌道的能源採收系統。如此一來，自動機器便不需要經常檢查燃料量，大幅延長維修年限。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mainttech.fuel5.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 20,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": null,
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

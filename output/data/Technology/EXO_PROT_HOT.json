@@ -1,0 +1,111 @@
+{
+  "ID": "EXO_PROT_HOT",
+  "Group": "",
+  "Name": {
+    "English": "THERMAL BUFFER",
+    "SimplifiedChinese": "隔热板缓冲层",
+    "TraditionalChinese": "熱能緩衝器"
+  },
+  "NameLower": {
+    "English": "Thermal Buffer",
+    "SimplifiedChinese": "隔热板缓冲层",
+    "TraditionalChinese": "熱能緩衝器"
+  },
+  "Subtitle": {
+    "English": "Exocraft Hazard Protection Unit",
+    "SimplifiedChinese": "强化艇危险防护单元",
+    "TraditionalChinese": "強化艇風險防護裝置"
+  },
+  "Description": {
+    "English": "Sublimation cooling vents and high-thermal mass buffers are installed in all structural panels, keeping the Exocraft pilot at non-lethal temperatures even in the most overwhelming of firestorms.<br><br>Entirely prevents all damage or energy drain while inside an Exocraft in <span class=\"name name-fuel\">scorched environments</span>.",
+    "SimplifiedChinese": "在所有的结构面板上安装升华冷却通风口和高热质量缓冲层，确保强化艇即使是进入最猛烈的火焰风暴中，也能保证飞船驾驶员在非致命的温度下驾驶。<br><br>在强化艇中时可完全避免<span class=\"name name-fuel\">炙热环境</span>下的所有伤害或能量消耗。",
+    "TraditionalChinese": "在所有結構面板加裝昇華冷卻通風管以及高熱質量緩衝器，即便在最嚴峻的火焰風暴中，強化艇駕駛員也不會身處致命的溫度。<br><br>在<span class=\"name name-fuel\">灼熱環境</span>下待在強化艇中，能避免任何損害或能量消耗。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protectheat.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "COLD1": {
+      "ID": "COLD1",
+      "Type": "Substance",
+      "Amount": 80
+    },
+    "CARBON_SEAL": {
+      "ID": "CARBON_SEAL",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Suit_Protection_Heat",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_Heat",
+      "Bonus": 3,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

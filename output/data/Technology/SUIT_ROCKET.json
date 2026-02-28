@@ -1,0 +1,113 @@
+{
+  "ID": "SUIT_ROCKET",
+  "Group": "",
+  "Name": {
+    "English": "TRADE ROCKET",
+    "SimplifiedChinese": "交易火箭",
+    "TraditionalChinese": "貿易火箭"
+  },
+  "NameLower": {
+    "English": "Trade Rocket",
+    "SimplifiedChinese": "交易火箭",
+    "TraditionalChinese": "貿易火箭"
+  },
+  "Subtitle": {
+    "English": "Mercantile Missile Summoning Device",
+    "SimplifiedChinese": "商贸导弹召唤装置",
+    "TraditionalChinese": "貿易飛彈召喚裝置"
+  },
+  "Description": {
+    "English": "A personal rocketry device with a direct link to the <span class=\"name name-technology\">Galactic Trade Network</span>. This unit allows the user to load a small spacecraft with goods. Upon launch, the goods will be transported to the nearest trade terminus and <span class=\"name name-stellar\">automatically sold</span>.<br><br><span class=\"name name-stellar\">Summon</span> the Trade Rocket using the <span class=\"name name-img\">QUICK_MENU</span>.",
+    "SimplifiedChinese": "直接连接至<span class=\"name name-technology\">银河交易网络</span>的私人火箭装置。这种单元将允许使用者在一艘小型太空飞船中装载货物。发射之后，飞船装载的货物将被运输至最近的贸易枢纽并<span class=\"name name-stellar\">自动出售</span>。<br><br>用<span class=\"name name-img\">QUICK_MENU</span><span class=\"name name-stellar\">召唤</span>交易火箭。",
+    "TraditionalChinese": "直接連結到<span class=\"name name-technology\">銀河交易網</span>的個人火箭裝置。使用者可用此裝置將商品裝入小型太空船。在發射時，商品會被運輸到最近的交易終站，並<span class=\"name name-stellar\">自動售出</span>。<br><br>使用 <span class=\"name name-img\">QUICK_MENU</span> 即可<span class=\"name name-stellar\">召喚</span>貿易火箭。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/tech.suitrocket.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 50,
+  "ChargeType": "Earth",
+  "ChargeBy": [
+    "ROCKETSUB"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 120
+    },
+    "LAUNCHSUB": {
+      "ID": "LAUNCHSUB",
+      "Type": "Substance",
+      "Amount": 90
+    }
+  },
+  "BaseStat": "Suit_RocketLocker",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_RocketLocker",
+      "Bonus": 1,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 90,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

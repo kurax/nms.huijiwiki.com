@@ -1,0 +1,111 @@
+{
+  "ID": "CARGOSHIELD",
+  "Group": "",
+  "Name": {
+    "English": "CARGO SCAN DEFLECTOR",
+    "SimplifiedChinese": "货物扫描偏导器",
+    "TraditionalChinese": "貨物掃描反射器"
+  },
+  "NameLower": {
+    "English": "Cargo Scan Deflector",
+    "SimplifiedChinese": "货物扫描偏导器",
+    "TraditionalChinese": "貨物掃描反射器"
+  },
+  "Subtitle": {
+    "English": "Anti-Probe Countermeasures",
+    "SimplifiedChinese": "反探测技术",
+    "TraditionalChinese": "探測反制措施"
+  },
+  "Description": {
+    "English": "A specially tuned resonance jammer, designed to interfere with the remote <span class=\"name name-stellar\">cargo scans</span> deployed by system authorities in the search for <span class=\"name name-special\">smuggled goods</span>.<br><br>Deploy from the <span class=\"name name-technology\">Quick Menu</span> (<span class=\"name name-img\">QUICK_MENU</span>) while a scan is in progress to deflect the probe. Note: jamming is not 100% effective.",
+    "SimplifiedChinese": "一个经过特别调谐的共振干扰器，用于干扰星系当局为搜索<span class=\"name name-special\">走私货物</span>而部署的远程<span class=\"name name-stellar\">货物扫描</span>。<br><br>在扫描过程中从<span class=\"name name-technology\">快捷菜单</span>（<span class=\"name name-img\">QUICK_MENU</span>）中部署以反射探测。请注意：干扰并非100%有效。",
+    "TraditionalChinese": "經過特殊調頻的共振干擾器，設計用來干擾星系當局搜索<span class=\"name name-special\">走私物品</span>所部署的遠端<span class=\"name name-stellar\">貨物掃描</span>。<br><br>在進行掃描時，從<span class=\"name name-technology\">快捷選單</span> (<span class=\"name name-img\">QUICK_MENU</span>) 部署，以反射探測器射線。注意：干擾並非 100% 有效。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.cargoshield.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 4,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "VeryRare",
+  "Value": 50,
+  "Requirements": {
+    "ILLEGAL_PROD6": {
+      "ID": "ILLEGAL_PROD6",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 220
+    }
+  },
+  "BaseStat": "Ship_CargoShield",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_CargoShield",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 240,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

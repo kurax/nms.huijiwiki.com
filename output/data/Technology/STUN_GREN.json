@@ -1,0 +1,128 @@
+{
+  "ID": "STUN_GREN",
+  "Group": "",
+  "Name": {
+    "English": "PARALYSIS MORTAR",
+    "SimplifiedChinese": "瘫痪迫击炮",
+    "TraditionalChinese": "癱瘓迫擊砲"
+  },
+  "NameLower": {
+    "English": "Paralysis Mortar",
+    "SimplifiedChinese": "瘫痪迫击炮",
+    "TraditionalChinese": "癱瘓迫擊砲"
+  },
+  "Subtitle": {
+    "English": "Stun Grenades",
+    "SimplifiedChinese": "眩晕手榴弹",
+    "TraditionalChinese": "暈眩手榴彈"
+  },
+  "Description": {
+    "English": "Non-violent projectile weapon. Launched projectiles will incapacitate nearby targets with a burst of electrical energy. Effective against both biological and electronic entities.<br> <br>Charged with <span class=\"name name-fuel\">Unstable Plasma</span>.<br> <br>Press <span class=\"name name-img\">ALTATTACK</span> to activate.",
+    "SimplifiedChinese": "非致命性投射武器。此武器发射的投射物可释放电能冲击瘫痪周遭目标，能够有效对抗生命体与电子设备。<br><br>充能需要消耗<span class=\"name name-fuel\">不稳定的等离子</span>。<br><br>按<span class=\"name name-img\">ALTATTACK</span>激活武器。",
+    "TraditionalChinese": "「非暴力」射彈武器。發射的射彈會發出一道電能癱瘓附近的目標。對生物和電子存在體都有效。<br><br>使用<span class=\"name name-fuel\">不穩定電漿</span>充能。<br><br>按下 <span class=\"name name-img\">ALTATTACK</span> 啟動。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.stungrenade.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 2,
+  "Chargeable": true,
+  "ChargeAmount": 20,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "GRENFUEL1"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "CARBON_SEAL": {
+      "ID": "CARBON_SEAL",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "JELLY": {
+      "ID": "JELLY",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_StunGrenade",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Grenade_Radius",
+      "Bonus": 4,
+      "Level": 3
+    },
+    {
+      "Stat": "Weapon_Stun",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Stun_Duration",
+      "Bonus": 3.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Grenade_Bounce",
+      "Bonus": 2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.796078444,
+    "G": 0.270588249,
+    "B": 0.615686297,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 150,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

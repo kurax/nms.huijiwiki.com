@@ -1,0 +1,95 @@
+{
+  "ID": "WEAPSENT_DMG1",
+  "Group": "",
+  "Name": {
+    "English": "SENTIENCE RESISTOR",
+    "SimplifiedChinese": "智慧生命电阻器",
+    "TraditionalChinese": "智慧生物電阻器"
+  },
+  "NameLower": {
+    "English": "Sentience Resistor",
+    "SimplifiedChinese": "智慧生命电阻器",
+    "TraditionalChinese": "智慧生物電阻器"
+  },
+  "Subtitle": {
+    "English": "Incomplete Sentinel Salvage",
+    "SimplifiedChinese": "残缺的护卫回收物",
+    "TraditionalChinese": "不完整的巡警回收物"
+  },
+  "Description": {
+    "English": "This Multi-Tool is a piece of hybrid technology, a fusion of crude scrap and a deep, powerful energy - part salvage, part Sentinel, part something undefinable...<br><br>This process of recycled fusion was <span class=\"name name-technology\">incomplete</span> when this tool was acquired. Use <span class=\"name name-img\">REPAIR</span> to continue repair operations and free this slot for general use.",
+    "SimplifiedChinese": "该多用途工具是一种混合技术，是粗糙废料与更深邃的强大能源之间的融合：一部分回收物，一部分护卫，还有一部分无法分辨的存在......<br><br>但是获取该工具时，这种回收融合尚未<span class=\"name name-technology\">完成</span>。使用<span class=\"name name-img\">REPAIR</span>继续修复流程并为其他功能腾出栏位。",
+    "TraditionalChinese": "這個工具組是一種混合式科技的產物，結合了粗陋的廢料及深沉、強大的能量：一部分是回收物，一部分是巡警，一部分是某種無法辨識的東西......<br><br>獲得此工具時，回收結合的過程<span class=\"name name-technology\">尚未執行完畢</span>。使用 <span class=\"name name-img\">REPAIR</span> 繼續維修，清空此欄位供一般使用。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/robotship.weapon.png",
+  "Colour": {
+    "R": 0.482352942,
+    "G": 0,
+    "B": 0,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": true,
+  "Category": "Weapon",
+  "Rarity": "Impossible",
+  "Value": 100,
+  "Requirements": {
+    "ROBOT2": {
+      "ID": "ROBOT2",
+      "Type": "Substance",
+      "Amount": 120
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

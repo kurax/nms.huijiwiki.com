@@ -1,0 +1,111 @@
+{
+  "ID": "EXO_PROT_COLD",
+  "Group": "",
+  "Name": {
+    "English": "MEGAWATT HEATER",
+    "SimplifiedChinese": "兆瓦级加热器",
+    "TraditionalChinese": "百萬瓦發熱器"
+  },
+  "NameLower": {
+    "English": "Megawatt Heater",
+    "SimplifiedChinese": "兆瓦级加热器",
+    "TraditionalChinese": "百萬瓦發熱器"
+  },
+  "Subtitle": {
+    "English": "Exocraft Hazard Protection Unit",
+    "SimplifiedChinese": "强化艇危险防护单元",
+    "TraditionalChinese": "強化艇風險防護裝置"
+  },
+  "Description": {
+    "English": "Installs a powerful heater into the Exocraft, keeping the cabin a habitable temperature even in the most freezing of conditions.<br><br>Entirely prevents all damage or energy drain while inside an Exocraft in <span class=\"name name-temperature\">freezing environments</span>.",
+    "SimplifiedChinese": "在强化艇上安装一个强力加热器，让飞船即使在最寒冷的条件下也能保持舱内的宜居温度。<br><br>在强化艇中时可完全避免<span class=\"name name-temperature\">极寒环境</span>带来的所有伤害或能量消耗。",
+    "TraditionalChinese": "在強化艇內安裝強力發熱器，即便在最為嚴寒的情況下，也能將機艙溫度維持在適合人居的範圍。<br><br>在<span class=\"name name-temperature\">嚴寒環境</span>下待在強化艇中，能避免任何損害或能量消耗。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protectcold.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "HOT1": {
+      "ID": "HOT1",
+      "Type": "Substance",
+      "Amount": 80
+    },
+    "RADIO1": {
+      "ID": "RADIO1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Suit_Protection_Cold",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_Cold",
+      "Bonus": 3,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,161 @@
+{
+  "ID": "SMG",
+  "Group": "",
+  "Name": {
+    "English": "PULSE SPITTER",
+    "SimplifiedChinese": "脉冲喷射器",
+    "TraditionalChinese": "脈衝槍"
+  },
+  "NameLower": {
+    "English": "Pulse Spitter",
+    "SimplifiedChinese": "脉冲喷射器",
+    "TraditionalChinese": "脈衝槍"
+  },
+  "Subtitle": {
+    "English": "Rapid Fire Projectile Weapon",
+    "SimplifiedChinese": "急速抛射武器",
+    "TraditionalChinese": "快速射擊射彈武器"
+  },
+  "Description": {
+    "English": "Specialist <span class=\"name name-stellar\">rapid fire</span> weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technology\">Pulse Spitter</span> redirects Multi-Tool optics to ionise inserted <span class=\"name name-earth\">Metallic Elements</span>. These projectiles are launched in a rapid-fire spread, bombarding potential targets with a <span class=\"name name-stellar\">wave of high-energy plasma</span>.",
+    "SimplifiedChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的专业型<span class=\"name name-stellar\">速射</span>武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">脉冲喷射器</span>可重定向多用途工具的光学器材，电离置于其中的<span class=\"name name-earth\">金属元素</span>。通过急速发射的射弹对潜在目标进行<span class=\"name name-stellar\">一波高能离子</span>轰击。",
+    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的專家<span class=\"name name-stellar\">快速射擊</span>武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br><span class=\"name name-technology\">脈衝槍</span>會調整工具組的光學儀器，使其能將填入的<span class=\"name name-earth\">金屬元素</span>離子化。這些子彈會以高速掃射的方式發射，以<span class=\"name name-stellar\">高能電漿波</span>轟炸潛在目標。",
+    "USEnglish": "Specialist <span class=\"name name-stellar\">rapid fire</span> weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technology\">Pulse Spitter</span> redirects Multi-Tool optics to ionize inserted <span class=\"name name-earth\">Metallic Elements</span>. These projectiles are launched in a rapid-fire spread, bombarding potential targets with a <span class=\"name name-stellar\">wave of high-energy plasma</span>."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.pulsespitter.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 200,
+  "ChargeType": "Earth",
+  "ChargeBy": [
+    "LAND1",
+    "LAND2",
+    "LAND3"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": true,
+  "AmmoId": "AMMO",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "LAUNCHSUB2": {
+      "ID": "LAUNCHSUB2",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Burst",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Projectile_ClipSize",
+      "Bonus": 80,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "Bonus": 96,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Rate",
+      "Bonus": 8,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Dispersion",
+      "Bonus": 6,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_ReloadTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Range",
+      "Bonus": 300,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BulletsPerShot",
+      "Bonus": 2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_Recoil",
+      "Bonus": 80,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCap",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCooldown",
+      "Bonus": 0,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Projectile_MaximumCharge",
+      "Bonus": 200,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 1,
+    "B": 0.627451,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 250,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

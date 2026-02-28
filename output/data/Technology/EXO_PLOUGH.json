@@ -1,0 +1,106 @@
+{
+  "ID": "EXO_PLOUGH",
+  "Group": "",
+  "Name": {
+    "English": "EXCAVATION BLADE",
+    "SimplifiedChinese": "开采刀刃",
+    "TraditionalChinese": "挖掘刀刃"
+  },
+  "NameLower": {
+    "English": "Excavation Blade",
+    "SimplifiedChinese": "开采刀刃",
+    "TraditionalChinese": "挖掘刀刃"
+  },
+  "Subtitle": {
+    "English": "Exocraft Demolition Attachment",
+    "SimplifiedChinese": "强化艇拆除配件",
+    "TraditionalChinese": "強化艇拆除配件"
+  },
+  "Description": {
+    "English": "A obstacle demolition attachment for a terrestrial vehicle, compatible with the <span class=\"name name-technology\">Colossus</span> large Exocraft.<br><br>The <span class=\"name name-stellar\">Excavation Blade</span> allows the Colossus to collect a small number of resources from minerals and vegetation upon collision, and reduces grime and scratches to the Exocraft's paintwork.",
+    "SimplifiedChinese": "一种用于陆地车辆的障碍物拆除配件，可与以下部件兼容：大型<span class=\"name name-technology\">巨人</span>强化艇。<br><br><span class=\"name name-stellar\">开采刀刃</span>使巨人强化艇在碰撞时能够从矿物和植被中获取少量资源，并且还能减少强化艇表面的污垢和划痕。",
+    "TraditionalChinese": "一種用於陸地載具的障礙物拆除配件，適用於大型的<span class=\"name name-technology\">巨人強化艇</span>。<br><br>這款<span class=\"name name-stellar\">挖掘刀刃</span>能讓巨人強化艇在碰撞時從礦物和植物中收集少量資源，並減少強化艇外漆上的汙垢和刮痕。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.plough.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Colossus",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 5
+    },
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "BaseStat": "Vehicle_Plough",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Plough",
+      "Bonus": 0.01,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 480,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

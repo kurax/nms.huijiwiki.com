@@ -1,0 +1,107 @@
+{
+  "ID": "CARGO_S_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "NEURAL SHIELDING",
+    "SimplifiedChinese": "神经护盾",
+    "TraditionalChinese": "神經防護罩"
+  },
+  "NameLower": {
+    "English": "Neural Shielding",
+    "SimplifiedChinese": "神经护盾",
+    "TraditionalChinese": "神經防護罩"
+  },
+  "Subtitle": {
+    "English": "Hostile Probe Deflector",
+    "SimplifiedChinese": "敌方探测偏导器",
+    "TraditionalChinese": "敵對探測反射器"
+  },
+  "Description": {
+    "English": "A beautiful living weave of nanotubes, laced through the vessel's neural assembly. This structure can be energised as the ship deems fit, creating a field that <span class=\"name name-steller\">blocks</span> hostile <span class=\"name name-stellar\">cargo probes</span>.<br><br>Use the <span class=\"name name-technology\">Quick Menu</span> (<span class=\"name name-img\">QUICK_MENU</span>) while a scan is in progress to ask that the ship might block the scan.",
+    "SimplifiedChinese": "一个由纳米管编织而成的美丽活体，贯穿于飞船的神经组件。这个结构可以在飞船认为合适的时候被激活，形成一个<span class=\"name name-steller\">阻挡</span>敌对的<span class=\"name name-stellar\">货物探针</span>的力场。在扫描过程中<br><br>使用<span class=\"name name-technology\">快捷菜单</span>（<span class=\"name name-img\">QUICK_MENU</span>）以询问该飞船是否可能会阻挡扫描。",
+    "TraditionalChinese": "一個美麗的活體奈米管路，遍布太空船的神經電路板。如果太空船適合，此結構可以藉其產生能量，建立一個能夠<span class=\"name name-steller\">阻擋</span>敵對<span class=\"name name-stellar\">貨物探測</span>的力場。<br><br>進行掃描時按下<span class=\"name name-technology\">快捷選單</span> (<span class=\"name name-img\">QUICK_MENU</span>)，即可查詢此太空船是否會阻擋掃描。",
+    "USEnglish": "A beautiful living weave of nanotubes, laced through the vessel's neural assembly. This structure can be energized as the ship deems fit, creating a field that <span class=\"name name-steller\">blocks</span> hostile <span class=\"name name-stellar\">cargo probes</span>.<br><br>Use the <span class=\"name name-technology\">Quick Menu</span> (<span class=\"name name-img\">QUICK_MENU</span>) while a scan is in progress to ask that the ship might block the scan."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/product.stem1.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Impossible",
+  "Value": 50,
+  "Requirements": {
+    "JELLY": {
+      "ID": "JELLY",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "SPACEGUNK2": {
+      "ID": "SPACEGUNK2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_CargoShield",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_CargoShield",
+      "Bonus": 1,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 240,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

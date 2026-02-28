@@ -1,0 +1,101 @@
+{
+  "ID": "T_BOBBLE_ATLAS",
+  "Group": "",
+  "Name": {
+    "English": "ATLAS FIGURINE",
+    "SimplifiedChinese": "阿特拉斯手办",
+    "TraditionalChinese": "寰宇模型"
+  },
+  "NameLower": {
+    "English": "Atlas Figurine",
+    "SimplifiedChinese": "阿特拉斯手办",
+    "TraditionalChinese": "寰宇模型"
+  },
+  "Subtitle": {
+    "English": "Starship Interior Adornment",
+    "SimplifiedChinese": "飞船内饰",
+    "TraditionalChinese": "太空船室內裝飾品"
+  },
+  "Description": {
+    "English": "A synthetic polymer adornment for your starship's cockpit, fashioned in the likeness of an Atlas Interface.<br><br>Install to an <span class=\"name name-technology\">Inventory Slot</span> to decorate your ship's interior.",
+    "SimplifiedChinese": "飞船驾驶舱的合成高分子玩具摆件，原型是阿特拉斯。<br><br>安装到<span class=\"name name-technology\">库存栏位</span>中来装饰你的飞船内部。",
+    "TraditionalChinese": "放置於太空船駕駛艙中的一種合成聚合物裝飾品，其樣式類似於寰宇介面。<br><br>安裝於<span class=\"name name-technology\">道具欄的欄位</span>來裝飾你的太空船室內。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/specialshop/special.bobbleatlas.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShips",
+  "Rarity": "Impossible",
+  "Value": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 10
+    }
+  },
+  "BaseStat": "Ship_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Hyperdrive_JumpDistance",
+      "Bonus": 50,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

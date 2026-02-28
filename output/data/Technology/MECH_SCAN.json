@@ -1,0 +1,111 @@
+{
+  "ID": "MECH_SCAN",
+  "Group": "",
+  "Name": {
+    "English": "MINOTAUR RADAR ARRAY",
+    "SimplifiedChinese": "弥诺陶洛斯雷达阵列",
+    "TraditionalChinese": "彌諾陶洛斯雷達陣列"
+  },
+  "NameLower": {
+    "English": "Minotaur Radar Array",
+    "SimplifiedChinese": "弥诺陶洛斯雷达阵列",
+    "TraditionalChinese": "彌諾陶洛斯雷達陣列"
+  },
+  "Subtitle": {
+    "English": "Minotaur Scan Attachment",
+    "SimplifiedChinese": "弥诺陶洛斯扫描附件",
+    "TraditionalChinese": "彌諾陶洛斯掃描配件"
+  },
+  "Description": {
+    "English": "A high-detail radar device, capable of upgrading the scanner technology aboard the Minotaur to Analysis Visor levels.<br><br>Press <span class=\"name name-img\">SCAN</span> to activate a radar sweep, revealing <span class=\"name name-stellar\">additional points of interest</span> that cannot be located via a Multi-Tool scanner.<br><br>Use the Quick Menu to tune the radar to <span class=\"name name-technology\">specific buildings</span>.",
+    "SimplifiedChinese": "一种高细节的雷达设备，可将弥诺陶洛斯上的扫描技术升级到分析面甲级别。<br><br>按下 <span class=\"name name-img\">SCAN</span>以激活雷达扫描，显示无法通过多用途工具扫描器定位的<span class=\"name name-stellar\">其他重要地点</span>。<br><br>使用快捷菜单微调雷达搜寻<span class=\"name name-technology\">特定建筑</span>。",
+    "TraditionalChinese": "精細的雷達裝置，能將彌諾陶洛斯上的掃描器科技升級到分析護目鏡的等級。<br><br>按 <span class=\"name name-img\">SCAN</span> 啟動雷達掃測，顯示出工具組掃描器無法找出的<span class=\"name name-stellar\">額外重要地點</span>。<br><br>使用快捷選單調整雷達找出<span class=\"name name-technology\">特定建築</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.scan.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 75
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_Scan",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Scan",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SCANNERLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 120,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

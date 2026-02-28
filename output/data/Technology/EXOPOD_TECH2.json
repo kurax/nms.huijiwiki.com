@@ -1,0 +1,95 @@
+{
+  "ID": "EXOPOD_TECH2",
+  "Group": "",
+  "Name": {
+    "English": "DAMAGED ELECTRODE",
+    "SimplifiedChinese": "受损的电极",
+    "TraditionalChinese": "受損電極體"
+  },
+  "NameLower": {
+    "English": "Damaged Electrode",
+    "SimplifiedChinese": "受损的电极",
+    "TraditionalChinese": "受損電極體"
+  },
+  "Subtitle": {
+    "English": "Damaged Component",
+    "SimplifiedChinese": "受损部件",
+    "TraditionalChinese": "受損元件"
+  },
+  "Description": {
+    "English": "This <span class=\"name name-technology\">Exosuit Upgrade Module</span> is critically damaged. Repair systems to restore upgrade functionality.<br><br>If repaired, User <span class=\"name name-stellar\">will not be charged</span> for any Exosuit Upgrades.",
+    "SimplifiedChinese": "该<span class=\"name name-technology\">套装升级模块</span>严重受损。修复系统以恢复升级功能。<br><br>一旦修复，使用者便<span class=\"name name-stellar\">无需支付</span>任何套装升级费用。",
+    "TraditionalChinese": "此<span class=\"name name-technology\">強化套裝升級模組</span>嚴重受損。修復系統以恢復升級功能。<br><br>如果修復完成，使用者的任何強化套裝升級都<span class=\"name name-stellar\">不需付費</span>。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4products/product.nanotubes.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "CATALYST2": {
+      "ID": "CATALYST2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

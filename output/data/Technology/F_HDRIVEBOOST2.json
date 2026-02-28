@@ -1,0 +1,114 @@
+{
+  "ID": "F_HDRIVEBOOST2",
+  "Group": "",
+  "Name": {
+    "English": "PLASMATIC WARP INJECTOR",
+    "SimplifiedChinese": "等离子曲速喷射器",
+    "TencentChinese": "货船 曲速反应器（陶型）",
+    "TraditionalChinese": "空間跳躍電漿注射器"
+  },
+  "NameLower": {
+    "English": "Plasmatic Warp Injector",
+    "SimplifiedChinese": "等离子曲速喷射器",
+    "TencentChinese": "货船 曲速反应器（陶型）",
+    "TraditionalChinese": "空間跳躍電漿注射器"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Companion Unit",
+    "SimplifiedChinese": "超光速推进配件",
+    "TraditionalChinese": "超空間驅動器輔助元件"
+  },
+  "Description": {
+    "English": "An augmentation for the colossal hyperdrive engine of an <span class=\"name name-stellar\">interstellar freighter</span>.<br><br>Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems.",
+    "SimplifiedChinese": "用于<span class=\"name name-stellar\">星际货船</span>巨型超光速推进引擎的增强装置。<br><br>超光速推进引擎运用先进的聚变反应，使飞船的曲速和强度更高。使用者能驾驶飞船跃迁到更深层的空间，到达更遥远的行星系。",
+    "TencentChinese": "超光速推进运用先进的聚变反应，使飞船曲速和强度更高。使用者能驾驶飞船跳跃到更深层的空间，到达更遥远的行星系。",
+    "TraditionalChinese": "<span class=\"name name-stellar\">星際貨船</span>的巨大超空間驅動器的強化工具。<br><br>超空間驅動器利用先進融合技術，讓太空船能達到更高的空間跳躍速度與強度。使用者的太空船能跳躍至太空更深的地方，還能抵達更遙遠的行星系統。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/technology.freightertau.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 3,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Freighter",
+  "Rarity": "VeryRare",
+  "Value": 100,
+  "Requirements": {
+    "GREEN2": {
+      "ID": "GREEN2",
+      "Type": "Substance",
+      "Amount": 250
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "AM_HOUSING": {
+      "ID": "AM_HOUSING",
+      "Type": "Product",
+      "Amount": 5
+    }
+  },
+  "BaseStat": "Freighter_Hyperdrive",
+  "StatBonuses": [
+    {
+      "Stat": "Freighter_Hyperdrive_JumpDistance",
+      "Bonus": 300,
+      "Level": 2
+    }
+  ],
+  "RequiredTech": "F_HYPERDRIVE",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 6,
+  "DispensingRace": "Traders",
+  "FragmentCost": 8,
+  "TechShopRarity": "Rare",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

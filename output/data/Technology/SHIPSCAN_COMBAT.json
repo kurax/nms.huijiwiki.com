@@ -1,0 +1,106 @@
+{
+  "ID": "SHIPSCAN_COMBAT",
+  "Group": "",
+  "Name": {
+    "English": "CONFLICT SCANNER",
+    "SimplifiedChinese": "冲突扫描仪",
+    "TraditionalChinese": "衝突掃描器"
+  },
+  "NameLower": {
+    "English": "Conflict Scanner",
+    "SimplifiedChinese": "冲突扫描仪",
+    "TraditionalChinese": "衝突掃描器"
+  },
+  "Subtitle": {
+    "English": "Long-range Sensor Technology",
+    "SimplifiedChinese": "长距离传感器技术",
+    "TraditionalChinese": "遠距離偵測科技"
+  },
+  "Description": {
+    "English": "An upgrade to the starship's galactic-scale sensors. This device allows the user to access conflict data in the galaxy map, without having to put themselves in harm's way.",
+    "SimplifiedChinese": "飞船星际传感器升级版。此件装置允许使用者在不用接触到危险伤害的前提下查看星系图中的冲突数据。",
+    "TraditionalChinese": "太空船銀河規模偵測器升級。此裝置能讓使用者不用冒生命危險，即可在銀河系地圖獲取詳盡的衝突資料。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.shipscan_combat.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 10,
+  "Requirements": {
+    "WALKER_PROD": {
+      "ID": "WALKER_PROD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Ship_Scan_ConflictFilter",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Scan_ConflictFilter",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

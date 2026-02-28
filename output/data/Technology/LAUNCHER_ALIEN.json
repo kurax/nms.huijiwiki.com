@@ -1,0 +1,115 @@
+{
+  "ID": "LAUNCHER_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "NEURAL ASSEMBLY",
+    "SimplifiedChinese": "神经线路板",
+    "TraditionalChinese": "神經電路板"
+  },
+  "NameLower": {
+    "English": "Neural Assembly",
+    "SimplifiedChinese": "神经线路板",
+    "TraditionalChinese": "神經電路板"
+  },
+  "Subtitle": {
+    "English": "Fused Organic Technology",
+    "SimplifiedChinese": "有机融合技术",
+    "TraditionalChinese": "融合有機科技"
+  },
+  "Description": {
+    "English": "An array of distributed neurons, fused to a board of metallic strands. Complex patterns of electrical impulses weave their way across the surface, knotting each ship system together.<br> <br>Hold <span class=\"name name-img\">THRUST</span> to inquire if the ship would like to take off.",
+    "SimplifiedChinese": "一组分布的神经元，融合在一块金属链上。复杂的电脉冲样式交织在表面上，把每一个舰船系统连接在一起。<br><br>按住<span class=\"name name-img\">THRUST</span>询问船是否要起飞。",
+    "TraditionalChinese": "大量神經元經過融合後分布在布滿金屬線的板子上。複雜的電子訊號在表面穿梭，藉此連接太空船的所有系統。<br> <br>按住 <span class=\"name name-img\">THRUST</span> 詢問太空船願不願意起飛。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/biotech.brain.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "OXYGEN",
+    "CREATURE1",
+    "FUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Always",
+  "Value": 5,
+  "Requirements": {
+    "WALKER_PROD": {
+      "ID": "WALKER_PROD",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "SPACEGUNK4": {
+      "ID": "SPACEGUNK4",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_Launcher",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Launcher",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Launcher_TakeOffCost",
+      "Bonus": 50,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT0",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

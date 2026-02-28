@@ -1,0 +1,121 @@
+{
+  "ID": "MECH_SENT_R_ARM",
+  "Group": "",
+  "Name": {
+    "English": "HARDFRAME RIGHT ARM",
+    "SimplifiedChinese": "强化外壳右臂",
+    "TraditionalChinese": "硬體結構右臂"
+  },
+  "NameLower": {
+    "English": "Hardframe Right Arm",
+    "SimplifiedChinese": "强化外壳右臂",
+    "TraditionalChinese": "硬體結構右臂"
+  },
+  "Subtitle": {
+    "English": "Minotaur Limb Replacement",
+    "SimplifiedChinese": "弥诺陶洛斯肢体替换组件",
+    "TraditionalChinese": "彌諾陶洛斯四肢替換零件"
+  },
+  "Description": {
+    "English": "A collection of salvaged components from a Sentinel Hardframe, reconditioned to fit the <span class=\"name name-technology\">Minotaur</span> Heavy Exocraft Hybrid.<br><br>This limb override also functions as its own <span class=\"name name-stellar\">dedicated combat system</span>. It deploys high-velocity <span class=\"name name-technology\">stun projectiles</span> and serves as an excellent support weapon to the Minotaur's primary cannon.<br><br>Use <span class=\"name name-img\">CYCLEWEAPON</span> to cycle available weapon modes.",
+    "SimplifiedChinese": "一组从护卫强化外壳上回收的构件，经过改造后适用于<span class=\"name name-technology\">弥诺陶洛斯</span>重型混合强化艇。<br><br>这个肢体超控自身也可以作为<span class=\"name name-stellar\">专用战斗系统</span>。它可以部署高速<span class=\"name name-technology\">眩晕弹</span>，是弥诺陶洛斯主炮的绝佳辅助武器。<br><br>使用<span class=\"name name-img\">CLEWEAPON</span>以循环可用的武器模式。",
+    "TraditionalChinese": "從巡警硬體結構中回收的一系列元件，經過翻新後用於<span class=\"name name-technology\">彌諾陶洛斯</span>重型混合強化艇。<br><br>此肢體覆寫能夠充當<span class=\"name name-stellar\">專用戰鬥系統</span>。會部署高速的<span class=\"name name-technology\">暈眩射彈</span>，是彌諾陶洛斯主砲的絕佳輔助武器。<br><br>使用 <span class=\"name name-img\">CYCLEWEAPON</span> 切換可用武器模式。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.mech.sent.rarm.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 400,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_StunGun",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "Bonus": 20,
+      "Level": 3
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "Bonus": 0.5,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "RIGHTARMLOC",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 500,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

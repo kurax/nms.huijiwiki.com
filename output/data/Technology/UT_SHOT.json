@@ -1,0 +1,108 @@
+{
+  "ID": "UT_SHOT",
+  "Group": "",
+  "Name": {
+    "English": "SHELL GREASER",
+    "SimplifiedChinese": "炮弹上油器",
+    "TraditionalChinese": "炮彈上油器"
+  },
+  "NameLower": {
+    "English": "Shell Greaser",
+    "SimplifiedChinese": "炮弹上油器",
+    "TraditionalChinese": "炮彈上油器"
+  },
+  "Subtitle": {
+    "English": "Scatter Blaster Upgrade",
+    "SimplifiedChinese": "散射爆破器升级",
+    "TencentChinese": "散射迸裂器升级",
+    "TraditionalChinese": "雙管霰彈槍升級"
+  },
+  "Description": {
+    "English": "Advanced self-lubricating components decrease friction within the <span class=\"name name-technology\">Scatter Blaster</span>, offering significant improvements to <span class=\"name name-stellar\">reload times</span>.",
+    "SimplifiedChinese": "先进的自润滑构件，可减少<span class=\"name name-technology\">散射爆破器</span>的内部摩擦，显著提升<span class=\"name name-stellar\">装弹时间</span>。",
+    "TencentChinese": "先进的自润滑部件，可减少<span class=\"name name-technology\">散射迸裂器</span>的内部摩擦，显著提升<span class=\"name name-stellar\">装弹时间</span>。",
+    "TraditionalChinese": "先進的自潤式元件可減少<span class=\"name name-technology\">雙管霰彈槍</span>內部的摩擦，有效縮短<span class=\"name name-stellar\">裝填彈藥時間</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.scatterblastermod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Shotgun",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Projectile_ReloadTime",
+      "Bonus": 0.85,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHOTGUN",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.972549,
+    "G": 0.792156875,
+    "B": 0.0745098069,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.847058833,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 180,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

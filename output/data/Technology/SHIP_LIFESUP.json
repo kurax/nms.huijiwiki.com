@@ -1,0 +1,109 @@
+{
+  "ID": "SHIP_LIFESUP",
+  "Group": "",
+  "Name": {
+    "English": "PRESSURISATION CAPSULE",
+    "SimplifiedChinese": "增压胶囊",
+    "TraditionalChinese": "加壓膠囊"
+  },
+  "NameLower": {
+    "English": "Pressurisation Capsule",
+    "SimplifiedChinese": "增压胶囊",
+    "TraditionalChinese": "加壓膠囊"
+  },
+  "Subtitle": {
+    "English": "Starship Life Support Unit",
+    "SimplifiedChinese": "飞船生命维持装置",
+    "TraditionalChinese": "太空船維生系統元件"
+  },
+  "Description": {
+    "English": "A critical starship safety feature, vital for extra-orbital flight.<br><br>The pressuration capsule is a dedicated unit that both ensures a <span class=\"name name-stellar\">breathable atmosphere</span> and prevents the catastrophic explosion of unconventional cockpit designs.",
+    "SimplifiedChinese": "一项关键的飞船安全功能，对于轨道外飞行至关重要。<br><br>专门安装的增压胶囊将能够维持飞船内部的<span class=\"name name-stellar\">可呼吸大气环境</span>，并避免因非常规驾驶舱设计导致的灾难性爆炸事故。",
+    "TraditionalChinese": "舉足輕重的太空船安全構件，對外軌道飛行起了至關重要的作用。<br><br>加壓膠囊是一款專門元件，既能確保<span class=\"name name-stellar\">可呼吸空氣環境</span>，也可預防非傳統式駕駛艙發生災難性爆炸。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/tradeprod.tech5.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 120,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "HYPERFUEL1",
+    "HYPERFUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Ship",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 125
+    },
+    "ALLOY3": {
+      "ID": "ALLOY3",
+      "Type": "Product",
+      "Amount": 4
+    }
+  },
+  "BaseStat": "Ship_LifeSupport",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_LifeSupport",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIP_LIFESUP",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

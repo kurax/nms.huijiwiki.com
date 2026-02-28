@@ -1,0 +1,111 @@
+{
+  "ID": "UT_TRANSLATE3",
+  "Group": "",
+  "Name": {
+    "English": "ADVANCED TRANSLATOR",
+    "SimplifiedChinese": "高级翻译器",
+    "TraditionalChinese": "先進通譯"
+  },
+  "NameLower": {
+    "English": "Advanced Translator",
+    "SimplifiedChinese": "高级翻译器",
+    "TraditionalChinese": "先進通譯"
+  },
+  "Subtitle": {
+    "English": "Automatic Language Parser",
+    "SimplifiedChinese": "自动语言剖析器",
+    "TraditionalChinese": "自動語言分析器"
+  },
+  "Description": {
+    "English": "An automatic translation device. It records and parses nearby conversations before running the data through a contextual learning system to determine intended meaning.<br><br>A large memory array and overclocked language processors allow the real-time translation of significant chunks of speech.",
+    "SimplifiedChinese": "一种自动翻译装置。能记录并分析附近的对话，然后通过上下文学习系统运行数据，以确定预期的含义。<br><br>具有大型内存阵列和超频工作的语言处理器，能够实时翻译大量对话。",
+    "TraditionalChinese": "自動翻譯裝置，可記錄、分析附近的談話，再將資料輸入情境式學習系統，判斷其意涵。<br><br>具備大型記憶陣列、超頻語言處理器，可以即時翻譯大量談話內容。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/autotranslator.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "EXP_CURIO2": {
+      "ID": "EXP_CURIO2",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "BaseStat": "Suit_AutoTranslator",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_AutoTranslator",
+      "Bonus": 3,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 580,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

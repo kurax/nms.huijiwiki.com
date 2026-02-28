@@ -1,0 +1,96 @@
+{
+  "ID": "MAINT_S13",
+  "Group": "",
+  "Name": {
+    "English": "PORTAL REPOSITORY",
+    "SimplifiedChinese": "传送门存储器",
+    "TraditionalChinese": "傳送門資料庫"
+  },
+  "NameLower": {
+    "English": "Portal Repository",
+    "SimplifiedChinese": "传送门存储器",
+    "TraditionalChinese": "傳送門資料庫"
+  },
+  "Subtitle": {
+    "English": "Mind Ark Notch",
+    "SimplifiedChinese": "心灵方舟凹槽",
+    "TraditionalChinese": "思維方舟凹槽"
+  },
+  "Description": {
+    "English": "A groove cut into the smooth grey stone of the <span class=\"name name-special\">Portal</span>.<br><br>A light within pulses gently, expectant.",
+    "SimplifiedChinese": "<span class=\"name name-special\">传送门</span>光滑的灰色石制外壳上有一处凹槽。<br><br>里面正闪烁着微光，似乎是在等待着什么东西。",
+    "TraditionalChinese": "<span class=\"name name-special\">傳送門</span>光滑的灰色石頭刻著一道凹槽。<br><br>凹槽中柔和的光一明一滅靜候著。",
+    "USEnglish": "A groove cut into the smooth gray stone of the <span class=\"name name-special\">Portal</span>.<br><br>A light within pulses gently, expectant."
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update3/mindarc.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Maintenance",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "MIND_ARC": {
+      "ID": "MIND_ARC",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Unspecified",
+  "StatBonuses": null,
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 2,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,130 @@
+{
+  "ID": "SHIPJUMP_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "PULSING HEART",
+    "SimplifiedChinese": "搏动心脏",
+    "TraditionalChinese": "脈動心臟"
+  },
+  "NameLower": {
+    "English": "Pulsing Heart",
+    "SimplifiedChinese": "搏动心脏",
+    "TraditionalChinese": "脈動心臟"
+  },
+  "Subtitle": {
+    "English": "Fused Organic Technology",
+    "SimplifiedChinese": "有机融合技术",
+    "TraditionalChinese": "融合有機科技"
+  },
+  "Description": {
+    "English": "A fibrous metallic superstructure binds this warm and vital organ with the core of the ship. Without it, the ship would be nothing, a lifeless husk.<br><br>Hold <span class=\"name name-img\">PULSEJUMP</span> to ask the heart to initiate a Pulse Jump.<br>Hold <span class=\"name name-img\">BOOST</span> to request a speed boost.",
+    "SimplifiedChinese": "纤维状的金属超级结构将这个温暖而重要的器官与船的核心结合在一起。如果没有它，飞船将一文不值，成为一个没有生命的躯壳。<br><br>按住<span class=\"name name-img\">PULSEJUMP</span>让心脏开始脉冲跃迁。<br>按住<span class=\"name name-img\">BOOST</span>以提速。",
+    "TraditionalChinese": "纖維狀的金屬附加結構，將這個溫暖的重要器官和太空船核心連結在一起。少了心臟，太空船就會失去功能，剩下沒有生命的空殼。<br><br>按住 <span class=\"name name-img\">PULSEJUMP</span> 向心臟請求脈衝跳躍。<br>按住 <span class=\"name name-img\">BOOST</span> 請求加速。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/bio/biotech.heart.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Exotic",
+  "ChargeBy": [
+    "ASTEROID1",
+    "FUEL1",
+    "SPACEGUNK5"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Always",
+  "Value": 10,
+  "Requirements": {
+    "FOOD_R_MEAT": {
+      "ID": "FOOD_R_MEAT",
+      "Type": "Product",
+      "Amount": 15
+    },
+    "SPACEGUNK2": {
+      "ID": "SPACEGUNK2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_PulseDrive",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_PulseDrive",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpFuelSpending",
+      "Bonus": 0.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Boost",
+      "Bonus": 100,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpSpeed",
+      "Bonus": 1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPJUMP1",
+  "RequiredLevel": 0,
+  "FocusLocator": "MAINTENANCESLOT1",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

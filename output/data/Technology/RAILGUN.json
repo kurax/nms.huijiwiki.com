@@ -1,0 +1,140 @@
+{
+  "ID": "RAILGUN",
+  "Group": "",
+  "Name": {
+    "English": "BLAZE JAVELIN",
+    "SimplifiedChinese": "火焰标枪",
+    "TraditionalChinese": "火焰標槍"
+  },
+  "NameLower": {
+    "English": "Blaze Javelin",
+    "SimplifiedChinese": "火焰标枪",
+    "TraditionalChinese": "火焰標槍"
+  },
+  "Subtitle": {
+    "English": "Energy Beam Weapon",
+    "SimplifiedChinese": "能量射束武器",
+    "TraditionalChinese": "能量光束武器"
+  },
+  "Description": {
+    "English": "Aggressive weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The Blaze Javelin delivers instantaneous damage on targets.<br><br>Plasma charge process creates an ionised gas arc to propel projectiles at great speed. User will perceive destructive results simultaneous to the pull of the trigger.",
+    "SimplifiedChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的攻击型武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">火焰标枪</span>能立刻对目标造成伤害。<br><br>离子充能过程中将制造出高速推进射弹的电离化气弧。使用者会在扣动扳机的同时感受到破坏性效果。",
+    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的侵略性武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br>火焰標槍可對目標造成立即傷害。<br><br>電漿填充程序會創造出一道離子化氣體電弧，進而以超高速度推動射彈。使用者扣下扳機的同時就會觀測到破壞結果。",
+    "USEnglish": "Aggressive weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The Blaze Javelin delivers instantaneous damage on targets.<br><br>Plasma charge process creates an ionized gas arc to propel projectiles at great speed. User will perceive destructive results simultaneous to the pull of the trigger."
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.blazejavelin.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 50,
+  "ChargeType": "Fuel",
+  "ChargeBy": [
+    "FUEL1",
+    "FUEL2"
+  ],
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Weapon_Rail",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Laser_HeatTime",
+      "Bonus": 0.2,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_Damage",
+      "Bonus": 1500,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_ReloadTime",
+      "Bonus": 2.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_ChargeTime",
+      "Bonus": 3,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_Recoil",
+      "Bonus": 20,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_Laser_Drain",
+      "Bonus": 2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.964705884,
+    "G": 0.254901975,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 250,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

@@ -1,0 +1,112 @@
+{
+  "ID": "STARSUIT",
+  "Group": "",
+  "Name": {
+    "English": "STAR SEED",
+    "SimplifiedChinese": "星种",
+    "TraditionalChinese": "星種"
+  },
+  "NameLower": {
+    "English": "Star Seed",
+    "SimplifiedChinese": "星种",
+    "TraditionalChinese": "星種"
+  },
+  "Subtitle": {
+    "English": "Cosmic Brand",
+    "SimplifiedChinese": "宇宙系带",
+    "TencentChinese": "无价碎片",
+    "TraditionalChinese": "宇宙烙印"
+  },
+  "Description": {
+    "English": "The smallest of sparks, housed within a containment field of unknown origins.<br><br>The seed glows with life, desperate to escape and fulfill its potential.",
+    "SimplifiedChinese": "藏身于未知来源控制区域内的最小的火花。<br><br>这颗种子会发芽，急切地逃离区域并展现其潜质。",
+    "TraditionalChinese": "最微弱的亮光，存放在來源不明的隔離場裡。<br><br>這顆種子閃著生命的光芒，急著要逃出去，展現自己真正的潛力。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4products/product.hexcore.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Catalyst",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Impossible",
+  "Value": 120,
+  "Requirements": {
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 16
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 16
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 16
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Armour_Health",
+      "Bonus": 20,
+      "Level": 20
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.8,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 1,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

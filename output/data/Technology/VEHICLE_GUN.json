@@ -1,0 +1,118 @@
+{
+  "ID": "VEHICLE_GUN",
+  "Group": "",
+  "Name": {
+    "English": "MOUNTED CANNON",
+    "SimplifiedChinese": "悬挂大炮",
+    "TencentChinese": "强化艇悬挂大炮",
+    "TraditionalChinese": "固定大砲"
+  },
+  "NameLower": {
+    "English": "Mounted Cannon",
+    "SimplifiedChinese": "悬挂大炮",
+    "TencentChinese": "强化艇悬挂大炮",
+    "TraditionalChinese": "固定大砲"
+  },
+  "Subtitle": {
+    "English": "Exocraft Weapon Attachment",
+    "SimplifiedChinese": "强化艇武器配件",
+    "TraditionalChinese": "強化艇武器附加裝置"
+  },
+  "Description": {
+    "English": "Due to the energy requirements of this powerful weapon, they can only be fired from an Exocraft mount.",
+    "SimplifiedChinese": "由于此强力武器的能量要求，必须安装于强化艇进行射击。",
+    "TraditionalChinese": "這款強大的武器非常耗能，只能裝設於強化艇上射擊。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_gun.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": true,
+  "ChargeAmount": 200,
+  "ChargeType": "Fuel",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Exocraft",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "YELLOW2": {
+      "ID": "YELLOW2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Vehicle_Gun",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "Bonus": 320,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "Bonus": 0.5,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 210,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

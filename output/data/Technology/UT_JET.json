@@ -1,0 +1,121 @@
+{
+  "ID": "UT_JET",
+  "Group": "",
+  "Name": {
+    "English": "NEURAL STIMULATOR",
+    "SimplifiedChinese": "神经刺激器",
+    "TraditionalChinese": "神經刺激器"
+  },
+  "NameLower": {
+    "English": "Neural Stimulator",
+    "SimplifiedChinese": "神经刺激器",
+    "TraditionalChinese": "神經刺激器"
+  },
+  "Subtitle": {
+    "English": "Exosuit Movement Upgrade",
+    "SimplifiedChinese": "套装运动升级",
+    "TraditionalChinese": "強化套裝運動升級"
+  },
+  "Description": {
+    "English": "Increases the capacity of the Exosuit's <span class=\"name name-stellar\">Jetpack Tanks</span> and <span class=\"name name-stellar\">Adrenal Pump Reserves</span>, allowing the user to both fly and sprint longer.",
+    "SimplifiedChinese": "增加套装的<span class=\"name name-stellar\">喷气背包罐</span>和<span class=\"name name-stellar\">肾上腺泵储备</span>的容量，允许用户更加持久地飞行和冲刺。",
+    "TraditionalChinese": "增加強化套裝的<span class=\"name name-stellar\">噴氣背包罐</span>和<span class=\"name name-stellar\">腎上腺泵儲備</span>的容量，允許用戶更加持久地飛行和衝刺。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.jetpackmod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Suit_Jetpack",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Jetpack_Tank",
+      "Bonus": 0.25,
+      "Level": 2
+    },
+    {
+      "Stat": "Suit_Jetpack_Refill",
+      "Bonus": 1.1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Stamina_Strength",
+      "Bonus": 0.1,
+      "Level": 1
+    },
+    {
+      "Stat": "Suit_Stamina_Recovery",
+      "Bonus": 1.4,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 90,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

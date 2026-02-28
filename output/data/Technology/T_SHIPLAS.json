@@ -1,0 +1,101 @@
+{
+  "ID": "T_SHIPLAS",
+  "Group": {
+    "English": "Phase Beam",
+    "SimplifiedChinese": "相位光束",
+    "TraditionalChinese": "相位光束"
+  },
+  "Name": {
+    "English": "UPGRADE MODULE",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "NameLower": {
+    "English": "Upgrade Module",
+    "SimplifiedChinese": "升级模块",
+    "TraditionalChinese": "升級模組"
+  },
+  "Subtitle": "TEMPLATE_SUB",
+  "Description": "TEMPLATE_DESC",
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.phasebeammod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 0,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": true,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 20,
+  "Requirements": {
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "RED2": {
+      "ID": "RED2",
+      "Type": "Substance",
+      "Amount": 250
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_Lasers",
+  "StatBonuses": null,
+  "RequiredTech": "SHIPLAS1",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 1,
+    "B": 0.627451,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 170,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": false,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": true,
+  "ExclusivePrimaryStat": false
+}

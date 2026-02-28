@@ -1,0 +1,112 @@
+{
+  "ID": "UT_TOX",
+  "Group": "",
+  "Name": {
+    "English": "TOXIN SUPPRESSOR",
+    "SimplifiedChinese": "毒性抑制器",
+    "TraditionalChinese": "毒素抑制器"
+  },
+  "NameLower": {
+    "English": "Toxic Suppressor",
+    "SimplifiedChinese": "毒性抑制器",
+    "TraditionalChinese": "毒素抑制器"
+  },
+  "Subtitle": {
+    "English": "Hazard Protection Unit",
+    "SimplifiedChinese": "危险防护单元",
+    "TraditionalChinese": "風險防護單位"
+  },
+  "Description": {
+    "English": "User is protected from toxic damage.<br><br>Reactive compounds within the Suppressor remove toxic liquids that fall on the user, thereby reducing peril and choking hazards.<br><br>Device is charged by <span class=\"name name-earth\">mineral extracts</span> found in toxic environments. Operates automatically once constructed within user's exosuit inventory.",
+    "SimplifiedChinese": "为使用者阻挡毒素伤害。<br><br>抑制器内的活性化合物可清除落在使用者身上的毒性液体，由此降低死亡风险和窒息伤害。<br><br>毒性环境中的<span class=\"name name-earth\">矿产提取物</span>可为本设备充能。本设备在使用者的套装库存中制造完毕后自动生效。",
+    "TencentChinese": "为使用者阻挡毒素伤害。<br><br>抑制器内的活性化合物可清除落在使用者身上的毒性液体，由此降低一些受伤风险。<br><br>毒性环境中的<span class=\"name name-earth\">矿产提取物</span>可为本设备充能。本设备在使用者的套装库存中制造完毕后自动生效。",
+    "TraditionalChinese": "可保護使用者不受毒傷害。<br><br>抑制器內的反應性化合物會去除落在使用者身上的有毒液體，進而減少死亡與窒息的風險。<br><br>裝置需使用可在有毒環境中取得的<span class=\"name name-earth\">礦物萃取物</span>補充。建造於使用者的強化套裝道具欄後便會自動啟用。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.protecttoxic.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "TOXIC1": {
+      "ID": "TOXIC1",
+      "Type": "Substance",
+      "Amount": 150
+    },
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 60
+    },
+    "YELLOW2": {
+      "ID": "YELLOW2",
+      "Type": "Substance",
+      "Amount": 75
+    }
+  },
+  "BaseStat": "Suit_Protection",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Protection_ToxDrain",
+      "Bonus": 1.2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.788235307,
+    "G": 0.815686285,
+    "B": 0.894117653,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 160,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

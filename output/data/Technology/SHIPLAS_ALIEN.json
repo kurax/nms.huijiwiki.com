@@ -1,0 +1,125 @@
+{
+  "ID": "SHIPLAS_ALIEN",
+  "Group": "",
+  "Name": {
+    "English": "GRAFTED EYES",
+    "SimplifiedChinese": "移植眼",
+    "TraditionalChinese": "移植眼睛"
+  },
+  "NameLower": {
+    "English": "Grafted Eyes",
+    "SimplifiedChinese": "移植眼",
+    "TraditionalChinese": "移植眼睛"
+  },
+  "Subtitle": {
+    "English": "Fused Organic Technology",
+    "SimplifiedChinese": "有机融合技术",
+    "TraditionalChinese": "融合有機科技"
+  },
+  "Description": {
+    "English": "A complex arrangement of membranes and lens, fused atop a high-energy laser array. Incineration awaits those that meet their stare.<br>Press <span class=\"name name-img\">SHIPFIRE</span> request the eyes gaze upon nearby targets.",
+    "SimplifiedChinese": "一种膜和透镜的复杂排列，融合在一个高能激光阵列上。焚化等待着那些与他们目光相遇的人。<br>按下<span class=\"name name-img\">SHIPFIRE</span>请求眼睛注视附近的目标。",
+    "TraditionalChinese": "由鏡頭和黏膜組合而成的複雜結構，融合在高能雷射陣列上方。只要和這雙眼睛四目相交，就會被燒成灰燼。<br>按下 <span class=\"name name-img\">SHIPFIRE</span> 請求眼睛看向附近的目標。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": {
+    "English": "Switch Weapon Mode by pressing <span class=\"name name-img\">SHIPCYCLEWEAPON</span><br>Fire Weapons with <span class=\"name name-img\">SHIPFIRE</span>",
+    "SimplifiedChinese": "按 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切换武器模式<br>按 <span class=\"name name-img\">SHIPFIRE</span> 用武器开火",
+    "TraditionalChinese": "按下 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切換武器模式<br>按下 <span class=\"name name-img\">SHIPFIRE</span> 發射武器"
+  },
+  "Icon": "ui/frontend/icons/technology/bio/biotech.eye.png",
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": true,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AlienShip",
+  "Rarity": "Always",
+  "Value": 5,
+  "Requirements": {
+    "EYEBALL": {
+      "ID": "EYEBALL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "SPACEGUNK5": {
+      "ID": "SPACEGUNK5",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "BaseStat": "Ship_Weapons_Lasers",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Lasers",
+      "Bonus": 1,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Lasers_HeatTime",
+      "Bonus": 3.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_Lasers_Damage",
+      "Bonus": 280,
+      "Level": 1
+    },
+    {
+      "Stat": "Ship_Weapons_ShieldLeech",
+      "Bonus": 0.1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.443137258,
+    "G": 0.188235298,
+    "B": 0.823529422,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 150,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

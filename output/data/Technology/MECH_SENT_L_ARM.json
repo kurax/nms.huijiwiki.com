@@ -1,0 +1,131 @@
+{
+  "ID": "MECH_SENT_L_ARM",
+  "Group": "",
+  "Name": {
+    "English": "HARDFRAME LEFT ARM",
+    "SimplifiedChinese": "强化外壳左臂",
+    "TraditionalChinese": "硬體結構左臂"
+  },
+  "NameLower": {
+    "English": "Hardframe Left Arm",
+    "SimplifiedChinese": "强化外壳左臂",
+    "TraditionalChinese": "硬體結構左臂"
+  },
+  "Subtitle": {
+    "English": "Minotaur Limb Replacement",
+    "SimplifiedChinese": "弥诺陶洛斯肢体替换组件",
+    "TraditionalChinese": "彌諾陶洛斯四肢替換零件"
+  },
+  "Description": {
+    "English": "A collection of salvaged components from a Sentinel Hardframe, reconditioned to fit the <span class=\"name name-technology\">Minotaur</span> Heavy Exocraft Hybrid.<br><br>When installed alongside a <span class=\"name name-technology\">Minotaur Laser</span>, it transforms the mining laser into a <span class=\"name name-stellar\">powerful combat upgrade</span> with the ability to deal heavy damaged to <span class=\"name name-technology\">stunned</span> entities.",
+    "SimplifiedChinese": "从一台护卫强化外壳上回收的构件，针对<span class=\"name name-technology\">弥诺陶洛斯</span>重型混合强化艇进行了改装处理。<br><br>与<span class=\"name name-technology\">弥诺陶洛斯激光</span>一同安装后会给开采激光提供<span class=\"name name-stellar\">强大的升级组件</span>，能够对被<span class=\"name name-technology\">眩晕</span>的实体造成重创。",
+    "TraditionalChinese": "從巡警硬體結構中回收的一系列元件，經過翻新後用於<span class=\"name name-technology\">彌諾陶洛斯</span>重型混合強化艇。<br><br>當和<span class=\"name name-technology\">彌諾陶洛斯雷射</span>一起安裝時，會將採礦雷射變化為<span class=\"name name-stellar\">強大的戰鬥升級</span>，擁有對處於<span class=\"name name-technology\">暈眩</span>狀態的存在體造成大量傷害的能力。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.mech.sent.larm.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Mech",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "BaseStat": "Vehicle_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Stun_Damage_Multiplier",
+      "Bonus": 5,
+      "Level": 3
+    },
+    {
+      "Stat": "Vehicle_LaserDamage",
+      "Bonus": 50,
+      "Level": 3
+    },
+    {
+      "Stat": "Weapon_FireDOT",
+      "Bonus": 1,
+      "Level": 4
+    },
+    {
+      "Stat": "Weapon_FireDOT_Duration",
+      "Bonus": 3.5,
+      "Level": 1
+    },
+    {
+      "Stat": "Weapon_FireDOT_DPS",
+      "Bonus": 80,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "LEFTARMLOC",
+  "UpgradeColour": {
+    "R": 0.745098054,
+    "G": 0.0745098069,
+    "B": 0.101960786,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.2,
+    "G": 0.6,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 500,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

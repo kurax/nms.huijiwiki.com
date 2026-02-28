@@ -1,0 +1,111 @@
+{
+  "ID": "UT_SHIPLAS",
+  "Group": "",
+  "Name": {
+    "English": "FOURIER DE-LIMITER",
+    "SimplifiedChinese": "傅立叶解限器",
+    "TraditionalChinese": "傅立葉解限器"
+  },
+  "NameLower": {
+    "English": "Fourier De-Limiter",
+    "SimplifiedChinese": "傅立叶解限器",
+    "TraditionalChinese": "傅立葉解限器"
+  },
+  "Subtitle": {
+    "English": "Phase Beam Upgrade",
+    "SimplifiedChinese": "相位光束升级",
+    "TraditionalChinese": "相位光束升級"
+  },
+  "Description": {
+    "English": "Rewires the <span class=\"name name-technology\">Phase Beam</span> with nanite-based circuitry, bypassing conventional reality limits on laser power.<br><br>Significantly improves <span class=\"name name-stellar\">heat performance</span>.",
+    "SimplifiedChinese": "用基于纳米的电路系统重装<span class=\"name name-technology\">相位光束</span>，绕过激光功率的常规现实限制。<br><br>显著提升<span class=\"name name-stellar\">热性能</span>。",
+    "TraditionalChinese": "用基於奈米的電路系統重裝<span class=\"name name-technology\">相位光束</span>，繞過雷射功率的常規現實限制。<br><br>顯著提升<span class=\"name name-stellar\">熱性能</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.phasebeammod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Normal",
+  "Value": 50,
+  "Requirements": {
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "BaseStat": "Ship_Weapons_Lasers",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Lasers_HeatTime",
+      "Bonus": 1.1,
+      "Level": 2
+    },
+    {
+      "Stat": "Ship_Weapons_ShieldLeech",
+      "Bonus": 0.1,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPLAS1",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 1,
+    "B": 0.627451,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 120,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

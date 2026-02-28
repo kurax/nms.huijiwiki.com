@@ -1,0 +1,111 @@
+{
+  "ID": "UT_SHIPGUN",
+  "Group": "",
+  "Name": {
+    "English": "NONLINEAR OPTICS",
+    "SimplifiedChinese": "非线性光学",
+    "TraditionalChinese": "非線性光學"
+  },
+  "NameLower": {
+    "English": "Nonlinear Optics",
+    "SimplifiedChinese": "非线性光学",
+    "TraditionalChinese": "非線性光學"
+  },
+  "Subtitle": {
+    "English": "Photon Cannon Upgrade",
+    "SimplifiedChinese": "光子大炮升级",
+    "TraditionalChinese": "光子砲升級"
+  },
+  "Description": {
+    "English": "Replaces the conventional <span class=\"name name-technology\">Photon Cannon</span> optics with an experimental glass array, boosting combat performance.<br><br>Significantly improves <span class=\"name name-stellar\">heat sink capacity</span>.",
+    "SimplifiedChinese": "用实验性玻璃阵列取代常规的<span class=\"name name-technology\">光子大炮</span>光学系统，提升战斗性能。<br><br>显著提升<span class=\"name name-stellar\">散热能力</span>。",
+    "TraditionalChinese": "用實驗性玻璃陣列取代常規的<span class=\"name name-technology\">光子砲</span>光學系統，提升戰鬥性能。<br><br>顯著提升<span class=\"name name-stellar\">散熱能力</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/render.shipprojectile1mod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "AllShipsExceptAlien",
+  "Rarity": "Rare",
+  "Value": 50,
+  "Requirements": {
+    "CARBON_SEAL": {
+      "ID": "CARBON_SEAL",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "BaseStat": "Ship_Weapons_Guns",
+  "StatBonuses": [
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "Bonus": 1.2,
+      "Level": 1
+    }
+  ],
+  "RequiredTech": "SHIPGUN1",
+  "RequiredLevel": 0,
+  "FocusLocator": "SHOOT",
+  "UpgradeColour": {
+    "R": 0.0156862754,
+    "G": 0.349019617,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.266666681,
+    "G": 0.992156863,
+    "B": 1,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Traders",
+  "FragmentCost": 75,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

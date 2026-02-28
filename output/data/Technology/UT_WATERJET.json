@@ -1,0 +1,111 @@
+{
+  "ID": "UT_WATERJET",
+  "Group": "",
+  "Name": {
+    "English": "EFFICIENT WATER JETS",
+    "SimplifiedChinese": "高效喷水器",
+    "TraditionalChinese": "高效水中噴射器"
+  },
+  "NameLower": {
+    "English": "Efficient Water Jets",
+    "SimplifiedChinese": "高效喷水器",
+    "TraditionalChinese": "高效水中噴射器"
+  },
+  "Subtitle": {
+    "English": "Jetpack Upgrade Unit",
+    "SimplifiedChinese": "喷气背包升级装置",
+    "TraditionalChinese": "噴射背包升級組"
+  },
+  "Description": {
+    "English": "Improves the <span class=\"name name-stellar\">fuel efficiency</span> of the jetpack's marine jets, reducing the drain on Exosuit life support systems.<br><br>Aqueous compressor units are installed into the jetpack's turbines, bypassing the large energy requirements of underwater ignition.",
+    "SimplifiedChinese": "提升喷气背包水下工作的<span class=\"name name-stellar\">燃料效率</span>，减少套装维生系统的能耗。<br><br>水压缩机装置安装在喷气背包的涡轮机内，可免去水下点火所需的巨大能量。",
+    "TraditionalChinese": "可改善噴射背包的海洋噴射器<span class=\"name name-stellar\">燃油效率</span>，降低對強化套裝維生系統的壓力。<br><br>水壓縮機安裝在噴射背包的渦輪中，可省去水底點燃引擎的大量能量需求。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/u4tech/render.jetpackwatermod.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Suit",
+  "Rarity": "Common",
+  "Value": 10,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "OXYGEN": {
+      "ID": "OXYGEN",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "CLAMPEARL": {
+      "ID": "CLAMPEARL",
+      "Type": "Product",
+      "Amount": 6
+    }
+  },
+  "BaseStat": "Suit_Jetpack",
+  "StatBonuses": [
+    {
+      "Stat": "Suit_Jetpack_WaterEfficiency",
+      "Bonus": 1,
+      "Level": 3
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 1,
+    "G": 0.8,
+    "B": 0,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 3,
+  "DispensingRace": "Explorers",
+  "FragmentCost": 350,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

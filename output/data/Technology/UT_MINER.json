@@ -1,0 +1,111 @@
+{
+  "ID": "UT_MINER",
+  "Group": "",
+  "Name": {
+    "English": "OPTICAL DRILL",
+    "SimplifiedChinese": "光学钻头",
+    "TraditionalChinese": "光學鑽孔機"
+  },
+  "NameLower": {
+    "English": "Optical Drill",
+    "SimplifiedChinese": "光学钻头",
+    "TraditionalChinese": "光學鑽孔機"
+  },
+  "Subtitle": {
+    "English": "Material Gain Amplifier",
+    "SimplifiedChinese": "材料获取放大器",
+    "TraditionalChinese": "素材取得增幅器"
+  },
+  "Description": {
+    "English": "Wafer-thin lens arrays are arranged in a highly calibrated matrix, focusing the <span class=\"name name-technology\">Mining Beam</span> on an atomic level.<br><br>This extra precision allows for highly efficient mining. Elements are extracted more efficiently, <span class=\"name name-stellar\">increasing the yield</span> from items harvested with the Multi-Tool.",
+    "SimplifiedChinese": "薄片厚度的透镜阵列排列于高度校准的矩阵中，把<span class=\"name name-technology\">开采光束</span>的聚焦提升至原子层级。<br><br>这种额外的精度让高效开采成为可能，进而提升元素提取效率，使用多用途工具收获物品时<span class=\"name name-stellar\">增加产出</span>。",
+    "TraditionalChinese": "極薄的透鏡排列成精心調校的矩陣，讓<span class=\"name name-technology\">採礦光束</span>在原子尺度下亦可精準聚焦。<br><br>如此精準度，可大幅提升採礦效率。元素萃取效率更高，工具組採集道具時<span class=\"name name-stellar\">產量也更高</span>。"
+  },
+  "Teach": true,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/update1/tech.stronglaser.png",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": true,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": false,
+  "Upgrade": true,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Weapon",
+  "Rarity": "Common",
+  "Value": 15,
+  "Requirements": {
+    "COMPUTER": {
+      "ID": "COMPUTER",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 5
+    }
+  },
+  "BaseStat": "Weapon_Laser",
+  "StatBonuses": [
+    {
+      "Stat": "Weapon_Laser_MiningBonus",
+      "Bonus": 1.5,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 0.266666681,
+    "G": 0.992156863,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.13333334,
+    "G": 0.937254906,
+    "B": 0.529411793,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 2,
+  "DispensingRace": "Warriors",
+  "FragmentCost": 460,
+  "TechShopRarity": "Common",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}

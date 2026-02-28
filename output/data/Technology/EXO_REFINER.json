@@ -1,0 +1,111 @@
+{
+  "ID": "EXO_REFINER",
+  "Group": "",
+  "Name": {
+    "English": "MINERAL PROCESSING RIG",
+    "SimplifiedChinese": "矿物加工装置",
+    "TraditionalChinese": "礦物加工設備"
+  },
+  "NameLower": {
+    "English": "Mineral Processing Rig",
+    "SimplifiedChinese": "矿物加工装置",
+    "TraditionalChinese": "礦物加工設備"
+  },
+  "Subtitle": {
+    "English": "Vehicle-Borne Refiner",
+    "SimplifiedChinese": "载具精炼机",
+    "TraditionalChinese": "艦載精製機"
+  },
+  "Description": {
+    "English": "A large and powerful <span class=\"name name-technology\">refiner unit</span>, designed to be housed within the belly of a <span class=\"name name-stellar\">Colossus Exocraft</span>.<br><br>The unit is able to process the most <span class=\"name name-technology\">complex recipes</span>, but requires its own independent <span class=\"name name-fuel\">fuel</span> source.",
+    "SimplifiedChinese": "能够安装在<span class=\"name name-technology\">巨人强化艇</span>底部的大型强力<span class=\"name name-stellar\">精炼单元</span>。<br><br>该单元能够处理最<span class=\"name name-technology\">复杂的配方</span>，但是需要独立的<span class=\"name name-fuel\">燃料</span>供应。",
+    "TraditionalChinese": "強而有力的大型<span class=\"name name-technology\">精製機裝置</span>，可掛載於<span class=\"name name-stellar\">巨人強化艇</span>下方。<br><br>該裝置能有效處理最<span class=\"name name-technology\">複雜的製作方法</span>，但需要獨立<span class=\"name name-fuel\">燃料</span>來源。"
+  },
+  "Teach": false,
+  "HintStart": "",
+  "HintEnd": "",
+  "Icon": "ui/frontend/icons/technology/vehicle/render.refiner.png",
+  "Colour": {
+    "R": 0.0352941193,
+    "G": 0.360784322,
+    "B": 0.466666669,
+    "A": 1
+  },
+  "Level": 1,
+  "Chargeable": false,
+  "ChargeAmount": 100,
+  "ChargeType": "Earth",
+  "ChargeBy": null,
+  "ChargeMultiplier": 1,
+  "BuildFullyCharged": false,
+  "UsesAmmo": false,
+  "AmmoId": "",
+  "PrimaryItem": true,
+  "Upgrade": false,
+  "Core": false,
+  "RepairTech": false,
+  "Procedural": false,
+  "BrokenSlotTech": false,
+  "Category": "Colossus",
+  "Rarity": "Impossible",
+  "Value": 10,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 4
+    }
+  },
+  "BaseStat": "Vehicle_Refiner",
+  "StatBonuses": [
+    {
+      "Stat": "Vehicle_Refiner",
+      "Bonus": 3,
+      "Level": 4
+    }
+  ],
+  "RequiredTech": "",
+  "RequiredLevel": 0,
+  "FocusLocator": "",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "LinkColour": {
+    "R": 0.0980392173,
+    "G": 0.34117648,
+    "B": 0.443137258,
+    "A": 1
+  },
+  "RewardGroup": "",
+  "BaseValue": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RequiredRank": 1,
+  "DispensingRace": "None",
+  "FragmentCost": 480,
+  "TechShopRarity": "Impossible",
+  "WikiEnabled": true,
+  "NeverPinnable": false,
+  "DamagedDescription": "",
+  "ParentTechId": "",
+  "IsTemplate": false,
+  "ExclusivePrimaryStat": false
+}
