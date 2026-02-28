@@ -1,0 +1,85 @@
+{
+  "Name": {
+    "English": "MAGNETISED FERRITE",
+    "SimplifiedChinese": "磁化铁氧体",
+    "TraditionalChinese": "磁化鐵氧體"
+  },
+  "NameLower": {
+    "English": "Magnetised Ferrite",
+    "SimplifiedChinese": "磁化铁氧体",
+    "TraditionalChinese": "磁化鐵氧體",
+    "USEnglish": "Magnetized Ferrite"
+  },
+  "ID": "LAND3",
+  "Symbol": {
+    "English": "Fe++",
+    "SimplifiedChinese": "Fe++",
+    "TencentChinese": "铁++",
+    "TraditionalChinese": "Fe++"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.land.3.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Charged Metallic Element",
+    "SimplifiedChinese": "带电荷的金属元素",
+    "TraditionalChinese": "充能的金屬元素"
+  },
+  "Description": {
+    "English": "Highly processed metal, requiring several stages of processing in a <span class=\"name name-technology\">Refiner</span>.<br><br>Used in the creation of advanced structures and technologies. Avoid ingestion.",
+    "SimplifiedChinese": "深加工的金属，需要几个阶段的 <span class=\"name name-technology\">精炼机</span>过程。<br><br>用于创造高级建筑和技术。避免吸食。",
+    "TraditionalChinese": "高度加工的金屬，須以<span class=\"name name-technology\">精製機</span>進行數階段加工。<br><br>能用來製造先進結構與科技。嚴禁食用。"
+  },
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "BaseValue": 82,
+  "Category": "Metal",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 10,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000519230798,
+  "NormalisedValueOffWorld": 0.00000519230798,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Refine Magnetised Ferrite",
+    "SimplifiedChinese": "精炼磁化铁氧体",
+    "TraditionalChinese": "精製磁化鐵氧體"
+  },
+  "PinObjectiveTip": {
+    "English": "Create <span class=\"name name-earth\">Magnetised Ferrite</span> in a <span class=\"name name-technology\">Refiner</span> by processing pure ferrite.",
+    "SimplifiedChinese": "在<span class=\"name name-technology\">精炼机</span>中处理纯铁氧体以制作<span class=\"name name-earth\">磁化铁氧体</span>。",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">精製機</span>將純鐵氧體加工製造成<span class=\"name name-earth\">磁化鐵氧體</span>。",
+    "USEnglish": "Create <span class=\"name name-earth\">Magnetized Ferrite</span> in a <span class=\"name name-technology\">Refiner</span> by processing pure ferrite."
+  },
+  "PinObjectiveMessage": {
+    "English": "Create <span class=\"name name-earth\">Magnetised Ferrite</span> in a <span class=\"name name-technology\">Refiner</span> by processing pure ferrite<br>Harvest ferrite dust from small rocks using the <span class=\"name name-technology\">Mining Laser</span> (<span class=\"name name-img\">ATTACK</span>)",
+    "SimplifiedChinese": "在<span class=\"name name-technology\">精炼机</span>中加工纯铁氧体以制作<span class=\"name name-earth\">磁化铁氧体</span><br>使用<span class=\"name name-technology\">开采激光</span>（<span class=\"name name-img\">ATTACK</span>）从小型岩石中收集铁氧体粉末",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">精製機</span>將純鐵氧體加工製作成<span class=\"name name-earth\">磁化鐵氧體</span><br>使用<span class=\"name name-technology\">採礦雷射</span> (<span class=\"name name-img\">ATTACK</span>) 從小型岩石採集鐵氧體粉塵"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_LAND3",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": true,
+  "EggModifierIngredient": true
+}

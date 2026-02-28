@@ -1,0 +1,82 @@
+{
+  "Name": {
+    "English": "CURSED DUST",
+    "SimplifiedChinese": "诅咒之尘",
+    "TraditionalChinese": "受詛咒塵土"
+  },
+  "NameLower": {
+    "English": "Cursed Dust",
+    "SimplifiedChinese": "诅咒之尘",
+    "TraditionalChinese": "受詛咒塵土"
+  },
+  "ID": "WORMDUST",
+  "Symbol": {
+    "English": "?",
+    "SimplifiedChinese": "？",
+    "TraditionalChinese": "？"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.wormdust.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Ashes of Despair",
+    "SimplifiedChinese": "绝望之烬",
+    "TraditionalChinese": "絕望餘燼"
+  },
+  "Description": {
+    "English": "A powdery desert soil, slick with the gland expressions of a colossal sandworm. Historically, some have regarded this dust as the divine parent of such worms. It smells curiously sweet.<br><br>Cursed Dust gathers in the terrain deposits of planets blighted by <span class=\"name name-special\">titan worm activity</span>.",
+    "SimplifiedChinese": "一种粉末状的沙土，上面盖满了巨型沙虫留下的粘滑腺体分泌物。这种沙尘在过去曾被认为是巨型沙虫的神圣母体。闻上去有股不可思议的香甜气味。<br><br>在<span class=\"name name-special\">泰坦蠕虫活动</span>的行星上能够找到包含诅咒之尘的地形矿床。",
+    "TraditionalChinese": "呈粉塵狀的沙漠之土，被巨型沙蟲腺體排放物所沾染，而呈現油亮狀。在歷史上，有人把這種塵土視為孕育巨蟲的神聖母土，其味道聞起來異常香甜。<br><br>受詛咒塵土積聚於受<span class=\"name name-special\">泰坦巨蟲活動</span>摧殘的星球地層之中。"
+  },
+  "Colour": {
+    "R": 0.31764707,
+    "G": 0.152941182,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.713725507,
+    "G": 0.349019617,
+    "B": 0.572549045,
+    "A": 1
+  },
+  "BaseValue": 959,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.000061410261,
+  "NormalisedValueOffWorld": 0.000061410261,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Cursed Dust",
+    "SimplifiedChinese": "收集诅咒之尘",
+    "TraditionalChinese": "收集受詛咒塵土"
+  },
+  "PinObjectiveTip": {
+    "English": "Cursed Dust gathers in the terrain deposits of planets blighted by <span class=\"name name-special\">titan worm activity</span>.",
+    "SimplifiedChinese": "从<span class=\"name name-special\">泰坦蠕虫出没</span>的星球地形矿床收集到的诅咒之尘。",
+    "TraditionalChinese": "受詛咒塵土積聚於受<span class=\"name name-special\">泰坦巨蟲活動</span>摧殘的星球地表資源產地中。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Cursed Dust gathers in the terrain deposits of planets blighted by <span class=\"name name-special\">titan worm activity</span>",
+    "SimplifiedChinese": "从<span class=\"name name-special\">泰坦蠕虫出没</span>的星球地形矿床收集到的诅咒之尘",
+    "TraditionalChinese": "受詛咒塵土積聚於受<span class=\"name name-special\">泰坦巨蟲活動</span>摧殘的星球地表資源產地中"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

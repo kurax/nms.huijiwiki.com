@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "GOLD",
+    "SimplifiedChinese": "金",
+    "TraditionalChinese": "金"
+  },
+  "NameLower": {
+    "English": "Gold",
+    "SimplifiedChinese": "金",
+    "TraditionalChinese": "金"
+  },
+  "ID": "ASTEROID2",
+  "Symbol": {
+    "English": "Au",
+    "SimplifiedChinese": "Au",
+    "TencentChinese": "金",
+    "TraditionalChinese": "Au"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.asteroid.2.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Valuable Asteroid Mineral",
+    "SimplifiedChinese": "宝贵的小行星矿物",
+    "TraditionalChinese": "珍貴小行星礦物"
+  },
+  "Description": {
+    "English": "Highly valuable interstellar trading mineral, typically <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.<br><br>Universally prized for its beauty and versatility.",
+    "SimplifiedChinese": "非常珍贵的星际交易矿物，通常<span class=\"name name-commodity\">采掘自小行星</span>。有时可在地下行星沉积物中发现。<br><br>因其美感和通用性而广受赞誉。",
+    "TraditionalChinese": "非常珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。<br><br>美觀而用途廣，因而廣受珍視。"
+  },
+  "Colour": {
+    "R": 0.666666687,
+    "G": 0.431372553,
+    "B": 0.0235294122,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.666666687,
+    "G": 0.431372553,
+    "B": 0.0235294122,
+    "A": 1
+  },
+  "BaseValue": 353,
+  "Category": "Exotic",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 2,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.0000225641033,
+  "NormalisedValueOffWorld": 0.0000225641033,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Gold",
+    "SimplifiedChinese": "收集或精炼金",
+    "TraditionalChinese": "收集或精製金"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-stellar\">Gold</span> is a valuable interstellar trading mineral, most commonly <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.",
+    "SimplifiedChinese": "<span class=\"name name-stellar\">金</span>是一种宝贵的星际贸易矿物质，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。",
+    "TraditionalChinese": "<span class=\"name name-stellar\">金</span>是非常珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Mine gold from <span class=\"name name-commodity\">asteroids</span> while piloting the starship (<span class=\"name name-img\">SHIPFIRE</span>)<br>Gold is uncommon in most asteroid fields",
+    "SimplifiedChinese": "驾驶飞船（<span class=\"name name-img\">SHIPFIRE</span>）开采<span class=\"name name-commodity\">小行星</span>中的金<br>金在绝大多数小行星带中都不多见",
+    "TraditionalChinese": "駕駛太空船 (<span class=\"name name-img\">SHIPFIRE</span>)，從<span class=\"name name-commodity\">小行星</span>開採金礦 <br>金礦在大部分的小行星帶中都相當少見"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_ASTEROID2",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": true,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

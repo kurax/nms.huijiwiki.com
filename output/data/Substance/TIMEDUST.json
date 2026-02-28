@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "SOMNAL DUST",
+    "SimplifiedChinese": "索姆纳尔灰尘",
+    "TraditionalChinese": "睡眠塵"
+  },
+  "NameLower": {
+    "English": "Somnal Dust",
+    "SimplifiedChinese": "索姆纳尔灰尘",
+    "TraditionalChinese": "睡眠塵"
+  },
+  "ID": "TIMEDUST",
+  "Symbol": {
+    "English": "?",
+    "SimplifiedChinese": "？",
+    "TraditionalChinese": "？"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.timedust.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Decayed Spacetime Remnant",
+    "SimplifiedChinese": "衰变时空遗迹",
+    "TraditionalChinese": "腐朽的時空殘留物"
+  },
+  "Description": {
+    "English": "Grey, dead, sparkling with life and colour, singing as it shimmers. This impossibly fine dust is the accumulated decay of time and memories.<br><br>Collected from the fine layers it forms around hotspots in the loop. Of great value to <span class=\"name name-special\">Specialist Polo</span> as they <span class=\"name name-stellar\">research the loop</span>.",
+    "SimplifiedChinese": "灰色，死亡，闪耀着生命的颜色，一边发光一边歌唱。这颗不可思议的灰尘是时间和记忆衰落后的沉淀物<br><br>从循环中热点周围形成的分层中收集而来。对<span class=\"name name-special\">保罗专家</span>来说有极高的价值因为它们正在<span class=\"name name-stellar\">研究循环</span>。",
+    "TraditionalChinese": "灰色、凋零、閃爍著生命和色彩、在光芒流轉之際歌唱著。精細到難以置信的粉塵，是時間和記憶的腐朽積累物。<br><br>從迴圈熱點周遭形成的細密粉層裡收集而來。對正在<span class=\"name name-stellar\">研究迴圈</span>的<span class=\"name name-special\">專家波羅</span>有莫大的價值。",
+    "USEnglish": "Gray, dead, sparkling with life and color, singing as it shimmers. This impossibly fine dust is the accumulated decay of time and memories.<br><br>Collected from the fine layers it forms around hotspots in the loop. Of great value to <span class=\"name name-special\">Specialist Polo</span> as they <span class=\"name name-stellar\">research the loop</span>."
+  },
+  "Colour": {
+    "R": 0.31764707,
+    "G": 0.152941182,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.713725507,
+    "G": 0.349019617,
+    "B": 0.572549045,
+    "A": 1
+  },
+  "BaseValue": 1616,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiEnabled": false,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Somnal Dust",
+    "SimplifiedChinese": "收集索姆纳尔灰尘",
+    "TraditionalChinese": "收集睡眠塵"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-special\">Somnal Dust</span>, the accumulated decay of time and memories, is found in the wrecks of derelict freighters caught within the loop.<br><br>Locate derelicts with the use of an <span class=\"name name-technology\">Emergency Signal Scanner</span>, purchaseable from a Space Station <span class=\"name name-special\">Scrap Dealer</span>.",
+    "SimplifiedChinese": "<span class=\"name name-special\">索姆纳尔灰尘</span>是时间和记忆衰变后的物质，在被循环捕获的荒废货船残骸中发现。<br><br>使用从空间站<span class=\"name name-special\">废品收购者</span>处购买的<span class=\"name name-technology\">紧急信号扫描仪</span>定位荒废的货船。",
+    "TraditionalChinese": "<span class=\"name name-special\">睡眠塵</span>為時間與記憶的腐朽積累物，可在受困於迴圈的廢棄貨船殘骸中找到。<br><br>使用<span class=\"name name-technology\">緊急訊號掃描器</span>找到棄船，接收器可向太空站上的<span class=\"name name-special\">廢料商人</span>購買。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Find <span class=\"name name-special\">Somnal Dust</span> in the wrecks of deep-space derelict freighters caught within the loop<br>Locate derelicts with an <span class=\"name name-technology\">Emergency Signal Scanner</span>",
+    "SimplifiedChinese": "在陷入循环的深空荒废货船中寻找<span class=\"name name-special\">索姆纳尔灰尘</span><br>使用<span class=\"name name-technology\">紧急信号扫描仪</span>定位太空残骸",
+    "TraditionalChinese": "在受困於迴圈的深空廢棄貨船殘骸中找到<span class=\"name name-special\">睡眠塵</span><br>使用<span class=\"name name-technology\">緊急訊號掃描器</span>找到棄船"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

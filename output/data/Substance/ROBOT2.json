@@ -1,0 +1,82 @@
+{
+  "Name": {
+    "English": "ATLANTIDEUM",
+    "SimplifiedChinese": "亚特拉迪姆",
+    "TraditionalChinese": "亞特蘭提德鋼"
+  },
+  "NameLower": {
+    "English": "Atlantideum",
+    "SimplifiedChinese": "亚特拉迪姆",
+    "TraditionalChinese": "亞特蘭提德鋼"
+  },
+  "ID": "ROBOT2",
+  "Symbol": {
+    "English": "∞",
+    "SimplifiedChinese": "∞",
+    "TraditionalChinese": "∞"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.robot.2.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Disharmonic Metal",
+    "SimplifiedChinese": "不谐金属",
+    "TraditionalChinese": "去和諧化金屬"
+  },
+  "Description": {
+    "English": "This ethereal substance spills from the bodies of <span class=\"name name-special\">corrupted Sentinels</span> as they fall, a shower of prismatic grains seeking out their next host. It evades all attempts to contain it, as if it had a will of its own, a strong desire for its own freedom.<br><br>It possesses a crystalline beauty that cannot be reconciled with the corruption from whence it flows.",
+    "SimplifiedChinese": "从被打倒的<span class=\"name name-special\">腐化护卫</span>的躯体中喷洒而出的缥缈物质，这些绚丽的颗粒一刻不停地寻找着自己的下一批宿主。这种物质躲避了一切试图将其禁锢的举动，仿佛它拥有着自由意志，并且强烈渴望着自由。<br><br>这种物质具备着与其诞生处的腐化截然不同的晶体之美。",
+    "TraditionalChinese": "隨著<span class=\"name name-special\">受腐蝕巡警</span>死亡，這種空靈的物質從它們的體內潑灑了出來，大量七彩稜光顆粒尋找著下一個宿主。不論怎麼嘗試，都捕捉不到這些顆粒，它們就像是有自己的意識一樣，強烈渴望獲得自由。<br><br>這些顆粒有一種透明的美，與潑灑出這些東西的腐蝕物簡直有天壤之別。"
+  },
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.549019635,
+    "G": 0.294117659,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "BaseValue": 138,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000878205174,
+  "NormalisedValueOffWorld": 0.00000878205174,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Atlantideum",
+    "SimplifiedChinese": "收集亚特拉迪姆",
+    "TraditionalChinese": "收集亞特蘭提德鋼"
+  },
+  "PinObjectiveTip": {
+    "English": "This ethereal substance spills from the bodies of <span class=\"name name-special\">corrupted Sentinels</span> as they fall.  Engage corrupted Sentinel forces in combat to release Atlantideum from their shells, or harvest it from the crystals that litter their foul worlds.",
+    "SimplifiedChinese": "来源于<span class=\"name name-special\">腐化护卫</span>残骸的缥缈物质。腐化护卫部队进行战斗将使它们的外壳释放亚特拉迪姆，或者你也可以在不谐星球寻找并收获晶体。",
+    "TraditionalChinese": "隨著<span class=\"name name-special\">受腐蝕巡警</span>死亡，這種空靈的物質從它們的體內潑灑了出來。與受腐蝕巡警部隊交戰，釋放藏在其外殼內的亞特蘭提德鋼，或從它們惡劣世界隨處可見的水晶上採集。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest from the canisters dropped by <span class=\"name name-special\">corrupted Sentinels</span> as they fall in combat<br>Can be gathered from purple crystals on <span class=\"name name-special\">dissonant</span> worlds",
+    "SimplifiedChinese": "收集在战斗中倒下的<span class=\"name name-special\">腐化护卫</span>掉落的容器<br>可以通过<span class=\"name name-special\">不谐</span>世界中的紫色水晶收集",
+    "TraditionalChinese": "從<span class=\"name name-special\">受腐蝕巡警</span>被擊敗時掉落的桶罐採收<br>可以從<span class=\"name name-special\">不和諧</span>世界的紫色水晶收集"
+  },
+  "PinObjectiveScannableType": "CorruptedCrystal",
+  "WikiMissionID": "WIKI_ROBOT2",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

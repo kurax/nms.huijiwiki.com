@@ -1,0 +1,74 @@
+{
+  "Name": {
+    "English": "NANITES",
+    "SimplifiedChinese": "纳米星团",
+    "TraditionalChinese": "奈米機群"
+  },
+  "NameLower": {
+    "English": "Nanites",
+    "SimplifiedChinese": "纳米星团",
+    "TraditionalChinese": "奈米機群"
+  },
+  "ID": "TECHFRAG_R",
+  "Symbol": {
+    "English": "∞",
+    "SimplifiedChinese": "∞",
+    "TraditionalChinese": "∞"
+  },
+  "Icon": "ui/frontend/icons/substances/currency.nanites.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Technological Currency",
+    "SimplifiedChinese": "技术货币",
+    "TraditionalChinese": "科技貨幣"
+  },
+  "Description": {
+    "English": "A dense miasma of <span class=\"name name-technology\">Nanites</span>, undulating in its potentiality. These clusters are stable, but unrestricted nanite foam can produce undesirable runaway reactions in the presence of organic matter.<br><br>Used in the construction of advanced technologies. Highly valuable to specialist traders.",
+    "SimplifiedChinese": "一团浓稠的<span class=\"name name-technology\">纳米星团</span>瘴气在无规律地涌动。这些星团虽稳定，但不受约束的纳米泡沫在有机物存在的情况下，会失控产生不良反应。<br><br>可用于先进技术的建设。对专精交易员非常有价值。",
+    "TraditionalChinese": "數量鋪天蓋地的<span class=\"name name-technology\">奈米機群</span>，潛能波動不定，難以估量。這些機群相當穩定，但奈米泡沫若未經控管而不慎接觸有機物質，便會產生不良的失序反應。<br><br>建造先進科技時能派上用場。專家商人眼中的珍寶。"
+  },
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 4,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0.25,
+    "HighPriceMod": 0.5,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000169871805,
+  "NormalisedValueOffWorld": 0.00000169871805,
+  "TradeCategory": "None",
+  "WikiEnabled": false,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Nanites",
+    "SimplifiedChinese": "寻找纳米星团",
+    "TraditionalChinese": "找出奈米機群"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

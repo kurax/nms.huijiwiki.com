@@ -28,7 +28,8 @@
         "regedit": "5.1.4",
         "sharp": "0.34.5",
         "signale": "1.4.0",
-        "sort-keys": "6.0.0"
+        "sort-keys": "6.0.0",
+        "true-case-path": "2.2.1"
     },
     "signale": {
         "displayTimestamp": true,

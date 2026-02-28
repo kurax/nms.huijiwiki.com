@@ -1,0 +1,76 @@
+{
+  "Name": {
+    "English": "VISCOUS FLUIDS",
+    "SimplifiedChinese": "粘性流质",
+    "TraditionalChinese": "黏稠液體"
+  },
+  "NameLower": {
+    "English": "Viscous Fluids",
+    "SimplifiedChinese": "粘性流质",
+    "TraditionalChinese": "黏稠液體"
+  },
+  "ID": "SPACEGUNK5",
+  "Symbol": {
+    "English": "Jn",
+    "SimplifiedChinese": "Jn",
+    "TencentChinese": "垃",
+    "TraditionalChinese": "Jn"
+  },
+  "Icon": "ui/frontend/icons/update3/spacegunk.5.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Junk",
+    "SimplifiedChinese": "垃圾",
+    "TraditionalChinese": "垃圾"
+  },
+  "Description": {
+    "English": "An unnaturally thick liquid of dubious colour. Its origins are impossible to fathom.<br><br>Appears to have some mild magnetic properties.",
+    "SimplifiedChinese": "一种颜色模糊、不自然的黏稠液体。来源无法侦测。<br><br>似乎有一些轻微的磁性。",
+    "TraditionalChinese": "黏度極高、顏色可疑的非自然液體。來源難以猜測。<br><br>似乎有輕微磁性。",
+    "USEnglish": "An unnaturally thick liquid of dubious color. Its origins are impossible to fathom.<br><br>Appears to have some mild magnetic properties."
+  },
+  "Colour": {
+    "R": 0.356862754,
+    "G": 0.435294122,
+    "B": 0.20784314,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.588235319,
+    "G": 0.713725507,
+    "B": 0.349019617,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000121794881,
+  "NormalisedValueOffWorld": 0.00000121794881,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Viscous Fluids",
+    "SimplifiedChinese": "寻找粘性流质",
+    "TraditionalChinese": "找出黏稠液體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

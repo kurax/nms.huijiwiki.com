@@ -1,0 +1,75 @@
+{
+  "Name": {
+    "English": "RUSTED METAL",
+    "SimplifiedChinese": "生锈的金属",
+    "TraditionalChinese": "生鏽的金屬"
+  },
+  "NameLower": {
+    "English": "Rusted Metal",
+    "SimplifiedChinese": "生锈的金属",
+    "TraditionalChinese": "生鏽的金屬"
+  },
+  "ID": "SPACEGUNK3",
+  "Symbol": {
+    "English": "Jn",
+    "SimplifiedChinese": "Jn",
+    "TencentChinese": "垃",
+    "TraditionalChinese": "Jn"
+  },
+  "Icon": "ui/frontend/icons/update3/spacegunk.3.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Junk",
+    "SimplifiedChinese": "垃圾",
+    "TraditionalChinese": "垃圾"
+  },
+  "Description": {
+    "English": "Handfuls of corroded metal, distorted by years of exposure to the harsh environment.<br><br>Handle with care.",
+    "SimplifiedChinese": "这些被腐蚀的金属在多年暴露在恶劣环境下后已经扭曲变形。<br><br>轻拿轻放。",
+    "TraditionalChinese": "一把把鏽蝕的金屬，因多年來暴露在惡劣環境中而扭曲變形。<br><br>請小心處理。"
+  },
+  "Colour": {
+    "R": 0.356862754,
+    "G": 0.435294122,
+    "B": 0.20784314,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.588235319,
+    "G": 0.713725507,
+    "B": 0.349019617,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Special",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000121794881,
+  "NormalisedValueOffWorld": 0.00000121794881,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Rusted Metal",
+    "SimplifiedChinese": "寻找生锈的金属",
+    "TraditionalChinese": "找出生鏽的金屬"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "CONDENSED CARBON",
+    "SimplifiedChinese": "浓缩碳",
+    "TraditionalChinese": "濃縮碳"
+  },
+  "NameLower": {
+    "English": "Condensed Carbon",
+    "SimplifiedChinese": "浓缩碳",
+    "TraditionalChinese": "濃縮碳"
+  },
+  "ID": "FUEL2",
+  "Symbol": {
+    "English": "C+",
+    "SimplifiedChinese": "C+",
+    "TencentChinese": "碳+",
+    "TraditionalChinese": "C+"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.fuel.2.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Refined Organic Element",
+    "SimplifiedChinese": "精炼有机元素",
+    "TraditionalChinese": "精製有機元素"
+  },
+  "Description": {
+    "English": "Advanced material, processed from regular <span class=\"name name-fuel\">carbon</span> in a <span class=\"name name-technology\">Refiner</span>.<br><br>The increased molecule density offers a substantially improved energy-per-gram ratio.<br><br>Occasionally found in crystalline form. Harvesting large crystals may require a <span class=\"name name-technology\">Advanced Mining Laser</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">精炼机</span>将普通<span class=\"name name-fuel\">碳</span>加工后的高级材料。<br><br>强化后的分子密度能够极大提升每克能量比例。<br><br>有时呈现晶体形态。可能需要<span class=\"name name-technology\">先进的开采激光</span>来收获大量水晶。",
+    "TraditionalChinese": "先進材料，以<span class=\"name name-technology\">精製機</span>加工一般的<span class=\"name name-fuel\">碳</span>而成。<br><br>分子濃度上升，大幅提升每單位重量可提供的能量。<br><br>有時呈結晶形態。可能需要<span class=\"name name-technology\">先進採礦雷射</span>才能採集大型結晶。"
+  },
+  "Colour": {
+    "R": 0.733333349,
+    "G": 0.219607845,
+    "B": 0.188235298,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.733333349,
+    "G": 0.219607845,
+    "B": 0.188235298,
+    "A": 1
+  },
+  "BaseValue": 24,
+  "Category": "Fuel",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 3,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000147435912,
+  "NormalisedValueOffWorld": 0.00000147435912,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Condensed Carbon",
+    "SimplifiedChinese": "收集或精炼浓缩碳",
+    "TraditionalChinese": "收集或精製濃縮碳"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-fuel\">Condensed Carbon</span> is found in crystal form on most planets. Locate carbon crystals with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>). Large deposits may require use of an <span class=\"name name-technology\">Advanced Mining Laser</span>.<br>Condensed Carbon can be created from Carbon in a <span class=\"name name-technology\">Refiner</span>.",
+    "SimplifiedChinese": "<span class=\"name name-fuel\">浓缩碳</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位碳晶体。大形矿床可能需要采用<span class=\"name name-technology\">高级开采光束</span>开采。<br>可在<span class=\"name name-technology\">精炼机</span>中用碳制得浓缩碳。",
+    "TraditionalChinese": "<span class=\"name name-fuel\">濃縮碳</span>在多數的星球上是以結晶形式出現。使用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）找出碳結晶。大型資源產地可能需要用<span class=\"name name-technology\">改良採礦雷射</span>。<br>用<span class=\"name name-technology\">精製機</span>可將碳製造成濃縮碳。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Locate <span class=\"name name-fuel\">condensed carbon</span> crystals with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>)<br>Condensed carbon can be created from carbon in a <span class=\"name name-technology\">Refiner</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位<span class=\"name name-fuel\">浓缩碳</span><br>你可以在<span class=\"name name-technology\">精炼机</span>中制作浓缩碳",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">掃描器</span> (<span class=\"name name-img\">SCAN</span>) 找出<span class=\"name name-fuel\">濃縮碳</span><br>使用<span class=\"name name-technology\">精製機</span>可將碳加工製作成濃縮碳"
+  },
+  "PinObjectiveScannableType": "Carbon",
+  "WikiMissionID": "WIKI_FUEL2",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": true,
+  "GoodForSelling": false,
+  "EasyToRefine": true,
+  "EggModifierIngredient": true
+}

@@ -1,0 +1,84 @@
+{
+  "Name": {
+    "English": "BASALT",
+    "SimplifiedChinese": "玄武岩",
+    "TraditionalChinese": "玄武岩"
+  },
+  "NameLower": {
+    "English": "Basalt",
+    "SimplifiedChinese": "玄武岩",
+    "TraditionalChinese": "玄武岩"
+  },
+  "ID": "LAVA1",
+  "Symbol": {
+    "English": "B",
+    "SimplifiedChinese": "B",
+    "TraditionalChinese": "B"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.biome.lava.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Localised Earth Element",
+    "SimplifiedChinese": "地方性土元素",
+    "TraditionalChinese": "區域性大地元素",
+    "USEnglish": "Localized Earth Element"
+  },
+  "Description": {
+    "English": "Local mineral extract, typically found in large deposits or extracted from common minerals after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Typically found on planets with a <span class=\"name name-fuel\">volcanic environment</span>.",
+    "SimplifiedChinese": "当地矿物提取物，通常可在大型矿床中发现，或是使用<span class=\"name name-technology\">分析面甲</span>检查后从常见矿物中提取。<br><br>通常可在具有<span class=\"name name-fuel\">火山环境</span>的行星中发现。",
+    "TraditionalChinese": "當地礦物萃取物，常見於大型資源產地，也可用<span class=\"name name-technology\">分析護目鏡</span>探測常見礦物萃取。<br><br>常見於<span class=\"name name-fuel\">火山環境</span>的星球上。"
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "BaseValue": 62,
+  "Category": "Earth",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 5,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000391025651,
+  "NormalisedValueOffWorld": 0.00000391025651,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Basalt",
+    "SimplifiedChinese": "收集或精炼玄武岩",
+    "TraditionalChinese": "收集或精製玄武岩"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-earth\">Basalt</span> is found primarily on worlds with a <span class=\"name name-fuel\">volcanic environment</span>. Typically found in large deposits and located with the <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Common ferrite rocks may yield Basalt after inspection with an <span class=\"name name-technology\">Analysis Visor</span>. Basalt may be refined from <span class=\"name name-earth\">Magnetised Ferrite</span> and terrain metals from other <span class=\"name name-fuel\">high-temperature</span> worlds.",
+    "SimplifiedChinese": "<span class=\"name name-earth\">玄武岩</span>主要出现在具有<span class=\"name name-fuel\">火山环境</span>的世界里。通常可在大型矿床中找到，可使用<span class=\"name name-technology\">分析面甲</span>来定位。<br><br>使用<span class=\"name name-technology\">分析面甲</span>检查常见铁氧体岩石，就有可能发现玄武岩。玄武岩也可以通过其他<span class=\"name name-fuel\">高温</span>世界的地表金属和<span class=\"name name-earth\">磁化铁氧体</span>精炼获得。",
+    "TraditionalChinese": "<span class=\"name name-earth\">玄武岩</span>主要可見於<span class=\"name name-fuel\">火山環境</span>的世界。常見於大型資源產地，並可用<span class=\"name name-technology\">分析護目鏡</span>找到。<br><br>常見的鐵氧體岩石在使用<span class=\"name name-technology\">分析護目鏡</span>檢驗後可能會產出玄武岩。玄武岩可從<span class=\"name name-earth\">磁化鐵氧體</span>及來自其他<span class=\"name name-fuel\">高溫</span>世界的地形金屬精製而成。",
+    "USEnglish": "<span class=\"name name-earth\">Basalt</span> is found primarily on worlds with a <span class=\"name name-fuel\">volcanic environment</span>. Typically found in large deposits and located with the <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Common ferrite rocks may yield Basalt after inspection with an <span class=\"name name-technology\">Analysis Visor</span>. Basalt may be refined from <span class=\"name name-earth\">Magnetized Ferrite</span> and terrain metals from other <span class=\"name name-fuel\">high-temperature</span> worlds."
+  },
+  "PinObjectiveMessage": {
+    "English": "Use the <span class=\"name name-technology\">Analysis Visor</span> to locate <span class=\"name name-earth\">Basalt</span> deposits<br>Basalt is found on worlds with <span class=\"name name-fuel\">volcanic environment</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">分析面甲</span>定位<span class=\"name name-earth\">玄武岩</span>资源点<br>玄武岩存在于<span class=\"name name-fuel\">遍布火山</span>的星球上",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">分析護目鏡</span>找到<span class=\"name name-earth\">玄武岩</span>資源產地<br>玄武岩可見於<span class=\"name name-fuel\">火山環境</span>的世界"
+  },
+  "PinObjectiveScannableType": "Terrain",
+  "WikiMissionID": "WIKI_LAVA1",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

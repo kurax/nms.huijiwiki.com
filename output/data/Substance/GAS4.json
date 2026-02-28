@@ -1,0 +1,82 @@
+{
+  "Name": {
+    "English": "METHANE",
+    "SimplifiedChinese": "甲烷",
+    "TraditionalChinese": "甲烷"
+  },
+  "NameLower": {
+    "English": "Methane",
+    "SimplifiedChinese": "甲烷",
+    "TraditionalChinese": "甲烷"
+  },
+  "ID": "GAS4",
+  "Symbol": {
+    "English": "CH4",
+    "SimplifiedChinese": "CH4",
+    "TraditionalChinese": "CH4"
+  },
+  "Icon": "ui/frontend/icons/update3/gas.4.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Compressed Atmospheric Gas",
+    "SimplifiedChinese": "压缩大气气体",
+    "TraditionalChinese": "大氣壓縮氣體"
+  },
+  "Description": {
+    "English": "An atmospheric <span class=\"name name-tradeable\">gas</span> found in the hostile conditions of <span class=\"name name-special\">gas giants</span>.<br><br>Methane is readily harvested from equipment deployed on <span class=\"name name-technology\">gas</span> worlds.",
+    "SimplifiedChinese": "能够在<span class=\"name name-special\">气态巨星</span>的恶劣环境中找到的一种<span class=\"name name-tradeable\">气体</span>。<br><br>可以通过部署在<span class=\"name name-technology\">气体</span>行星上的装备直接采集甲烷。",
+    "TraditionalChinese": "<span class=\"name name-special\">氣態巨行星</span>惡劣條件下可見的大氣<span class=\"name name-tradeable\">氣體</span>。<br><br>甲烷可透過部署在<span class=\"name name-technology\">氣體</span>世界的設備輕易採集。"
+  },
+  "Colour": {
+    "R": 0.00392156886,
+    "G": 0.219607845,
+    "B": 0.490196079,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.117647059,
+    "G": 0.639215708,
+    "B": 0.933333337,
+    "A": 1
+  },
+  "BaseValue": 35,
+  "Category": "Earth",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000217948741,
+  "NormalisedValueOffWorld": 0.00000217948741,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Process Methane",
+    "SimplifiedChinese": "处理甲烷",
+    "TraditionalChinese": "加工甲烷"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">Methane</span> is a hazardous <span class=\"name name-tradeable\">gas</span> found in the stormy atmosphere of a <span class=\"name name-special\">gas giant</span>.<br><br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the furious clouds that blanket these worlds.",
+    "SimplifiedChinese": "<span class=\"name name-tradeable\">甲烷</span>是一种能够在<span class=\"name name-special\">气态巨星</span>的风暴环境中找到的危险<span class=\"name name-tradeable\">气体</span>。<br><br>借助<span class=\"name name-technology\">大气收集器</span>从笼罩气体世界的汹涌云团中采集甲烷。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">甲烷</span>是<span class=\"name name-special\">氣態巨行星</span>狂暴大氣中可見的危險<span class=\"name name-tradeable\">氣體</span>。<br><br>若借助<span class=\"name name-technology\">大氣採集器</span>，可從覆蓋這些世界的洶湧雲層中採集。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Deploy an <span class=\"name name-technology\">Atmosphere Harvester</span> on a <span class=\"name name-special\">gas giant</span>",
+    "SimplifiedChinese": "在一颗<span class=\"name name-special\">气态巨星</span>上部署<span class=\"name name-technology\">大气收集器</span>",
+    "TraditionalChinese": "在<span class=\"name name-special\">氣態巨行星</span>部署<span class=\"name name-technology\">大氣採集器</span>"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_GAS4",
+  "OnlyFoundInPurpleSytems": true,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

@@ -1,0 +1,84 @@
+{
+  "Name": {
+    "English": "SALT",
+    "SimplifiedChinese": "盐",
+    "TraditionalChinese": "鹽"
+  },
+  "NameLower": {
+    "English": "Salt",
+    "SimplifiedChinese": "盐",
+    "TraditionalChinese": "鹽"
+  },
+  "ID": "WATER1",
+  "Symbol": {
+    "English": "NaCl",
+    "SimplifiedChinese": "NaCl",
+    "TencentChinese": "盐",
+    "TraditionalChinese": "NaCl"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.water.1.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Aquatic Mineral Extract",
+    "SimplifiedChinese": "水生矿物提取物",
+    "TraditionalChinese": "水中礦物萃取物"
+  },
+  "Description": {
+    "English": "A naturally occuring salt, found in abundance in <span class=\"name name-technology\">underwater minerals</span>.<br><br>Can be processed in a <span class=\"name name-technology\">Refiner</span> to create <span class=\"name name-tradeable\">Chlorine</span>. This refined form is used in the manufacture of advanced products and technologies.",
+    "SimplifiedChinese": "一种天然盐，大量存在于<span class=\"name name-technology\">地下水矿产</span>中。<br><br>可以使用<span class=\"name name-technology\">精炼机</span>加工制成<span class=\"name name-tradeable\">氯</span>。这种精炼形式可用于制造高级产品和技术。",
+    "TraditionalChinese": "自然生成的鹽，<span class=\"name name-technology\">水中礦物</span>裡含量豐富。<br><br>可用<span class=\"name name-technology\">精製機</span>加工製造<span class=\"name name-tradeable\">氯</span>。這種精製形態能用來製作先進產品和科技。",
+    "USEnglish": "A naturally occurring salt, found in abundance in <span class=\"name name-technology\">underwater minerals</span>.<br><br>Can be processed in a <span class=\"name name-technology\">Refiner</span> to create <span class=\"name name-tradeable\">Chlorine</span>. This refined form is used in the manufacture of advanced products and technologies."
+  },
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.541176498,
+    "B": 0.258823544,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.117647059,
+    "G": 0.541176498,
+    "B": 0.258823544,
+    "A": 1
+  },
+  "BaseValue": 101,
+  "Category": "Earth",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.0000064102569,
+  "NormalisedValueOffWorld": 0.0000064102569,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Salt",
+    "SimplifiedChinese": "收集盐",
+    "TraditionalChinese": "收集鹽"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">Salt</span> is readily extracted from <span class=\"name name-earth\">underwater rock deposits</span>.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span> or by refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>.",
+    "SimplifiedChinese": "从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-tradeable\">盐</span>。<br>升级套装<span class=\"name name-technology\">换气薄膜</span>或从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，以提高在海洋中的效率。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">鹽</span>可直接從<span class=\"name name-earth\">水底岩石資源產地</span>取得。<br>透過強化套裝升級<span class=\"name name-technology\">曝氣黏膜</span>或從<span class=\"name name-tradeable\">巨藻囊</span>補充氧氣來源以提升海洋效能。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Extract <span class=\"name name-tradeable\">Salt</span> from <span class=\"name name-earth\">underwater rock deposits</span>",
+    "SimplifiedChinese": "从<span class=\"name name-earth\">水下岩石资源点中</span>提取<span class=\"name name-tradeable\">盐</span>",
+    "TraditionalChinese": "從<span class=\"name name-earth\">水下岩石資源產地</span>採集<span class=\"name name-tradeable\">鹽</span>"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_WATER1",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": true,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

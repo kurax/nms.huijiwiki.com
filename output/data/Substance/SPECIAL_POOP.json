@@ -1,0 +1,84 @@
+{
+  "Name": {
+    "English": "HEXITE",
+    "SimplifiedChinese": "己糖醇",
+    "TraditionalChinese": "己糖醇"
+  },
+  "NameLower": {
+    "English": "Hexite",
+    "SimplifiedChinese": "己糖醇",
+    "TraditionalChinese": "己糖醇"
+  },
+  "ID": "SPECIAL_POOP",
+  "Symbol": {
+    "English": "X",
+    "SimplifiedChinese": "X",
+    "TencentChinese": "醇",
+    "TraditionalChinese": "X"
+  },
+  "Icon": "ui/frontend/icons/u4products/product.hexcore.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Unrefined Organic Element",
+    "SimplifiedChinese": "未提炼有机元素",
+    "TraditionalChinese": "未精製有機元素"
+  },
+  "Description": {
+    "English": "An odourless, mineral-rich substance with a hexagonal crystalline structure, harvested from the faecal matter of a creature.",
+    "SimplifiedChinese": "一种无臭而富含矿物质的六方晶体结构物质，可从生物粪便中收集。",
+    "TraditionalChinese": "礦物質含量豐富的無味物質，水晶結構成六角形，可從生物排泄物中取得。",
+    "USEnglish": "An odorless, mineral-rich substance with a hexagonal crystalline structure, harvested from the fecal matter of a creature."
+  },
+  "Colour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "BaseValue": 654,
+  "Category": "Special",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.0000418589771,
+  "NormalisedValueOffWorld": 0.0000418589771,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Hexite",
+    "SimplifiedChinese": "收集己糖醇",
+    "TraditionalChinese": "收集己糖醇"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-fuel\">Faecium</span> is a nitrogen-rich organic material harvested from the dung of many large animals. Feed animals to increase faecium production.<br>It is possible to grow faecium given the right environment and correct host plant. Seek advice from an <span class=\"name name-tradeable\">Agricultural Specialist</span>.",
+    "SimplifiedChinese": "<span class=\"name name-fuel\">屎球菌</span>是一种富含氮元素的有机材料，能从许多大型动物的粪便中采集到。饲养动物来提升屎球菌的产量。<br>可以通过在适当的环境下种植恰当的寄主植物来培养出屎球菌。具体建议可咨询<span class=\"name name-tradeable\">农业专家</span>。",
+    "TraditionalChinese": "<span class=\"name name-fuel\">屎菌</span>是一種從大型動物的排泄物所採收的有機材料，氮含量高。餵食動物即可提升屎菌產量。<br>有合適的環境與宿主植物，也可種植屎菌。尋求<span class=\"name name-tradeable\">農業專家</span>的建議。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest from the dung of many large animals. Feed animals to increase faecium production<br>This material can be farmed within a <span class=\"name name-commodity\">base</span> with the aid of an <span class=\"name name-tradeable\">Agricultural Specialist</span>",
+    "SimplifiedChinese": "采集自各类大型生物留下的粪便。喂食生物以提高屎球菌产量<br>可以在<span class=\"name name-tradeable\">农业专家</span>的帮助下于<span class=\"name name-commodity\">基地</span>中种植这种资源",
+    "TraditionalChinese": "採集自多種大型動物的排泄物。餵食動物可提升屎菌產量<br>借助<span class=\"name name-tradeable\">農業專家</span>的力量即可在<span class=\"name name-commodity\">基地</span>培養這種材料"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

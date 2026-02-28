@@ -1,0 +1,75 @@
+{
+  "Name": {
+    "English": "RESIDUAL GOOP",
+    "SimplifiedChinese": "剩余粘稠物",
+    "TraditionalChinese": "殘餘黏液"
+  },
+  "NameLower": {
+    "English": "Residual Goop",
+    "SimplifiedChinese": "剩余粘稠物",
+    "TraditionalChinese": "殘餘黏液"
+  },
+  "ID": "SPACEGUNK1",
+  "Symbol": {
+    "English": "Jn",
+    "SimplifiedChinese": "Jn",
+    "TencentChinese": "垃",
+    "TraditionalChinese": "Jn"
+  },
+  "Icon": "ui/frontend/icons/update3/spacegunk.1.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Junk",
+    "SimplifiedChinese": "垃圾",
+    "TraditionalChinese": "垃圾"
+  },
+  "Description": {
+    "English": "A pulsating, foul smelling goop that builds up in poorly-maintained machinery.<br><br>Skin contact is not advised.",
+    "SimplifiedChinese": "一种在缺乏维护的机械装置中产生并积累的活跃、有腐烂气味的粘稠物。<br><br>不建议与皮肤直接接触。",
+    "TraditionalChinese": "鮮少維護的機器會產生的噁心惡臭黏液。<br><br>不建議接觸皮膚。"
+  },
+  "Colour": {
+    "R": 0.356862754,
+    "G": 0.435294122,
+    "B": 0.20784314,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.588235319,
+    "G": 0.713725507,
+    "B": 0.349019617,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Special",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000121794881,
+  "NormalisedValueOffWorld": 0.00000121794881,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Residual Goop",
+    "SimplifiedChinese": "寻找剩余粘稠物",
+    "TraditionalChinese": "找出殘餘黏液"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

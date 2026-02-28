@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "SILVER",
+    "SimplifiedChinese": "银",
+    "TraditionalChinese": "銀"
+  },
+  "NameLower": {
+    "English": "Silver",
+    "SimplifiedChinese": "银",
+    "TraditionalChinese": "銀"
+  },
+  "ID": "ASTEROID1",
+  "Symbol": {
+    "English": "Ag",
+    "SimplifiedChinese": "Ag",
+    "TencentChinese": "银",
+    "TraditionalChinese": "Ag"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.asteroid.1.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Valuable Asteroid Mineral",
+    "SimplifiedChinese": "宝贵的小行星矿物",
+    "TraditionalChinese": "珍貴小行星礦物"
+  },
+  "Description": {
+    "English": "Valuable interstellar trading mineral, typically <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.<br><br>Prized by people in all systems for its lustre and shine.",
+    "SimplifiedChinese": "珍贵的星际交易矿物，通常<span class=\"name name-commodity\">采掘自小行星</span>。有时可在地下行星沉积物中发现。<br><br>所有恒星系的居民都非常喜爱它散发出的熠熠光泽。",
+    "TraditionalChinese": "珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。<br><br>光彩奪目，因此所有星系的居民都十分珍視。"
+  },
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "BaseValue": 186,
+  "Category": "Exotic",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.0000118589751,
+  "NormalisedValueOffWorld": 0.0000118589751,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Silver",
+    "SimplifiedChinese": "收集或精炼银",
+    "TraditionalChinese": "收集或精製銀"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-earth\">Silver</span> is a valuable interstellar trading mineral, most commonly <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.",
+    "SimplifiedChinese": "<span class=\"name name-earth\">银</span>是一种非常珍贵的星际交易矿物，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。",
+    "TraditionalChinese": "<span class=\"name name-earth\">銀</span>是非常珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Mine silver from <span class=\"name name-commodity\">asteroids</span> while piloting the starship (<span class=\"name name-img\">SHIPFIRE</span>)<br>Silver is abundant in most asteroid fields",
+    "SimplifiedChinese": "驾驶飞船（<span class=\"name name-img\">SHIPFIRE</span>）开采<span class=\"name name-commodity\">小行星</span>中的银<br>绝大多数小行星带中都富含银",
+    "TraditionalChinese": "駕駛太空船 (<span class=\"name name-img\">SHIPFIRE</span>)，從<span class=\"name name-commodity\">小行星</span>開採銀礦<br>銀礦在大部分的小行星帶中都相當常見"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_ASTEROID1",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": true,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

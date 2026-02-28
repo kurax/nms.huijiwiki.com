@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "MARROW BULB",
+    "SimplifiedChinese": "葫芦朵",
+    "TraditionalChinese": "葫蘆球莖"
+  },
+  "NameLower": {
+    "English": "Marrow Bulb",
+    "SimplifiedChinese": "葫芦朵",
+    "TraditionalChinese": "葫蘆球莖"
+  },
+  "ID": "PLANT_CAVE",
+  "Symbol": {
+    "English": "Bu",
+    "SimplifiedChinese": "Bu",
+    "TencentChinese": "芦",
+    "TraditionalChinese": "Bu"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.plant.cave.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Harvested Agricultural Substance",
+    "SimplifiedChinese": "已收割农业物质",
+    "TraditionalChinese": "農作收成"
+  },
+  "Description": {
+    "English": "A glowing organic bulb, harvested from the <span class=\"name name-tradeable\">Cave Marrow plant</span> found growing <span class=\"name name-technology\">underground</span>.<br><br>The Cave Marrow has proved resistant to domestication, and no farmable cultivars are known to exist. As such, marrow bulbs must be harvested by hand in the wild.",
+    "SimplifiedChinese": "一种发光的有机鳞茎，可从生长在<span class=\"name name-technology\">地下的</span><span class=\"name name-tradeable\">洞穴葫芦植物</span>中收获。<br><br>研究证明，洞穴葫芦具有驯化抗性，而且不存在可栽培的品种。同样，葫芦鳞茎必须在野外环境中手工收获。",
+    "TraditionalChinese": "發光的有機球莖，從生長於<span class=\"name name-technology\">地底</span>的<span class=\"name name-tradeable\">洞窟葫蘆植物</span>上採收而來。<br><br>經證實洞窟葫蘆無法馴化，現今尚未發現可栽種的品種。因此，洞窟葫蘆一定得於野外手工採收。"
+  },
+  "Colour": {
+    "R": 0.356862754,
+    "G": 0.435294122,
+    "B": 0.20784314,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.588235319,
+    "G": 0.713725507,
+    "B": 0.349019617,
+    "A": 1
+  },
+  "BaseValue": 41,
+  "Category": "Flora",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000256410272,
+  "NormalisedValueOffWorld": 0.00000256410272,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Marrow Bulb",
+    "SimplifiedChinese": "收集葫芦朵",
+    "TraditionalChinese": "收集葫蘆球莖"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">Marrow Bulbs</span> are harvested from the <span class=\"name name-tradeable\">Cave Marrow plant</span> found growing <span class=\"name name-technology\">underground</span>.<br>Locate natural cave entrances or create your own with the <span class=\"name name-technology\">Terrain Manipulator</span>. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.",
+    "SimplifiedChinese": "<span class=\"name name-tradeable\">葫芦朵</span>能从<span class=\"name name-technology\">地下生长的</span><span class=\"name name-tradeable\">洞穴葫芦属植物</span>上采集到。<br>寻找天然洞穴的入口，或使用<span class=\"name name-technology\">地形操纵器</span>自己创造出洞穴。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险的植物群系。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">葫蘆莖</span>是從長在<span class=\"name name-technology\">地底下</span>的<span class=\"name name-tradeable\">洞窟葫蘆植物</span>採收而來。<br>使用<span class=\"name name-technology\">地形改造器</span>找出天然洞穴入口或自行製造一個。<span class=\"name name-red\">警告：</span>許多洞穴內有危險植物。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest from the <span class=\"name name-tradeable\">Cave Marrow plant</span> found growing <span class=\"name name-technology\">underground</span><br>This plant can be farmed within a <span class=\"name name-commodity\">base</span> with the aid of an <span class=\"name name-tradeable\">Agricultural Specialist</span>",
+    "SimplifiedChinese": "采集自<span class=\"name name-technology\">地下</span>生长的<span class=\"name name-tradeable\">洞穴葫芦</span><br>可以在<span class=\"name name-commodity\">农业专家</span>的帮助下于<span class=\"name name-tradeable\">基地</span>中种植这种植物",
+    "TraditionalChinese": "採收自生長在<span class=\"name name-technology\">地底下</span>的<span class=\"name name-tradeable\">洞窟葫蘆植物</span><br>借助<span class=\"name name-tradeable\">農業專家</span>的力量即可在<span class=\"name name-commodity\">基地</span>種植這種植物"
+  },
+  "PinObjectiveScannableType": "HarvestPlant",
+  "WikiMissionID": "WIKI_PLANT_CAVE",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": true,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

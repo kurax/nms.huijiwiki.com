@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "FROST CRYSTAL",
+    "SimplifiedChinese": "冰霜水晶",
+    "TraditionalChinese": "霜晶"
+  },
+  "NameLower": {
+    "English": "Frost Crystal",
+    "SimplifiedChinese": "冰霜水晶",
+    "TraditionalChinese": "霜晶"
+  },
+  "ID": "PLANT_SNOW",
+  "Symbol": {
+    "English": "Fc",
+    "SimplifiedChinese": "Fc",
+    "TencentChinese": "冰晶",
+    "TraditionalChinese": "Fc"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.plant.snow.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Harvested Agricultural Substance",
+    "SimplifiedChinese": "已收割农业物质",
+    "TraditionalChinese": "農作收成"
+  },
+  "Description": {
+    "English": "A beautiful blue crystal, this organic compound possesses both great hardiness and a shimmering translucence. It is harvested from the leaves of <span class=\"name name-tradeable\">Frostwort</span>.<br><br>Frostwort requires <span class=\"name name-technology\">frozen conditions</span> to thrive in the wild, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
+    "SimplifiedChinese": "一种美丽的蓝色水晶，这种有机化合物极具耐寒性，并闪烁着半透明的微光。它可以从<span class=\"name name-tradeable\">霜草</span>的叶子中收获。<br><br>霜草需要在<span class=\"name name-technology\">冰冻条件</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TraditionalChinese": "一種漂亮的藍色結晶有機化合物，不僅硬度極佳，還呈閃爍發亮的半透明狀。可從<span class=\"name name-tradeable\">霜草</span>葉片上採收而得。<br><br>霜草需要<span class=\"name name-technology\">冰凍氣候</span>才能在野外生長，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
+  },
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.309803933,
+    "B": 0.815686285,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.117647059,
+    "G": 0.576470613,
+    "B": 0.815686285,
+    "A": 1
+  },
+  "BaseValue": 12,
+  "Category": "Flora",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 7.0512823e-7,
+  "NormalisedValueOffWorld": 7.0512823e-7,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Frost Crystal",
+    "SimplifiedChinese": "收集冰霜水晶",
+    "TraditionalChinese": "收集霜晶"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">Frost Crystals</span> are harvested from the leaves of <span class=\"name name-tradeable\">Frostwort</span>.<br>The host plant grows wild in a <span class=\"name name-technology\">frozen climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
+    "SimplifiedChinese": "<span class=\"name name-technology\">冰霜结晶</span>能从<span class=\"name name-tradeable\">冰霜花</span>上的树叶中采集到。<br>其宿主植物需要在<span class=\"name name-technology\">冰冻气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TraditionalChinese": "<span class=\"name name-technology\">霜晶</span>是從<span class=\"name name-tradeable\">霜草</span>葉子採收而來。<br>宿主植物野生生長於<span class=\"name name-technology\">冰寒氣候</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest from the leaves of <span class=\"name name-tradeable\">Frostwort</span>, which grows wild in a <span class=\"name name-technology\">frozen climate</span><br>This plant can be farmed within a <span class=\"name name-commodity\">base</span> with the aid of an <span class=\"name name-tradeable\">Agricultural Specialist</span>",
+    "SimplifiedChinese": "采集自<span class=\"name name-technology\">冰冻气候</span>中的野生<span class=\"name name-tradeable\">霜草</span>叶片<br>可以在<span class=\"name name-commodity\">农业专家</span>的帮助下于<span class=\"name name-tradeable\">基地</span>中种植这种植物",
+    "TraditionalChinese": "採收自<span class=\"name name-tradeable\">霜草</span>的葉片，其生長於<span class=\"name name-technology\">冰寒氣候</span>的野生環境<br>借助<span class=\"name name-tradeable\">農業專家</span>的力量即可在<span class=\"name name-commodity\">基地</span>種植這種植物"
+  },
+  "PinObjectiveScannableType": "HarvestPlant",
+  "WikiMissionID": "WIKI_PLANT_COLD",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": true,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

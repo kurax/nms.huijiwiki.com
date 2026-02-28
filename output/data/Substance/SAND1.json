@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "SILICATE POWDER",
+    "SimplifiedChinese": "硅酸盐粉末",
+    "TraditionalChinese": "矽酸粉"
+  },
+  "NameLower": {
+    "English": "Silicate Powder",
+    "SimplifiedChinese": "硅酸盐粉末",
+    "TraditionalChinese": "矽酸粉"
+  },
+  "ID": "SAND1",
+  "Symbol": {
+    "English": "Si",
+    "SimplifiedChinese": "硅",
+    "TraditionalChinese": "矽"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.sand.1.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Abundant Mineral",
+    "SimplifiedChinese": "丰富矿物",
+    "TraditionalChinese": "豐富礦物"
+  },
+  "Description": {
+    "English": "An abundant mineral element, found within the geological strata of all rocky worlds. Easily extracted using a <span class=\"name name-technology\">Terrain Manipulator</span>. Create a tunnel anywhere to begin extraction.<br><br>Process in a <span class=\"name name-technology\">Refiner</span> to create <span class=\"name name-technology\">Glass</span>.",
+    "SimplifiedChinese": "一种丰富的矿物元素，存在于所有岩态行星的地质层中。可使用<span class=\"name name-technology\">地形操纵器</span>轻松提取。在任意地方构建隧道即可开始提取。<br><br>在<span class=\"name name-technology\">精炼机</span>中处理以创造<span class=\"name name-technology\">玻璃</span>。",
+    "TraditionalChinese": "一種礦物元素，大量蘊藏於所有岩石世界的地質層，利用<span class=\"name name-technology\">地形改造器</span>即可輕易萃取。隨地挖掘隧道即可開始萃取。<br><br>用<span class=\"name name-technology\">精製機</span>加工即可製造<span class=\"name name-technology\">玻璃</span>。"
+  },
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "BaseValue": 2,
+  "Category": "Metal",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 5.76923242e-7,
+  "NormalisedValueOffWorld": 5.76923242e-7,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Silicate Powder",
+    "SimplifiedChinese": "收集硅酸盐粉末",
+    "TraditionalChinese": "收集矽酸粉"
+  },
+  "PinObjectiveTip": {
+    "English": "Extract from the earth of any planet with a <span class=\"name name-technology\">Terrain Manipulator</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">地形操纵器</span>从任意行星的土壤中提取。",
+    "TencentChinese": "使用<span class=\"name name-technology\">地形操纵器</span>从任意行星土地提取而得。",
+    "TraditionalChinese": "用<span class=\"name name-technology\">地形改造器</span>從任何星球的土萃取。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Extract from the earth of any planet with a <span class=\"name name-technology\">Terrain Manipulator</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">地形操纵器</span>从任意行星的土壤中提取",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">地形改造器</span>從任何星球的土採集"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

@@ -1,0 +1,82 @@
+{
+  "Name": {
+    "English": "SHATTERED QUALIA",
+    "SimplifiedChinese": "残缺感质",
+    "TraditionalChinese": "破碎感質"
+  },
+  "NameLower": {
+    "English": "Shattered Qualia",
+    "SimplifiedChinese": "残缺感质",
+    "TraditionalChinese": "破碎感質"
+  },
+  "ID": "SQUIDFRAG",
+  "Symbol": {
+    "English": "?",
+    "SimplifiedChinese": "？",
+    "TraditionalChinese": "？"
+  },
+  "Icon": "ui/frontend/icons/u4products/sub.soulfrag.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Soul Fragment",
+    "SimplifiedChinese": "灵魂碎片",
+    "TraditionalChinese": "靈魂碎片"
+  },
+  "Description": {
+    "English": "A pattern, no more than a mere waveform, etched into an ethereal shard of glass. This fragment of data represents a trace of the electrical impulses running across a neural network. Many fragments would be required to recreate any sensible experience.<br><br>Released upon the destruction of a <span class=\"name name-special\">boundary horror</span>.",
+    "SimplifiedChinese": "一个仅仅是波形的图案，蚀刻在一片虚无缥缈的玻璃碎片的表面。这种数据碎片能呈现神经网络中电脉冲的痕迹。需要很多碎片才能重现有意义的体验。<br><br>摧毁<span class=\"name name-special\">边界惧物</span>时释放的产物。",
+    "TraditionalChinese": "一個類似波形的圖案刻在縹緲的玻璃碎片上。這個資料碎片代表電子脈衝在神經網路傳遞的軌跡。需要收集許多碎片才能重新體驗其中的含意。<br><br>殲滅<span class=\"name name-special\">邊界懼獸</span>後產生。"
+  },
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "BaseValue": 16,
+  "Category": "Special",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 9.6153849e-7,
+  "NormalisedValueOffWorld": 9.6153849e-7,
+  "TradeCategory": "None",
+  "WikiEnabled": false,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Shattered Qualia",
+    "SimplifiedChinese": "收集残缺感质",
+    "TraditionalChinese": "收集破碎感質"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-special\">Shattered Qualia</span> are bits of data etched into ethereal shards of glass, the echoes of waveforms from long-evaporated neural networks.<br><br>Released upon the destruction of a <span class=\"name name-special\">boundary horror</span>.",
+    "SimplifiedChinese": "<span class=\"name name-special\">残缺感质</span>是一种蚀刻在虚无缥缈的玻璃碎片表面的数据碎片，这些东西是早已消逝的神经网络波形留下的回音。<br><br>摧毁<span class=\"name name-special\">边界惧物</span>时释放的产物。",
+    "TraditionalChinese": "<span class=\"name name-special\">破碎感質</span>是刻在縹緲玻璃碎片上的資料碎片，由過往的神經網路所發出的波形回音。<br><br>殲滅<span class=\"name name-special\">邊界懼獸</span>後產生。"
+  },
+  "PinObjectiveMessage": {
+    "English": "<span class=\"name name-special\">Shattered Qualia</span> are released on the destruction of a <span class=\"name name-special\">boundary horror</span><br>The horrors emerge as the boundaries weaken...",
+    "SimplifiedChinese": "<span class=\"name name-special\">残缺感质</span>是摧毁<span class=\"name name-special\">边界惧物</span>时释放的产物<br>当边界削弱，惧物便会出现......",
+    "TraditionalChinese": "殲滅<span class=\"name name-special\">邊界懼獸</span>後，便會產生<span class=\"name name-special\">破碎感質</span><br>隨著邊界變得脆弱，懼獸闖進了我們的世界......"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

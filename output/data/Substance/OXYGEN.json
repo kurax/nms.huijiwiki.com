@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "OXYGEN",
+    "SimplifiedChinese": "氧气",
+    "TraditionalChinese": "氧"
+  },
+  "NameLower": {
+    "English": "Oxygen",
+    "SimplifiedChinese": "氧气",
+    "TraditionalChinese": "氧"
+  },
+  "ID": "OXYGEN",
+  "Symbol": {
+    "English": "O2",
+    "SimplifiedChinese": "O2",
+    "TencentChinese": "氧",
+    "TraditionalChinese": "O2"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.air.1.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Concentrated Liquid Fuel",
+    "SimplifiedChinese": "浓缩液体燃料",
+    "TraditionalChinese": "濃縮液體燃料"
+  },
+  "Description": {
+    "English": "Integral to the atmospheric filtering technology at the heart of the exosuit <span class=\"name name-fuel\">life support system</span>.<br><br>Exosuit material processing allows oxygen to be harvested directly from appropriate planetary flora.<br><br>Other plantlife may be scanned with the <span class=\"name name-technology\">Analysis Visor</span> to reveal alternative oxygen supplies.",
+    "SimplifiedChinese": "对套装<span class=\"name name-fuel\">维生系统</span>核心的大气层过滤技术至关重要。<br><br>套装材料处理系统可直接从合适的植物群系中获取氧气。<br><br>或可采用<span class=\"name name-technology\">分析面甲</span>扫描其他植物体来发现可替代的氧气供应品。",
+    "TraditionalChinese": "強化套裝<span class=\"name name-fuel\">維生系統</span>內部大氣過濾科技不可或缺的物質。<br><br>強化套裝的材料加工系統，能從適當的星球植物上直接採集氧氣。<br><br>可用<span class=\"name name-technology\">分析護目鏡</span>掃描其他植物，發掘替代氧氣來源。"
+  },
+  "Colour": {
+    "R": 0.733333349,
+    "G": 0.219607845,
+    "B": 0.188235298,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.733333349,
+    "G": 0.219607845,
+    "B": 0.188235298,
+    "A": 1
+  },
+  "BaseValue": 34,
+  "Category": "Fuel",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 2,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3.5,
+    "BuyMarkupMod": 1
+  },
+  "NormalisedValueOnWorld": 0.00000211538486,
+  "NormalisedValueOffWorld": 0.00000211538486,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Oxygen",
+    "SimplifiedChinese": "收集氧气",
+    "TraditionalChinese": "收集氧"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-fuel\">Oxygen</span> can be harvested from red plants found on all planets. Locate oxygen-rich plants with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>).<br>Oxygen can also be gathered from some hazardous plants, as well as identified in general flora with the <span class=\"name name-technology\">Analysis Visor</span>.",
+    "SimplifiedChinese": "<span class=\"name name-fuel\">氧</span>可以从所有行星上都有的红色植物中采集。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富氧植物。<br>氧也可以从某些有害植物中采集，或通过<span class=\"name name-technology\">分析面甲</span>在一般植物群中识别。",
+    "TraditionalChinese": "<span class=\"name name-fuel\">氧</span>可從所有星球上的紅色植物身上採收。利用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）找出含氧量高的植物。<br>氧也可以從某些危險植物上收集，或用<span class=\"name name-technology\">分析護目鏡</span>在一般植物中找到。"
+  },
+  "PinObjectiveMessage": {
+    "English": "<span class=\"name name-fuel\">Oxygen</span> can be harvested from red plants found on all planets<br>Locate oxygen-rich plants with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>)",
+    "SimplifiedChinese": "<span class=\"name name-fuel\">氧气</span>可以从所有行星上都有的红色植物中采集<br>使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富含氧气的植物",
+    "TraditionalChinese": "<span class=\"name name-fuel\">氧</span>可以從所有行星上都有的紅色植物中採集<br>使用<span class=\"name name-technology\">掃描器</span> (<span class=\"name name-img\">SCAN</span>) 找出富含氧的植物"
+  },
+  "PinObjectiveScannableType": "Oxygen",
+  "WikiMissionID": "WIKI_OXYGEN",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

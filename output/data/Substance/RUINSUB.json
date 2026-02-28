@@ -1,0 +1,82 @@
+{
+  "Name": {
+    "English": "POLISHED STONE",
+    "SimplifiedChinese": "抛光石材",
+    "TraditionalChinese": "透光石"
+  },
+  "NameLower": {
+    "English": "Polished Stone",
+    "SimplifiedChinese": "抛光石材",
+    "TraditionalChinese": "透光石"
+  },
+  "ID": "RUINSUB",
+  "Symbol": {
+    "English": "R",
+    "SimplifiedChinese": "R",
+    "TraditionalChinese": "R"
+  },
+  "Icon": "ui/frontend/icons/products/product.metallic.4.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Recycled Minerals",
+    "SimplifiedChinese": "回收矿物",
+    "TraditionalChinese": "回收礦物"
+  },
+  "Description": {
+    "English": "The powdery remains of a highly polished mineral surface. It glitters as it catches the light, like fiery grains of sand.<br><br>Acquired by applying the <span class=\"name name-technology\">Mining Laser</span> to the structral remnants located on <span class=\"name name-stellar\">ruined worlds</span>.",
+    "SimplifiedChinese": "高度抛光的矿物表面留下的粉末残留物。在光照下就像是一颗颗闪闪发光的砂砾。<br><br>对<span class=\"name name-stellar\">废墟世界</span>上的建筑残骸使用<span class=\"name name-technology\">开采激光</span>获取的产物。",
+    "TraditionalChinese": "表面經過高度拋光的易碎礦物。在光線照射下閃閃發光，就像火紅的沙粒。<br><br>對<span class=\"name name-stellar\">廢墟世界</span>的結構遺跡使用<span class=\"name name-technology\">採礦雷射</span>即可獲得。"
+  },
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "BaseValue": 82,
+  "Category": "Earth",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 2,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000519230798,
+  "NormalisedValueOffWorld": 0.00000519230798,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Polished Stone",
+    "SimplifiedChinese": "收集或精炼抛光石材",
+    "TraditionalChinese": "收集或精製透光石"
+  },
+  "PinObjectiveTip": {
+    "English": "The powdery remains of a highly polished mineral surface. Acquired by applying the <span class=\"name name-technology\">Mining Laser</span> to the structral remnants located on <span class=\"name name-stellar\">ruined worlds</span>.",
+    "SimplifiedChinese": "高度抛光的矿物表面留下的粉末残留物。对<span class=\"name name-stellar\">废墟世界</span>上的建筑残骸使用<span class=\"name name-technology\">开采激光</span>获取的产物。",
+    "TraditionalChinese": "表面經過高度拋光的易碎礦物。對<span class=\"name name-stellar\">廢墟世界</span>的結構遺跡使用<span class=\"name name-technology\">採礦雷射</span>即可獲得。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Extract from structures located on <span class=\"name name-stellar\">ruined worlds</span> with the <span class=\"name name-technology\">Mining Laser</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">开采激光</span>从<span class=\"name name-stellar\">废墟世界</span>上的建筑获取",
+    "TraditionalChinese": "對<span class=\"name name-stellar\">廢墟世界</span>的結構使用<span class=\"name name-technology\">採礦雷射</span>即可採集。"
+  },
+  "PinObjectiveScannableType": "Terrain",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

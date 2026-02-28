@@ -1,0 +1,74 @@
+{
+  "Name": {
+    "English": "Toxic Containment",
+    "SimplifiedChinese": "有毒物质收容",
+    "TraditionalChinese": "劇毒物質密封器"
+  },
+  "NameLower": {
+    "English": "Toxic Containment",
+    "SimplifiedChinese": "有毒物质收容",
+    "TraditionalChinese": "劇毒物質密封器"
+  },
+  "ID": "SCRAP_TOX",
+  "Symbol": {
+    "English": "-",
+    "SimplifiedChinese": "-",
+    "TraditionalChinese": "-"
+  },
+  "Icon": "ui/frontend/icons/substances/scrap.tox.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Reward Item",
+    "SimplifiedChinese": "奖励物品",
+    "TraditionalChinese": "獎勵道具"
+  },
+  "Description": {
+    "English": "Currency or faction standing, given as a reward.",
+    "SimplifiedChinese": "作为奖励给予的货币或派别声望。",
+    "TraditionalChinese": "貨幣或陣營聲望獎勵。"
+  },
+  "Colour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 4,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0.25,
+    "HighPriceMod": 0.5,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000169871805,
+  "NormalisedValueOffWorld": 0.00000169871805,
+  "TradeCategory": "None",
+  "WikiEnabled": false,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Toxic Containment",
+    "SimplifiedChinese": "寻找有毒物质收容",
+    "TraditionalChinese": "找出劇毒物質密封器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

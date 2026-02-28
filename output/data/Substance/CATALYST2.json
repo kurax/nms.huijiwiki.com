@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "SODIUM NITRATE",
+    "SimplifiedChinese": "硝酸钠",
+    "TraditionalChinese": "硝酸鈉"
+  },
+  "NameLower": {
+    "English": "Sodium Nitrate",
+    "SimplifiedChinese": "硝酸钠",
+    "TraditionalChinese": "硝酸鈉"
+  },
+  "ID": "CATALYST2",
+  "Symbol": {
+    "English": "Na+",
+    "SimplifiedChinese": "Na+",
+    "TencentChinese": "钠+",
+    "TraditionalChinese": "Na+"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.catalyst.2.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Refined Catalytic Element",
+    "SimplifiedChinese": "精炼催化元素",
+    "TraditionalChinese": "精製催化元素"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-catalyst\">advanced catalyst</span>, useful for charging <span class=\"name name-commodity\">defensive technologies</span> such as shields or hazard protection.<br> <br>Created in a <span class=\"name name-technology\">Refiner</span>, or occasionally found in crystalline form on a planet's surface.<br><br>Offers a substantially improved energy-per-gram ratio over regular Sodium.",
+    "SimplifiedChinese": "一种<span class=\"name name-catalyst\">高级催化剂</span>，用于为<span class=\"name name-commodity\">防御技术</span>（如护盾和危险防护）充能。<br> <br>通过<span class=\"name name-technology\">精炼机</span>制造，偶尔也可在行星表面发现其晶体形式。<br><br>提供了比常规钠显著改进的每克能量比。",
+    "TraditionalChinese": "一種<span class=\"name name-catalyst\">先進催化劑</span>，能用來為防護罩或風險防護系統等<span class=\"name name-commodity\">防衛科技</span>充能。<br> <br>由<span class=\"name name-technology\">精製機</span>製成，有時也會在星球地表以結晶形態出現。<br><br>比起一般鈉，每單位重量可提供的能量大幅提升。"
+  },
+  "Colour": {
+    "R": 0.949019611,
+    "G": 0.427450985,
+    "B": 0.0823529437,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "BaseValue": 82,
+  "Category": "Catalyst",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 5,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3.5,
+    "BuyMarkupMod": 1
+  },
+  "NormalisedValueOnWorld": 0.00000519230798,
+  "NormalisedValueOffWorld": 0.00000519230798,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Sodium Nitrate",
+    "SimplifiedChinese": "收集或精炼硝酸钠",
+    "TraditionalChinese": "收集或精製硝酸鈉"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-catalyst\">Sodium Nitrate</span> is created from Sodium in a <span class=\"name name-technology\">Refiner</span><br>Sodium Nitrate is also found in crystal form. Locate sodium nitrate crystals with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>). Mining requires use of an <span class=\"name name-technology\">Advanced Mining Laser</span>.",
+    "SimplifiedChinese": "<span class=\"name name-catalyst\">硝酸钠</span>可采用<span class=\"name name-technology\">精炼机</span>从钠中制得<br>硝酸钠也是晶体形式的。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位硝酸钠晶体。开采需要使用<span class=\"name name-technology\">高级开采光束</span>。",
+    "TraditionalChinese": "<span class=\"name name-catalyst\">硝酸鈉</span>是透過使用<span class=\"name name-technology\">精製機</span>從鈉製造出來的。<br>硝酸鈉也以結晶形式出現。用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）找出硝酸鈉結晶。開採時需要用到<span class=\"name name-technology\">改良採礦雷射</span>。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Locate <span class=\"name name-catalyst\">Sodium Nitrate</span> crystals with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>)<br>Sodium Nitrate can be created from Sodium in a <span class=\"name name-technology\">Refiner</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位<span class=\"name name-catalyst\">硝酸钠</span><br>在<span class=\"name name-technology\">精炼机</span>中加工钠以制作硝酸钠",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">掃描器</span> (<span class=\"name name-img\">SCAN</span>) 找出<span class=\"name name-catalyst\">硝酸鈉</span><br>使用<span class=\"name name-technology\">精製機</span>可將鈉加工製作成硝酸鈉。"
+  },
+  "PinObjectiveScannableType": "SodiumPlus",
+  "WikiMissionID": "WIKI_CATALYST2",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": true,
+  "EggModifierIngredient": true
+}

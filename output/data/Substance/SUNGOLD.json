@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "LIQUID SUN",
+    "SimplifiedChinese": "液体太阳",
+    "TraditionalChinese": "液體太陽"
+  },
+  "NameLower": {
+    "English": "Liquid Sun",
+    "SimplifiedChinese": "液体太阳",
+    "TraditionalChinese": "液體太陽"
+  },
+  "ID": "SUNGOLD",
+  "Symbol": {
+    "English": "?",
+    "SimplifiedChinese": "？",
+    "TraditionalChinese": "？"
+  },
+  "Icon": "ui/frontend/icons/u4products/sub.sungold.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Transmuted Metal",
+    "SimplifiedChinese": "嬗变金属",
+    "TraditionalChinese": "變形金屬"
+  },
+  "Description": {
+    "English": "Conventional planetary metal, superheated and then held in a stabilised plasmatic form.<br><br>Extracted from metallic <span class=\"name name-stellar\">terrain deposits</span> using a <span class=\"name name-technology\">Solar Ray</span>. Enormously energetic.",
+    "SimplifiedChinese": "常规行星金属，过热化后维持于稳定的等离子形态。<br><br>使用<span class=\"name name-technology\">太阳能射线</span>提取自<span class=\"name name-stellar\">金属地形矿床</span>。极具能量。",
+    "TraditionalChinese": "常規的星球金屬，加熱到超高溫後維持在穩定的電漿狀態。<br><br>使用<span class=\"name name-technology\">太陽射線</span>從金屬<span class=\"name name-stellar\">地形資源產地</span>萃取。富含大量能量。",
+    "USEnglish": "Conventional planetary metal, superheated and then held in a stabilized plasmatic form.<br><br>Extracted from metallic <span class=\"name name-stellar\">terrain deposits</span> using a <span class=\"name name-technology\">Solar Ray</span>. Enormously energetic."
+  },
+  "Colour": {
+    "R": 0.898039222,
+    "G": 0.564705908,
+    "B": 0.00392156886,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 1,
+    "G": 0.764705896,
+    "B": 0.337254912,
+    "A": 1
+  },
+  "BaseValue": 16,
+  "Category": "Special",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 9.6153849e-7,
+  "NormalisedValueOffWorld": 9.6153849e-7,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Liquid Sun",
+    "SimplifiedChinese": "收集液体太阳",
+    "TraditionalChinese": "收集液體太陽"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-stellar\">Liquid Sun</span> is superheated, stabilised planetary metal. Transmuted from metallic <span class=\"name name-stellar\">terrain deposits</span> using a <span class=\"name name-technology\">Solar Ray</span>.",
+    "SimplifiedChinese": "<span class=\"name name-stellar\">液体太阳</span>是一种稳定的超热行星金属，在金属<span class=\"name name-stellar\">地形矿床</span>使用<span class=\"name name-technology\">太阳能射线</span>转变而成。",
+    "TraditionalChinese": "<span class=\"name name-stellar\">液體太陽</span>為極熱且穩定的星球金屬。使用<span class=\"name name-technology\">太陽射線</span>即可從金屬<span class=\"name name-stellar\">地形資源產地</span>轉化。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Transmute <span class=\"name name-stellar\">Liquid Sun</span> from metallic <span class=\"name name-stellar\">terrain deposits</span> using a <span class=\"name name-technology\">Solar Ray</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">太阳能射线</span>将金属<span class=\"name name-stellar\">地形矿床</span>转变为<span class=\"name name-stellar\">液体太阳</span>",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">太陽射線</span>即可將金屬<span class=\"name name-stellar\">地形資源產地</span>轉化<span class=\"name name-stellar\">液體太陽</span>"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

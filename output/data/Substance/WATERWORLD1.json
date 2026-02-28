@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "LITHIUM",
+    "SimplifiedChinese": "锂",
+    "TraditionalChinese": "鋰"
+  },
+  "NameLower": {
+    "English": "Lithium",
+    "SimplifiedChinese": "锂",
+    "TraditionalChinese": "鋰"
+  },
+  "ID": "WATERWORLD1",
+  "Symbol": {
+    "English": "Li",
+    "SimplifiedChinese": "Li",
+    "TraditionalChinese": "Li"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.biome.waterworld.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Localised Earth Element",
+    "SimplifiedChinese": "地方性土元素",
+    "TraditionalChinese": "區域性大地元素",
+    "USEnglish": "Localized Earth Element"
+  },
+  "Description": {
+    "English": "Local metallic extract, typically found in large deposits or harvested from common mineral formations after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Typically found on <span class=\"name name-technology\">ocean planets</span>.",
+    "SimplifiedChinese": "通常可在大型资源中发现，或是使用<span class=\"name name-technology\">分析面甲</span>检查后从常见矿物点中采集的局部金属元素。<br><br>常见于<span class=\"name name-technology\">海洋行星</span>。",
+    "TraditionalChinese": "當地金屬萃取物，常見於大型資源產地，也可用<span class=\"name name-technology\">分析護目鏡</span>探測常見礦物岩層採集。<br><br>常見於<span class=\"name name-technology\">海洋星球</span>。"
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "BaseValue": 72,
+  "Category": "Earth",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 5,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000455128247,
+  "NormalisedValueOffWorld": 0.00000455128247,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Lithium",
+    "SimplifiedChinese": "收集或精炼锂",
+    "TraditionalChinese": "收集或精製鋰"
+  },
+  "PinObjectiveTip": {
+    "English": "Lithium is typically found in large deposits or harvested from common mineral formations after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Locate such deposits on <span class=\"name name-technology\">ocean planets</span>.",
+    "SimplifiedChinese": "锂元素通常可在大型资源中发现，或是使用<span class=\"name name-technology\">分析面甲</span>检查后从常见矿物点中采集的局部金属元素。<br><br>在<span class=\"name name-technology\">海洋行星</span>上寻找锂资源点。",
+    "TraditionalChinese": "鋰常見於大型資源產地，也可用<span class=\"name name-technology\">分析護目鏡</span>探測常見礦物岩層採集。<br><br>在<span class=\"name name-technology\">海洋星球</span>上找到鋰資源產地。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Use the <span class=\"name name-technology\">Analysis Visor</span> to locate <span class=\"name name-earth\">Lithium</span> deposits<br>Lithium is found on <span class=\"name name-technology\">water worlds</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">分析面甲</span>定位<span class=\"name name-earth\">锂</span>资源点<br>锂常见于<span class=\"name name-technology\">水体行星</span>",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">分析護目鏡</span>找到<span class=\"name name-earth\">鋰</span>資源產地<br>鋰可見於<span class=\"name name-technology\">水世界</span>"
+  },
+  "PinObjectiveScannableType": "Terrain",
+  "WikiMissionID": "WIKI_WWORLD1",
+  "OnlyFoundInPurpleSytems": true,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

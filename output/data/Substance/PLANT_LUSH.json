@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "STAR BULB",
+    "SimplifiedChinese": "星辰朵",
+    "TraditionalChinese": "星球莖"
+  },
+  "NameLower": {
+    "English": "Star Bulb",
+    "SimplifiedChinese": "星辰朵",
+    "TraditionalChinese": "星球莖"
+  },
+  "ID": "PLANT_LUSH",
+  "Symbol": {
+    "English": "Sb",
+    "SimplifiedChinese": "Sb",
+    "TencentChinese": "辰",
+    "TraditionalChinese": "Sb"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.plant.lush.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Harvested Agricultural Substance",
+    "SimplifiedChinese": "已收割农业物质",
+    "TraditionalChinese": "農作收成"
+  },
+  "Description": {
+    "English": "A beautiful gemstone, this prized product is the engorged, luminescent berry of the <span class=\"name name-tradeable\">Star Bramble</span>.<br><br>The host plant requires <span class=\"name name-tradeable\">lush conditions</span> to thrive in the wild, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
+    "SimplifiedChinese": "一颗美丽的宝石，它是<span class=\"name name-tradeable\">星辰灌木</span>珍贵又发光的果实。<br><br>宿主植物需要在<span class=\"name name-tradeable\">繁茂条件</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境生存。",
+    "TraditionalChinese": "這種價格高昂的漂亮寶石，是<span class=\"name name-tradeable\">星刺灌木</span>飽滿發光的果實。<br><br>這種寄主植物需要<span class=\"name name-tradeable\">茂盛環境</span>才能在野外生長，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
+  },
+  "Colour": {
+    "R": 0.125490203,
+    "G": 0.552941203,
+    "B": 0.670588255,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.607843161,
+    "G": 0.823529422,
+    "B": 0.835294127,
+    "A": 1
+  },
+  "BaseValue": 32,
+  "Category": "Flora",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000198717953,
+  "NormalisedValueOffWorld": 0.00000198717953,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Star Bulb",
+    "SimplifiedChinese": "收集星辰朵",
+    "TraditionalChinese": "收集星球莖"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">Star Bulbs</span> are harvested from the engorged, luminescent berry of the <span class=\"name name-tradeable\">Star Bramble</span>.<br>The host plant grows wild in a <span class=\"name name-tradeable\">lush climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
+    "SimplifiedChinese": "<span class=\"name name-tradeable\">星辰朵</span>能从<span class=\"name name-tradeable\">星辰灌木</span>上的饱满发光的浆果中采集到。<br>其宿主植物需要在<span class=\"name name-tradeable\">茂盛条件</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">星球莖</span>是從<span class=\"name name-tradeable\">星刺灌木</span>飽滿發光的果實採收而來。<br>宿主植物野生生長於<span class=\"name name-tradeable\">茂盛氣候</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest from the engorged, luminescent berry of the <span class=\"name name-tradeable\">Star Bramble</span>, which grows wild in a <span class=\"name name-tradeable\">lush climate</span><br>This plant can be farmed within a <span class=\"name name-commodity\">base</span> with the aid of an <span class=\"name name-tradeable\">Agricultural Specialist</span>",
+    "SimplifiedChinese": "采集自<span class=\"name name-tradeable\">繁茂气候</span>中的野生<span class=\"name name-tradeable\">星辰灌木</span>的硕大发光果实<br>可以在<span class=\"name name-commodity\">农业专家</span>的帮助下于<span class=\"name name-tradeable\">基地</span>中种植这种植物",
+    "TraditionalChinese": "採收自<span class=\"name name-tradeable\">星刺灌木</span>飽滿發光的果實，其生長於<span class=\"name name-tradeable\">茂盛氣候</span>的野生環境<br>借助<span class=\"name name-tradeable\">農業專家</span>的力量即可在<span class=\"name name-commodity\">基地</span>種植這種植物"
+  },
+  "PinObjectiveScannableType": "HarvestPlant",
+  "WikiMissionID": "WIKI_PLANT_LUSH",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": true,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

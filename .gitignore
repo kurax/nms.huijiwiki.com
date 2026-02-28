@@ -11,6 +11,6 @@
 #.pnp.*
 
 .env
-data/
 node_modules/
-tools/
+/data
+/tools

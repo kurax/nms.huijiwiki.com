@@ -1,0 +1,85 @@
+{
+  "Name": {
+    "English": "MORDITE",
+    "SimplifiedChinese": "腐藤",
+    "TraditionalChinese": "歿鹽"
+  },
+  "NameLower": {
+    "English": "Mordite",
+    "SimplifiedChinese": "腐藤",
+    "TraditionalChinese": "歿鹽"
+  },
+  "ID": "CREATURE1",
+  "Symbol": {
+    "English": "Mo",
+    "SimplifiedChinese": "Mo",
+    "TencentChinese": "腐",
+    "TraditionalChinese": "Mo"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.creature.1.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Harvested Substance",
+    "SimplifiedChinese": "收获的物质",
+    "TraditionalChinese": "採收物質"
+  },
+  "Description": {
+    "English": "Despite much study, little is known about this haunting, crystalline compound.<br><br>It is released from the cadavers of dying creatures, but can also be specifically <span class=\"name name-tradeable\">cultivated</span> and harvested from the <span class=\"name name-special\">Mordite Root</span> plant.",
+    "SimplifiedChinese": "尽管进行了大量研究，但人们对这种令人不安的晶状化合物知之甚少。<br><br>它是从生物尸体中释放出来的，但也可以通过专门种植<span class=\"name name-special\">腐藤根</span>从中<span class=\"name name-tradeable\">收获</span>。",
+    "TencentChinese": "尽管进行了大量研究，但人们对这种令人不安的晶状化合物知之甚少。<br><br>它是从生物遗骸中释放出来的，但也可以通过专门种植<span class=\"name name-special\">腐藤根</span>从中<span class=\"name name-tradeable\">收获</span>。",
+    "TraditionalChinese": "即便已有大量研究，目前對這種味道濃烈的結晶化合物，了解仍十分有限。<br><br>會從死去生物的屍體釋出，不過<span class=\"name name-tradeable\">栽種</span><span class=\"name name-special\">歿鹽根</span>植物也可以採收到這種物質。"
+  },
+  "Colour": {
+    "R": 0.31764707,
+    "G": 0.152941182,
+    "B": 0.254901975,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.713725507,
+    "G": 0.349019617,
+    "B": 0.572549045,
+    "A": 1
+  },
+  "BaseValue": 40,
+  "Category": "Earth",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000250000016,
+  "NormalisedValueOffWorld": 0.00000250000016,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Mordite",
+    "SimplifiedChinese": "收集腐藤",
+    "TraditionalChinese": "收集歿鹽"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-special\">Mordite</span> is a gelatinous organic material harvested from the corpses of living beings. Extraction involves the death of the organism.<br>It is possible to grow mordite given the right environment and correct host plant. Seek advice from an <span class=\"name name-tradeable\">Agricultural Specialist</span>.",
+    "SimplifiedChinese": "<span class=\"name name-special\">腐藤</span>是从生物尸体上收获的凝胶状有机材料。提取将导致有机体死亡。<br>可以通过在适当的环境下种植相应的植物来培养腐藤。请向<span class=\"name name-tradeable\">农业专家</span>询问建议。",
+    "TencentChinese": "<span class=\"name name-special\">腐藤</span>是从生物遗骸上收获的凝胶状有机材料。提取将导致有机体死亡。<br>可以通过在适当的环境下种植相应的植物来培养腐藤。请向<span class=\"name name-tradeable\">农业专家</span>询问建议。",
+    "TraditionalChinese": "<span class=\"name name-special\">歿鹽</span>是從生物的屍體採收的膠質有機材料。採收會導致生物體死亡。<br>有對的環境和合適的宿主植物是可種植歿鹽。尋求<span class=\"name name-tradeable\">農業專家</span>的建議。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest <span class=\"name name-special\">Mordite</span> from the corpses of planetary fauna. Extraction involves the death of the organism.<br>Grow mordite within a <span class=\"name name-commodity\">base</span> with the aid of an <span class=\"name name-tradeable\">Agricultural Specialist</span>",
+    "SimplifiedChinese": "从星球上的动物群系残骸中收获<span class=\"name name-special\">腐藤</span>。提取这种资源将导致有机体死亡。<br>在<span class=\"name name-tradeable\">农业专家</span>的帮助下于<span class=\"name name-commodity\">基地</span>中培养腐藤",
+    "TraditionalChinese": "<span class=\"name name-special\">歿鹽</span>可從星球動物的屍體採集。生物體死亡才能抽取。<br>借助<span class=\"name name-tradeable\">農業專家</span>的力量，在<span class=\"name name-commodity\">基地</span>培植歿鹽"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_CREATURE1",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": true,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

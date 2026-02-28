@@ -1,0 +1,74 @@
+{
+  "Name": {
+    "English": "GEK",
+    "SimplifiedChinese": "吉克",
+    "TraditionalChinese": "吉客族"
+  },
+  "NameLower": {
+    "English": "GEK",
+    "SimplifiedChinese": "吉克",
+    "TraditionalChinese": "吉客族"
+  },
+  "ID": "TRA_STANDING_DN",
+  "Symbol": {
+    "English": "-",
+    "SimplifiedChinese": "-",
+    "TraditionalChinese": "-"
+  },
+  "Icon": "ui/frontend/missions/missionfaction.gek.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Reward Item",
+    "SimplifiedChinese": "奖励物品",
+    "TraditionalChinese": "獎勵道具"
+  },
+  "Description": {
+    "English": "Currency or faction standing, given as a reward.",
+    "SimplifiedChinese": "作为奖励给予的货币或派别声望。",
+    "TraditionalChinese": "貨幣或陣營聲望獎勵。"
+  },
+  "Colour": {
+    "R": 0.482352942,
+    "G": 0,
+    "B": 0,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.815686285,
+    "G": 0.117647059,
+    "B": 0.117647059,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 4,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0.25,
+    "HighPriceMod": 0.5,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000169871805,
+  "NormalisedValueOffWorld": 0.00000169871805,
+  "TradeCategory": "None",
+  "WikiEnabled": false,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find GEK",
+    "SimplifiedChinese": "寻找吉克",
+    "TraditionalChinese": "找出吉客族"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

@@ -1,0 +1,85 @@
+{
+  "Name": {
+    "English": "RADON",
+    "SimplifiedChinese": "氡",
+    "TraditionalChinese": "氡"
+  },
+  "NameLower": {
+    "English": "Radon",
+    "SimplifiedChinese": "氡",
+    "TraditionalChinese": "氡"
+  },
+  "ID": "GAS2",
+  "Symbol": {
+    "English": "Rn",
+    "SimplifiedChinese": "Rn",
+    "TencentChinese": "氡",
+    "TraditionalChinese": "Rn"
+  },
+  "Icon": "ui/frontend/icons/update3/gas.2.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Compressed Atmospheric Gas",
+    "SimplifiedChinese": "压缩大气气体",
+    "TraditionalChinese": "大氣壓縮氣體"
+  },
+  "Description": {
+    "English": "A colourless, odourless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br><br>Found in both <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> atmospheres, this gas is produced by the decay of other high-energy elements.",
+    "SimplifiedChinese": "一种无色无味的<span class=\"name name-tradeable\">气体</span>，半衰期相对较短。 <br><br>这种气体可同时在<span class=\"name name-commodity\">辐射</span>和<span class=\"name name-technology\">冰冻</span> 大气中找到，并且是由其他高能元素衰败产生的。",
+    "TraditionalChinese": "無色無味的<span class=\"name name-tradeable\">氣體</span>，半衰期相對較短。 <br><br>這種氣體是由其他高能量元素衰變而成，可在<span class=\"name name-commodity\">輻射</span>與<span class=\"name name-technology\">冰凍</span>的大氣中找到。",
+    "USEnglish": "A colorless, odorless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br><br>Found in both <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> atmospheres, this gas is produced by the decay of other high-energy elements."
+  },
+  "Colour": {
+    "R": 0.298039228,
+    "G": 0.215686277,
+    "B": 0.501960814,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.298039228,
+    "G": 0.215686277,
+    "B": 0.501960814,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Earth",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000121794881,
+  "NormalisedValueOffWorld": 0.00000121794881,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Process Radon",
+    "SimplifiedChinese": "处理氡",
+    "TraditionalChinese": "加工氡"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">Radon</span> is a colourless, odourless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the atmospheres of <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> planets.",
+    "SimplifiedChinese": "<span class=\"name name-tradeable\">氡</span>是一种无色无味的<span class=\"name name-tradeable\">气体</span>，其半衰期相对较短。<br>可以使用<span class=\"name name-technology\">大气采集器</span>，从<span class=\"name name-commodity\">辐射</span>和<span class=\"name name-technology\">冰冻</span>星球上的大气中将气体提取出来。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">氡</span>是無色無味的<span class=\"name name-tradeable\">氣體</span>半衰期相對較短。<br>若借助<span class=\"name name-technology\">大氣採集器</span>，可從<span class=\"name name-commodity\">輻射</span>和<span class=\"name name-technology\">結冰</span>星球的大氣層中萃取到。",
+    "USEnglish": "<span class=\"name name-tradeable\">Radon</span> is a colorless, odorless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the atmospheres of <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> planets."
+  },
+  "PinObjectiveMessage": {
+    "English": "Deploy an <span class=\"name name-technology\">Atmosphere Harvester</span> on <span class=\"name name-commodity\">radioactive</span> or <span class=\"name name-technology\">frozen</span> worlds",
+    "SimplifiedChinese": "在<span class=\"name name-commodity\">放射性</span>或<span class=\"name name-technology\">冰冻</span>星球部署一台<span class=\"name name-technology\">大气收集器</span>",
+    "TraditionalChinese": "在<span class=\"name name-commodity\">輻射</span>或<span class=\"name name-technology\">冰寒</span>世界部署<span class=\"name name-technology\">大氣採集器</span>"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_GAS2",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

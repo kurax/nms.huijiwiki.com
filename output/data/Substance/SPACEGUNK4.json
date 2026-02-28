@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "LIVING SLIME",
+    "SimplifiedChinese": "活体黏质",
+    "TraditionalChinese": "活軟泥"
+  },
+  "NameLower": {
+    "English": "Living Slime",
+    "SimplifiedChinese": "活体黏质",
+    "TraditionalChinese": "活軟泥"
+  },
+  "ID": "SPACEGUNK4",
+  "Symbol": {
+    "English": "Jn",
+    "SimplifiedChinese": "Jn",
+    "TencentChinese": "垃",
+    "TraditionalChinese": "Jn"
+  },
+  "Icon": "ui/frontend/icons/update3/spacegunk.4.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Junk",
+    "SimplifiedChinese": "垃圾",
+    "TraditionalChinese": "垃圾"
+  },
+  "Description": {
+    "English": "A heavy, oozing slime. It is moving gently, as if it has a heartbeat of its own.<br><br>Nutrient source: <span class=\"name name-fuel\">unknown</span>.",
+    "SimplifiedChinese": "一种渗出的浓稠黏液。它缓慢地移动，仿佛里面有一颗跳动的心。<br><br>营养源：<span class=\"name name-fuel\">未知</span>。",
+    "TraditionalChinese": "一團笨重黏呼呼的軟泥。會緩慢移動，彷彿有自己的心跳。<br><br>養分來源：<span class=\"name name-fuel\">不明</span>。"
+  },
+  "Colour": {
+    "R": 0.356862754,
+    "G": 0.435294122,
+    "B": 0.20784314,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.588235319,
+    "G": 0.713725507,
+    "B": 0.349019617,
+    "A": 1
+  },
+  "BaseValue": 20,
+  "Category": "Special",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000121794881,
+  "NormalisedValueOffWorld": 0.00000121794881,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Living Slime",
+    "SimplifiedChinese": "收集或精炼活体黏质",
+    "TraditionalChinese": "收集或精製活軟泥"
+  },
+  "PinObjectiveTip": {
+    "English": "Locate <span class=\"name name-special\">Living Slime</span> in neglected corners of the universe, or attempt creation of your own pulsating goo by processing <span class=\"name name-special\">Atlantideum</span> and <span class=\"name name-stellar\">Mordite</span> with a <span class=\"name name-technology\">Medium</span> or <span class=\"name name-technology\">Large Refiner</span>.",
+    "SimplifiedChinese": "在宇宙的偏僻角落定位<span class=\"name name-special\">活体黏质</span>，或者尝试使用<span class=\"name name-technology\">中型</span>或<span class=\"name name-technology\">大型精炼机</span>加工<span class=\"name name-special\">亚特拉迪姆</span>以及<span class=\"name name-stellar\">腐藤</span>来自己生产不停搏动的粘液。",
+    "TraditionalChinese": "在太空中受忽略的角落找到<span class=\"name name-special\">活軟泥</span>，或嘗試用<span class=\"name name-technology\">中型</span>或<span class=\"name name-technology\">大型精製機</span>將<span class=\"name name-special\">亞特蘭提德鋼</span>與<span class=\"name name-stellar\">歿鹽</span>一起處理，製作自己的脈動黏液。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Process <span class=\"name name-special\">Atlantideum</span> and <span class=\"name name-stellar\">Mordite</span> with a <span class=\"name name-technology\">Medium</span> or <span class=\"name name-technology\">Large Refiner</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">中型</span>或<span class=\"name name-technology\">大型精炼机</span>加工<span class=\"name name-special\">亚特拉迪姆</span>与<span class=\"name name-stellar\">腐藤</span>",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">中型</span>或<span class=\"name name-technology\">大型精製機</span>處理<span class=\"name name-special\">亞特蘭提德鋼</span>和<span class=\"name name-stellar\">歿鹽</span>"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

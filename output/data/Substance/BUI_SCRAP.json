@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "VOID MOTE",
+    "SimplifiedChinese": "虚空微粒",
+    "TraditionalChinese": "虛空微塵"
+  },
+  "NameLower": {
+    "English": "Void Mote",
+    "SimplifiedChinese": "虚空微粒",
+    "TraditionalChinese": "虛空微塵"
+  },
+  "ID": "BUI_SCRAP",
+  "Symbol": {
+    "English": "V",
+    "SimplifiedChinese": "V",
+    "TraditionalChinese": "V"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.buiscrap.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Essence of Atlantid",
+    "SimplifiedChinese": "阿特兰蒂精华",
+    "TraditionalChinese": "亞特蘭提德精華"
+  },
+  "Description": {
+    "English": "A purified drop of <span class=\"name name-special\">Atlantideum</span>, refined to its very essence. This precious material is acquired by earning favour with and assisting the <TRANS_BUI>Autophage<>.<br><br>Visit the <span class=\"name name-technology\">Autophage Synthesis Terminal</span> found at all Autophage camps to exchange Void Motes for <span class=\"name name-stellar\">unique customisation options</span>.",
+    "SimplifiedChinese": "一滴净化的<span class=\"name name-special\">亚特拉迪姆</span>，纯粹至极。这种珍贵材料可通过帮助<TRANS_BUI>自噬体<>并赢得其好感获得。<br><br>前往所有自噬体营地都有的<span class=\"name name-technology\">自噬体合成终端</span>，用虚空微粒交换<span class=\"name name-stellar\">独特的自定义选项</span>。",
+    "TraditionalChinese": "一滴純化的<span class=\"name name-special\">亞特蘭提德鋼</span>，精煉至極致的精華。協助<TRANS_BUI>自噬<>並贏得他們的青睞，即可獲得此珍貴材料。<br><br>前往所有自噬營地都可找到的<span class=\"name name-technology\">自噬合成終端站</span>，即可用虛空微塵交換<span class=\"name name-stellar\">獨特客製化選項</span>。",
+    "USEnglish": "A purified drop of <span class=\"name name-special\">Atlantideum</span>, refined to its very essence. This precious material is acquired by earning favor with and assisting the <TRANS_BUI>Autophage<>.<br><br>Visit the <span class=\"name name-technology\">Autophage Synthesis Terminal</span> found at all Autophage camps to exchange Void Motes for <span class=\"name name-stellar\">unique customisation options</span>."
+  },
+  "Colour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "BaseValue": 380,
+  "Category": "Special",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.0000418589771,
+  "NormalisedValueOffWorld": 0.0000418589771,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Void Mote",
+    "SimplifiedChinese": "收集虚空微粒",
+    "TraditionalChinese": "收集虛空微塵"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-earth\">Tainted Metal</span> is an unusually soft and porous metal, found in the wrecks of derelict freighters.<br><br>Locate derelicts with the use of an <span class=\"name name-technology\">Emergency Signal Scanner</span>, purchaseable from a Space Station <span class=\"name name-special\">Scrap Dealer</span>.",
+    "SimplifiedChinese": "<span class=\"name name-earth\">污染的金属</span>是一种异常柔软的多孔金属，发现于荒废货船的残骸中。<br><br>使用从空间站<span class=\"name name-special\">废品收购者</span>处购买的<span class=\"name name-technology\">紧急信号扫描仪</span>定位荒废的货船。",
+    "TraditionalChinese": "<span class=\"name name-earth\">遭汙染的金屬</span>是一種異常柔軟且多孔洞的金屬，可在廢棄貨船的殘骸中找到。<br><br>使用<span class=\"name name-technology\">緊急訊號掃描器</span>找到棄船，接收器可向太空站上的<span class=\"name name-special\">廢料商人</span>購買。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Find <span class=\"name name-earth\">Tainted Metal</span> in the wrecks of deep-space derelict freighters<br>Locate derelicts with an <span class=\"name name-technology\">Emergency Signal Scanner</span>",
+    "SimplifiedChinese": "在位于深空的荒废货船中寻找<span class=\"name name-earth\">污染的金属</span><br>使用<span class=\"name name-technology\">紧急信号扫描仪</span>定位太空残骸",
+    "TraditionalChinese": "在深空廢棄貨船的殘骸中找到<span class=\"name name-earth\">遭汙染的金屬</span><br>使用<span class=\"name name-technology\">緊急訊號掃描器</span>找到棄船"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}

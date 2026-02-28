@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "KELP SAC",
+    "SimplifiedChinese": "海藻袋",
+    "TraditionalChinese": "巨藻囊"
+  },
+  "NameLower": {
+    "English": "Kelp Sac",
+    "SimplifiedChinese": "海藻袋",
+    "TraditionalChinese": "巨藻囊"
+  },
+  "ID": "PLANT_WATER",
+  "Symbol": {
+    "English": "Ke",
+    "SimplifiedChinese": "Ke",
+    "TencentChinese": "藻袋",
+    "TraditionalChinese": "Ke"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.plant.water.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Harvested Agricultural Substance",
+    "SimplifiedChinese": "已收割农业物质",
+    "TraditionalChinese": "農作收成"
+  },
+  "Description": {
+    "English": "A rubbery, luminescent sac harvested from <span class=\"name name-technology\">underwater</span> <span class=\"name name-tradeable\">Candle Kelp</span> plants.<br><br>Agricultural science has not yet tamed the Candle Kelp. As such, these sacs cannot be farmed.",
+    "SimplifiedChinese": "一种弹性冷光液囊，可从<span class=\"name name-technology\">水下</span><span class=\"name name-tradeable\">烛光藻</span>植物中收获。<br><br>农业科学目前还未培育烛光藻。同样，这些液囊也无法种植。",
+    "TraditionalChinese": "自<span class=\"name name-technology\">水底</span><span class=\"name name-tradeable\">蠟燭巨藻</span>植物上取得的彈性發光囊袋。<br><br>以目前的農業科學技術，還無法人工栽種蠟燭巨藻。因此，這種囊袋無法透過耕種取得。"
+  },
+  "Colour": {
+    "R": 0,
+    "G": 0.360784322,
+    "B": 0.513725519,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.349019617,
+    "G": 0.607843161,
+    "B": 0.713725507,
+    "A": 1
+  },
+  "BaseValue": 41,
+  "Category": "Flora",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000256410272,
+  "NormalisedValueOffWorld": 0.00000256410272,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Kelp Sac",
+    "SimplifiedChinese": "收集海藻袋",
+    "TraditionalChinese": "收集巨藻囊"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">Kelp Sacs</span> are harvested from <span class=\"name name-technology\">underwater</span> <span class=\"name name-tradeable\">Candle Kelp</span> plants.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span>, or refill oxygen supplies in suit by consuming <span class=\"name name-tradeable\">Kelp Sacs</span> from the vine.",
+    "SimplifiedChinese": "<span class=\"name name-tradeable\">海藻袋</span>能从<span class=\"name name-technology\">水下</span>生长的<span class=\"name name-tradeable\">烛光藻</span>植物上采集到。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>或使用来自藤蔓的<span class=\"name name-tradeable\">海藻袋</span>重新补给氧气，以提高在海洋中的效率。",
+    "TraditionalChinese": "自<span class=\"name name-technology\">水底</span><span class=\"name name-tradeable\">蠟燭巨藻</span>植物上取得的<span class=\"name name-tradeable\">巨藻囊</span>。<br>透過強化套裝升級<span class=\"name name-technology\">曝氣黏膜</span>或透過<span class=\"name name-tradeable\">巨藻囊</span>藤部在強化套裝中補充氧氣來源以提升海洋效能。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest from <span class=\"name name-technology\">underwater</span> <span class=\"name name-tradeable\">Candle Kelp</span> plants",
+    "SimplifiedChinese": "采集自<span class=\"name name-technology\">水下</span>生长的<span class=\"name name-tradeable\">烛光藻</span>",
+    "TraditionalChinese": "採收自<span class=\"name name-technology\">水下</span><span class=\"name name-tradeable\">蠟燭巨藻</span>植物"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_PLANT_WET",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": true,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

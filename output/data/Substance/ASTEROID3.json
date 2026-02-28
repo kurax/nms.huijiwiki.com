@@ -1,0 +1,83 @@
+{
+  "Name": {
+    "English": "PLATINUM",
+    "SimplifiedChinese": "铂",
+    "TraditionalChinese": "鉑"
+  },
+  "NameLower": {
+    "English": "Platinum",
+    "SimplifiedChinese": "铂",
+    "TraditionalChinese": "鉑"
+  },
+  "ID": "ASTEROID3",
+  "Symbol": {
+    "English": "Pt",
+    "SimplifiedChinese": "Pt",
+    "TencentChinese": "铂",
+    "TraditionalChinese": "Pt"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.asteroid.3.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Valuable Asteroid Mineral",
+    "SimplifiedChinese": "宝贵的小行星矿物",
+    "TraditionalChinese": "珍貴小行星礦物"
+  },
+  "Description": {
+    "English": "Extremely valuable interstellar trading mineral, typically <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.<br><br>Universally prized for its hardiness and versatility.",
+    "SimplifiedChinese": "极其珍贵的星际交易矿物，通常<span class=\"name name-commodity\">采掘自小行星</span>。有时可在地下行星沉积物中发现。<br><br>因其抗性和通用性而广受赞誉。",
+    "TraditionalChinese": "極度珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。<br><br>硬度高而用途廣，因而廣受珍視。"
+  },
+  "Colour": {
+    "R": 0.313725501,
+    "G": 0.458823532,
+    "B": 0.458823532,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.313725501,
+    "G": 0.458823532,
+    "B": 0.458823532,
+    "A": 1
+  },
+  "BaseValue": 505,
+  "Category": "Exotic",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 3,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.0000323076929,
+  "NormalisedValueOffWorld": 0.0000323076929,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Platinum",
+    "SimplifiedChinese": "收集或精炼铂",
+    "TraditionalChinese": "收集或精製鉑"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-earth\">Platinum</span> is a rare interstellar trading mineral, <span class=\"name name-commodity\">mined from asteroids</span>. Very occasionally found in underground planetary deposits.",
+    "SimplifiedChinese": "<span class=\"name name-earth\">铂</span>是一种宝贵的星际贸易矿物质，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。",
+    "TraditionalChinese": "<span class=\"name name-earth\">鉑</span>是罕見的星際交易礦物，<span class=\"name name-commodity\">從小行星開採而來</span>。偶爾才會在星球地底資源產地找到。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Mine platinum from <span class=\"name name-commodity\">asteroids</span> while piloting the starship (<span class=\"name name-img\">SHIPFIRE</span>)<br>Platinum is rare in most asteroid fields",
+    "SimplifiedChinese": "驾驶飞船（<span class=\"name name-img\">SHIPFIRE</span>）开采<span class=\"name name-commodity\">小行星</span>中的铂<br>铂在绝大多数小行星带中都很稀有",
+    "TraditionalChinese": "駕駛太空船 (<span class=\"name name-img\">SHIPFIRE</span>)，從<span class=\"name name-commodity\">小行星</span>開採鉑礦 <br>鉑礦在大部分的小行星帶中都相當罕見"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "WIKI_ASTEROID3",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": true,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

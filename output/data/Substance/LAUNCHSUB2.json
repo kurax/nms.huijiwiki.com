@@ -1,0 +1,85 @@
+{
+  "Name": {
+    "English": "DEUTERIUM",
+    "SimplifiedChinese": "氘",
+    "TraditionalChinese": "氘"
+  },
+  "NameLower": {
+    "English": "Deuterium",
+    "SimplifiedChinese": "氘",
+    "TraditionalChinese": "氘"
+  },
+  "ID": "LAUNCHSUB2",
+  "Symbol": {
+    "English": "D",
+    "SimplifiedChinese": "D",
+    "TencentChinese": "氘",
+    "TraditionalChinese": "D"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.launchsub.2.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "High Energy Substance",
+    "SimplifiedChinese": "高能物质",
+    "TraditionalChinese": "高能量物質"
+  },
+  "Description": {
+    "English": "A stable hydrogen isotope used heavily in both small-scale fusion reactors and neutron-scattering shield technology.<br><br>Deuterium very rarely occurs naturally. Most of the galaxy's supply comes from the processing of <span class=\"name name-technology\">Di-hydrogen</span> and <span class=\"name name-technology\">Tritium</span> in <span class=\"name name-technology\">Refiners</span>.",
+    "SimplifiedChinese": "一种稳定的氢同位素，在小型核聚变反应堆和中子散射屏障技术中大量应用。<br><br>氘在自然条件下很少存在，因而星系内的大部分供给储备是来自于<span class=\"name name-technology\">精炼机</span>对<span class=\"name name-technology\">二氢</span>和<span class=\"name name-technology\">氚</span>的加工。",
+    "TencentChinese": "一种稳定的氢同位素，在小型核聚变反应堆和中子散射屏障技术中大量的应用。<br><br>氘在自然条件下很少存在。星系内的大部分供应来自于<span class=\"name name-technology\">精炼机</span>加工<span class=\"name name-technology\">二氢</span>的过程中。",
+    "TraditionalChinese": "一種穩定的氫同位素，小規模的融合反應器及中子散彈防護罩科技都會大量運用到氘。<br><br>氘幾乎不會在自然界出現。銀河系中氘的來源大多都是使用<span class=\"name name-technology\">精製機</span>加工處理<span class=\"name name-technology\">二氫</span>及<span class=\"name name-technology\">氚</span>而成。"
+  },
+  "Colour": {
+    "R": 0.20784314,
+    "G": 0.352941185,
+    "B": 0.490196079,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.20784314,
+    "G": 0.352941185,
+    "B": 0.490196079,
+    "A": 1
+  },
+  "BaseValue": 34,
+  "Category": "Earth",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00000211538486,
+  "NormalisedValueOffWorld": 0.00000211538486,
+  "TradeCategory": "None",
+  "WikiEnabled": true,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Refine Deuterium",
+    "SimplifiedChinese": "精炼氘",
+    "TraditionalChinese": "精製氘"
+  },
+  "PinObjectiveTip": {
+    "English": "Create <span class=\"name name-technology\">Deuterium</span> by processing <span class=\"name name-technology\">Di-hydrogen</span> with <span class=\"name name-technology\">Tritium</span> or <span class=\"name name-earth\">Silicate Powder</span> in a <span class=\"name name-technology\">multi-input refiner</span>.",
+    "SimplifiedChinese": "在<span class=\"name name-technology\">多功能精炼机</span>中将<span class=\"name name-technology\">二氢</span>与<span class=\"name name-technology\">氚</span>或<span class=\"name name-earth\">硅酸盐粉末</span>一起进行加工以创造<span class=\"name name-technology\">氘</span>。",
+    "TencentChinese": "在<span class=\"name name-technology\">中型</span>或<span class=\"name name-technology\">大型精炼机</span>中处理<span class=\"name name-technology\">二氢</span>以制作<span class=\"name name-technology\">重氢</span>。<br>需要分两次放入二氢。",
+    "TraditionalChinese": "若要製作<span class=\"name name-technology\">氘</span>，需將<span class=\"name name-technology\">二氫</span>和<span class=\"name name-technology\">氚</span>或<span class=\"name name-earth\">矽酸粉</span>放入<span class=\"name name-technology\">複合來源精製機</span>加工。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Process <span class=\"name name-technology\">Di-hydrogen</span> with <span class=\"name name-technology\">Tritium</span> or <span class=\"name name-earth\">Silicate Powder</span> in a <span class=\"name name-technology\">multi-input refiner</span><br>Obtain tritium from <span class=\"name name-stellar\">asteroids</span>, or silicate powder from <span class=\"name name-earth\">terrain extraction</span>",
+    "SimplifiedChinese": "在<span class=\"name name-technology\">多功能精炼机</span>中将<span class=\"name name-technology\">二氢</span>与<span class=\"name name-technology\">氚</span>或<span class=\"name name-earth\">硅酸盐粉末</span>一起进行加工<br>通过<span class=\"name name-stellar\">小行星</span>获取氚，或者通过<span class=\"name name-earth\">开采环境地形</span>获取硅酸盐粉末",
+    "TraditionalChinese": "在<span class=\"name name-technology\">複合來源精製機</span>放入<span class=\"name name-technology\">二氫</span>與<span class=\"name name-technology\">氚</span>或<span class=\"name name-earth\">矽酸粉</span>加工<br>可在<span class=\"name name-stellar\">小行星</span>取得氚，或透過<span class=\"name name-earth\">地形萃取</span>取得矽酸粉"
+  },
+  "PinObjectiveScannableType": "LaunchCrystals",
+  "WikiMissionID": "WIKI_LAUNCHSUB2",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": true
+}

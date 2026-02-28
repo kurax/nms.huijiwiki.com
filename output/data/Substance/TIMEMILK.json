@@ -1,0 +1,82 @@
+{
+  "Name": {
+    "English": "ANCESTRAL MEMORIES",
+    "SimplifiedChinese": "先祖记忆",
+    "TraditionalChinese": "祖傳記憶"
+  },
+  "NameLower": {
+    "English": "Ancestral Memories",
+    "SimplifiedChinese": "先祖记忆",
+    "TraditionalChinese": "祖傳記憶"
+  },
+  "ID": "TIMEMILK",
+  "Symbol": {
+    "English": "?",
+    "SimplifiedChinese": "？",
+    "TraditionalChinese": "？"
+  },
+  "Icon": "ui/frontend/icons/u4substances/substance.timemilk.png",
+  "[IGNORED]DebrisFile": null,
+  "Subtitle": {
+    "English": "Recessive Creature Genes",
+    "SimplifiedChinese": "隐性生物基因",
+    "TraditionalChinese": "隱性生物基因"
+  },
+  "Description": {
+    "English": "The echo of a genetic possibility, forgotten by evolution. It twitches with a wild energy.<br><br>Extracted from a creature caught within a repeating circuit of time. Of great value to <span class=\"name name-special\">Specialist Polo</span> as they <span class=\"name name-stellar\">research the loop</span>.",
+    "SimplifiedChinese": "一种潜在基因的回音，被进化所遗忘，内含一种野生能量。<br><br>从一个重复的时间循环内的生物中提取，对<span class=\"name name-special\">保罗专家</span>的<span class=\"name name-stellar\">循环研究</span>有极大价值。",
+    "TraditionalChinese": "基因可能性的回音，被演化所遺忘。它以一股狂野能量抽動著。<br><br>從受困於重複時間迴圈的生物中萃取而出。對正在<span class=\"name name-stellar\">研究迴圈</span>的<span class=\"name name-special\">專家波羅</span>有莫大的價值。"
+  },
+  "Colour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "WorldColour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "BaseValue": 1616,
+  "Category": "Special",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.25,
+    "BuyMarkupMod": 0
+  },
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiEnabled": false,
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Ancestral Memories",
+    "SimplifiedChinese": "收集先祖记忆",
+    "TraditionalChinese": "收集祖傳記憶"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-stellar\">Ancestral Memories</span> are echoes of genetic possibilities, forgotten by evolution.<br><br>Harvest <span class=\"name name-stellar\">Ancestral Memories</span> from friendly creatures caught within the loop. Befriend creatures by feeding them Creature Pellets.",
+    "SimplifiedChinese": "<span class=\"name name-stellar\">先祖记忆</span>是一种潜在基因的回音，被进化所遗忘。<br><br>从被循环捕获的友好生物中提取<span class=\"name name-stellar\">先祖记忆</span>。给动物喂生物颗粒从而与它们变得亲近友好。",
+    "TraditionalChinese": "<span class=\"name name-stellar\">祖傳記憶</span>為被演化所遺忘的基因可能性回音。<br><br>你可從受困於迴圈的友善生物上採收<span class=\"name name-stellar\">祖傳記憶</span>。透過餵食生物顆粒飼料即可與生物交朋友。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Harvest <span class=\"name name-stellar\">Ancestral Memories</span> from friendly creatures caught within the loop",
+    "SimplifiedChinese": "从陷入循环的友好生物身上采集<span class=\"name name-stellar\">先祖记忆</span>",
+    "TraditionalChinese": "從受困於迴圈的友善生物上採集<span class=\"name name-stellar\">祖傳記憶</span>"
+  },
+  "PinObjectiveScannableType": "None",
+  "WikiMissionID": "",
+  "OnlyFoundInPurpleSytems": false,
+  "CookingIngredient": false,
+  "GoodForSelling": false,
+  "EasyToRefine": false,
+  "EggModifierIngredient": false
+}
