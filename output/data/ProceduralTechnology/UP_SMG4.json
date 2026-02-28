@@ -1,0 +1,152 @@
+{
+  "ID": "UP_SMG4",
+  "Template": "T_SMG",
+  "Group": {
+    "English": "Pulse Spitter",
+    "SimplifiedChinese": "脉冲喷射器",
+    "TraditionalChinese": "脈衝槍"
+  },
+  "Name": {
+    "English": [
+      [
+        "Gamma Ray",
+        "X-Ray",
+        "Cosmic Beam",
+        "Positron",
+        "Tritium"
+      ],
+      [
+        "Excitor",
+        "Amplifier",
+        "Accelerator",
+        "Injector",
+        "Solidifier",
+        "Resonator",
+        "Battery",
+        "Energiser",
+        "Capture Cell",
+        "Projector"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "伽马射线",
+        "X 射线",
+        "宇宙光束",
+        "正电子",
+        "氚"
+      ],
+      [
+        "激发器",
+        "放大器",
+        "加速器",
+        "注射器",
+        "固化器",
+        "共振器",
+        "电池",
+        "活化器",
+        "捕获电池",
+        "投影仪"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "伽瑪射線",
+        "X 射線",
+        "宇宙光束",
+        "正電子",
+        "氚"
+      ],
+      [
+        "激發器",
+        "放大器",
+        "加速器",
+        "注射器",
+        "固化器",
+        "共振器",
+        "電池",
+        "活化器",
+        "捕獲單元",
+        "投影儀"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Energizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Pulse Spitter",
+    "SimplifiedChinese": "脉冲喷射器",
+    "TraditionalChinese": "脈衝槍"
+  },
+  "Subtitle": {
+    "English": "S-Class Pulse Spitter Upgrade",
+    "SimplifiedChinese": "S 级脉冲喷射器升级",
+    "TencentChinese": "高级脉冲喷射器升级",
+    "TraditionalChinese": "S 級脈衝槍升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Pulse Spitter</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential upgrades include: <span class=\"name name-stellar\">damage output</span>, <span class=\"name name-stellar\">reload times</span>, <span class=\"name name-stellar\">clip size</span> and <span class=\"name name-stellar\">firing rate</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">脉冲喷射器</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">伤害输出</span>、<span class=\"name name-stellar\">装弹时间</span>、<span class=\"name name-stellar\">弹匣容量</span>和<span class=\"name name-stellar\">射速</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">脉冲喷射器</span>的<span class=\"name name-commodity\">至强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>本区域时空扭曲会显著提升<span class=\"name name-stellar\">弹匣容量</span>和<span class=\"name name-stellar\">射速</span>，并缩短<span class=\"name name-stellar\">装弹时间</span>。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">脈衝槍</span>的<span class=\"name name-technology\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害輸出</span>、<span class=\"name name-stellar\">彈藥裝填時間</span>、<span class=\"name name-stellar\">彈匣尺寸</span>和<span class=\"name name-stellar\">射擊速度</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 4,
+  "NumStatsMax": 4,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "ValueMin": 2,
+      "ValueMax": 3,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_Rate",
+      "ValueMin": 1.1,
+      "ValueMax": 1.15,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_ReloadTime",
+      "ValueMin": 0.9,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_ClipSize",
+      "ValueMin": 12,
+      "ValueMax": 12,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    }
+  ]
+}

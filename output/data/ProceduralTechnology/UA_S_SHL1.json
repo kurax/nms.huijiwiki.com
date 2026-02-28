@@ -1,0 +1,119 @@
+{
+  "ID": "UA_S_SHL1",
+  "Template": "A_SHIPSHLD",
+  "Group": {
+    "English": "Scream Suppressor",
+    "SimplifiedChinese": "尖叫抑制器",
+    "TraditionalChinese": "尖叫抑制器"
+  },
+  "Name": {
+    "English": [
+      [
+        "Scabby",
+        "Oozing",
+        "Blotchy",
+        "Juvenile",
+        "Flaking"
+      ],
+      [
+        "Scales",
+        "Teeth",
+        "Plating",
+        "Skin",
+        "Rind",
+        "Crust",
+        "Carapace",
+        "Husk",
+        "Bark",
+        "Shell",
+        "Cystolith"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "结痂的",
+        "渗漏的",
+        "斑点的",
+        "少年期的",
+        "剥落的"
+      ],
+      [
+        "缩放",
+        "牙齿",
+        "镀层",
+        "皮肤",
+        "外壳",
+        "壳",
+        "甲壳",
+        "外壳",
+        "树皮",
+        "贝壳",
+        "囊状岩"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "結痂",
+        "滿溢",
+        "斑點",
+        "少年期",
+        "剝落"
+      ],
+      [
+        "鱗片",
+        "牙齒",
+        "電鍍",
+        "皮膚",
+        "外皮",
+        "硬殼",
+        "軀殼",
+        "空殼",
+        "樹皮",
+        "殼",
+        "結石"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Scream Suppressor",
+    "SimplifiedChinese": "尖叫抑制器",
+    "TraditionalChinese": "尖叫抑制器"
+  },
+  "Subtitle": {
+    "English": "C-Class Scream Suppressor Node",
+    "SimplifiedChinese": "C级尖叫抑制器节点",
+    "TraditionalChinese": "C等尖叫抑制器節點"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the vessel's <span class=\"name name-technology\">pain suppression systems</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Significantly improves <span class=\"name name-stellar\">living ship strength</span> for increased combat endurance.",
+    "SimplifiedChinese": "对飞船<span class=\"name name-technology\">疼痛抑制系统</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可显著提升<span class=\"name name-stellar\">船体强度</span>来提升战斗时的耐久度。",
+    "TraditionalChinese": "太空船<span class=\"name name-technology\">疼痛抑制系統</span>的<span class=\"name name-tradeable\">一般</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>顯著提升<span class=\"name name-stellar\">活體太空船強度</span>以便增加戰鬥持久力。"
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Quality": "Normal",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 1,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Armour_Shield_Strength",
+      "ValueMin": 0.05,
+      "ValueMax": 0.1,
+      "WeightingCurve": "MaxIsSuperRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

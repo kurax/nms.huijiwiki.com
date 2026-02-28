@@ -1,0 +1,134 @@
+{
+  "ID": "UP_EXSUB1",
+  "Template": "T_SUB",
+  "Group": {
+    "English": "Humboldt Drive",
+    "SimplifiedChinese": "洪堡驱动器",
+    "TraditionalChinese": "洪保德驅動器"
+  },
+  "Name": {
+    "English": [
+      [
+        "Efficient",
+        "Alternate",
+        "Stabilised",
+        "Secondary",
+        "Reinforced"
+      ],
+      [
+        "Pelagic Cells",
+        "Reactor Housing",
+        "Mariana Panel",
+        "Marine Jets",
+        "Exhaust Vent",
+        "Turbine Controller",
+        "Ballast Unit",
+        "Bathyal Dynamo",
+        "Abyssal Shield",
+        "Turbine Intakes"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "高效的",
+        "替代的",
+        "稳定的",
+        "第二的",
+        "强化的"
+      ],
+      [
+        "深海电池",
+        "反应堆外壳",
+        "马里亚纳板",
+        "水下喷射器",
+        "排气口",
+        "涡轮控制器",
+        "压载装置",
+        "半深海发电机",
+        "深渊护盾",
+        "涡轮通风口"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "高效",
+        "替代",
+        "穩定",
+        "次要",
+        "強化"
+      ],
+      [
+        "遠洋細胞",
+        "反應器容器",
+        "海洋板",
+        "海洋噴射器",
+        "排氣孔",
+        "渦輪控制器",
+        "壓載零件",
+        "半身海發電機",
+        "深淵防護罩",
+        "渦輪進口"
+      ]
+    ],
+    "USEnglish": [
+      [
+        null,
+        null,
+        "Stabilized"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Humboldt Drive",
+    "SimplifiedChinese": "洪堡驱动器",
+    "TraditionalChinese": "洪保德驅動器"
+  },
+  "Subtitle": {
+    "English": "C-Class Humboldt Drive Upgrade",
+    "SimplifiedChinese": "C 级洪堡驱动器升级",
+    "TencentChinese": "低级洪堡驱动器升级",
+    "TraditionalChinese": "C 級洪保德驅動器升級"
+  },
+  "Description": "UP_EXO_SUB1_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Normal",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 1,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "ValueMin": 0.9,
+      "ValueMax": 0.99,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_EngineTopSpeed",
+      "ValueMin": 1.02,
+      "ValueMax": 1.04,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_SubBoostSpeed",
+      "ValueMin": 0.1,
+      "ValueMax": 0.15,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

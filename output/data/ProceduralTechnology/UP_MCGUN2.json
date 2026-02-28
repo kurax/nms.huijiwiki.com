@@ -1,0 +1,142 @@
+{
+  "ID": "UP_MCGUN2",
+  "Template": "T_MCGUN",
+  "Group": {
+    "English": "Minotaur Cannon",
+    "SimplifiedChinese": "弥诺陶洛斯大炮",
+    "TraditionalChinese": "彌諾陶洛斯大砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "Cadmium",
+        "Living Glass",
+        "Illegal",
+        "Supercharged",
+        "Vy'keen"
+      ],
+      [
+        "Accelerator",
+        "Mass Chamber",
+        "Injectors",
+        "Plating",
+        "Recycler",
+        "Core",
+        "Magnets",
+        "Generator Unit",
+        "Capacitors",
+        "Stabiliser"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "镉",
+        "活体玻璃",
+        "非法的",
+        "增压的",
+        "维吉恩"
+      ],
+      [
+        "加速器",
+        "质量舱",
+        "注射器",
+        "镀层",
+        "循环器",
+        "核心",
+        "磁铁",
+        "发电机单位",
+        "电容",
+        "稳定器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "鎘",
+        "活玻璃",
+        "違法",
+        "超載",
+        "維金族"
+      ],
+      [
+        "加速器",
+        "質量艙",
+        "注射器",
+        "電鍍",
+        "回收器",
+        "核心",
+        "磁鐵",
+        "發電機元件",
+        "電容器",
+        "固定器"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Stabilizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Minotaur Cannon",
+    "SimplifiedChinese": "弥诺陶洛斯大炮",
+    "TraditionalChinese": "彌諾陶洛斯大砲"
+  },
+  "Subtitle": {
+    "English": "B-Class Minotaur Cannon Upgrade",
+    "SimplifiedChinese": "B 级弥诺陶洛斯大炮升级",
+    "TencentChinese": "初级弥诺陶洛斯大炮升级",
+    "TraditionalChinese": "B 級彌諾陶洛斯大砲升級"
+  },
+  "Description": "UP_MCGUN2_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Rare",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 3,
+  "WeightingCurve": "MaxIsUncommon",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "ValueMin": 10,
+      "ValueMax": 20,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "ValueMin": 0.9,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "ValueMin": 0.95,
+      "ValueMax": 0.97,
+      "WeightingCurve": "MinIsRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

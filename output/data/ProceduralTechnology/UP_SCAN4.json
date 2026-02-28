@@ -1,0 +1,151 @@
+{
+  "ID": "UP_SCAN4",
+  "Template": "T_SCAN",
+  "Group": {
+    "English": "Analysis Visor",
+    "SimplifiedChinese": "分析面甲",
+    "TraditionalChinese": "分析護目鏡"
+  },
+  "Name": {
+    "English": [
+      [
+        "Vacuum",
+        "Holographic",
+        "Quantum",
+        "Non-causal",
+        "Memory"
+      ],
+      [
+        "Siphon",
+        "Analysis Unit",
+        "Computer",
+        "Processor",
+        "Detector",
+        "Scope",
+        "Visualiser",
+        "Prediction Unit",
+        "Probe",
+        "Sweep Ray"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "真空",
+        "全息",
+        "量子",
+        "非因果",
+        "存储器"
+      ],
+      [
+        "虹吸",
+        "分析单位",
+        "电脑",
+        "处理器",
+        "检测器",
+        "瞄准镜",
+        "视效器",
+        "预测货币",
+        "探针",
+        "扫描射线"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "真空的",
+        "全像的",
+        "量子",
+        "非因果",
+        "存儲器"
+      ],
+      [
+        "虹吸",
+        "分析單位",
+        "電腦",
+        "處理器",
+        "檢測器",
+        "瞄準鏡",
+        "視效器",
+        "預測貨幣",
+        "探針",
+        "掃描射線"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Visualizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Analysis Visor",
+    "SimplifiedChinese": "分析面甲",
+    "TraditionalChinese": "分析護目鏡"
+  },
+  "Subtitle": {
+    "English": "S-Class Analysis Visor Upgrade",
+    "SimplifiedChinese": "S 级分析面甲升级",
+    "TencentChinese": "高级分析面甲升级",
+    "TraditionalChinese": "S 級分析護目鏡升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Multi-Tool Scanning Systems</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential upgrades include: <span class=\"name name-stellar\">scan radius</span> and/or significantly increasing the <span class=\"name name-stellar\">value</span> of <span class=\"name name-technology\">discovery data</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">多用途工具扫描系统</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">扫描范围</span>和/或显著提升<span class=\"name name-technology\">探索数据</span>的<span class=\"name name-stellar\">价值</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">多用途工具扫描系统</span>的<span class=\"name name-commodity\">至强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>内部芯片升级，扩大<span class=\"name name-stellar\">扫描范围</span>，同时也显著提升<span class=\"name name-technology\">探索数据</span>的<span class=\"name name-stellar\">价值</span>。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">工具組掃描系統</span>的<span class=\"name name-technology\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">掃描半徑</span>和/或大幅提高<span class=\"name name-stellar\">發現資料</span>的<span class=\"name name-technology\">價值</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Scanning",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 4,
+  "WeightingCurve": "MaxIsUncommon",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Scan_Radius",
+      "ValueMin": 1.3,
+      "ValueMax": 1.4,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Creature",
+      "ValueMin": 65,
+      "ValueMax": 100,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Flora",
+      "ValueMin": 65,
+      "ValueMax": 100,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Scan_Discovery_Mineral",
+      "ValueMin": 65,
+      "ValueMax": 100,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "ID": "UP_CANN1",
+  "Template": "T_CANNON",
+  "Group": {
+    "English": "Neutron Cannon",
+    "SimplifiedChinese": "中子大炮",
+    "TraditionalChinese": "中子砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "Unstable",
+        "Replaced",
+        "Retrofitted",
+        "Backup",
+        "Bespoke"
+      ],
+      [
+        "Charge Canister",
+        "Plasma Unit",
+        "Compression Beam",
+        "Positron Deflector",
+        "Neutron Mirror",
+        "Antimatter Vent",
+        "Ion Shaper",
+        "Static Diffuser",
+        "Safety Override",
+        "Linearity Warp"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "不稳定",
+        "替换",
+        "翻新的",
+        "后备的",
+        "定制"
+      ],
+      [
+        "充能罐",
+        "等离子单元",
+        "压缩光束",
+        "正电子偏导器",
+        "中子镜",
+        "反物质排管道",
+        "离子塑形器",
+        "静电扩散器",
+        "安全性超控",
+        "线性扭曲"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "不穩",
+        "替代",
+        "翻新",
+        "備用",
+        "訂製"
+      ],
+      [
+        "充能罐",
+        "電漿組件",
+        "壓縮光束",
+        "正電子反射器",
+        "中子鏡",
+        "反物質通風孔",
+        "離子型塑器",
+        "靜電擴散器",
+        "安全覆寫",
+        "線性空間跳躍"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Neutron Cannon",
+    "SimplifiedChinese": "中子大炮",
+    "TraditionalChinese": "中子砲"
+  },
+  "Subtitle": {
+    "English": "C-Class Neutron Cannon Upgrade",
+    "SimplifiedChinese": "C 级中子大炮升级",
+    "TencentChinese": "低级中子大炮升级",
+    "TraditionalChinese": "C 級中子砲升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the <span class=\"name name-technology\">Neutron Cannon</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential upgrades include: <span class=\"name name-stellar\">projectile speed</span>, <span class=\"name name-stellar\">charge time</span>, <span class=\"name name-stellar\">weapon damage</span> and <span class=\"name name-stellar\">number of projectiles</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-tradeable\">中子大炮</span>的<span class=\"name name-technology\">普通</span>提升。按<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>潜在升级效果：<span class=\"name name-stellar\">投射物速度</span>、<span class=\"name name-stellar\">充能速度</span>、<span class=\"name name-stellar\">武器伤害</span>以及<span class=\"name name-stellar\">投射物数量</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">中子砲</span>的<span class=\"name name-tradeable\">一般</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><>開始升級<VAL_ON>安裝程序<>。<br><br>此模組靈活度高，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">射彈速度</span>、<span class=\"name name-stellar\">充能時間</span>、<span class=\"name name-stellar\">武器傷害</span>和<span class=\"name name-stellar\">射彈數量</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Normal",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "ValueMin": 2,
+      "ValueMax": 5,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_MaximumCharge",
+      "ValueMin": 1,
+      "ValueMax": 1,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_ChargedProjectile_ExtraSpeed",
+      "ValueMin": 5,
+      "ValueMax": 10,
+      "WeightingCurve": "MaxIsSuperRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_ChargedProjectile_ChargeTime",
+      "ValueMin": 0.9,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsSuperRare",
+      "AlwaysChoose": true
+    }
+  ]
+}

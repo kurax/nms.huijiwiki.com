@@ -1,0 +1,113 @@
+{
+  "ID": "UP_HYPX",
+  "Template": "T_HDRIVE",
+  "Group": {
+    "English": "Hyperdrive",
+    "SimplifiedChinese": "超光速推进",
+    "TraditionalChinese": "超空間驅動器"
+  },
+  "Name": {
+    "English": [
+      null,
+      [
+        "Warp Core",
+        "Antimatter Injector",
+        "Reality Destabiliser",
+        "Frame Drag Limiter",
+        "Pressure Inverter",
+        "Vacuum Drive",
+        "Distance Polariser",
+        "Causality Isolator",
+        "Relativity Shield",
+        "Superluminal Drive"
+      ]
+    ],
+    "SimplifiedChinese": [
+      null,
+      [
+        "曲速核心",
+        "反物质注射器",
+        "现实破坏器",
+        "参考系拖拽限制器",
+        "压力反相器",
+        "真空驱动器",
+        "距离偏振器",
+        "因果隔离器",
+        "相对性护盾",
+        "超光速驱动器"
+      ]
+    ],
+    "TraditionalChinese": [
+      null,
+      [
+        "空間跳躍核心",
+        "反物質生成器",
+        "現實破壞器",
+        "參考系拖拽限制器",
+        "壓力反相器",
+        "真空驅動器",
+        "距離偏振器",
+        "因果隔離器",
+        "相對論防護罩",
+        "超光速驅動器"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        "Reality Destabilizer",
+        null,
+        null,
+        null,
+        "Distance Polarizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Hyperdrive",
+    "SimplifiedChinese": "超光速推进",
+    "TraditionalChinese": "超空間驅動器"
+  },
+  "Subtitle": {
+    "English": "Illegal Hyperdrive Upgrade",
+    "SimplifiedChinese": "非法的超光速推进升级",
+    "TraditionalChinese": "非法超空間驅動器升級"
+  },
+  "Description": "UP_HYPERX_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Illegal",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Hyperdrive_JumpDistance",
+      "ValueMin": 50,
+      "ValueMax": 320,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpsPerCell",
+      "ValueMin": 1,
+      "ValueMax": 1,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    }
+  ]
+}

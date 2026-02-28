@@ -35,7 +35,15 @@ const getLocalizedValue = (data: Record<string, any>, value: string) => {
     for (const key in localization[value]) {
         let text = localization[value][key];
         text = text.replace(spanRegex, (_: unknown, tag: string, content: string) => `<span class="name name-${tag.toLowerCase()}">${content}</span>`);
-        if (localizedName != null) text = text.replaceAll('%ITEM%', localizedName[key] ?? '%ITEM%');
+        if (typeof localizedName === 'object') {
+            const getName = () => {
+                if (localizedName[key]) return localizedName[key];
+                if (key === 'TencentChinese') return localizedName['SimplifiedChinese'];
+                if (key === 'USEnglish') return localizedName['English'];
+            };
+            text = text.replaceAll('%NAME%', getName() ?? '%NAME%');
+            text = text.replaceAll('%ITEM%', getName() ?? '%ITEM%');
+        }
         text = text.replaceAll('\n', '<br>');
         result[key] = text;
     }
@@ -71,13 +79,15 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
                 'GcAlienRace',
                 'GcInventoryType',
                 'GcLegality',
+                'GcProceduralTechnologyCategory',
                 'GcRarity',
                 'GcRealitySubstanceCategory',
                 'GcScannerIconTypes',
                 'GcStatsTypes',
                 'GcTechnologyRarity',
                 'GcTechnologyCategory',
-                'GcTradeCategory'
+                'GcTradeCategory',
+                'GcWeightingCurve'
             ];
             if (enumTypes.includes(value)) {
                 result[field] = properties[Object.keys(properties)[0]];
@@ -135,7 +145,7 @@ const writeTableData = (data: Record<string, any>) => {
     for (const id in data.table) {
         try {
             const entry = data.table[id];
-            signale.info(id, entry.Name?.SimplifiedChinese ?? entry.Name?.English);
+            signale.info(id, entry.NameLower?.SimplifiedChinese ?? entry.NameLower?.English);
             const file = path.join(outputDir, `${id}.json`);
             fs.writeFileSync(file, JSON.stringify(entry, null, 2));
             result.push(entry);
@@ -148,11 +158,49 @@ const writeTableData = (data: Record<string, any>) => {
 
 const substances = await processData('NMS_REALITY_GCSUBSTANCETABLE.MXML');
 const technologies = await processData('NMS_REALITY_GCTECHNOLOGYTABLE.MXML');
+const proceduralTechnologies = await processData('NMS_REALITY_GCPROCEDURALTECHNOLOGYTABLE.MXML');
+
+// Procedural Technology 后处理
+for (const id in proceduralTechnologies.table) {
+    const entry = proceduralTechnologies.table[id];
+    if (typeof entry.Name === 'string') {
+        const localizedName: Record<string, string[][]> = {};
+        let rarity: string | undefined;
+        if (entry.Quality === 'Normal') rarity = 'COMMON';
+        else if (entry.Quality === 'Legendary') rarity = 'SCLASS';
+        else if (typeof entry.Quality === 'string') rarity = entry.Quality.toUpperCase();
+        if (rarity)
+            for (let i = 1; ; i++) {
+                const key = `${entry.Name}_${rarity}_ADJ_${i}`;
+                const localizedValue = getLocalizedValue(entry, key);
+                if (localizedValue == null) break;
+                for (const locale in localizedValue) {
+                    localizedName[locale] = localizedName[locale] ?? [];
+                    const names: string[] = localizedName[locale][0] ?? [];
+                    names[i - 1] = localizedValue[locale];
+                    localizedName[locale][0] = names;
+                }
+            }
+        for (let i = 1; ; i++) {
+            const key = `${entry.Name}_COMP_${i}`;
+            const localizedValue = getLocalizedValue(entry, key);
+            if (localizedValue == null) break;
+            for (const locale in localizedValue) {
+                localizedName[locale] = localizedName[locale] ?? [];
+                const names: string[] = localizedName[locale][1] ?? [];
+                names[i - 1] = localizedValue[locale];
+                localizedName[locale][1] = names;
+            }
+        }
+        entry.Name = _.isEmpty(localizedName) ? entry.Name : localizedName;
+    }
+}
 
 writeTableData(substances);
 writeTableData(technologies);
+writeTableData(proceduralTechnologies);
 
-// fs.writeFileSync(path.join(DATA_DIR, 'technologies.json'), JSON.stringify(technologies.table, null, 2));
+fs.writeFileSync(path.join(DATA_DIR, 'proceduralTechnologies.json'), JSON.stringify(proceduralTechnologies.table, null, 2));
 
 // 图片
 signale.start('Icons');

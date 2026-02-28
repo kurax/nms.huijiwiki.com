@@ -1,0 +1,120 @@
+{
+  "ID": "UP_EXLAS2",
+  "Template": "T_EXLAS",
+  "Group": {
+    "English": "Exocraft Mining Laser",
+    "SimplifiedChinese": "强化艇开采激光",
+    "TraditionalChinese": "強化艇採礦雷射"
+  },
+  "Name": {
+    "English": [
+      [
+        "Advanced",
+        "Fine-Tuned",
+        "Overloaded",
+        "Liquid",
+        "Oscillating"
+      ],
+      [
+        "Beam Amplifier",
+        "Beam Capacitor",
+        "Lens Optics",
+        "Emission Chamber",
+        "Photon Mirror",
+        "Cooling System",
+        "Diode Battery",
+        "Light Filter",
+        "Reflector Glass",
+        "Output Coupler"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "先进的",
+        "精调的",
+        "过载的",
+        "液体的",
+        "振荡的"
+      ],
+      [
+        "光束放大器",
+        "光束电容",
+        "镜头光学",
+        "放射舱",
+        "光子镜",
+        "冷却系统",
+        "二极管电池",
+        "滤光器",
+        "偏导玻璃",
+        "输出耦合器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "先進",
+        "精調",
+        "過載",
+        "液體",
+        "震盪"
+      ],
+      [
+        "光束增幅器",
+        "光束電容器",
+        "透鏡光學儀器",
+        "排放艙",
+        "光子鏡",
+        "冷卻系統",
+        "二極體電池",
+        "遮光罩",
+        "反射器玻璃",
+        "輸出耦合器"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Exocraft Mining Laser",
+    "SimplifiedChinese": "强化艇开采激光",
+    "TraditionalChinese": "強化艇採礦雷射"
+  },
+  "Subtitle": {
+    "English": "B-Class Exocraft Mining Laser Upgrade",
+    "SimplifiedChinese": "B 级强化艇开采激光升级",
+    "TencentChinese": "初级强化艇开采激光升级",
+    "TraditionalChinese": "B 級強化艇採礦雷射升級"
+  },
+  "Description": "UP_EXLAS2_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Rare",
+  "Category": "Mining",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsSuperRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_LaserDamage",
+      "ValueMin": 10,
+      "ValueMax": 20,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_LaserHeatTime",
+      "ValueMin": 0.9,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

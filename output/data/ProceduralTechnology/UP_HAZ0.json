@@ -1,0 +1,117 @@
+{
+  "ID": "UP_HAZ0",
+  "Template": "T_HAZ",
+  "Group": {
+    "English": "Hazard Protection",
+    "SimplifiedChinese": "危险防护",
+    "TencentChinese": "防御系统",
+    "TraditionalChinese": "風險防護系統"
+  },
+  "Name": {
+    "English": [
+      null,
+      [
+        "Ion Shield",
+        "Dose Modulator",
+        "Lung Replacement",
+        "Microfilters",
+        "Air Purifier",
+        "pH Balancer",
+        "Convection Unit",
+        "Energy Field",
+        "Atmosphere Regulator",
+        "Sublimation Pump"
+      ]
+    ],
+    "SimplifiedChinese": [
+      null,
+      [
+        "离子护盾",
+        "剂量调制器",
+        "肺替代品",
+        "微型过滤器",
+        "空气净化器",
+        "pH平衡器",
+        "对流装置",
+        "能量力场",
+        "大气调节器",
+        "升华泵"
+      ]
+    ],
+    "TraditionalChinese": [
+      null,
+      [
+        "離子防護罩",
+        "劑量調變器",
+        "肺替代品",
+        "微濾心",
+        "空氣淨化器",
+        "酸鹼度平衡器",
+        "對流元件",
+        "能量場",
+        "大氣調節器",
+        "昇華泵"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Hazard Protection",
+    "SimplifiedChinese": "危险防护",
+    "TencentChinese": "防御系统",
+    "TraditionalChinese": "風險防護系統"
+  },
+  "Subtitle": {
+    "English": "Rusted Hazard Protection Upgrade",
+    "SimplifiedChinese": "锈蚀危险防护升级",
+    "TraditionalChinese": "生鏽的風險防護系統升級"
+  },
+  "Description": "UP_SEATRASH_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "SeaTrash",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 4,
+  "NumStatsMax": 4,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Suit_Protection_HeatDrain",
+      "ValueMin": 1.01,
+      "ValueMax": 1.03,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Protection_ColdDrain",
+      "ValueMin": 1.01,
+      "ValueMax": 1.03,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Protection_RadDrain",
+      "ValueMin": 1.01,
+      "ValueMax": 1.03,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Protection_ToxDrain",
+      "ValueMin": 1.01,
+      "ValueMax": 1.03,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

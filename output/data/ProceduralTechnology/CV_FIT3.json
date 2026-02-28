@@ -1,0 +1,54 @@
+{
+  "ID": "CV_FIT3",
+  "Template": "T_CR_FIGHT",
+  "Group": {
+    "English": "flight control systems",
+    "SimplifiedChinese": "飞行控制系统",
+    "TraditionalChinese": "飛行控制系統"
+  },
+  "Name": "UT_CR_FIGHT_NAME",
+  "NameLower": "UT_CR_FIGHT_NAME_L",
+  "Subtitle": "UP_CRUI_SUB",
+  "Description": "UT_CR_FIGHT_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Combat",
+  "IsBiggsProcTech": true,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_BoostManeuverability",
+      "ValueMin": 1.05,
+      "ValueMax": 1.16,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Boost",
+      "ValueMin": 1.1,
+      "ValueMax": 1.2,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "ValueMin": 1.005,
+      "ValueMax": 1.005,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": true
+    }
+  ]
+}

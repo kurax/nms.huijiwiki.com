@@ -1,0 +1,87 @@
+{
+  "ID": "UP_RBSUIT",
+  "Template": "T_ROBOSUIT",
+  "Group": {
+    "English": "Exosuit",
+    "SimplifiedChinese": "套装",
+    "TraditionalChinese": "強化套裝"
+  },
+  "Name": "UP_RBSUIT",
+  "NameLower": {
+    "English": "Exosuit",
+    "SimplifiedChinese": "套装",
+    "TraditionalChinese": "強化套裝"
+  },
+  "Subtitle": {
+    "English": "Salvaged Upgrade Components",
+    "SimplifiedChinese": "回收的升级构件",
+    "TraditionalChinese": "回收升級元件"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">salvaged</span> upgrade for the <span class=\"name name-technology\">Exosuit</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>Constructed by the <TRANS_BUI>Autophage<>, this technology package is the result of a high degree of engineering improvisation. As a one-of-a-kind piece of repurposed technology, its exact effect upon suit performance is hard to determine prior to installation within the Exosuit's systems.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">回收</span>的<span class=\"name name-technology\">套装</span>升级组件。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>启动升级<VAL_ON>安装流程<>。<br><br>该技术包由<TRANS_BUI>自噬体<>制造，是即兴工程创作的成果。在安装到套装系统之前，很难预知这项独一无二的改造技术对套装性能的具体影响。",
+    "TraditionalChinese": "<span class=\"name name-technology\">強化套裝</span>的<span class=\"name name-stellar\">回收</span>升級。使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 即可開始升級<VAL_ON>安裝程序<>。<br><br>此科技套組由<TRANS_BUI>自噬<>製作，是高度即興創作的工程學產物。這個獨一無二的改裝技術元件，在安裝到強化套裝系統之前，較難預測對套裝效能的影響。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Robot",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 4,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Suit_Armour_Shield_Strength",
+      "ValueMin": 0.1,
+      "ValueMax": 0.35,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Armour_Health",
+      "ValueMin": 20,
+      "ValueMax": 20,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Energy",
+      "ValueMin": 0.05,
+      "ValueMax": 1.1,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Energy_Regen",
+      "ValueMin": 1.01,
+      "ValueMax": 1.75,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Jetpack_Drain",
+      "ValueMin": 0.7,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Stamina_Strength",
+      "ValueMin": 0.1,
+      "ValueMax": 0.6,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

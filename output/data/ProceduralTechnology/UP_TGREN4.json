@@ -1,0 +1,137 @@
+{
+  "ID": "UP_TGREN4",
+  "Template": "T_T_GREN",
+  "Group": {
+    "English": "Geology Cannon",
+    "SimplifiedChinese": "地质大炮",
+    "TraditionalChinese": "地質砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "M-Field",
+        "Antimatter",
+        "Gravitational",
+        "Nano-Boosted",
+        "Induction"
+      ],
+      [
+        "Compressor",
+        "Launch System",
+        "Injector Plugs",
+        "Release Mechanism",
+        "Gas Expander",
+        "Core",
+        "Coils",
+        "Shell Loader",
+        "Heat Pump",
+        "Timing Loom"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "M 场",
+        "反物质",
+        "引力的",
+        "纳米增强的",
+        "感应"
+      ],
+      [
+        "压缩机",
+        "发射系统",
+        "注射器塞头",
+        "释放机制",
+        "气体扩张器",
+        "核心",
+        "线圈",
+        "制弹器",
+        "热力泵",
+        "定时套管"
+      ]
+    ],
+    "TencentChinese": [
+      [
+        "物质场"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "M 力場",
+        "反物質",
+        "重力",
+        "奈米強化",
+        "感應"
+      ],
+      [
+        "壓縮機",
+        "發射系統",
+        "注射器塞頭",
+        "釋放機制",
+        "氣體擴張器",
+        "核心",
+        "線圈",
+        "彈殼填裝器",
+        "熱能泵",
+        "定時套管"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Geology Cannon",
+    "SimplifiedChinese": "地质大炮",
+    "TraditionalChinese": "地質砲"
+  },
+  "Subtitle": {
+    "English": "S-Class Geology Cannon Upgrade",
+    "SimplifiedChinese": "S 级地质大炮升级",
+    "TencentChinese": "高级地质大炮升级",
+    "TraditionalChinese": "S 級地質砲升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Geology Cannon</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Increases both <span class=\"name name-stellar\">explosion damage</span> and <span class=\"name name-stellar\">crater radius</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">地质大炮</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>同时提升<span class=\"name name-stellar\">爆炸伤害</span>和<span class=\"name name-stellar\">爆炸范围</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">地质大炮</span>的<span class=\"name name-commodity\">至强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>同时提升<span class=\"name name-stellar\">迸裂伤害</span>和<span class=\"name name-stellar\">迸裂范围</span>。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">地質砲</span>的<span class=\"name name-technology\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>強化的項目包括：<span class=\"name name-stellar\">爆炸傷害值</span>和<span class=\"name name-stellar\">爆炸坑半徑</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Grenade_Damage",
+      "ValueMin": 350,
+      "ValueMax": 400,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Grenade_Radius",
+      "ValueMin": 1.4,
+      "ValueMax": 1.5,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Grenade_Speed",
+      "ValueMin": 2,
+      "ValueMax": 3,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

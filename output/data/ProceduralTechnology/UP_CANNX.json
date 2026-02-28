@@ -1,0 +1,115 @@
+{
+  "ID": "UP_CANNX",
+  "Template": "T_CANNON",
+  "Group": {
+    "English": "Neutron Cannon",
+    "SimplifiedChinese": "中子大炮",
+    "TraditionalChinese": "中子砲"
+  },
+  "Name": {
+    "English": [
+      null,
+      [
+        "Charge Canister",
+        "Plasma Unit",
+        "Compression Beam",
+        "Positron Deflector",
+        "Neutron Mirror",
+        "Antimatter Vent",
+        "Ion Shaper",
+        "Static Diffuser",
+        "Safety Override",
+        "Linearity Warp"
+      ]
+    ],
+    "SimplifiedChinese": [
+      null,
+      [
+        "充能罐",
+        "等离子单元",
+        "压缩光束",
+        "正电子偏导器",
+        "中子镜",
+        "反物质排管道",
+        "离子塑形器",
+        "静电扩散器",
+        "安全性超控",
+        "线性扭曲"
+      ]
+    ],
+    "TraditionalChinese": [
+      null,
+      [
+        "充能罐",
+        "電漿組件",
+        "壓縮光束",
+        "正電子反射器",
+        "中子鏡",
+        "反物質通風孔",
+        "離子型塑器",
+        "靜電擴散器",
+        "安全覆寫",
+        "線性空間跳躍"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Neutron Cannon",
+    "SimplifiedChinese": "中子大炮",
+    "TraditionalChinese": "中子砲"
+  },
+  "Subtitle": {
+    "English": "Illegal Neutron Cannon Upgrade",
+    "SimplifiedChinese": "非法的中子大炮升级",
+    "TraditionalChinese": "非法中子砲升級"
+  },
+  "Description": "UP_CANNONX_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Illegal",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 4,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "ValueMin": 5,
+      "ValueMax": 18,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_MaximumCharge",
+      "ValueMin": 1,
+      "ValueMax": 1,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_ChargedProjectile_ExtraSpeed",
+      "ValueMin": 5,
+      "ValueMax": 25,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_ChargedProjectile_ChargeTime",
+      "ValueMin": 0.5,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsRare",
+      "AlwaysChoose": true
+    }
+  ]
+}

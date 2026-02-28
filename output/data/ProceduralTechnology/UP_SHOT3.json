@@ -1,0 +1,155 @@
+{
+  "ID": "UP_SHOT3",
+  "Template": "T_SHOTGUN",
+  "Group": {
+    "English": "Scatter Blaster",
+    "SimplifiedChinese": "散射爆破器",
+    "TencentChinese": "散射迸裂器",
+    "TraditionalChinese": "雙管霰彈槍"
+  },
+  "Name": {
+    "English": [
+      [
+        "Emeril",
+        "Korvax-Made",
+        "High-Energy",
+        "Beautiful",
+        "Augmented"
+      ],
+      [
+        "Barrel",
+        "Shells",
+        "Trigger",
+        "Muzzle",
+        "Wiring",
+        "Dynamo",
+        "Internals",
+        "Heat Pump",
+        "Launch System",
+        "Compression Unit"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "艾梅里尔",
+        "科尔瓦克斯制",
+        "高能",
+        "美丽",
+        "增强"
+      ],
+      [
+        "桶",
+        "贝壳",
+        "扳机",
+        "枪口",
+        "线路",
+        "发电机",
+        "内部",
+        "热力泵",
+        "发射系统",
+        "压缩装置"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "艾梅裡爾",
+        "科爾瓦克斯製",
+        "高能的",
+        "美麗的",
+        "增強的"
+      ],
+      [
+        "槍管",
+        "砲彈",
+        "扳機",
+        "槍口",
+        "線路",
+        "發電機",
+        "內部",
+        "熱力泵",
+        "發射系統",
+        "壓縮裝置"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Scatter Blaster",
+    "SimplifiedChinese": "散射爆破器",
+    "TencentChinese": "散射迸裂器",
+    "TraditionalChinese": "雙管霰彈槍"
+  },
+  "Subtitle": {
+    "English": "A-Class Scatter Blaster Upgrade",
+    "SimplifiedChinese": "A 级散射爆破器升级",
+    "TencentChinese": "中级散射迸裂器升级",
+    "TraditionalChinese": "A 級雙管霰彈槍升級"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">extremely powerful</span> upgrade for the <span class=\"name name-technology\">Scatter Blaster</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential upgrades include: <span class=\"name name-stellar\">damage output</span>, <span class=\"name name-stellar\">reload times</span>, <span class=\"name name-stellar\">clip size</span> and <span class=\"name name-stellar\">firing rate</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">散射爆破器</span>的<span class=\"name name-special\">极强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">伤害输出</span>、<span class=\"name name-stellar\">装弹时间</span>、<span class=\"name name-stellar\">弹匣容量</span>和<span class=\"name name-stellar\">射速</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">散射迸裂器</span>的<span class=\"name name-special\">极强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>显著地提升武器<span class=\"name name-stellar\">伤害</span>并缩短<span class=\"name name-stellar\">装弹时间</span>。提升总<span class=\"name name-stellar\">弹匣容量</span>并且从根本上地提升<span class=\"name name-stellar\">射速</span>。",
+    "TraditionalChinese": "<span class=\"name name-special\">雙管霰彈槍</span>的<span class=\"name name-technology\">超強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害輸出</span>、<span class=\"name name-stellar\">彈藥裝填時間</span>、<span class=\"name name-stellar\">彈匣尺寸</span>和<span class=\"name name-stellar\">射擊速度</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 4,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "ValueMin": 2,
+      "ValueMax": 4,
+      "WeightingCurve": "MaxIsSuperRare",
+      "AlwaysChoose": true
+    },
+    {
+      "Stat": "Weapon_Projectile_ReloadTime",
+      "ValueMin": 0.8,
+      "ValueMax": 0.85,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_ClipSize",
+      "ValueMin": 8,
+      "ValueMax": 8,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_Rate",
+      "ValueMin": 1.05,
+      "ValueMax": 1.1,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCap",
+      "ValueMin": 1,
+      "ValueMax": 1,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_BurstCooldown",
+      "ValueMin": 0.85,
+      "ValueMax": 0.9,
+      "WeightingCurve": "MinIsRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

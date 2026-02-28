@@ -1,0 +1,116 @@
+{
+  "ID": "UA_LAUN2",
+  "Template": "A_LAUNCH",
+  "Group": {
+    "English": "Neural Assembly",
+    "SimplifiedChinese": "神经线路板",
+    "TraditionalChinese": "神經電路板"
+  },
+  "Name": {
+    "English": [
+      [
+        "Connected",
+        "Gelatinous",
+        "Crying",
+        "Floppy",
+        "Humming"
+      ],
+      [
+        "Brain Node",
+        "Membrane",
+        "Lobes",
+        "Nodules",
+        "Jelly",
+        "Coils",
+        "Bio-Anomaly",
+        "Tendril",
+        "Clusters",
+        "Brain Node"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "连接的",
+        "胶质的",
+        "哭泣的",
+        "松软的",
+        "低吟的"
+      ],
+      [
+        "脑结",
+        "薄膜",
+        "肺叶",
+        "结节",
+        "胶冻",
+        "线圈",
+        "生物异象",
+        "卷须",
+        "集群",
+        "脑结"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "連接",
+        "膠狀",
+        "哭泣",
+        "鬆軟",
+        "嗡嗡作響"
+      ],
+      [
+        "腦節點",
+        "黏膜",
+        "腦葉",
+        "小結節",
+        "膠質",
+        "線圈",
+        "生物異常",
+        "卷蔓",
+        "團簇",
+        "腦節點"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Neural Assembly",
+    "SimplifiedChinese": "神经线路板",
+    "TraditionalChinese": "神經電路板"
+  },
+  "Subtitle": {
+    "English": "B-Class Neural Assembly Node",
+    "SimplifiedChinese": "B级神经线路板节点",
+    "TraditionalChinese": "B等神經電路板節點"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Neural Assembly</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Improves <span class=\"name name-stellar\">take-off efficiency</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">神经线路板</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可提升<span class=\"name name-stellar\">起飞效率</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">神經電路板</span>的<span class=\"name name-technology\">重大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>提升<span class=\"name name-stellar\">起飛效率</span>。"
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Quality": "Rare",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsUncommon",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Launcher_TakeOffCost",
+      "ValueMin": 0.9,
+      "ValueMax": 0.85,
+      "WeightingCurve": "MinIsRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

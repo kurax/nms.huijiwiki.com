@@ -1,0 +1,138 @@
+{
+  "ID": "UA_PULSE1",
+  "Template": "A_SHIPJUMP",
+  "Group": {
+    "English": "Pulsing Heart",
+    "SimplifiedChinese": "搏动心脏",
+    "TraditionalChinese": "脈動心臟"
+  },
+  "Name": {
+    "English": [
+      [
+        "Gooey",
+        "Sticky",
+        "Pungent",
+        "Congealed",
+        "Slimy"
+      ],
+      [
+        "Heart Lump",
+        "Vessel",
+        "Chamber",
+        "Blood Sac",
+        "Thorax",
+        "Aorta",
+        "Trunk Tissue",
+        "Ventricle",
+        "Muscle",
+        "Blood Pump"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "胶粘的",
+        "粘的",
+        "辛辣的",
+        "凝结的",
+        "粘糊糊的"
+      ],
+      [
+        "心脏肿块",
+        "容器",
+        "室",
+        "血囊",
+        "胸",
+        "主动脉",
+        "干组织",
+        "心室",
+        "肌肉",
+        "血泵"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "黏性",
+        "沾粘",
+        "嗆辣",
+        "凝固",
+        "黏滑"
+      ],
+      [
+        "心臟腫塊",
+        "脈管",
+        "腔室",
+        "血囊",
+        "胸",
+        "主動脈",
+        "幹狀組織",
+        "心房",
+        "肌肉",
+        "血泵"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Pulsing Heart",
+    "SimplifiedChinese": "搏动心脏",
+    "TraditionalChinese": "脈動心臟"
+  },
+  "Subtitle": {
+    "English": "C-Class Pulsing Heart Node",
+    "SimplifiedChinese": "C级搏动心脏节点",
+    "TraditionalChinese": "C等脈動心臟節點"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the <span class=\"name name-technology\">Pulsing Heart</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">manoeuvrability</span> and <span class=\"name name-stellar\">speed</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">搏动心脏</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长，并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升：<span class=\"name name-stellar\">机动性</span>和<span class=\"name name-stellar\">速度</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">脈動心臟</span>的<span class=\"name name-tradeable\">一般</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">機動力</span>和<span class=\"name name-stellar\">速度</span>。",
+    "USEnglish": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the <span class=\"name name-technology\">Pulsing Heart</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">maneuverability</span> and <span class=\"name name-stellar\">speed</span>."
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Quality": "Normal",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpFuelSpending",
+      "ValueMin": 0.9,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Boost",
+      "ValueMin": 1.01,
+      "ValueMax": 1.1,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_BoostManeuverability",
+      "ValueMin": 1.01,
+      "ValueMax": 1.075,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "ValueMin": 1.005,
+      "ValueMax": 1.005,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": true
+    }
+  ]
+}

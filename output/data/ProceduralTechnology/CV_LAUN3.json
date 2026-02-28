@@ -1,0 +1,150 @@
+{
+  "ID": "CV_LAUN3",
+  "Template": "T_LAUNCHER",
+  "Group": {
+    "English": "launch systems",
+    "SimplifiedChinese": "发射系统",
+    "TraditionalChinese": "發射系統"
+  },
+  "Name": {
+    "English": [
+      [
+        "High Speed",
+        "Augmented",
+        "Photonic",
+        "Catalytic",
+        "Specialist"
+      ],
+      [
+        "Nozzles",
+        "Fuel Injector",
+        "Launch Computer",
+        "Venting Unit",
+        "Gravity Harmoniser",
+        "Di-hydrogen Cycler",
+        "Exhaust Vents",
+        "Gyroscope",
+        "Orbit Synchroniser",
+        "Gravity Shifter",
+        "Accelerometer",
+        "Lift Mechanism"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "高速的",
+        "增强的",
+        "光量子的",
+        "催化的",
+        "专业的"
+      ],
+      [
+        "喷嘴",
+        "燃料注射器",
+        "发射电脑",
+        "排气装置",
+        "重力和谐器",
+        "二氢循环器",
+        "排气口",
+        "陀螺仪",
+        "轨道同步器",
+        "重力切换器",
+        "加速计",
+        "升空机制"
+      ]
+    ],
+    "TencentChinese": [
+      [
+        "极端的",
+        null,
+        "固态的",
+        "陀螺的"
+      ],
+      [
+        "推进装置",
+        "推进控制器",
+        "冲动喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "高速",
+        "增強",
+        "光子",
+        "催化",
+        "專家"
+      ],
+      [
+        "噴嘴",
+        "燃料注射器",
+        "啟動電腦",
+        "排氣元件",
+        "重力協和器",
+        "二氫循環器",
+        "排氣孔",
+        "陀螺儀",
+        "軌道同步器",
+        "重力位移器",
+        "加速計",
+        "升降機制"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Launch Thruster",
+    "SimplifiedChinese": "发射推进器",
+    "TraditionalChinese": "啟動推進器"
+  },
+  "Subtitle": {
+    "English": "A-Class Launch Thruster Upgrade",
+    "SimplifiedChinese": "A 级发射推进器升级",
+    "TencentChinese": "中级发射推进器升级",
+    "TraditionalChinese": "A 級啟動推進器升級"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">extremely powerful</span> upgrade for the <span class=\"name name-technology\">Starship Launch Thrusters</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">launch efficiency</span> and <span class=\"name name-stellar\">speed</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">飞船发射推进器</span>的<span class=\"name name-special\">强力</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升：<span class=\"name name-stellar\">发射效率</span>和<span class=\"name name-stellar\">速度</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">太空船啟動推進器</span>的<span class=\"name name-special\">超強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組靈活度高，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">啟動效率</span>和<span class=\"name name-stellar\">速度</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Protection",
+  "IsBiggsProcTech": true,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Launcher_TakeOffCost",
+      "ValueMin": 0.8,
+      "ValueMax": 0.85,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": true
+    },
+    {
+      "Stat": "Ship_Boost",
+      "ValueMin": 1.05,
+      "ValueMax": 1.08,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

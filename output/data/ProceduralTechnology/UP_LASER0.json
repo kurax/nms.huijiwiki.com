@@ -1,0 +1,115 @@
+{
+  "ID": "UP_LASER0",
+  "Template": "T_LASER",
+  "Group": {
+    "English": "Mining Beam",
+    "SimplifiedChinese": "开采光束",
+    "TraditionalChinese": "採礦光束"
+  },
+  "Name": {
+    "English": [
+      null,
+      [
+        "Beam Amplifier",
+        "Beam Capacitor",
+        "Lens Optics",
+        "Emission Chamber",
+        "Photon Mirror",
+        "Cooling System",
+        "Diode Battery",
+        "Light Filter",
+        "Reflector Glass",
+        "Output Coupler"
+      ]
+    ],
+    "SimplifiedChinese": [
+      null,
+      [
+        "光束放大器",
+        "光束电容",
+        "镜头光学",
+        "放射舱",
+        "光子镜",
+        "冷却系统",
+        "二极管电池",
+        "滤光器",
+        "偏导玻璃",
+        "输出耦合器"
+      ]
+    ],
+    "TraditionalChinese": [
+      null,
+      [
+        "光束放大器",
+        "光束電容",
+        "鏡頭光學",
+        "放射艙",
+        "光子鏡",
+        "冷卻系統",
+        "二極管電池",
+        "濾光器",
+        "偏導玻璃",
+        "輸出聯結器"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Mining Beam",
+    "SimplifiedChinese": "开采光束",
+    "TraditionalChinese": "採礦光束"
+  },
+  "Subtitle": {
+    "English": "Rusted Mining Beam Upgrade",
+    "SimplifiedChinese": "锈蚀开采光束升级",
+    "TraditionalChinese": "生鏽的採礦光束升級"
+  },
+  "Description": "UP_SEATRASH_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "SeaTrash",
+  "Category": "Mining",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 4,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Laser_Mining_Speed",
+      "ValueMin": 0.95,
+      "ValueMax": 0.99,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Laser_HeatTime",
+      "ValueMin": 1.01,
+      "ValueMax": 1.02,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Laser_Drain",
+      "ValueMin": 1.01,
+      "ValueMax": 1.02,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Laser_ReloadTime",
+      "ValueMin": 0.95,
+      "ValueMax": 0.99,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "ID": "UP_LAUNX",
+  "Template": "T_LAUNCHER",
+  "Group": {
+    "English": "Launch Thruster",
+    "SimplifiedChinese": "发射推进器",
+    "TraditionalChinese": "啟動推進器"
+  },
+  "Name": {
+    "English": [
+      null,
+      [
+        "Nozzles",
+        "Fuel Injector",
+        "Launch Computer",
+        "Venting Unit",
+        "Gravity Harmoniser",
+        "Di-hydrogen Cycler",
+        "Exhaust Vents",
+        "Gyroscope",
+        "Orbit Synchroniser",
+        "Gravity Shifter",
+        "Accelerometer",
+        "Lift Mechanism"
+      ]
+    ],
+    "SimplifiedChinese": [
+      null,
+      [
+        "喷嘴",
+        "燃料注射器",
+        "发射电脑",
+        "排气装置",
+        "重力和谐器",
+        "二氢循环器",
+        "排气口",
+        "陀螺仪",
+        "轨道同步器",
+        "重力切换器",
+        "加速计",
+        "升空机制"
+      ]
+    ],
+    "TencentChinese": [
+      null,
+      [
+        "推进装置",
+        "推进控制器",
+        "冲动喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
+    "TraditionalChinese": [
+      null,
+      [
+        "噴嘴",
+        "燃料注射器",
+        "啟動電腦",
+        "排氣元件",
+        "重力協和器",
+        "二氫循環器",
+        "排氣孔",
+        "陀螺儀",
+        "軌道同步器",
+        "重力位移器",
+        "加速計",
+        "升降機制"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Launch Thruster",
+    "SimplifiedChinese": "发射推进器",
+    "TraditionalChinese": "啟動推進器"
+  },
+  "Subtitle": {
+    "English": "Illegal Launch Thruster Upgrade",
+    "SimplifiedChinese": "非法的发射推进器升级",
+    "TraditionalChinese": "非法啟動推進器升級"
+  },
+  "Description": "UP_LAUNCHX_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Illegal",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsUncommon",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Launcher_TakeOffCost",
+      "ValueMin": 0.75,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsRare",
+      "AlwaysChoose": true
+    },
+    {
+      "Stat": "Ship_Boost",
+      "ValueMin": 1.01,
+      "ValueMax": 1.1,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

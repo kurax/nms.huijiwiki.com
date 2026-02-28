@@ -1,0 +1,131 @@
+{
+  "ID": "UP_MFIRE3",
+  "Template": "T_MFIRE",
+  "Group": {
+    "English": "Minotaur Flamethrower",
+    "SimplifiedChinese": "弥诺陶洛斯火焰喷射器",
+    "TraditionalChinese": "彌諾陶洛斯火焰噴射器"
+  },
+  "Name": {
+    "English": [
+      [
+        "High Capacity",
+        "Vacuum",
+        "Plasmatic",
+        "Oxygenated",
+        "Gyro-stabilised"
+      ],
+      [
+        "Fuel Hose",
+        "Nozzles",
+        "Valves",
+        "Canisters",
+        "Cylinders",
+        "Ignition Chamber",
+        "Tubes",
+        "Sprayer",
+        "Exhaust",
+        "Injectors"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "高容量",
+        "真空",
+        "等离子",
+        "氧化",
+        "陀螺稳定"
+      ],
+      [
+        "燃油管",
+        "喷嘴",
+        "阀门",
+        "罐子",
+        "圆筒",
+        "点火室",
+        "管道",
+        "喷洒器",
+        "排气口",
+        "灌注器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "高容量",
+        "真空",
+        "電漿",
+        "含氧",
+        "陀螺穩定"
+      ],
+      [
+        "燃油管",
+        "噴嘴",
+        "閥門",
+        "燃油罐",
+        "補充瓶",
+        "點火室",
+        "輸送管",
+        "噴灑器",
+        "排氣裝置",
+        "噴射器"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Minotaur Flamethrower",
+    "SimplifiedChinese": "弥诺陶洛斯火焰喷射器",
+    "TraditionalChinese": "彌諾陶洛斯火焰噴射器"
+  },
+  "Subtitle": {
+    "English": "A-Class Minotaur Flamethrower Upgrade",
+    "SimplifiedChinese": "A 级弥诺陶洛斯火焰喷射器升级",
+    "TencentChinese": "中级弥诺陶洛斯火焰喷射器升级",
+    "TraditionalChinese": "A 級彌諾陶洛斯火焰噴射器升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for all <span class=\"name name-technology\">Minotaur Flamethrower Units</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">damage output</span>, <span class=\"name name-stellar\">burn time</span> and <span class=\"name name-stellar\">fuel efficiency</span>.",
+    "SimplifiedChinese": "适用于所有<span class=\"name name-technology\">弥诺陶洛斯火焰喷射器单元</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升：<span class=\"name name-stellar\">伤害输出</span>、<span class=\"name name-stellar\">燃烧时间</span>和<span class=\"name name-stellar\">燃料效率</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">彌諾陶洛斯火焰噴射器元件</span>的所有<span class=\"name name-technology\">重大升級</span>。使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組靈活度高，但在安裝完成前，確切的升級數據<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害輸出</span>、<span class=\"name name-stellar\">燃燒時間</span>和<span class=\"name name-stellar\">燃料效率</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 3,
+  "WeightingCurve": "MaxIsUncommon",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "ValueMin": 1,
+      "ValueMax": 2,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "ValueMin": 0.8,
+      "ValueMax": 0.9,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_FireDOT_Duration",
+      "ValueMin": 1.1,
+      "ValueMax": 1.2,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

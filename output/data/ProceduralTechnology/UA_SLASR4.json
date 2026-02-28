@@ -1,0 +1,130 @@
+{
+  "ID": "UA_SLASR4",
+  "Template": "A_SHIPLAS",
+  "Group": {
+    "English": "Grafted Eyes",
+    "SimplifiedChinese": "移植眼",
+    "TraditionalChinese": "移植眼睛"
+  },
+  "Name": {
+    "English": [
+      [
+        "Chromatic",
+        "Sleepless",
+        "Translucent",
+        "Vibrant",
+        "Heavenly"
+      ],
+      [
+        "Lens",
+        "Iris",
+        "Aperture",
+        "Retina",
+        "Cornea",
+        "Fluids",
+        "Pupil",
+        "Mirror",
+        "Reflector",
+        "Projector"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "有色的",
+        "不眠的",
+        "半透明的",
+        "生动的",
+        "天堂的"
+      ],
+      [
+        "镜头",
+        "虹膜",
+        "光圈",
+        "视网膜",
+        "眼角膜",
+        "流体",
+        "瞳孔",
+        "镜子",
+        "反射物",
+        "投影仪"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "染色",
+        "失眠",
+        "半透明",
+        "朝氣",
+        "美好"
+      ],
+      [
+        "鏡頭",
+        "虹膜",
+        "光圈",
+        "視網膜",
+        "角膜",
+        "液體",
+        "瞳孔",
+        "鏡子",
+        "反射器",
+        "投射機"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Grafted Eyes",
+    "SimplifiedChinese": "移植眼",
+    "TraditionalChinese": "移植眼睛"
+  },
+  "Subtitle": {
+    "English": "S-Class Grafted Eyes Node",
+    "SimplifiedChinese": "S级移植眼节点",
+    "TraditionalChinese": "S等移植眼睛節點"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Grafted Eyes</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">damage output</span>, and <span class=\"name name-stellar\">overheat tolerance</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">移植眼</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">伤害输出</span>和<span class=\"name name-stellar\">耐热性</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">移植眼睛</span>的<span class=\"name name-commodity\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害輸出</span>和<span class=\"name name-stellar\">過熱的承受能力</span>。"
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Weapons_Lasers_HeatTime",
+      "ValueMin": 1.75,
+      "ValueMax": 1.95,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Weapons_Lasers_Damage",
+      "ValueMin": 60,
+      "ValueMax": 70,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Weapons_ShieldLeech",
+      "ValueMin": 0.2,
+      "ValueMax": 0.3,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ID": "CV_INV3",
+  "Template": "T_CR_INV",
+  "Group": {
+    "English": "cargo systems",
+    "SimplifiedChinese": "货运系统",
+    "TraditionalChinese": "貨物系統"
+  },
+  "Name": "UT_CR_MINE_NAME",
+  "NameLower": "UT_CR_MINE_NAME_L",
+  "Subtitle": "UP_CRUI_SUB",
+  "Description": "UT_CR_MINE_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Mining",
+  "IsBiggsProcTech": true,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Cargo_Slots",
+      "ValueMin": 6,
+      "ValueMax": 6,
+      "WeightingCurve": "MaxIsSuperRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

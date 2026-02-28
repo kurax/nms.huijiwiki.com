@@ -1,0 +1,54 @@
+{
+  "ID": "CV_SCI4",
+  "Template": "T_CR_SCI",
+  "Group": {
+    "English": "navigation systems",
+    "SimplifiedChinese": "导航系统",
+    "TraditionalChinese": "導航系統"
+  },
+  "Name": "UT_CR_SCI_NAME",
+  "NameLower": "UT_CR_SCI_NAME_L",
+  "Subtitle": "UP_CRUI_SUB",
+  "Description": "UT_CR_SCI_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Scanning",
+  "IsBiggsProcTech": true,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Launcher_TakeOffCost",
+      "ValueMin": 0.8,
+      "ValueMax": 0.8,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Launcher_AutoCharge",
+      "ValueMin": 1,
+      "ValueMax": 1,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpFuelSpending",
+      "ValueMin": 0.8,
+      "ValueMax": 0.8,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    }
+  ]
+}

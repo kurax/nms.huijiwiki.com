@@ -1,0 +1,66 @@
+{
+  "ID": "UP_SENGUN",
+  "Template": "T_SENTGUN",
+  "Group": {
+    "English": "Multi-Tool",
+    "SimplifiedChinese": "多用途工具",
+    "TraditionalChinese": "工具組"
+  },
+  "Name": "UP_SENTGUN",
+  "NameLower": {
+    "English": "Multi-Tool",
+    "SimplifiedChinese": "多用途工具",
+    "TraditionalChinese": "工具組"
+  },
+  "Subtitle": {
+    "English": "Forbidden Multi-Tool Module",
+    "SimplifiedChinese": "禁忌的多用途工具模块",
+    "TraditionalChinese": "禁止的工具組模組"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">anomalous</span> upgrade for the Multi-Tool's <span class=\"name name-technology\">Weapon Systems</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>This eerie, glassy shard has been extracted from <span class=\"name name-special\">Sentinel debris</span>. Its exact effect upon the Multi-Tool will not be known until after installation is complete.",
+    "SimplifiedChinese": "多用途工具<span class=\"name name-special\">武器系统</span>的<span class=\"name name-technology\">异常</span>升级组件。按<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始升级<VAL_ON>安装流程<>。<br><br>从<span class=\"name name-special\">护卫残骸</span>中提取的诡异玻璃碎片。完成安装流程后才能知道这种升级组件为多用途工具提供的具体效果。",
+    "TraditionalChinese": "工具組<span class=\"name name-technology\">武器系統</span>的<span class=\"name name-special\">異常</span>升級。使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>這個詭異的玻璃碎片是從<span class=\"name name-special\">巡警殘骸</span>中抽取而來。直到安裝完成後，才會知道它對工具組的確切效果。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Sentinel",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 4,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Projectile_Damage",
+      "ValueMin": 1,
+      "ValueMax": 4,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_ReloadTime",
+      "ValueMin": 0.85,
+      "ValueMax": 0.99,
+      "WeightingCurve": "MinIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Projectile_Rate",
+      "ValueMin": 1.01,
+      "ValueMax": 1.2,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

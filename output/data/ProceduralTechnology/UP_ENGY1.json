@@ -1,0 +1,134 @@
+{
+  "ID": "UP_ENGY1",
+  "Template": "T_ENERGY",
+  "Group": {
+    "English": "Life Support",
+    "SimplifiedChinese": "维生系统",
+    "TraditionalChinese": "維生系統"
+  },
+  "Name": {
+    "English": [
+      [
+        "Oxygen",
+        "Gas",
+        "Carbon",
+        "Nitrogen",
+        "Ammonium"
+      ],
+      [
+        "Filter",
+        "Generator Unit",
+        "Recycler",
+        "Stabiliser",
+        "Purifier",
+        "Drain",
+        "Sieve",
+        "Pump",
+        "Tanks",
+        "Harvester"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "氧气",
+        "气体",
+        "碳",
+        "氮",
+        "铵"
+      ],
+      [
+        "筛选",
+        "发电机单位",
+        "循环器",
+        "稳定器",
+        "净化器",
+        "汲取",
+        "滤网",
+        "泵",
+        "罐",
+        "加工设备"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "氧氣",
+        "氣體",
+        "碳",
+        "氮",
+        "銨"
+      ],
+      [
+        "過濾器",
+        "發電機單位",
+        "循環器",
+        "穩定器",
+        "淨化器",
+        "汲取",
+        "濾網",
+        "泵",
+        "槽",
+        "加工設備"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        null,
+        "Stabilizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Life Support",
+    "SimplifiedChinese": "维生系统",
+    "TraditionalChinese": "維生系統"
+  },
+  "Subtitle": {
+    "English": "B-Class Life Support Upgrade",
+    "SimplifiedChinese": "B 级维生系统升级",
+    "TencentChinese": "初级维生系统升级",
+    "TraditionalChinese": "B 級維生系統升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Life Support System</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Increases <span class=\"name name-stellar\">life support power</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">维生系统</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>提升<span class=\"name name-stellar\">维生系统能量</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">维生系统</span>的<span class=\"name name-technology\">显著</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>增加<span class=\"name name-stellar\">维生系统能量</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">維生系統</span>的<span class=\"name name-technology\">重大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>提高<span class=\"name name-stellar\">維生系統能量</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Rare",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Suit_Energy",
+      "ValueMin": 0.05,
+      "ValueMax": 0.2,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Energy_Regen",
+      "ValueMin": 1.01,
+      "ValueMax": 1.1,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

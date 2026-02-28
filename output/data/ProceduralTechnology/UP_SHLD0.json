@@ -1,0 +1,116 @@
+{
+  "ID": "UP_SHLD0",
+  "Template": "T_SHIELD",
+  "Group": {
+    "English": "Defence Systems",
+    "SimplifiedChinese": "防御系统",
+    "TraditionalChinese": "防禦系統",
+    "USEnglish": "Defense Systems"
+  },
+  "Name": {
+    "English": [
+      null,
+      [
+        "Lattice",
+        "Shield",
+        "Armour",
+        "Bulwark",
+        "Grafts",
+        "Padding",
+        "Buffer",
+        "Polariser",
+        "Battery",
+        "Resonator"
+      ]
+    ],
+    "SimplifiedChinese": [
+      null,
+      [
+        "栅格",
+        "护盾",
+        "盔甲",
+        "壁垒",
+        "嫁接",
+        "填补",
+        "缓冲",
+        "偏振器",
+        "电池",
+        "共振器"
+      ]
+    ],
+    "TraditionalChinese": [
+      null,
+      [
+        "晶格",
+        "防護罩",
+        "盔甲",
+        "壁壘",
+        "嫁接",
+        "填補",
+        "緩衝器",
+        "偏振器",
+        "電池",
+        "共振器"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        "Armor",
+        null,
+        null,
+        null,
+        null,
+        "Polarizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Defence Systems",
+    "SimplifiedChinese": "防御系统",
+    "TraditionalChinese": "防禦系統",
+    "USEnglish": "Defense Systems"
+  },
+  "Subtitle": {
+    "English": "Rusted Defence Systems Upgrade",
+    "SimplifiedChinese": "锈蚀防御系统升级",
+    "TraditionalChinese": "生鏽的防禦系統升級"
+  },
+  "Description": "UP_SEATRASH_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "SeaTrash",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Suit_Armour_Shield_Strength",
+      "ValueMin": 0.05,
+      "ValueMax": 0.1,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Armour_Health",
+      "ValueMin": 5,
+      "ValueMax": 5,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    }
+  ]
+}

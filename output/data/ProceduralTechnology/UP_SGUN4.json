@@ -1,0 +1,143 @@
+{
+  "ID": "UP_SGUN4",
+  "Template": "T_SHIPGUN",
+  "Group": {
+    "English": "Photon Cannon",
+    "SimplifiedChinese": "光子大炮",
+    "TraditionalChinese": "光子砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "Chromatic",
+        "Free Electron",
+        "Continuous Wave",
+        "Gamma Ray",
+        "Asymmetric"
+      ],
+      [
+        "Amplifier",
+        "Splitter",
+        "Oscillator",
+        "Resonator",
+        "Accelerator",
+        "Polariser",
+        "Filament",
+        "Refractor",
+        "Mirror",
+        "De-limiter"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "有色",
+        "自由电子",
+        "连续波",
+        "伽马射线",
+        "不对称"
+      ],
+      [
+        "放大器",
+        "分离器",
+        "振荡器",
+        "共振器",
+        "加速器",
+        "偏振器",
+        "单纤维",
+        "折射镜",
+        "镜子",
+        "解限器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "有色的",
+        "自由電子",
+        "連續波",
+        "伽瑪射線",
+        "不對稱"
+      ],
+      [
+        "放大器",
+        "分離器",
+        "振蕩器",
+        "共振器",
+        "加速器",
+        "偏振器",
+        "單纖維",
+        "折射體",
+        "鏡子",
+        "解限器"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Polarizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Photon Cannon",
+    "SimplifiedChinese": "光子大炮",
+    "TraditionalChinese": "光子砲"
+  },
+  "Subtitle": {
+    "English": "S-Class Photon Cannon Upgrade",
+    "SimplifiedChinese": "S 级光子大炮升级",
+    "TencentChinese": "高级光子大炮升级",
+    "TraditionalChinese": "S 級光子砲升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Starship Photon Cannon</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">damage</span>, <span class=\"name name-stellar\">fire rate</span> and <span class=\"name name-stellar\">overheat times</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">飞船光子大炮</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">伤害</span>、<span class=\"name name-stellar\">射速</span>和<span class=\"name name-stellar\">过热前使用次数</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">飞船光子大炮</span>的<span class=\"name name-commodity\">至强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>极大地提升<span class=\"name name-stellar\">伤害</span>、<span class=\"name name-stellar\">射速</span>和<span class=\"name name-stellar\">过热前使用次数</span>。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">太空船光子砲</span>的<span class=\"name name-technology\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害值</span>、<span class=\"name name-stellar\">射擊速度</span>和<span class=\"name name-stellar\">過熱次數</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "ValueMin": 20,
+      "ValueMax": 28,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "ValueMin": 1.021,
+      "ValueMax": 1.021,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "ValueMin": 1.03,
+      "ValueMax": 1.03,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

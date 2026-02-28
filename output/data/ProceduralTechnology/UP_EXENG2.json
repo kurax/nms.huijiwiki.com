@@ -1,0 +1,129 @@
+{
+  "ID": "UP_EXENG2",
+  "Template": "T_EXENG",
+  "Group": {
+    "English": "Fusion Engine",
+    "SimplifiedChinese": "聚变发动机",
+    "TraditionalChinese": "核融合引擎"
+  },
+  "Name": {
+    "English": [
+      [
+        "Polished",
+        "Heated",
+        "Upgraded",
+        "Rewired",
+        "Stabilised"
+      ],
+      [
+        "Propulsion Unit",
+        "Thrust Controller",
+        "Impulse Nozzle",
+        "Shockwave Shield",
+        "Magnetic Fan",
+        "Hydrogen Dynamo",
+        "Plasma Exhaust",
+        "Fuel Pipes",
+        "Neutrino Injector",
+        "Electron Loom"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "圆滑的",
+        "高热的",
+        "升级的",
+        "重新接线的",
+        "稳定的"
+      ],
+      [
+        "推进装置",
+        "推进控制器",
+        "脉冲喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "磨光",
+        "熱化",
+        "已升級",
+        "重新布線",
+        "已穩定"
+      ],
+      [
+        "推進元件",
+        "推進控制器",
+        "脈衝噴嘴",
+        "衝擊波防護罩",
+        "磁力扇",
+        "氫發電機",
+        "電漿排氣管",
+        "燃料管",
+        "微中子注射器",
+        "電子套管"
+      ]
+    ],
+    "USEnglish": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "Stabilized"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Fusion Engine",
+    "SimplifiedChinese": "聚变发动机",
+    "TraditionalChinese": "核融合引擎"
+  },
+  "Subtitle": {
+    "English": "B-Class Fusion Engine Upgrade",
+    "SimplifiedChinese": "B 级聚变发动机升级",
+    "TencentChinese": "初级聚变发动机升级",
+    "TraditionalChinese": "B 級核融合引擎升級"
+  },
+  "Description": "UP_EXENG2_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Rare",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsSuperRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_EngineFuelUse",
+      "ValueMin": 0.9,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_EngineTopSpeed",
+      "ValueMin": 1.03,
+      "ValueMax": 1.08,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

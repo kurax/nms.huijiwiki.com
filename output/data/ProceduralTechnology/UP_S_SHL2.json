@@ -1,0 +1,131 @@
+{
+  "ID": "UP_S_SHL2",
+  "Template": "T_SHIPSHLD",
+  "Group": {
+    "English": "Deflector Shield",
+    "SimplifiedChinese": "偏导护盾",
+    "TraditionalChinese": "反射防護罩"
+  },
+  "Name": {
+    "English": [
+      [
+        "Uranium",
+        "Lightning",
+        "Vector",
+        "Bionic",
+        "Sonic"
+      ],
+      [
+        "Lattice",
+        "Shield",
+        "Armour",
+        "Bulwark",
+        "Grafts",
+        "Padding",
+        "Buffer",
+        "Polariser",
+        "Battery",
+        "Resonator"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "铀",
+        "闪电",
+        "矢量",
+        "仿生",
+        "音波"
+      ],
+      [
+        "栅格",
+        "护盾",
+        "盔甲",
+        "壁垒",
+        "嫁接",
+        "填补",
+        "缓冲",
+        "偏振器",
+        "电池",
+        "共振器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "鈾",
+        "閃電",
+        "向量",
+        "仿生",
+        "音速"
+      ],
+      [
+        "晶格",
+        "防護罩",
+        "裝甲",
+        "舷牆",
+        "嫁接",
+        "襯墊",
+        "緩衝",
+        "偏振器",
+        "電池",
+        "共振器"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        "Armor",
+        null,
+        null,
+        null,
+        null,
+        "Polarizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Deflector Shield",
+    "SimplifiedChinese": "偏导护盾",
+    "TraditionalChinese": "反射防護罩"
+  },
+  "Subtitle": {
+    "English": "B-Class Deflector Shield Upgrade",
+    "SimplifiedChinese": "B 级偏导护盾升级",
+    "TencentChinese": "初级偏导护盾升级",
+    "TraditionalChinese": "B 級反射防護罩升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Starship Defensive Shielding</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Significantly improves <span class=\"name name-stellar\">ship strength</span> for increased combat endurance.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">飞船防御护罩</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>显著提升<span class=\"name name-stellar\">船体强度</span>来提升战斗时的耐久度。",
+    "TencentChinese": "对<span class=\"name name-technology\">飞船防御护罩</span>的<span class=\"name name-technology\">显著</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>显著地提升<span class=\"name name-stellar\">船体强度</span>来提升战斗时的耐久度。",
+    "TraditionalChinese": "<span class=\"name name-technology\">太空船防禦防護罩</span>的<span class=\"name name-technology\">重大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>顯著提升<span class=\"name name-stellar\">太空船強度</span>以便增加戰鬥持久力。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Rare",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 1,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Armour_Shield_Strength",
+      "ValueMin": 0.05,
+      "ValueMax": 0.1,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

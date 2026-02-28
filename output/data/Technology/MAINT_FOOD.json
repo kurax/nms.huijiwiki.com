@@ -17,9 +17,9 @@
     "TraditionalChinese": "自動餵食裝置"
   },
   "Description": {
-    "English": "The nutrient ingestor improves <span class=\"name name-technology\">exosuit performance</span> via the automatic portioning and processing of various <span class=\"name name-stellar\">cooked items</span>.<br><br>Current Nutrition Source: <%NAMETAG%>%NAME%<><br>Duration: <%TIMETAG%>%TIME%<><br>Effect: <%EFFECTTAG%>%EFFECT%<>",
-    "SimplifiedChinese": "营养摄入器能够通过自动化分类与处理各种<span class=\"name name-stellar\">烹饪品</span>来改进<span class=\"name name-technology\">套装性能</span>。<br><br>当前营养来源：<%NAMETAG%>%NAME%<><br>持续时间：<%TIMETAG%>%TIME%<><br>效果：<%EFFECTTAG%>%EFFECT%<>",
-    "TraditionalChinese": "營養攝取器能透過自動分配和處理各種<span class=\"name name-stellar\">熟食</span>，改善<span class=\"name name-technology\">強化套裝效能</span>。<br><br>目前營養來源：<%NAMETAG%>%NAME%<><br>持續時間：<%TIMETAG%>%TIME%<><br>效果：<%EFFECTTAG%>%EFFECT%<>"
+    "English": "The nutrient ingestor improves <span class=\"name name-technology\">exosuit performance</span> via the automatic portioning and processing of various <span class=\"name name-stellar\">cooked items</span>.<br><br>Current Nutrition Source: <%NAMETAG%>Ingestor Empty<><br>Duration: <%TIMETAG%>%TIME%<><br>Effect: <%EFFECTTAG%>%EFFECT%<>",
+    "SimplifiedChinese": "营养摄入器能够通过自动化分类与处理各种<span class=\"name name-stellar\">烹饪品</span>来改进<span class=\"name name-technology\">套装性能</span>。<br><br>当前营养来源：<%NAMETAG%>摄入器已空<><br>持续时间：<%TIMETAG%>%TIME%<><br>效果：<%EFFECTTAG%>%EFFECT%<>",
+    "TraditionalChinese": "營養攝取器能透過自動分配和處理各種<span class=\"name name-stellar\">熟食</span>，改善<span class=\"name name-technology\">強化套裝效能</span>。<br><br>目前營養來源：<%NAMETAG%>攝取器空空如也<><br>持續時間：<%TIMETAG%>%TIME%<><br>效果：<%EFFECTTAG%>%EFFECT%<>"
   },
   "Teach": false,
   "HintStart": "",

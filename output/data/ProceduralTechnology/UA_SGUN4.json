@@ -1,0 +1,133 @@
+{
+  "ID": "UA_SGUN4",
+  "Template": "A_SHIPGUN",
+  "Group": {
+    "English": "Spewing Vents",
+    "SimplifiedChinese": "喷口",
+    "TraditionalChinese": "噴射口"
+  },
+  "Name": {
+    "English": [
+      [
+        "Vile",
+        "Foul",
+        "Vast",
+        "Boundless",
+        "Infinite"
+      ],
+      [
+        "Gas Sac",
+        "Vent Chamber",
+        "Mouth",
+        "Pouch",
+        "Cavity",
+        "Crevice",
+        "Beak",
+        "Cyst",
+        "Gills",
+        "Lips",
+        "Orifice"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "邪恶的",
+        "肮脏的",
+        "庞大的",
+        "无边的",
+        "无限的"
+      ],
+      [
+        "气囊",
+        "喷口舱",
+        "嘴",
+        "小袋",
+        "空洞",
+        "裂缝",
+        "喙",
+        "囊肿",
+        "鳃",
+        "嘴唇",
+        "孔口"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "邪惡",
+        "骯髒",
+        "遼闊",
+        "無盡",
+        "無限"
+      ],
+      [
+        "氣體囊",
+        "排放艙",
+        "嘴",
+        "袋",
+        "腔",
+        "裂縫",
+        "喙嘴",
+        "囊腫",
+        "鰓",
+        "嘴唇",
+        "孔"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Spewing Vents",
+    "SimplifiedChinese": "喷口",
+    "TraditionalChinese": "噴射口"
+  },
+  "Subtitle": {
+    "English": "S-Class Spewing Vents Node",
+    "SimplifiedChinese": "S级喷口节点",
+    "TraditionalChinese": "S等噴射口節點"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Spewing Vents</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">damage</span>, <span class=\"name name-stellar\">fire rate</span> and <span class=\"name name-stellar\">overheat times</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">喷口</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">伤害</span>，<span class=\"name name-stellar\">射速</span>和<span class=\"name name-stellar\">过热前使用次数</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">噴射口</span>的<span class=\"name name-commodity\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害值</span>、<span class=\"name name-stellar\">射擊速度</span>和<span class=\"name name-stellar\">過熱次數</span>。"
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Weapons_Guns_Damage",
+      "ValueMin": 20,
+      "ValueMax": 28,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_Rate",
+      "ValueMin": 1.021,
+      "ValueMax": 1.021,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Weapons_Guns_HeatTime",
+      "ValueMin": 1.03,
+      "ValueMax": 1.03,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

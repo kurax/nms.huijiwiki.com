@@ -1,0 +1,137 @@
+{
+  "ID": "UP_SUGUN2",
+  "Template": "T_SUBGUN",
+  "Group": {
+    "English": "Nautilon Cannon",
+    "SimplifiedChinese": "大鹦鹉螺大炮",
+    "TraditionalChinese": "巡洋龍砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "Re-pressurised",
+        "Waterproof",
+        "Fine-Tuned",
+        "Augmented",
+        "Oscillating"
+      ],
+      [
+        "Sonar Array",
+        "Sonic Batteries",
+        "Ion Coils",
+        "Saline Beam",
+        "Liquid Ignitors",
+        "Purifier Unit",
+        "Pressure Nozzle",
+        "Hyperthermal Pump",
+        "Power Array",
+        "Lux Stabiliser"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "再加压的",
+        "防水的",
+        "精调的",
+        "增强的",
+        "振荡的"
+      ],
+      [
+        "声纳阵列",
+        "音波电池",
+        "离子线圈",
+        "盐光束",
+        "液体起爆机",
+        "净化装置",
+        "压力喷嘴",
+        "高温泵",
+        "能量阵列",
+        "勒克斯稳定器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "重新加壓的",
+        "防水",
+        "精調",
+        "增強",
+        "震盪"
+      ],
+      [
+        "聲納陣列",
+        "音速電池",
+        "離電圈",
+        "鹽水光束",
+        "液態點火器",
+        "淨化器元件",
+        "壓力噴嘴",
+        "高熱泵",
+        "能量陣列",
+        "路克斯穩定器"
+      ]
+    ],
+    "USEnglish": [
+      [
+        "Re-pressurized"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Lux Stabilizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Nautilon Cannon",
+    "SimplifiedChinese": "大鹦鹉螺大炮",
+    "TraditionalChinese": "巡洋龍砲"
+  },
+  "Subtitle": {
+    "English": "B-Class Nautilon Cannon Upgrade",
+    "SimplifiedChinese": "B 级大鹦鹉螺大炮升级",
+    "TencentChinese": "初级大鹦鹉螺大炮升级",
+    "TraditionalChinese": "B 級巡洋龍砲升級"
+  },
+  "Description": "UP_EXO_SUBGUN2_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Rare",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsSuperRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "ValueMin": 10,
+      "ValueMax": 20,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "ValueMin": 0.95,
+      "ValueMax": 0.97,
+      "WeightingCurve": "MinIsRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

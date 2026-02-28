@@ -1,0 +1,148 @@
+{
+  "ID": "UP_EXGUN4",
+  "Template": "T_EXGUN",
+  "Group": {
+    "English": "Mounted Cannon",
+    "SimplifiedChinese": "悬挂大炮",
+    "TencentChinese": "强化艇悬挂大炮",
+    "TraditionalChinese": "固定大砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "Indium",
+        "Antimatter",
+        "Vectorised",
+        "Faultless",
+        "Quantum"
+      ],
+      [
+        "Accelerator",
+        "Mass Chamber",
+        "Injectors",
+        "Plating",
+        "Recycler",
+        "Core",
+        "Magnets",
+        "Generator Unit",
+        "Capacitors",
+        "Stabiliser"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "铟",
+        "反物质",
+        "矢量化",
+        "无失误",
+        "量子"
+      ],
+      [
+        "加速器",
+        "质量舱",
+        "注射器",
+        "电镀",
+        "循环器",
+        "核心",
+        "磁铁",
+        "发电机单元",
+        "电容",
+        "稳定器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "銦",
+        "反物質",
+        "向量化",
+        "完美無缺",
+        "量子"
+      ],
+      [
+        "加速器",
+        "質量艙",
+        "注射器",
+        "電鍍",
+        "回收器",
+        "核心",
+        "磁鐵",
+        "發電機元件",
+        "電容器",
+        "固定器"
+      ]
+    ],
+    "USEnglish": [
+      [
+        null,
+        null,
+        "Vectorized"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Stabilizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Mounted Cannon",
+    "SimplifiedChinese": "悬挂大炮",
+    "TencentChinese": "强化艇悬挂大炮",
+    "TraditionalChinese": "固定大砲"
+  },
+  "Subtitle": {
+    "English": "S-Class Mounted Cannon Upgrade",
+    "SimplifiedChinese": "S 级悬挂大炮升级",
+    "TencentChinese": "高级强化艇悬挂大炮升级",
+    "TraditionalChinese": "S 級固定大砲升級"
+  },
+  "Description": "UP_EXGUN4_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "ValueMin": 30,
+      "ValueMax": 40,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "ValueMin": 0.8,
+      "ValueMax": 0.85,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "ValueMin": 0.9,
+      "ValueMax": 0.93,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "ID": "UA_HYP4",
+  "Template": "A_HDRIVE",
+  "Group": {
+    "English": "Singularity Cortex",
+    "SimplifiedChinese": "奇点主茎",
+    "TraditionalChinese": "奇異點皮質"
+  },
+  "Name": {
+    "English": [
+      [
+        "All-Knowing",
+        "Precious",
+        "Dignified",
+        "Beautiful",
+        "Ancient"
+      ],
+      [
+        "Cluster Stem",
+        "Lobes",
+        "Memory Calculus",
+        "Emotal Core",
+        "Stellar Processor",
+        "Bio-Reality Generator",
+        "Hive Stem",
+        "Neural Matrix",
+        "Sensory Veil",
+        "Lobe Actuator"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "全知的",
+        "珍稀的",
+        "庄严的",
+        "美丽的",
+        "古代的"
+      ],
+      [
+        "簇茎",
+        "肺叶",
+        "内存微积分",
+        "情感核心",
+        "星球处理器",
+        "生化现实生成器",
+        "集体茎",
+        "神经矩阵",
+        "感官面纱",
+        "叶片执行器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "全知",
+        "貴重",
+        "莊嚴",
+        "美麗",
+        "古老"
+      ],
+      [
+        "團簇莖",
+        "腦葉",
+        "記憶結石",
+        "情感核心",
+        "恆星處理器",
+        "生物現實生成器",
+        "蜂巢之幹",
+        "神經矩陣",
+        "感覺面紗",
+        "腦葉引動器"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Singularity Cortex",
+    "SimplifiedChinese": "奇点主茎",
+    "TraditionalChinese": "奇異點皮質"
+  },
+  "Subtitle": {
+    "English": "S-Class Singularity Cortex Node",
+    "SimplifiedChinese": "S级奇点主茎节点",
+    "TraditionalChinese": "S等奇異點皮質節點"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Singularity Cortex</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">warp-drive efficiency</span> and <span class=\"name name-stellar\">jump distance</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">奇点主茎</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">曲速引擎效率</span>和<span class=\"name name-stellar\">跃迁距离</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">奇異點皮質</span>的<span class=\"name name-commodity\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">空間跳躍驅動器的效率</span>和<span class=\"name name-stellar\">跳躍距離</span>。",
+    "USEnglish": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Singularity Cortex</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">warp-drive efficiency</span> and <span class=\"name name-stellar\">jump distance</span>."
+  },
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Hyperdrive_JumpDistance",
+      "ValueMin": 220,
+      "ValueMax": 265,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpsPerCell",
+      "ValueMin": 1,
+      "ValueMax": 1,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    }
+  ]
+}

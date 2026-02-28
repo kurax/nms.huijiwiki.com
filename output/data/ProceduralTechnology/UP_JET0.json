@@ -1,0 +1,129 @@
+{
+  "ID": "UP_JET0",
+  "Template": "T_JET",
+  "Group": {
+    "English": "Movement System",
+    "SimplifiedChinese": "运动系统",
+    "TraditionalChinese": "移動系統"
+  },
+  "Name": {
+    "English": [
+      null,
+      [
+        "Tanks",
+        "Pump",
+        "Exhaust",
+        "Igniter",
+        "Jets",
+        "Dynamo",
+        "Turbine",
+        "Combustion Unit",
+        "Diffuser",
+        "Nozzles"
+      ]
+    ],
+    "SimplifiedChinese": [
+      null,
+      [
+        "罐",
+        "泵",
+        "排气管",
+        "点火器",
+        "喷射器",
+        "发电机",
+        "涡轮",
+        "燃烧装置",
+        "扩散器",
+        "喷嘴"
+      ]
+    ],
+    "TraditionalChinese": [
+      null,
+      [
+        "槽",
+        "泵",
+        "排氣管",
+        "點火器",
+        "噴射機",
+        "發電機",
+        "渦輪",
+        "燃燒裝置",
+        "擴散器",
+        "噴嘴"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Movement System",
+    "SimplifiedChinese": "运动系统",
+    "TraditionalChinese": "移動系統"
+  },
+  "Subtitle": {
+    "English": "Rusted Movement System Upgrade",
+    "SimplifiedChinese": "锈蚀运动系统升级",
+    "TraditionalChinese": "生鏽的移動系統升級"
+  },
+  "Description": "UP_SEATRASH_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "SeaTrash",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 4,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Suit_Jetpack_Tank",
+      "ValueMin": 1,
+      "ValueMax": 1.1,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": true
+    },
+    {
+      "Stat": "Suit_Stamina_Strength",
+      "ValueMin": 0.1,
+      "ValueMax": 0.15,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Stamina_Recovery",
+      "ValueMin": 1.01,
+      "ValueMax": 1.05,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Jetpack_Drain",
+      "ValueMin": 0.95,
+      "ValueMax": 0.99,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_Jetpack_Ignition",
+      "ValueMin": 1.01,
+      "ValueMax": 1.05,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": true
+    },
+    {
+      "Stat": "Suit_Jetpack_Refill",
+      "ValueMin": 1.01,
+      "ValueMax": 1.05,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

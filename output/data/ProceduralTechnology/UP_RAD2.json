@@ -1,0 +1,140 @@
+{
+  "ID": "UP_RAD2",
+  "Template": "T_RAD",
+  "Group": {
+    "English": "Radiation Protection",
+    "SimplifiedChinese": "辐射防护",
+    "TraditionalChinese": "輻射防護"
+  },
+  "Name": {
+    "English": [
+      [
+        "Barium",
+        "Positron",
+        "Polarised",
+        "Tantalum",
+        "Boron"
+      ],
+      [
+        "Radiation Shield",
+        "Bio-Integrity Unit",
+        "DNA Repair System",
+        "Neutron Sink",
+        "Sievert Barrier",
+        "Ion Shield",
+        "Dose Modulator",
+        "Alpha Barrier",
+        "Gamma Shield",
+        "Deionizer"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "钡",
+        "正电子",
+        "偏振的",
+        "钽",
+        "硼"
+      ],
+      [
+        "辐射护盾",
+        "生物完整装置",
+        "DNA修复系统",
+        "中子吸收器",
+        "希沃特屏障",
+        "离子护盾",
+        "剂量调制器",
+        "阿尔法屏障",
+        "伽马护盾",
+        "去离子器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "鋇",
+        "正電子",
+        "已偏振",
+        "鉭",
+        "硼"
+      ],
+      [
+        "輻射防護罩",
+        "生物完整性元件",
+        "DNA 修復系統",
+        "中子槽",
+        "西弗屏障",
+        "離子防護罩",
+        "劑量調變器",
+        "阿爾發屏障",
+        "伽瑪防護罩",
+        "去離子器"
+      ]
+    ],
+    "USEnglish": [
+      [
+        null,
+        null,
+        "Polarized"
+      ]
+    ],
+    "TencentChinese": [
+      null,
+      [
+        null,
+        null,
+        "基因修复系统"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Radiation Protection",
+    "SimplifiedChinese": "辐射防护",
+    "TraditionalChinese": "輻射防護"
+  },
+  "Subtitle": {
+    "English": "A-Class Radiation Protection Upgrade",
+    "SimplifiedChinese": "A 级辐射防护升级",
+    "TencentChinese": "中级辐射防护升级",
+    "TraditionalChinese": "A 級輻射防護升級"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">extremely powerful</span> upgrade for the <span class=\"name name-technology\">Exosuit Radiation Protection System</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Drastically improves survival times in <span class=\"name name-commodity\">radioactive environments</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">套装辐射防护系统</span>的<span class=\"name name-special\">极强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>极大地提升<span class=\"name name-commodity\">辐射环境</span>中的生存时间。",
+    "TencentChinese": "对<span class=\"name name-technology\">套装辐射防护系统</span>的<span class=\"name name-special\">极强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>极大地提升<span class=\"name name-technology\">辐射环境</span>中的生存时间。",
+    "TraditionalChinese": "<span class=\"name name-special\">強化套裝輻射防護系統</span>的<span class=\"name name-technology\">超強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>大幅提升<span class=\"name name-commodity\">輻射環境</span>生存時間。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Suit_Protection_Radiation",
+      "ValueMin": 240,
+      "ValueMax": 320,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Suit_DamageReduce_Radiation",
+      "ValueMin": 0.85,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

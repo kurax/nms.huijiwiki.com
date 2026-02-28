@@ -1,0 +1,140 @@
+{
+  "ID": "UP_PULSE3",
+  "Template": "T_SHIPJUMP",
+  "Group": {
+    "English": "Pulse Engine",
+    "SimplifiedChinese": "脉冲驱动器",
+    "TraditionalChinese": "脈衝驅動器"
+  },
+  "Name": {
+    "English": [
+      [
+        "Extreme",
+        "Augmented",
+        "Solid State",
+        "Gyroscopic",
+        "Specialist"
+      ],
+      [
+        "Propulsion Unit",
+        "Thrust Controller",
+        "Impulse Nozzle",
+        "Shockwave Shield",
+        "Magnetic Fan",
+        "Hydrogen Dynamo",
+        "Plasma Exhaust",
+        "Fuel Pipes",
+        "Neutrino Injector",
+        "Electron Loom"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "极端的",
+        "增强的",
+        "固态的",
+        "陀螺的",
+        "专业的"
+      ],
+      [
+        "推进装置",
+        "推进控制器",
+        "冲动喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "極端",
+        "已增強",
+        "固態",
+        "迴轉",
+        "專家"
+      ],
+      [
+        "推進裝置",
+        "推進控制器",
+        "脈衝噴嘴",
+        "衝擊波防護罩",
+        "磁性風扇",
+        "氫發電機",
+        "電漿排氣管",
+        "燃料管",
+        "微中子注射器",
+        "電子套管"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Pulse Engine",
+    "SimplifiedChinese": "脉冲驱动器",
+    "TraditionalChinese": "脈衝驅動器"
+  },
+  "Subtitle": {
+    "English": "A-Class Pulse Engine Upgrade",
+    "SimplifiedChinese": "A 级脉冲驱动器升级",
+    "TencentChinese": "中级脉冲驱动器升级",
+    "TraditionalChinese": "A 級脈衝驅動器升級"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">extremely powerful</span> upgrade for the <span class=\"name name-technology\">Starship Pulse Engine</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">starship manoeuvrability</span> and <span class=\"name name-stellar\">speed</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">飞船脉冲驱动器</span>的<span class=\"name name-special\">极强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升：<span class=\"name name-stellar\">飞船机动性</span>和<span class=\"name name-stellar\">速度</span>。",
+    "TencentChinese": "<span class=\"name name-technology\">飞船脉冲驱动器</span>的<span class=\"name name-special\">极强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>提升<span class=\"name name-stellar\">飞船机动性</span>和<span class=\"name name-stellar\">速度</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">太空船脈衝引擎</span>的<span class=\"name name-special\">超強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">太空船機動力</span>和<span class=\"name name-stellar\">速度</span>。",
+    "USEnglish": "An <span class=\"name name-special\">extremely powerful</span> upgrade for the <span class=\"name name-technology\">Starship Pulse Engine</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">starship maneuverability</span> and <span class=\"name name-stellar\">speed</span>."
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 3,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_PulseDrive_MiniJumpFuelSpending",
+      "ValueMin": 0.8,
+      "ValueMax": 0.85,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Boost",
+      "ValueMin": 1.1,
+      "ValueMax": 1.2,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_BoostManeuverability",
+      "ValueMin": 1.05,
+      "ValueMax": 1.16,
+      "WeightingCurve": "MaxIsRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Maneuverability",
+      "ValueMin": 1.005,
+      "ValueMax": 1.005,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": true
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ID": "UP_FRSPE4",
+  "Template": "T_FR_SPEED",
+  "Group": {
+    "English": "EXPEDITION SPEED CONTROL",
+    "SimplifiedChinese": "远征速度控制",
+    "TraditionalChinese": "探險速度控制"
+  },
+  "Name": {
+    "English": "EXPEDITION SPEED CONTROL",
+    "SimplifiedChinese": "远征速度控制",
+    "TraditionalChinese": "探險速度控制"
+  },
+  "NameLower": {
+    "English": "Expedition Speed Control",
+    "SimplifiedChinese": "远征速度控制",
+    "TraditionalChinese": "探險速度控制"
+  },
+  "Subtitle": {
+    "English": "Salvaged Freighter Module",
+    "SimplifiedChinese": "已回收的货船模块",
+    "TraditionalChinese": "回收貨船模組"
+  },
+  "Description": {
+    "English": "A piece of fleet coordination hardware salvaged from wreck of the <span class=\"name name-technology\">Expedition Speed Control</span>. The unit has been repackaged and inserted alongside the freighter's long-range communication systems.<br><br>The unit offers improvements to <span class=\"name name-stellar\">expedition speed</span>.",
+    "SimplifiedChinese": "从<span class=\"name name-technology\">远征速度控制</span>残骸中回收的一件舰队协调硬件。这件装置已经重新包装并插入，与货船的远程通信系统一同使用。<br><br>该装置可改善<span class=\"name name-stellar\">远征速度</span>。",
+    "TraditionalChinese": "從<span class=\"name name-technology\">探險速度控制</span>殘骸回收的一塊協調硬體，已經重新包裝並插入貨船的長程通訊系統。<br><br>這個單元能改善<span class=\"name name-stellar\">探險速度</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Scanning",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 1,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Freighter_Fleet_Speed",
+      "ValueMin": 1.15,
+      "ValueMax": 1.15,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

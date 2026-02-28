@@ -1,0 +1,144 @@
+{
+  "ID": "UP_GREN4",
+  "Template": "T_GRENADE",
+  "Group": {
+    "English": "Plasma Launcher",
+    "SimplifiedChinese": "等离子发射器",
+    "TraditionalChinese": "電漿發射器"
+  },
+  "Name": {
+    "English": [
+      [
+        "M-Field",
+        "Antimatter",
+        "Gravitational",
+        "Nano-Boosted",
+        "Induction"
+      ],
+      [
+        "Compressor",
+        "Launch System",
+        "Injector Plugs",
+        "Release Mechanism",
+        "Gas Expander",
+        "Core",
+        "Coils",
+        "Shell Loader",
+        "Heat Pump",
+        "Timing Loom"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "M 场",
+        "反物质",
+        "引力",
+        "纳米增强",
+        "感应"
+      ],
+      [
+        "压缩机",
+        "发射系统",
+        "注射器插头",
+        "释放机制",
+        "气体扩张器",
+        "核心",
+        "线圈",
+        "制弹器",
+        "热力泵",
+        "定时套管"
+      ]
+    ],
+    "TencentChinese": [
+      [
+        "物质场"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "M 場",
+        "反物質",
+        "引力的",
+        "奈米增強的",
+        "感應"
+      ],
+      [
+        "壓縮機",
+        "發射系統",
+        "注射器插頭",
+        "釋放機制",
+        "氣體擴張器",
+        "核心",
+        "線圈",
+        "製彈器",
+        "熱力泵",
+        "定時套管"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Plasma Launcher",
+    "SimplifiedChinese": "等离子发射器",
+    "TraditionalChinese": "電漿發射器"
+  },
+  "Subtitle": {
+    "English": "S-Class Plasma Launcher Upgrade",
+    "SimplifiedChinese": "S 级等离子发射器升级",
+    "TencentChinese": "高级等离子发射器升级",
+    "TraditionalChinese": "S 級電漿發射器升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">supremely powerful</span> upgrade for the <span class=\"name name-technology\">Plasma Launcher</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential upgrades include: Explosion <span class=\"name name-stellar\">damage</span> and <span class=\"name name-stellar\">radius</span>, as well as increasing the maximum number of pre-explosion <span class=\"name name-stellar\">bounces</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">等离子发射器</span>的<span class=\"name name-commodity\">至强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升爆炸<span class=\"name name-stellar\">伤害</span>和<span class=\"name name-stellar\">范围</span>，同时增加爆炸前的最大<span class=\"name name-stellar\">弹跳次数</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">等离子发射器</span>的<span class=\"name name-commodity\">至强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>提升迸裂<span class=\"name name-stellar\">伤害</span>和<span class=\"name name-stellar\">范围</span>，同时增加迸裂前的最大<span class=\"name name-stellar\">弹跳次数</span>。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">電漿發射器</span>的<span class=\"name name-technology\">最強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：爆炸的<span class=\"name name-stellar\">傷害值</span>和<span class=\"name name-stellar\">半徑</span>，同時增加爆炸前<span class=\"name name-stellar\">反彈</span>的最大次數。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Legendary",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Grenade_Damage",
+      "ValueMin": 350,
+      "ValueMax": 400,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Grenade_Bounce",
+      "ValueMin": 3,
+      "ValueMax": 3,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Grenade_Radius",
+      "ValueMin": 1.1,
+      "ValueMax": 1.15,
+      "WeightingCurve": "MaxIsSuperRare",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Grenade_Speed",
+      "ValueMin": 2,
+      "ValueMax": 3,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

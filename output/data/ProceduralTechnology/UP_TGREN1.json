@@ -1,0 +1,132 @@
+{
+  "ID": "UP_TGREN1",
+  "Template": "T_T_GREN",
+  "Group": {
+    "English": "Geology Cannon",
+    "SimplifiedChinese": "地质大炮",
+    "TraditionalChinese": "地質砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "Boosted",
+        "Secondary",
+        "Tertiary",
+        "Efficient",
+        "Lubricated"
+      ],
+      [
+        "Compressor",
+        "Launch System",
+        "Injector Plugs",
+        "Release Mechanism",
+        "Gas Expander",
+        "Core",
+        "Coils",
+        "Shell Loader",
+        "Heat Pump",
+        "Timing Loom"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "增强的",
+        "第二的",
+        "第三的",
+        "高效的",
+        "润滑的"
+      ],
+      [
+        "压缩机",
+        "发射系统",
+        "注射器塞头",
+        "释放机制",
+        "气体扩张器",
+        "核心",
+        "线圈",
+        "制弹器",
+        "热力泵",
+        "定时套管"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "已加速",
+        "次要",
+        "第三",
+        "高效",
+        "已潤滑"
+      ],
+      [
+        "壓縮機",
+        "發射系統",
+        "注射器塞頭",
+        "釋放機制",
+        "氣體擴張器",
+        "核心",
+        "線圈",
+        "彈殼填裝器",
+        "熱能泵",
+        "定時套管"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Geology Cannon",
+    "SimplifiedChinese": "地质大炮",
+    "TraditionalChinese": "地質砲"
+  },
+  "Subtitle": {
+    "English": "C-Class Geology Cannon Upgrade",
+    "SimplifiedChinese": "C 级地质大炮升级",
+    "TencentChinese": "低级地质大炮升级",
+    "TraditionalChinese": "C 級地質砲升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the <span class=\"name name-technology\">Geology Cannon</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potentially increases <span class=\"name name-stellar\">explosion damage</span> or <span class=\"name name-stellar\">crater radius</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">地质大炮</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">爆炸伤害</span>或<span class=\"name name-stellar\">爆炸范围</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">地质大炮</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>同时提升<span class=\"name name-stellar\">迸裂伤害</span>和<span class=\"name name-stellar\">迸裂范围</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">地質砲</span>的<span class=\"name name-tradeable\">一般</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">爆炸傷害值</span>或<span class=\"name name-stellar\">爆炸坑半徑</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Normal",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 1,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Weapon_Grenade_Damage",
+      "ValueMin": 100,
+      "ValueMax": 200,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Grenade_Radius",
+      "ValueMin": 1.1,
+      "ValueMax": 1.2,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Weapon_Grenade_Speed",
+      "ValueMin": 1,
+      "ValueMax": 2,
+      "WeightingCurve": "MaxIsSuperRare",
+      "AlwaysChoose": false
+    }
+  ]
+}

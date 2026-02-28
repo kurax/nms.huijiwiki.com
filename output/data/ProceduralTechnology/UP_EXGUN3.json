@@ -1,0 +1,144 @@
+{
+  "ID": "UP_EXGUN3",
+  "Template": "T_EXGUN",
+  "Group": {
+    "English": "Mounted Cannon",
+    "SimplifiedChinese": "悬挂大炮",
+    "TencentChinese": "强化艇悬挂大炮",
+    "TraditionalChinese": "固定大砲"
+  },
+  "Name": {
+    "English": [
+      [
+        "Emeril",
+        "Plasma",
+        "Parallel",
+        "Superconductive",
+        "Superb"
+      ],
+      [
+        "Accelerator",
+        "Mass Chamber",
+        "Injectors",
+        "Plating",
+        "Recycler",
+        "Core",
+        "Magnets",
+        "Generator Unit",
+        "Capacitors",
+        "Stabiliser"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "艾梅里尔",
+        "等离子",
+        "平行",
+        "超导",
+        "极好"
+      ],
+      [
+        "加速器",
+        "质量舱",
+        "注射器",
+        "电镀",
+        "循环器",
+        "核心",
+        "磁铁",
+        "发电机单元",
+        "电容",
+        "稳定器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "砪",
+        "電漿",
+        "平行",
+        "超導體",
+        "一流"
+      ],
+      [
+        "加速器",
+        "質量艙",
+        "注射器",
+        "電鍍",
+        "回收器",
+        "核心",
+        "磁鐵",
+        "發電機元件",
+        "電容器",
+        "固定器"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Stabilizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Mounted Cannon",
+    "SimplifiedChinese": "悬挂大炮",
+    "TencentChinese": "强化艇悬挂大炮",
+    "TraditionalChinese": "固定大砲"
+  },
+  "Subtitle": {
+    "English": "A-Class Mounted Cannon Upgrade",
+    "SimplifiedChinese": "A 级悬挂大炮升级",
+    "TencentChinese": "中级强化艇悬挂大炮升级",
+    "TraditionalChinese": "A 級固定大砲升級"
+  },
+  "Description": "UP_EXGUN3_DESC",
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 3,
+  "NumStatsMax": 3,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Vehicle_GunDamage",
+      "ValueMin": 20,
+      "ValueMax": 30,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunHeatTime",
+      "ValueMin": 0.85,
+      "ValueMax": 0.9,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Vehicle_GunRate",
+      "ValueMin": 0.93,
+      "ValueMax": 0.95,
+      "WeightingCurve": "MinIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "ID": "UP_SLASR1",
+  "Template": "T_SHIPLAS",
+  "Group": {
+    "English": "Phase Beam",
+    "SimplifiedChinese": "相位光束",
+    "TraditionalChinese": "相位光束"
+  },
+  "Name": {
+    "English": [
+      [
+        "Retuned",
+        "Enhanced",
+        "Boosted",
+        "Efficient",
+        "Additional"
+      ],
+      [
+        "Beam Amplifier",
+        "Beam Capacitor",
+        "Lens Optics",
+        "Emission Chamber",
+        "Photon Mirror",
+        "Cooling System",
+        "Diode Battery",
+        "Light Filter",
+        "Reflector Glass",
+        "Output Coupler"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "重新调整",
+        "强化的",
+        "增强的",
+        "高效的",
+        "额外的"
+      ],
+      [
+        "光束放大器",
+        "光束电容",
+        "镜头光学",
+        "放射舱",
+        "光子镜",
+        "冷却系统",
+        "二极管电池",
+        "滤光器",
+        "偏导玻璃",
+        "输出耦合器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "協調",
+        "強化",
+        "已加速",
+        "高效",
+        "額外"
+      ],
+      [
+        "光束增幅器",
+        "光束電容器",
+        "透鏡光學儀器",
+        "排放艙",
+        "光子鏡",
+        "冷卻系統",
+        "二極體電池",
+        "遮光罩",
+        "反射器玻璃",
+        "輸出耦合器"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Phase Beam",
+    "SimplifiedChinese": "相位光束",
+    "TraditionalChinese": "相位光束"
+  },
+  "Subtitle": {
+    "English": "C-Class Phase Beam Upgrade",
+    "SimplifiedChinese": "C 级相位光束升级",
+    "TencentChinese": "低级相位光束升级",
+    "TraditionalChinese": "C 級相位光束升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the <span class=\"name name-technology\">Starship Phase Beam</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">damage output</span>, and <span class=\"name name-stellar\">overheat tolerance</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">飞船相位光束</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">伤害输出</span>和<span class=\"name name-stellar\">耐热性</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">飞船相位光束</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>通过提升<span class=\"name name-stellar\">伤害</span>和<span class=\"name name-stellar\">耐热性</span>来提升战斗效率。",
+    "TraditionalChinese": "<span class=\"name name-technology\">太空船相位光束</span>的<span class=\"name name-tradeable\">一般</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害輸出</span>和<span class=\"name name-stellar\">過熱的承受能力</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Normal",
+  "Category": "Combat",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 1,
+  "NumStatsMax": 2,
+  "WeightingCurve": "MaxIsRare",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Weapons_Lasers_HeatTime",
+      "ValueMin": 1.1,
+      "ValueMax": 1.35,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Weapons_Lasers_Damage",
+      "ValueMin": 30,
+      "ValueMax": 40,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    }
+  ]
+}

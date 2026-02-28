@@ -1,0 +1,137 @@
+{
+  "ID": "UP_HYP3",
+  "Template": "T_HDRIVE",
+  "Group": {
+    "English": "Hyperdrive",
+    "SimplifiedChinese": "超光速推进",
+    "TraditionalChinese": "超空間驅動器"
+  },
+  "Name": {
+    "English": [
+      [
+        "Extreme",
+        "Augmented",
+        "Solid State",
+        "Gyroscopic",
+        "Specialist"
+      ],
+      [
+        "Warp Core",
+        "Antimatter Injector",
+        "Reality Destabiliser",
+        "Frame Drag Limiter",
+        "Pressure Inverter",
+        "Vacuum Drive",
+        "Distance Polariser",
+        "Causality Isolator",
+        "Relativity Shield",
+        "Superluminal Drive"
+      ]
+    ],
+    "SimplifiedChinese": [
+      [
+        "极端",
+        "增强",
+        "固态",
+        "陀螺",
+        "专业"
+      ],
+      [
+        "曲速核心",
+        "反物质注射器",
+        "现实破坏器",
+        "参考系拖拽限制器",
+        "压力反相器",
+        "真空驱动器",
+        "距离偏振器",
+        "因果隔离器",
+        "相对性护盾",
+        "超光速驱动器"
+      ]
+    ],
+    "TraditionalChinese": [
+      [
+        "極端的",
+        "增強的",
+        "固態",
+        "迴旋",
+        "專家"
+      ],
+      [
+        "空間跳躍核心",
+        "反物質生成器",
+        "現實破壞器",
+        "參考系拖拽限制器",
+        "壓力反相器",
+        "真空驅動器",
+        "距離偏振器",
+        "因果隔離器",
+        "相對論防護罩",
+        "超光速驅動器"
+      ]
+    ],
+    "USEnglish": [
+      null,
+      [
+        null,
+        null,
+        "Reality Destabilizer",
+        null,
+        null,
+        null,
+        "Distance Polarizer"
+      ]
+    ]
+  },
+  "NameLower": {
+    "English": "Hyperdrive",
+    "SimplifiedChinese": "超光速推进",
+    "TraditionalChinese": "超空間驅動器"
+  },
+  "Subtitle": {
+    "English": "A-Class Hyperdrive Upgrade",
+    "SimplifiedChinese": "A 级超光速推进升级",
+    "TencentChinese": "中级超光速推进升级",
+    "TraditionalChinese": "A 級超空間驅動器升級"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">extremely powerful</span> upgrade for the <span class=\"name name-technology\">Hyperdrive</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">warp-drive efficiency</span> and <span class=\"name name-stellar\">jump distance</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">超光速推进器</span>的<span class=\"name name-special\">极强</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">曲速引擎效率</span>和<span class=\"name name-stellar\">跃迁距离</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">超光速推进器</span>的<span class=\"name name-special\">极强</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>提升<span class=\"name name-stellar\">曲速引擎效率</span>和<span class=\"name name-stellar\">跃迁距离</span>。",
+    "TraditionalChinese": "<span class=\"name name-special\">超空間驅動器</span>的<span class=\"name name-technology\">超強大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">空間跳躍驅動器的效率</span>和<span class=\"name name-stellar\">跳躍距離</span>。"
+  },
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Quality": "Epic",
+  "Category": "Protection",
+  "IsBiggsProcTech": false,
+  "NumStatsMin": 2,
+  "NumStatsMax": 2,
+  "WeightingCurve": "NoWeighting",
+  "UpgradeColour": {
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "A": 1
+  },
+  "StatLevels": [
+    {
+      "Stat": "Ship_Hyperdrive_JumpDistance",
+      "ValueMin": 165,
+      "ValueMax": 220,
+      "WeightingCurve": "MaxIsUncommon",
+      "AlwaysChoose": false
+    },
+    {
+      "Stat": "Ship_Hyperdrive_JumpsPerCell",
+      "ValueMin": 1,
+      "ValueMax": 1,
+      "WeightingCurve": "NoWeighting",
+      "AlwaysChoose": false
+    }
+  ]
+}
