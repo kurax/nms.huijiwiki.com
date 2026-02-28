@@ -1,0 +1,89 @@
+{
+  "ID": "ALIEN_INV_TOKEN",
+  "Name": {
+    "English": "SPAWNING SAC",
+    "SimplifiedChinese": "腐化的囊",
+    "TraditionalChinese": "繁殖卵囊"
+  },
+  "NameLower": {
+    "English": "Spawning Sac",
+    "SimplifiedChinese": "腐化的囊",
+    "TraditionalChinese": "繁殖卵囊"
+  },
+  "Subtitle": {
+    "English": "Sentient Vessel Storage Sac",
+    "SimplifiedChinese": "有感知力的飞船存储囊",
+    "TraditionalChinese": "感知太空船倉儲卵囊"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">additional storage nodule</span> for <span class=\"name name-technology\">Sentient</span> starships. Upon hatching, the parasite inside this sac is grafted upon the vessel, exchanging the use of its cavernous innards for vital nutrients from the host.<br><br>Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger growth and begin the <VAL_ON>hatching process<>.",
+    "SimplifiedChinese": "一个<span class=\"name name-special\">额外的储存结点</span>，用于<span class=\"name name-technology\">有感知力的</span>飞船。孵化后，这个囊中的寄生虫会被嫁接到容器上，它的内脏会转换为宿主的重要营养。<br><br>使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>来触发生长，开始<VAL_ON>孵化过程<>。",
+    "TraditionalChinese": "一個<span class=\"name name-special\">知覺</span>太空船的<span class=\"name name-technology\">額外倉儲結節</span>。孵化時，卵囊內的寄生蟲會寄生到船艙上，利用其海綿狀的內部構造與宿主交換重要養分。<br><br>按下 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 以觸發成長，並開始<VAL_ON>孵化過程<>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 125000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.biocomp4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00801275671,
+  "NormalisedValueOffWorld": 0.00801275671,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Spawning Sac",
+    "SimplifiedChinese": "寻找腐化的囊",
+    "TencentChinese": "寻找腐化的囊",
+    "TraditionalChinese": "找出繁殖卵囊"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

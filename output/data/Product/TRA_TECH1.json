@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_TECH1",
+  "Name": {
+    "English": "DECOMMISSIONED CIRCUITS",
+    "SimplifiedChinese": "报废电路板",
+    "TencentChinese": "老旧电路板",
+    "TraditionalChinese": "淘汰迴路"
+  },
+  "NameLower": {
+    "English": "Decommissioned Circuits",
+    "SimplifiedChinese": "报废电路板",
+    "TencentChinese": "老旧电路板",
+    "TraditionalChinese": "淘汰迴路"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Technology)",
+    "SimplifiedChinese": "交易货物（技术）",
+    "TencentChinese": "技术部件",
+    "TraditionalChinese": "貿易商品 (科技)"
+  },
+  "Description": {
+    "English": "A collection of salvaged circuitry.<br><br><span class=\"name name-special\">Power generation</span> economies go through vast numbers of high-tech components. As such, the demand is present even for highly damaged circuits, to be scavenged for parts or just plugged wholesale into low-quality power cores.",
+    "SimplifiedChinese": "一团回收来的电路。<br><br><span class=\"name name-special\">发电</span>型经济体需要大量高科技部件。因为这个原因，甚至受损严重的电路都有需求市场，因为能够从电路中回收零部件或者直接装入低品质能源核心。",
+    "TencentChinese": "一团回收来的电路。<br><br><span class=\"name name-special\">发电</span>型经济体需要大量高科技部件。因为这个原因，甚至受损严重的电路都有需求市场，因为能够从电路中回收零部件或者直接装入低品质能源核心。",
+    "TraditionalChinese": "一批回收的廢棄電路設備。<br><br><span class=\"name name-special\">發電</span>經濟體會耗損大量高科技元件。因此即便是嚴重毀損的電路，也有買家願意收購，藉此回收殘存零件，或整組裝入劣質的能量核心。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.tech1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "Tech",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1.2,
+  "PinObjective": {
+    "English": "Purchase Decommissioned Circuits from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买报废电路板",
+    "TencentChinese": "从空间站的交易终端购买老旧电路板",
+    "TraditionalChinese": "從太空站交易終端站購買淘汰迴路"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

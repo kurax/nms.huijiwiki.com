@@ -1,0 +1,89 @@
+{
+  "ID": "U_SENTGUN",
+  "Name": {
+    "English": "SENTINEL WEAPONS SHARD",
+    "SimplifiedChinese": "护卫武器碎片",
+    "TraditionalChinese": "巡警武器碎片"
+  },
+  "NameLower": {
+    "English": "Sentinel Weapons Shard",
+    "SimplifiedChinese": "护卫武器碎片",
+    "TraditionalChinese": "巡警武器碎片"
+  },
+  "Subtitle": {
+    "English": "Forbidden Multi-Tool Module",
+    "SimplifiedChinese": "禁忌的多用途工具模块",
+    "TraditionalChinese": "禁止的工具組模組"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">anomalous</span> upgrade for the Multi-Tool's <span class=\"name name-technology\">Weapon Systems</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>This eerie, glassy shard has been extracted from <span class=\"name name-special\">Sentinel debris</span>. Its exact effect upon the Multi-Tool will not be known until after installation is complete.",
+    "SimplifiedChinese": "多用途工具<span class=\"name name-special\">武器系统</span>的<span class=\"name name-technology\">异常</span>升级组件。按<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始升级<VAL_ON>安装流程<>。<br><br>从<span class=\"name name-special\">护卫残骸</span>中提取的诡异玻璃碎片。完成安装流程后才能知道这种升级组件为多用途工具提供的具体效果。",
+    "TraditionalChinese": "工具組<span class=\"name name-technology\">武器系統</span>的<span class=\"name name-special\">異常</span>升級。使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>這個詭異的玻璃碎片是從<span class=\"name name-special\">巡警殘骸</span>中抽取而來。直到安裝完成後，才會知道它對工具組的確切效果。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 480,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.sentinel.gun.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000307051305,
+  "NormalisedValueOffWorld": 0.0000307051305,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_SENGUN",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Sentinel Weapons Shard from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买护卫武器碎片",
+    "TencentChinese": "从空间站的交易终端购买护卫武器碎片",
+    "TraditionalChinese": "從太空站交易終端站購買巡警武器碎片"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMMODITY5",
+  "Name": {
+    "English": "TELEPORT COORDINATORS",
+    "SimplifiedChinese": "传送协调器",
+    "TencentChinese": "传送协调器",
+    "TraditionalChinese": "瞬間傳送方位儀"
+  },
+  "NameLower": {
+    "English": "Teleport Coordinators",
+    "SimplifiedChinese": "传送协调器",
+    "TencentChinese": "传送协调器",
+    "TraditionalChinese": "瞬間傳送方位儀"
+  },
+  "Subtitle": {
+    "English": "Trade Goods",
+    "SimplifiedChinese": "交易货物",
+    "TencentChinese": "贸易商品",
+    "TraditionalChinese": "貿易商品"
+  },
+  "Description": {
+    "English": "A bundle of precisely calibrated teleport coordinators.<br><br>These pin-prick sized circuits are vital to the delicate process of inserting reinforcing material into <span class=\"name name-special\">advanced alloys</span>. They can also aid long-distance sales efforts.",
+    "SimplifiedChinese": "一组精准校对过的传送协调器。<br><br>这些针尖大小的电路对于<span class=\"name name-special\">改进合金</span>的精密强化材料植入过程至关重要。它们还可以协助远距离贸易活动。",
+    "TencentChinese": "一组精准校对过的传送协调器。<br><br>这些针尖大小的电路对于<span class=\"name name-special\">改进合金</span>的精密强化材料植入过程至关重要。它们还可以协助远距离贸易活动。",
+    "TraditionalChinese": "一捆精確校正的瞬間傳送方位儀。<br><br>將強化素材插入<span class=\"name name-special\">先進合金</span>是非常精密的工序，要成功就得仰賴這些細針尺寸的電路。也可用來協助遠距離交易。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.commodity5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "Commodity",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.4,
+  "PinObjective": {
+    "English": "Purchase Teleport Coordinators from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买传送协调器",
+    "TencentChinese": "从空间站的交易终端购买传送协调器",
+    "TraditionalChinese": "從太空站交易終端站購買瞬間傳送方位儀"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

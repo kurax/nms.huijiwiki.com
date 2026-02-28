@@ -1,0 +1,89 @@
+{
+  "ID": "F_ALL_LEG_XL",
+  "Name": {
+    "English": "THE LUNKER",
+    "SimplifiedChinese": "大鱼",
+    "TraditionalChinese": "魚中之王"
+  },
+  "NameLower": {
+    "English": "The Lunker",
+    "SimplifiedChinese": "大鱼",
+    "TraditionalChinese": "魚中之王"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"A true titan of the depths. Nothing compares for sheer mass.\"",
+    "SimplifiedChinese": "“真正的深海巨人，拥有超乎想象的重量。“",
+    "TraditionalChinese": "「不折不扣的深淵泰坦，具有無可比擬的巨大體型。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product.fish.xl.2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find The Lunker",
+    "SimplifiedChinese": "寻找大鱼",
+    "TencentChinese": "寻找大鱼",
+    "TraditionalChinese": "找出魚中之王"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,114 @@
+{
+  "ID": "ALLOY7",
+  "Name": {
+    "English": "GEODESITE",
+    "SimplifiedChinese": "晶土矿",
+    "TencentChinese": "晶土矿",
+    "TraditionalChinese": "晶球岩"
+  },
+  "NameLower": {
+    "English": "Geodesite",
+    "SimplifiedChinese": "晶土矿",
+    "TencentChinese": "晶土矿",
+    "TraditionalChinese": "晶球岩"
+  },
+  "Subtitle": {
+    "English": "Enriched Alloy Metal",
+    "SimplifiedChinese": "强化合金",
+    "TencentChinese": "强化合金",
+    "TraditionalChinese": "濃化合金"
+  },
+  "Description": {
+    "English": "Advanced and durable alloy primarily used in starship hull construction and deep-space exploration drone technology.<br><br>Crafted from <span class=\"name name-special\">Herox</span>, <span class=\"name name-special\">Dirty Bronze</span> and <span class=\"name name-special\">Lemmium</span>.",
+    "SimplifiedChinese": "高级耐用的合金，主要用来建造飞船外壳与深空探索无人机技术。<br><br>由<span class=\"name name-special\">赫罗克斯</span>、<span class=\"name name-special\">肮脏青铜</span>和<span class=\"name name-special\">列米姆</span>制作。",
+    "TencentChinese": "高级耐用的合金，主要用来建造飞船外壳与深空探索无人机技术。<br><br>由<span class=\"name name-special\">赫罗克斯</span>、<span class=\"name name-special\">肮脏青铜</span>和<span class=\"name name-special\">列米姆</span>制作。",
+    "TraditionalChinese": "延展性高的先進合金，主要用於太空船殼建造與深度太空探索無人機科技上。<br><br>可使用<span class=\"name name-special\">赫羅克斯</span>、<span class=\"name name-special\">汙銅</span>與<span class=\"name name-special\">釢</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 150000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.metallic.7.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ALLOY2": {
+      "ID": "ALLOY2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ALLOY3": {
+      "ID": "ALLOY3",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ALLOY4": {
+      "ID": "ALLOY4",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00961532071,
+  "NormalisedValueOffWorld": 0.00961532071,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Geodesite",
+    "SimplifiedChinese": "制作或精炼晶土矿",
+    "TencentChinese": "制作或精炼晶土矿",
+    "TraditionalChinese": "製作或精製晶球岩"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Geodesite from <span class=\"name name-special\">Herox</span>, <span class=\"name name-special\">Dirty Bronze</span> and <span class=\"name name-special\">Lemmium</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-special\">赫罗克斯</span>、<span class=\"name name-special\">肮脏青铜</span>和<span class=\"name name-special\">列米姆</span>制作或精炼出晶土矿。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。",
+    "TencentChinese": "使用<span class=\"name name-special\">赫罗克斯</span>、<span class=\"name name-special\">肮脏青铜</span>和<span class=\"name name-special\">列米姆</span>制作或精炼出晶土矿。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。",
+    "TraditionalChinese": "將<span class=\"name name-special\">赫羅克斯</span>、<span class=\"name name-special\">汙銅</span>及<span class=\"name name-special\">釢</span>製作或精製成晶球岩。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

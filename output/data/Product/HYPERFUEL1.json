@@ -1,0 +1,109 @@
+{
+  "ID": "HYPERFUEL1",
+  "Name": {
+    "English": "WARP CELL",
+    "SimplifiedChinese": "曲速电池",
+    "TencentChinese": "曲速电池",
+    "TraditionalChinese": "跳躍能量包"
+  },
+  "NameLower": {
+    "English": "Warp Cell",
+    "SimplifiedChinese": "曲速电池",
+    "TencentChinese": "曲速电池",
+    "TraditionalChinese": "跳躍能量包"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Charging Unit",
+    "SimplifiedChinese": "超光速推进充能单元",
+    "TencentChinese": "超光速推进充能单元",
+    "TraditionalChinese": "超空間驅動器補充單位"
+  },
+  "Description": {
+    "English": "This <span class=\"name name-fuel\">antimatter-based fuel</span> is one of the few power sources capable of meeting the incredible energy requirements of a <span class=\"name name-technology\">starship hyperdrive</span>.<br><br>Secured within a robust housing, the cell is guaranteed paradox-free during FTL travel.",
+    "SimplifiedChinese": "这个<span class=\"name name-fuel\">基于反物质的燃料</span>是极少数能够满足<span class=\"name name-technology\">飞船超光速推进器</span>惊人要求的能量之一。<br><br>电池放置在固若金汤的外壳里，既安全又可以保证超光速旅行。",
+    "TencentChinese": "这个<span class=\"name name-fuel\">基于反物质的燃料</span>是极少数能够满足<span class=\"name name-technology\">飞船超光速推进器</span>惊人要求的能量之一。<br><br>这个细胞待在固若金汤的外壳里，既安全又可以保证超光速旅行。",
+    "TraditionalChinese": "<span class=\"name name-fuel\">反物質燃料</span>是少數能滿足<span class=\"name name-technology\">太空船超空間驅動器</span>嚴苛能量需求的能量來源。<br><br>這種電池安置於堅固的容器中，能確保超光速旅行時不會產生悖論。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 46750,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.warpcell.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 24,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "AM_HOUSING": {
+      "ID": "AM_HOUSING",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 999,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.00299673085,
+  "NormalisedValueOffWorld": 0.00299673085,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Warp Cell",
+    "SimplifiedChinese": "制作曲速电池",
+    "TencentChinese": "制作曲速电池",
+    "TraditionalChinese": "製作跳躍能量包"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Warp Cell from <span class=\"name name-fuel\">Antimatter</span> and <span class=\"name name-commodity\">Antimatter Housing</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">反物质</span>和<span class=\"name name-commodity\">反物质外壳</span>制作曲速电池。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">反物质</span>和<span class=\"name name-commodity\">反物质外壳</span>制作曲速电池。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">反物質</span>和<span class=\"name name-commodity\">反物質容器</span>製作跳躍能量包。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

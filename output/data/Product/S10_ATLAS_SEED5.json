@@ -1,0 +1,100 @@
+{
+  "ID": "S10_ATLAS_SEED5",
+  "Name": {
+    "English": "SEED OF HOPE",
+    "SimplifiedChinese": "希望之种",
+    "TraditionalChinese": "希望種子"
+  },
+  "NameLower": {
+    "English": "Seed of Hope",
+    "SimplifiedChinese": "希望之种",
+    "TraditionalChinese": "希望種子"
+  },
+  "Subtitle": {
+    "English": "Voice of the Wordless Atlas",
+    "SimplifiedChinese": "来自无言的阿特拉斯的声音",
+    "TraditionalChinese": "無聲的寰宇之語"
+  },
+  "Description": {
+    "English": "A seed of creation, a perfect droplet of infinity. A gift from the Atlas, this is a tiny fragment of all the universe's dreams, will, power and life; a fragment of the Travellers; a fragment of myself.<br><br>Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to <span class=\"name name-special\">resonate</span> the seed, converting its waveform into the audible range.",
+    "SimplifiedChinese": "一枚创造之种，代表着无限的完美水滴。作为来自阿特拉斯的礼物，这枚种子是整个宇宙的梦、意志、力量与生命的小小碎片，这是旅行者的一部分，我自己的一部分。<br><br>使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>使种子<span class=\"name name-special\">共鸣</span>，并将其中的波形转化为可以听见的频率。",
+    "TraditionalChinese": "創造的種子，一小滴完美的無限。寰宇的禮物，這是全宇宙夢想、意志、能量以及生命的一個小碎片；旅行者的碎片；我的碎片。<br><br>使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 讓種子<span class=\"name name-special\">共振</span>，將其波形轉換為聽得到的頻率範圍。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/atlasseed.9.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "S10_ATLAS_SEED4": {
+      "ID": "S10_ATLAS_SEED4",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Seed of Hope",
+    "SimplifiedChinese": "制作希望之种",
+    "TencentChinese": "制作希望之种",
+    "TraditionalChinese": "製作希望種子"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

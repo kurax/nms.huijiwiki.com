@@ -1,0 +1,90 @@
+{
+  "ID": "BASE_BUBPIPE_S",
+  "Name": {
+    "English": "BUBBLE DUCT",
+    "SimplifiedChinese": "泡泡导管",
+    "TraditionalChinese": "泡泡導管"
+  },
+  "NameLower": {
+    "English": "Bubble Duct",
+    "SimplifiedChinese": "泡泡导管",
+    "TraditionalChinese": "泡泡導管"
+  },
+  "Subtitle": {
+    "English": "Decorative Aqueduct",
+    "SimplifiedChinese": "装饰导管",
+    "TraditionalChinese": "裝飾導管"
+  },
+  "Description": {
+    "English": "This clear glass aqueduct encloses a perpetually churning supply of 'liquid'.<br><br>Weld together with different duct shapes to create mesmerizing displays in your base.",
+    "SimplifiedChinese": "在透明的玻璃导管中，“液体”正在不断搅动。<br><br>焊接不同形状的导管，为基地创造迷人的展示品。",
+    "TraditionalChinese": "這節透明的玻璃導管，封住了不斷翻騰的「液體」。<br><br>和不同形狀的導管焊接，可作為基地內迷人的展示品。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.bubblepipe.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.bubblepipe.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "EXP_CURIO2",
+  "Name": {
+    "English": "CONVERGENCE CUBE",
+    "SimplifiedChinese": "集会方型箱",
+    "TencentChinese": "科尔瓦克斯集会方型箱",
+    "TraditionalChinese": "議會箱體"
+  },
+  "NameLower": {
+    "English": "Convergence Cube",
+    "SimplifiedChinese": "集会方型箱",
+    "TencentChinese": "科尔瓦克斯集会方型箱",
+    "TraditionalChinese": "議會箱體"
+  },
+  "Subtitle": {
+    "English": "Trade commodity",
+    "SimplifiedChinese": "交易商品",
+    "TencentChinese": "交易商品",
+    "TraditionalChinese": "貿易物資"
+  },
+  "Description": {
+    "English": "Device used by the Korvax for the storage of historical and cultural information.",
+    "SimplifiedChinese": "科尔瓦克斯使用的设备，用于存储历史文化信息。",
+    "TencentChinese": "科尔瓦克斯使用的设备，用于存储历史文化信息。",
+    "TraditionalChinese": "科瓦族用來存放歷史文化資訊的裝置。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 13063,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.korvaxcube.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000837307773,
+  "NormalisedValueOffWorld": 0.000837307773,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Convergence Cube",
+    "SimplifiedChinese": "寻找或购买集会方型箱",
+    "TencentChinese": "寻找或购买科尔瓦克斯集会方型箱",
+    "TraditionalChinese": "找出或購買議會箱體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

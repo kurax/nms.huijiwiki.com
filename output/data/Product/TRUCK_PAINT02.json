@@ -1,0 +1,89 @@
+{
+  "ID": "TRUCK_PAINT02",
+  "Name": {
+    "English": "WEATHERED FINISH",
+    "SimplifiedChinese": "风化饰面",
+    "TraditionalChinese": "仿舊漆"
+  },
+  "NameLower": {
+    "English": "Weathered Finish",
+    "SimplifiedChinese": "风化饰面",
+    "TraditionalChinese": "仿舊漆"
+  },
+  "Subtitle": {
+    "English": "Exocraft Customization Option",
+    "SimplifiedChinese": "强化艇自定义选项",
+    "TraditionalChinese": "強化艇客製化選項"
+  },
+  "Description": {
+    "English": "A custom paintwork finish for a terrestrial vehicle, compatible with the <span class=\"name name-technology\">Colossus</span> large Exocraft.<br><br><span class=\"name name-stellar\">Recalibrate Exocraft visuals</span> from the <span class=\"name name-technology\">Colossus Geobay</span>.",
+    "SimplifiedChinese": "适用于陆地载具的定制饰面模块，可与以下部件兼容：大型<span class=\"name name-technology\">巨人</span>强化艇。<br><br>在<span class=\"name name-technology\">巨人泊湾</span><span class=\"name name-stellar\">重新校准强化艇视觉系统</span>。",
+    "TraditionalChinese": "一種用於陸地載具的自訂塗裝，適用於大型的<span class=\"name name-technology\">巨人強化艇</span>。<br><br>在<span class=\"name name-technology\">巨人強化艇停泊灣</span><span class=\"name name-stellar\">重新校正強化艇視覺</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 12300,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.2026.truckpaint02.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.870588243,
+    "G": 0.862745106,
+    "B": 0.819607854,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "CustomisationPart",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 5000,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000748718216,
+  "NormalisedValueOffWorld": 0.000748718216,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Weathered Finish",
+    "SimplifiedChinese": "寻找或购买风化饰面",
+    "TencentChinese": "寻找或购买风化饰面",
+    "TraditionalChinese": "找出或購買仿舊漆"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

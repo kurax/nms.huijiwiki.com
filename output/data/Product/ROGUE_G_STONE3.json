@@ -1,0 +1,89 @@
+{
+  "ID": "ROGUE_G_STONE3",
+  "Name": {
+    "English": "MEMORY IMPRINT III",
+    "SimplifiedChinese": "铭记记忆 III",
+    "TraditionalChinese": "記憶銘刻 III"
+  },
+  "NameLower": {
+    "English": "Memory Imprint III",
+    "SimplifiedChinese": "铭记记忆 III",
+    "TraditionalChinese": "記憶銘刻 III"
+  },
+  "Subtitle": {
+    "English": "Loop Artifact",
+    "SimplifiedChinese": "循环遗物",
+    "TraditionalChinese": "迴圈器物"
+  },
+  "Description": {
+    "English": "A memory is <span class=\"name name-stellar\">burned</span> into this strange material, an echo of another lifetime...<br><br>\"Today should have been the day. Their hour was at hand.<br>It must be mine. They are like nothing I've ever seen.<br>Everything was prepared. But it moved faster than I thought possible. As though it knew where I would fly, before I knew it myself.<br>A great tentacle hugged my ship, my cockpit - pressing my suit down to the bone. This suit will be my grave.\"",
+    "SimplifiedChinese": "记忆被<span class=\"name name-stellar\">烙进</span>了这种奇怪的材料，是另一个生命的回音......<br><br>“就是今天了。那个时候马上就要到来了。<br>它必须是我的。我从来没见过那样的生物。<br>一切都准备好了，但它的移动速度超过了我的想象，而且它可以非常精准地预测我的飞行轨迹。<br>一根巨大的触手抓住了我的飞船，我的驾驶舱，扼住了我包裹在太空服内的骨骼。这套太空服将会是我的坟墓。”",
+    "TraditionalChinese": "一段記憶<span class=\"name name-stellar\">已燒錄</span>進此奇異材料內，一段另一世的回音......<br><br>「應該就是今天了。牠們即將出現。<br>牠必是屬於我的。牠們的存在是我前所未見的。<br>一切都準備就緒。但牠的移動速度比我想像中還要快。彷彿知道我會往哪裡飛一般，就在我自己知道之前。<br>巨大的觸手抓住我的太空船，我的駕駛艙緊緊擠壓著我的套裝。套裝會成為我的墳墓。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguegrave.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Memory Imprint III",
+    "SimplifiedChinese": "寻找铭记记忆 III",
+    "TencentChinese": "寻找铭记记忆 III",
+    "TraditionalChinese": "找出記憶銘刻 III"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMPONENT1",
+  "Name": {
+    "English": "ENORMOUS METAL COG",
+    "SimplifiedChinese": "巨大的金属齿轮",
+    "TencentChinese": "巨大的金属齿轮",
+    "TraditionalChinese": "巨型金屬齒輪"
+  },
+  "NameLower": {
+    "English": "Enormous Metal Cog",
+    "SimplifiedChinese": "巨大的金属齿轮",
+    "TencentChinese": "巨大的金属齿轮",
+    "TraditionalChinese": "巨型金屬齒輪"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Industrial)",
+    "SimplifiedChinese": "交易货物（工业）",
+    "TencentChinese": "工业原件",
+    "TraditionalChinese": "貿易商品 (工業)"
+  },
+  "Description": {
+    "English": "Several huge cogs.<br><br>Sturdy, well-made metal gears. While not advanced technology themselves, they're a vital component in countless pieces of <span class=\"name name-special\">high-tech</span> machinery all over the galaxy.",
+    "SimplifiedChinese": "巨大的金属齿轮堆。<br><br>精工打造的金属齿轮。虽然算不上什么先进技术产品，但它们是遍布全星系的<span class=\"name name-special\">高科技</span>机械的元器件。",
+    "TencentChinese": "巨大的金属齿轮堆。<br><br>精工打造的金属齿轮。虽然算不上什么先进技术产品，但它们是遍布全星系的<span class=\"name name-special\">高科技</span>机械的元器件。",
+    "TraditionalChinese": "數個巨型齒輪。<br><br>堅固精良的金屬器具。齒輪並非先進的科技元件，但在銀河裡眾多的<span class=\"name name-special\">高科技</span>機械都派得上用場。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.component1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "Component",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1.2,
+  "PinObjective": {
+    "English": "Purchase Enormous Metal Cog from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买巨大的金属齿轮",
+    "TencentChinese": "从空间站的交易终端购买巨大的金属齿轮",
+    "TraditionalChinese": "從太空站交易終端站購買巨型金屬齒輪"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

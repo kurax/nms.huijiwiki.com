@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_CURIO2",
+  "Name": {
+    "English": "GEKNIP",
+    "SimplifiedChinese": "吉克小吸",
+    "TencentChinese": "吉克小吸",
+    "TraditionalChinese": "吉客餅"
+  },
+  "NameLower": {
+    "English": "GekNip",
+    "SimplifiedChinese": "吉克小吸",
+    "TencentChinese": "吉克小吸",
+    "TraditionalChinese": "吉客餅"
+  },
+  "Subtitle": {
+    "English": "Trade commodity",
+    "SimplifiedChinese": "交易商品",
+    "TencentChinese": "交易商品",
+    "TraditionalChinese": "貿易物資"
+  },
+  "Description": {
+    "English": "Edible product much beloved by the Gek.<br> <br>Allows beaked traders to release delightfully scented packets of gas for a prolonged period of time.<br> <br>GekNip gas packets are considered an art form, and the truest representation of the Gek soul.",
+    "SimplifiedChinese": "深受吉克的喜爱的食品。<br><br>使有喙商人能长时间释放气味宜人的气体包。<br><br>在吉克的上层社会中，吉克吸气体包被认为是一种艺术形式，以及吉克灵魂最真实的体现。",
+    "TencentChinese": "深受吉克的喜爱的食品。<br><br>使有喙商人能长时间释放气味宜人的气体包。<br><br>在吉克的上层社会中，吉克吸气体包被认为是一种艺术形式，以及吉克灵魂最真实的体现。",
+    "TraditionalChinese": "吉客族非常愛吃的食品。<br> <br>能讓這些有喙嘴的商人延長噴出甜美香氣的時間。<br><br>食用吉客餅製造出的香氣是一種藝術，也是吉客族靈魂的真正象徵。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 20625,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.geknip.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00132205139,
+  "NormalisedValueOffWorld": 0.00132205139,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase GekNip",
+    "SimplifiedChinese": "寻找或购买吉克小吸",
+    "TencentChinese": "寻找或购买吉克小吸",
+    "TraditionalChinese": "找出或購買吉客餅"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": true,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

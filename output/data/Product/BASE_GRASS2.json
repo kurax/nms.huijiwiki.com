@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_GRASS2",
+  "Name": {
+    "English": "SHORT SPIKEGRASS",
+    "SimplifiedChinese": "低矮的穗草",
+    "TraditionalChinese": "短穗草"
+  },
+  "NameLower": {
+    "English": "Short Spikegrass",
+    "SimplifiedChinese": "低矮的穗草",
+    "TraditionalChinese": "短穗草"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A tough ornamental grass, suitable for growing in all biomes, soil types, and weather conditions. This variety, like its taller cousin, is characterized by long hirsute blades - but grows more densely, with slightly heftier blades.",
+    "SimplifiedChinese": "一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。这个品种和它高大的亲戚一样，以长硬毛的叶片为特征，但它的叶片略微厚实、生长得也更加密集。",
+    "TraditionalChinese": "一種堅韌的觀賞草，適合在所有生物群落、土壤類型和天氣條件下生長。這個品種和它較高的親戚一樣，擁有很長的多毛葉片；不過生長更加密集，葉片也比較厚重。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.grass02.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.grass02.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,91 @@
+{
+  "ID": "S_SIGN_BAR3",
+  "Name": {
+    "English": "\"THE BLACK HOLE IN THE WALL\" SIGN",
+    "SimplifiedChinese": "“墙上黑洞”标志",
+    "TraditionalChinese": "「牆間黑洞」招牌"
+  },
+  "NameLower": {
+    "English": "\"The Black Hole in the Wall\" Sign",
+    "SimplifiedChinese": "“墙上黑洞”标志",
+    "TraditionalChinese": "「牆間黑洞」招牌"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An attention-grabbing welcome sign, illuminated by an array of gas-discharge tubes.<br><br>Design salvaged from an underground Korvax cantina named \"The Black Hole in the Wall\".",
+    "SimplifiedChinese": "由一系列气体放电管拼凑而成的欢迎标志，看上去十分引人瞩目。<br><br>标志造型来源于科尔瓦克斯地下酒吧“墙上黑洞”。",
+    "TraditionalChinese": "一個引人注目的歡迎招牌，使用一列氣體放電管發光。<br><br>從一間科瓦族地下小酒館：「牆間黑洞」回收而來的設計。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.s_sign_bar03.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.s_sign_bar03.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

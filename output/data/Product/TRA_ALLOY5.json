@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ALLOY5",
+  "Name": {
+    "English": "SUPERCONDUCTING FIBER",
+    "SimplifiedChinese": "超导纤维",
+    "TencentChinese": "超导纤维",
+    "TraditionalChinese": "無電阻纖維"
+  },
+  "NameLower": {
+    "English": "Superconducting Fiber",
+    "SimplifiedChinese": "超导纤维",
+    "TencentChinese": "超导纤维",
+    "TraditionalChinese": "無電阻纖維"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Construction)",
+    "SimplifiedChinese": "交易货物（建造）",
+    "TencentChinese": "先进构造材料",
+    "TraditionalChinese": "貿易商品 (建造)"
+  },
+  "Description": {
+    "English": "A densely layered package of superconducting fibers.<br><br>Powerful, flexible, and water-resistant; the controlled magnetic weave of these fibers is vital in the creation of many <span class=\"name name-special\">scientific components</span>.",
+    "SimplifiedChinese": "一块厚实的多层超导纤维。<br><br>这些磁力控制下的坚韧防水纤维织物是制造多种<span class=\"name name-special\">科学部件</span>必不可少的原料。",
+    "TencentChinese": "一块厚实的多层超导纤维。<br><br>这些磁力控制下的坚韧防水纤维织物是制造多种<span class=\"name name-special\">科学部件</span>必不可少的原料。",
+    "TraditionalChinese": "一包厚實的無電阻纖維。<br><br>強韌、彈性好又防水。製造許多<span class=\"name name-special\">科學元件</span>時，這纖維的可控磁力紋理都能派上用場。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.alloy5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "Alloy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.4,
+  "PinObjective": {
+    "English": "Purchase Superconducting Fiber from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买超导纤维",
+    "TencentChinese": "从空间站的交易终端购买超导纤维",
+    "TraditionalChinese": "從太空站交易終端站購買無電阻纖維"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "S15_FISH",
+  "Name": {
+    "English": "THE ANGLER",
+    "SimplifiedChinese": "垂钓者",
+    "TraditionalChinese": "垂釣者"
+  },
+  "NameLower": {
+    "English": "The Angler",
+    "SimplifiedChinese": "垂钓者",
+    "TraditionalChinese": "垂釣者"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "Fire dances across the scales of this impossible marine being. Its starlit eyes stare back at you with a meaning far deeper than any fish should know. As they stare, the world around you fades away.<br><br>The sound of water fills your ears. It wants to be free. You want to be free...",
+    "SimplifiedChinese": "在这个不可思议的海洋生物的鳞片上，火焰正在如梦幻般跳动。星光璀璨的眼眸凝视着你，那是任何寻常鱼类都不可能拥有的深邃目光。凝视着它的眼睛，你感觉周围的一切都迅速褪去。<br><br>此刻你唯一能听见的就是波涛涟漪的拍打声。它渴望着自己。你渴望着自由......",
+    "TraditionalChinese": "如夢似幻的海中生物，鱗片可見舞動的火焰，回望你的眼裡盈滿星光，而牠眼中的深意不是尋常魚類該有的知性。牠凝視你時，一切塵囂便離你而去。<br><br>海浪聲不絕於耳。牠渴望自由，而你也是......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product.fish.octopus.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft The Angler",
+    "SimplifiedChinese": "制作垂钓者",
+    "TencentChinese": "制作垂钓者",
+    "TraditionalChinese": "製作垂釣者"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

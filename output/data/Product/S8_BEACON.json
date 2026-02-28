@@ -1,0 +1,105 @@
+{
+  "ID": "S8_BEACON",
+  "Name": {
+    "English": "HOMEWORLD REPEATER",
+    "SimplifiedChinese": "母星中继器",
+    "TraditionalChinese": "母星中繼器"
+  },
+  "NameLower": {
+    "English": "Homeworld Repeater",
+    "SimplifiedChinese": "母星中继器",
+    "TraditionalChinese": "母星中繼器"
+  },
+  "Subtitle": {
+    "English": "A Last Link Home",
+    "SimplifiedChinese": "家的最后踪迹",
+    "TraditionalChinese": "最後連結的家"
+  },
+  "Description": {
+    "English": "A makeshift device, cobbled from salvaged electronic components kept in deep storage for many years. This jumble of wires will attempt to make contact with the last-known remnants of the freighter's homeworld.<br><br>Select the device and select Broadcast (<span class=\"name name-img\">FE_ALT1</span>) to begin the location process.",
+    "SimplifiedChinese": "一个临时装置，由保存在储藏库中多年的废旧电子元件拼凑而成。这团杂乱无章的电线网将试图与这艘货船的最后一个已知家园的遗迹取得联系。<br><br>选择设备并选择广播（<span class=\"name name-img\">FE_ALT1</span>），开始定位过程。",
+    "TraditionalChinese": "一種臨時性裝置，由保存多年的回收電子元件拼湊而成。這些雜亂無章的電線會試圖與貨船母星最後已知的殘存體取得聯繫。<br><br>選擇裝置並選擇廣播 (<span class=\"name name-img\">FE_ALT1</span>) 來開始定位程序。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguefinder.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 20
+    },
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 60
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Homeworld Repeater",
+    "SimplifiedChinese": "制作母星中继器",
+    "TencentChinese": "制作母星中继器",
+    "TraditionalChinese": "製作母星中繼器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

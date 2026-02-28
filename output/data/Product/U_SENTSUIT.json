@@ -1,0 +1,89 @@
+{
+  "ID": "U_SENTSUIT",
+  "Name": {
+    "English": "SENTINEL EXOSUIT FRAGMENT",
+    "SimplifiedChinese": "护卫套装碎片",
+    "TraditionalChinese": "巡警強化套裝碎片"
+  },
+  "NameLower": {
+    "English": "Sentinel Exosuit Fragment",
+    "SimplifiedChinese": "护卫套装碎片",
+    "TraditionalChinese": "巡警強化套裝碎片"
+  },
+  "Subtitle": {
+    "English": "Forbidden Exosuit Module",
+    "SimplifiedChinese": "禁忌的套装模块",
+    "TraditionalChinese": "禁止的強化套裝模組"
+  },
+  "Description": {
+    "English": "An <span class=\"name name-special\">anomalous</span> upgrade for <span class=\"name name-technology\">Exosuit</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>This strange fragment of debris has been extracted from <span class=\"name name-special\">Sentinel technology</span>. Its exact effect upon suit performance is impossible to predict before the nantite foam has fully spread within the Exosuit's systems.",
+    "SimplifiedChinese": "<span class=\"name name-technology\">套装</span>的<span class=\"name name-special\">异常</span>升级组件。按<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始升级<VAL_ON>安装流程<>。<br><br>从<span class=\"name name-special\">护卫技术</span>中提取的诡异碎片。只有当纳米泡沫彻底融入套装系统后才能确定这种升级组件提供的具体效果。",
+    "TraditionalChinese": "<span class=\"name name-technology\">強化套裝</span>的<span class=\"name name-special\">異常</span>升級。使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級的<VAL_ON>安裝程序<>。<br><br>這個奇怪殘骸碎片是從<span class=\"name name-special\">巡警科技</span>中抽取而來。在奈米泡沫完全擴散於強化裝甲系統內之前，無法預測對裝甲性能的確切影響。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 480,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.sentinel.suit.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000307051305,
+  "NormalisedValueOffWorld": 0.0000307051305,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_SNSUIT",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Sentinel Exosuit Fragment from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买护卫套装碎片",
+    "TencentChinese": "从空间站的交易终端购买护卫套装碎片",
+    "TraditionalChinese": "從太空站交易終端站購買巡警強化套裝碎片"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

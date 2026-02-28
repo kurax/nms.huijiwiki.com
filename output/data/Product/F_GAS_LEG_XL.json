@@ -1,0 +1,89 @@
+{
+  "ID": "F_GAS_LEG_XL",
+  "Name": {
+    "English": "THE MAW OF TITAN",
+    "SimplifiedChinese": "泰坦之口",
+    "TraditionalChinese": "泰坦之喉"
+  },
+  "NameLower": {
+    "English": "The Maw of Titan",
+    "SimplifiedChinese": "泰坦之口",
+    "TraditionalChinese": "泰坦之喉"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"So few things survive in waters such as these... so that which thrives should strike fear into the heart of any thinking being.\"",
+    "SimplifiedChinese": "“很少有生物能够在这种水域中生存......所以也难怪能够在这里繁衍生息的存在会让任何智慧生命感到惊慌失措。”",
+    "TraditionalChinese": "「能在這種水域生存的東西太少了......因此，具備心智的生物無不對生生不息的物種感到恐懼。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product.fish.xl.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find The Maw of Titan",
+    "SimplifiedChinese": "寻找泰坦之口",
+    "TencentChinese": "寻找泰坦之口",
+    "TraditionalChinese": "找出泰坦之喉"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

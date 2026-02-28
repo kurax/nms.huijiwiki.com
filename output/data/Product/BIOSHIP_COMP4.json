@@ -1,0 +1,100 @@
+{
+  "ID": "BIOSHIP_COMP4",
+  "Name": {
+    "English": "SEEDS OF GLASS",
+    "SimplifiedChinese": "玻璃的种子",
+    "TraditionalChinese": "玻璃種子"
+  },
+  "NameLower": {
+    "English": "Seeds of Glass",
+    "SimplifiedChinese": "玻璃的种子",
+    "TraditionalChinese": "玻璃種子"
+  },
+  "Subtitle": {
+    "English": "Frozen Archive",
+    "SimplifiedChinese": "冻结的档案",
+    "TraditionalChinese": "冰凍元素"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">biomechanical construct</span>, created to the design of an anonymous host.<br><br>Capsules of genetic material, encased in a film of living glass. Shared memories swim in the their reflective surfaces, waiting for their chance to shape the life within.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">生物力学结构</span>，根据匿名宿主的设计创造出来。<br><br>基因物质的胶囊，包裹于一层活体玻璃中。共享记忆游动于反射性的表面，等待塑造其中生命的机会。",
+    "TraditionalChinese": "根據匿名宿主設計所打造的<span class=\"name name-stellar\">生物力學裝置</span>。<br><br>由基因物質構成的膠囊，裡面裝著活玻璃的薄膜。共同記憶會前往反射表面，等待機會塑造內部的生命。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.biocomp4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "SOULFRAG": {
+      "ID": "SOULFRAG",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Seeds of Glass",
+    "SimplifiedChinese": "寻找玻璃的种子",
+    "TencentChinese": "寻找玻璃的种子",
+    "TraditionalChinese": "找出玻璃種子"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

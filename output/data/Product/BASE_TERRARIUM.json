@@ -1,0 +1,104 @@
+{
+  "ID": "BASE_TERRARIUM",
+  "Name": {
+    "English": "TERRARIUM",
+    "SimplifiedChinese": "生物育养箱",
+    "TencentChinese": "生物育养箱",
+    "TraditionalChinese": "飼養缸"
+  },
+  "NameLower": {
+    "English": "Terrarium",
+    "SimplifiedChinese": "生物育养箱",
+    "TencentChinese": "生物育养箱",
+    "TraditionalChinese": "飼養缸"
+  },
+  "Subtitle": {
+    "English": "Specialized Creature Enclosure",
+    "SimplifiedChinese": "专业生物围场",
+    "TencentChinese": "专业生物围场",
+    "TraditionalChinese": "特殊動物籠"
+  },
+  "Description": {
+    "English": "A small observatory unit for studying animal behaviours.<br><br>Completely self-contained, complete with inbuilt nutrient processor, air purifier and faecal disposal system.",
+    "SimplifiedChinese": "一种研究动物行为的小型观察装置。<br><br>自成体系，配有内置的营养处理器、空气净化器和粪便处理系统。",
+    "TencentChinese": "一种研究动物行为的小型观察装置。<br><br>自成体系，配有内置的营养处理器、空气净化器和粪便处理系统。",
+    "TraditionalChinese": "研究動物行為專用的小型觀測單位。<br><br>完全自給自足，包括內建營養處理器、空氣清淨器與糞便處理系統。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.terrarium.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.terrarium.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "PLANT_POOP": {
+      "ID": "PLANT_POOP",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CREATURE1": {
+      "ID": "CREATURE1",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

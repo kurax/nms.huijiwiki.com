@@ -1,0 +1,90 @@
+{
+  "ID": "BLD_SKULL",
+  "Name": {
+    "English": "TITANIC TROPHY",
+    "SimplifiedChinese": "泰坦奖杯",
+    "TraditionalChinese": "泰坦戰利品"
+  },
+  "NameLower": {
+    "English": "Titanic Trophy",
+    "SimplifiedChinese": "泰坦奖杯",
+    "TraditionalChinese": "泰坦戰利品"
+  },
+  "Subtitle": {
+    "English": "Ornamental Skull",
+    "SimplifiedChinese": "装饰头骨",
+    "TraditionalChinese": "裝飾頭骨"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament.<br><br>This many-toothed skull once belonged to a large legless vertebrate, cousin to the titan sandworm. The powerful jaws can exert enough force to crush a Multi-Tool, and the bones of most creatures.",
+    "SimplifiedChinese": "一件专属的可建造基地装饰。<br><br>这个长满利齿的头骨曾经属于外形酷似巨型沙虫的大型无腿有脊椎动物。强有力的下颚足以粉碎多用途工具以及绝大多数生物的骨骼。",
+    "TraditionalChinese": "特殊的可建造基地裝飾。<br><br>這顆多齒頭骨曾屬於某隻無足的巨型脊椎動物，泰坦沙蟲的近親。其強大巨顎足以咬碎工具組和大多數生物的骨骼。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.basefossil.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.basefossil.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

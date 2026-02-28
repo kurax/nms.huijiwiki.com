@@ -1,0 +1,104 @@
+{
+  "ID": "ATLAS_SEED_5",
+  "Name": {
+    "English": "DAWN'S END",
+    "SimplifiedChinese": "黎明之末",
+    "TencentChinese": "黎明之末",
+    "TraditionalChinese": "黎明之終"
+  },
+  "NameLower": {
+    "English": "Dawn's End",
+    "SimplifiedChinese": "黎明之末",
+    "TencentChinese": "黎明之末",
+    "TraditionalChinese": "黎明之終"
+  },
+  "Subtitle": {
+    "English": "Unique valuable curiosity",
+    "SimplifiedChinese": "独特的珍品",
+    "TencentChinese": "独特的珍品",
+    "TraditionalChinese": "獨一無二又珍貴的好奇心"
+  },
+  "Description": {
+    "English": "Sculpted tau neutrino-boson matrix fixed within an irreplaceable Atlas Seed shell. May be semi-sentient.",
+    "SimplifiedChinese": "雕刻而成的中微子-玻色子矩阵，固定在独一无二的阿特拉斯之种外壳里。可能拥有一定程度的知觉力。",
+    "TencentChinese": "雕刻而成的中微子-玻色子矩阵，固定在独一无二的阿特拉斯之种外壳里。可能拥有一定程度的知觉力。",
+    "TraditionalChinese": "修正過的 tau 微中子-玻色子矩陣，以無法取代的寰宇之種殼所固定。可能具有初階感知。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/atlasseed.5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ATLAS_SEED_4": {
+      "ID": "ATLAS_SEED_4",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Dawn's End",
+    "SimplifiedChinese": "寻找黎明之末",
+    "TencentChinese": "寻找黎明之末",
+    "TraditionalChinese": "找出黎明之終"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

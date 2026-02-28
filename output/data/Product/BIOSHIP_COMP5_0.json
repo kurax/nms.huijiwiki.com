@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_COMP5_0",
+  "Name": {
+    "English": "SOUL CHAMBER (0%)",
+    "SimplifiedChinese": "灵魂舱（0%）",
+    "TraditionalChinese": "靈魂腔室（0%）"
+  },
+  "NameLower": {
+    "English": "Soul Chamber (0%)",
+    "SimplifiedChinese": "灵魂舱（0%）",
+    "TraditionalChinese": "靈魂腔室（0%）"
+  },
+  "Subtitle": {
+    "English": "Bionic Ark",
+    "SimplifiedChinese": "仿生方舟",
+    "TraditionalChinese": "仿生方舟"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">biomechanical construct</span>, created to the design of an anonymous host.<br><br>A fusion of complex circuitry and the ineffable glitch of the Traveler. Such a calculus might bind realities together, or tear them into mere simulated fragments.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">生物力学结构</span>，根据匿名宿主的设计创造出来。<br><br>复杂电路与旅行者莫名故障的融合体。这样的演算可能会把现实结合在一起，或是把它们撕成模拟的碎片。",
+    "TraditionalChinese": "根據匿名宿主設計所打造的<span class=\"name name-stellar\">生物力學裝置</span>。<br><br>融合了複雜迴路及旅行者難以形容的毀損。這種計算方式可能會把現實結合在一起，或是撕裂成偽造的片段。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.biocomp5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Soul Chamber (0%)",
+    "SimplifiedChinese": "寻找灵魂舱（0%）",
+    "TencentChinese": "寻找灵魂舱（0%）",
+    "TraditionalChinese": "找出靈魂腔室（0%）"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

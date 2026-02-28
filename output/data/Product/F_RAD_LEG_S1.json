@@ -1,0 +1,89 @@
+{
+  "ID": "F_RAD_LEG_S1",
+  "Name": {
+    "English": "MANY-EYED JELLYFISH",
+    "SimplifiedChinese": "多眼水母",
+    "TraditionalChinese": "多眼水母"
+  },
+  "NameLower": {
+    "English": "Many-Eyed Jellyfish",
+    "SimplifiedChinese": "多眼水母",
+    "TraditionalChinese": "多眼水母"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"A thousand eyes erupt from its soft flesh: a never-ending cycle of rising, blinking, sinking, and re-emergence.\"",
+    "SimplifiedChinese": "“柔软的身躯中寄宿着无数的眼睛：睁开、眨眼、收缩然后再重现的无尽轮回。”",
+    "TraditionalChinese": "「柔軟的肉體中突然睜開一千隻眼睛，不斷浮現、眨眼、下沉，然後再次浮現，永無止盡地循環。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product.fish.jelly.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Many-Eyed Jellyfish",
+    "SimplifiedChinese": "寻找多眼水母",
+    "TencentChinese": "寻找多眼水母",
+    "TraditionalChinese": "找出多眼水母"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.3,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

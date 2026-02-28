@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_TECH2",
+  "Name": {
+    "English": "WELDING SOAP",
+    "SimplifiedChinese": "焊接皂",
+    "TencentChinese": "焊接皂",
+    "TraditionalChinese": "焊接皂"
+  },
+  "NameLower": {
+    "English": "Welding Soap",
+    "SimplifiedChinese": "焊接皂",
+    "TencentChinese": "焊接皂",
+    "TraditionalChinese": "焊接皂"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Technology)",
+    "SimplifiedChinese": "交易货物（技术）",
+    "TencentChinese": "技术部件",
+    "TraditionalChinese": "貿易商品 (科技)"
+  },
+  "Description": {
+    "English": "Several large bars of welding soap.<br><br>Used in <span class=\"name name-special\">power generation</span> systems to heat-clean metal diodes before they're fused into batteries.",
+    "SimplifiedChinese": "几大块焊接皂。<br><br><span class=\"name name-special\">发电</span>型恒星系会用这些东西，热清理准备焊接进电池的金属二极管。",
+    "TencentChinese": "几大块焊接皂。<br><br><span class=\"name name-special\">发电</span>型恒星系会用这些东西，热清理准备焊接进电池的金属二极管。",
+    "TraditionalChinese": "數大塊焊接皂。<br><br>使用於<span class=\"name name-special\">發電</span>星系。在兩極體與電池熔接前，能用肥皂清除金屬兩極體熱能。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.tech2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000384551298,
+  "NormalisedValueOffWorld": 0.000384551298,
+  "TradeCategory": "Tech",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1,
+  "PinObjective": {
+    "English": "Purchase Welding Soap from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买焊接皂",
+    "TencentChinese": "从空间站的交易终端购买焊接皂",
+    "TraditionalChinese": "從太空站交易終端站購買焊接皂"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

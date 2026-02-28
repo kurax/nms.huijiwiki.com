@@ -1,0 +1,93 @@
+{
+  "ID": "SPIDER_PROD",
+  "Name": {
+    "English": "CRYSTALLIZED HEART",
+    "SimplifiedChinese": "结晶心脏",
+    "TraditionalChinese": "結晶心臟"
+  },
+  "NameLower": {
+    "English": "Crystallized Heart",
+    "SimplifiedChinese": "结晶心脏",
+    "TraditionalChinese": "結晶心臟"
+  },
+  "Subtitle": {
+    "English": "Corrupted Aeronic Core",
+    "SimplifiedChinese": "腐化艾伦核心",
+    "TraditionalChinese": "受腐蝕太空核心"
+  },
+  "Description": {
+    "English": "The functional core of a Sentinel quadruped unit, but warped beyond all recognition. The entire machine is infested with a crystalline material that pulses wildy upon inspection.<br><br>A close analysis reveals the machinery itself appears to have been reconfigured, stretching and warping into a whole new form, writhing in the presence of these radiant shards of glass.",
+    "SimplifiedChinese": "一台护卫四足机甲的运作核心，但是现在已经被扭曲得面目全非。护卫机器已经彻底被一种晶体材料感染，观察显示那些晶体都在不停脉动。<br><br>近距离分析显示，机器本身似乎都已经被篡改，并且已经被扭曲延伸为了一种全新的形态，感受到这些玻璃光耀碎片的存在便会不停扭动。",
+    "TraditionalChinese": "四足巡警單位的功能核心，不過非常古怪扭曲，以致無法辨識。在肉眼可見的範圍內，整台機器都布滿水晶化材質，失控般地一陣陣脈動著。<br><br>經過詳細分析後，發現機械似乎經過重新設定，被拉伸並扭曲成新的形體，在玻璃發光裂片前不斷蠕動。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 37000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.spidercrystal.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00237173098,
+  "NormalisedValueOffWorld": 0.00237173098,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Crystallized Heart",
+    "SimplifiedChinese": "寻找结晶心脏",
+    "TencentChinese": "寻找结晶心脏",
+    "TraditionalChinese": "找出結晶心臟"
+  },
+  "PinObjectiveTip": {
+    "English": "Harvest <span class=\"name name-special\">Crystallized Hearts</span> from the remains of <span class=\"name name-special\">Corrupted Sentinel Quads</span>. These advanced units are only found on dissonant worlds.<br>Collect loot from defeated Sentinels by destroying <VAL_ON>Combat Supply Barrels<>.",
+    "SimplifiedChinese": "从<span class=\"name name-special\">腐化护卫四足机甲</span>残骸收获<span class=\"name name-special\">结晶心脏</span>。这些高级单元只会在不谐世界出没。<br>摧毁<VAL_ON>战斗补给桶<>以搜刮倒下的护卫。",
+    "TraditionalChinese": "從<span class=\"name name-special\">受腐蝕的四足巡警</span>的殘骸上收集<span class=\"name name-special\">結晶心臟</span>。這些先進機體僅能在不和諧世界中找到。<br>透過摧毀<VAL_ON>戰鬥補給桶<>，收集被擊敗巡警掉落的戰利品。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

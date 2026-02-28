@@ -1,0 +1,89 @@
+{
+  "ID": "FREIGHT_PURPLE",
+  "Name": {
+    "English": "PURPLE",
+    "SimplifiedChinese": "紫",
+    "TraditionalChinese": "紫"
+  },
+  "NameLower": {
+    "English": "Purple",
+    "SimplifiedChinese": "紫",
+    "TraditionalChinese": "紫"
+  },
+  "Subtitle": {
+    "English": "Freighter Customisation Option",
+    "SimplifiedChinese": "货船自定义选项",
+    "TraditionalChinese": "貨船客製化選項"
+  },
+  "Description": {
+    "English": "Unlocks this colour for <span class=\"name name-stellar\">freighter customisation</span>.<br><br>A self-replicating cloud of highly pigmatised nano-robots swarm the capital ship, changing its external appearance.",
+    "SimplifiedChinese": "解锁可用于<span class=\"name name-stellar\">货船自定义</span>的颜色。<br><br>一波自我复制的高度着色纳米机器人将聚集在主力飞船上，由此改变了它的外观。",
+    "TraditionalChinese": "解鎖這款顏色進行<span class=\"name name-stellar\">貨船客製化</span>。<br><br>由色彩飽和的奈米機器人組成無性生殖的團塊包圍主力太空船，改變太空船外觀。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 12300,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.freightpaint.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.549019635,
+    "G": 0.294117659,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "CustomisationPart",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 5000,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000748718216,
+  "NormalisedValueOffWorld": 0.000748718216,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Purple",
+    "SimplifiedChinese": "寻找或购买紫",
+    "TencentChinese": "寻找或购买紫",
+    "TraditionalChinese": "找出或購買紫"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

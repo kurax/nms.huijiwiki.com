@@ -1,0 +1,89 @@
+{
+  "ID": "U_FR_COM2",
+  "Name": {
+    "English": "SALVAGED FLEET COMBAT UNIT",
+    "SimplifiedChinese": "已回收的舰队战斗装置",
+    "TraditionalChinese": "回收的艦隊戰鬥機體"
+  },
+  "NameLower": {
+    "English": "Salvaged Fleet Combat Unit",
+    "SimplifiedChinese": "已回收的舰队战斗装置",
+    "TraditionalChinese": "回收的艦隊戰鬥機體"
+  },
+  "Subtitle": {
+    "English": "B-Class Deployable Salvage",
+    "SimplifiedChinese": "B级可部署回收",
+    "TraditionalChinese": "B 級可部署回收"
+  },
+  "Description": {
+    "English": "A deployable freighter upgrade, salvaged from <span class=\"name name-stellar\">Salvaged Fleet Combat Unit</span>.<br><br>Can be re-deployed into your own capital ship to improve the <span class=\"name name-technology\">combat performance</span> of your fleet.",
+    "SimplifiedChinese": "从<span class=\"name name-stellar\">已回收的舰队战斗装置</span>回收的可部署货船升级。<br><br>可重新部署至你的主力飞船，改善舰队的<span class=\"name name-technology\">战斗性能</span>。",
+    "TraditionalChinese": "從<span class=\"name name-stellar\">回收的艦隊戰鬥機體</span>回收的可部署貨船升級。<br><br>可重新部署至你自己的主力太空船，改善艦隊的<span class=\"name name-technology\">戰鬥表現</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 140,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.b.shipgun.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00000891025684,
+  "NormalisedValueOffWorld": 0.00000891025684,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_FRCOM2",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Salvaged Fleet Combat Unit from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买已回收的舰队战斗装置",
+    "TencentChinese": "从空间站的交易终端购买已回收的舰队战斗装置",
+    "TraditionalChinese": "從太空站交易終端站購買回收的艦隊戰鬥機體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

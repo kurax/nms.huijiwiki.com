@@ -1,0 +1,109 @@
+{
+  "ID": "MEGAPROD3",
+  "Name": {
+    "English": "CRYOGENIC CHAMBER",
+    "SimplifiedChinese": "低温舱",
+    "TencentChinese": "低温舱",
+    "TraditionalChinese": "低溫艙"
+  },
+  "NameLower": {
+    "English": "Cryogenic Chamber",
+    "SimplifiedChinese": "低温舱",
+    "TencentChinese": "低温舱",
+    "TraditionalChinese": "低溫艙"
+  },
+  "Subtitle": {
+    "English": "Advanced Crafted Product",
+    "SimplifiedChinese": "先进铸造物",
+    "TencentChinese": "先进铸造物",
+    "TraditionalChinese": "精工改良產品"
+  },
+  "Description": {
+    "English": "A low temperature chamber, designed to prevent the natural decay of organic matter.<br><br>Crafted from <span class=\"name name-technology\">Living Glass</span> and a <span class=\"name name-technology\">Cryo-Pump</span>.",
+    "SimplifiedChinese": "一个低温舱，用于阻止有机物质的自然腐烂。<br><br>由<span class=\"name name-technology\">活体玻璃</span>和<span class=\"name name-technology\">冷沉淀泵</span>制作。",
+    "TencentChinese": "一个低温舱，用于阻止有机物质的自然腐烂。<br><br>由<span class=\"name name-technology\">活体玻璃</span>和<span class=\"name name-technology\">冷沉淀泵</span>制作。",
+    "TraditionalChinese": "一間低溫艙，專門用來避免有機物質的自然衰變。<br><br>可使用<span class=\"name name-technology\">活玻璃</span>與<span class=\"name name-technology\">低溫泵</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3800000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.cryochamber.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD8": {
+      "ID": "FARMPROD8",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "COMPOUND6": {
+      "ID": "COMPOUND6",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.243589699,
+  "NormalisedValueOffWorld": 0.243589699,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Cryogenic Chamber",
+    "SimplifiedChinese": "制作低温舱",
+    "TencentChinese": "制作低温舱",
+    "TraditionalChinese": "製作低溫艙"
+  },
+  "PinObjectiveTip": {
+    "English": "Highly advanced crafting product. Learn the relevant blueprints by raiding <span class=\"name name-technology\">planetary factories</span> or from the <span class=\"name name-stellar\">Synthesis Lab</span> on the <span class=\"name name-special\">Space Anomaly</span>.<br>Craft from <span class=\"name name-commodity\">Living Glass</span> and <span class=\"name name-commodity\">Cryo-Pumps</span>.",
+    "SimplifiedChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>或在<span class=\"name name-special\">太空异象</span>上的<span class=\"name name-stellar\">合成实验室</span>学习相关设计图。<br>由<span class=\"name name-commodity\">活体玻璃</span>和<span class=\"name name-commodity\">低温泵</span>制作而成。",
+    "TencentChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>学习相关设计图。<br>由<span class=\"name name-commodity\">活体玻璃</span>和<span class=\"name name-commodity\">低温泵</span>制作而成。",
+    "TraditionalChinese": "非常先進的製作產品。襲擊<span class=\"name name-technology\">星球工廠</span>或從<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-stellar\">合成實驗室</span>來了解相關設計圖。<br>由<span class=\"name name-commodity\">活玻璃</span>和<span class=\"name name-commodity\">低溫泵</span>製作而成。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

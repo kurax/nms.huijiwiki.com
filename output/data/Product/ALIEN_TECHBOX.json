@@ -1,0 +1,89 @@
+{
+  "ID": "ALIEN_TECHBOX",
+  "Name": {
+    "English": "PSYCHONIC EGG",
+    "SimplifiedChinese": "心灵之卵",
+    "TraditionalChinese": "精神卵"
+  },
+  "NameLower": {
+    "English": "Psychonic Egg",
+    "SimplifiedChinese": "心灵之卵",
+    "TraditionalChinese": "精神卵"
+  },
+  "Subtitle": {
+    "English": "Pulsating Yolk Sac",
+    "SimplifiedChinese": "搏动的卵黄囊",
+    "TraditionalChinese": "脈動卵黃囊"
+  },
+  "Description": {
+    "English": "A writhing sac of genetic fluid, designed to foster the creation of new <span class=\"name name-technology\">bio-infused technology</span> for a <span class=\"name name-technology\">sentient starship</span>.<br><br>The embryo will grow into <span class=\"name name-technology\">bio-technology upgrade</span>. <span class=\"name name-stellar\">Begin biogenesis</span> with <VAL_ON><span class=\"name name-img\">FE_ALT1</span><>.",
+    "SimplifiedChinese": "一个蠕动的基因液囊，旨在促进创造新的<span class=\"name name-technology\">生物注入技术</span>，用于<span class=\"name name-technology\">有感知力的飞船</span>。<br><br>胚胎将成长为<span class=\"name name-technology\">生物技术升级组件</span>。<span class=\"name name-stellar\">用<VAL_ON><IMG>FE_ALT1</span><>开始生物合成<>。",
+    "TraditionalChinese": "一個扭動的基因液囊，用來促進<span class=\"name name-technology\">知覺太空船</span>創造新的<span class=\"name name-technology\">生物結合科技</span>。<br><br>胚胎將會成長為<span class=\"name name-technology\">生物科技升級</span>。按下 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 即可<span class=\"name name-stellar\">開始生物合成</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 126000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.biocomp2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00801275671,
+  "NormalisedValueOffWorld": 0.00801275671,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Psychonic Egg",
+    "SimplifiedChinese": "寻找心灵之卵",
+    "TencentChinese": "寻找心灵之卵",
+    "TraditionalChinese": "找出精神卵"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

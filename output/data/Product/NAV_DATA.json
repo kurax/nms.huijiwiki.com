@@ -1,0 +1,93 @@
+{
+  "ID": "NAV_DATA",
+  "Name": {
+    "English": "NAVIGATION DATA",
+    "SimplifiedChinese": "导航数据",
+    "TencentChinese": "导航数据",
+    "TraditionalChinese": "導航資料"
+  },
+  "NameLower": {
+    "English": "Navigation Data",
+    "SimplifiedChinese": "导航数据",
+    "TencentChinese": "导航数据",
+    "TraditionalChinese": "導航資料"
+  },
+  "Subtitle": {
+    "English": "Encrypted Navigation Data",
+    "SimplifiedChinese": "破译的导航数据",
+    "TencentChinese": "破译的导航数据",
+    "TraditionalChinese": "加密導航資料"
+  },
+  "Description": {
+    "English": "Encoded navigation data. This highly portable data unit contains all relevant cartographical information for a planetary region.<br><br>May be traded with a <span class=\"name name-tradeable\">Cartographer</span> aboard a Space Station in exchange for <span class=\"name name-stellar\">usable star charts</span>.",
+    "SimplifiedChinese": "编码导航数据。这种极其便携的数据装置包含某个行星区域的所有相关制图信息。<br><br>可以用来跟空间站上的一个<span class=\"name name-tradeable\">制图师</span>交换<span class=\"name name-stellar\">实用的星图</span>。",
+    "TencentChinese": "编码导航数据。这种极其便携的数据装置包含某个行星区域的所有相关制图信息。<br><br>可以用来跟空间站上的一个<span class=\"name name-tradeable\">制图师</span>交换<span class=\"name name-stellar\">实用的星图</span>。",
+    "TraditionalChinese": "加密的導航資料。這款攜帶方便的資料裝置存有與星球區域相關的所有地圖資訊。<br><br>也許能在太空站跟<span class=\"name name-tradeable\">地圖學家</span>交換<span class=\"name name-stellar\">可用星圖</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.navdata.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Navigation Data",
+    "SimplifiedChinese": "寻找或购买导航数据",
+    "TencentChinese": "寻找或购买导航数据",
+    "TraditionalChinese": "找出或購買導航資料"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

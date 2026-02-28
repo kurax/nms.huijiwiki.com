@@ -1,0 +1,91 @@
+{
+  "ID": "DECAL_WORM_P2",
+  "Name": {
+    "English": "WORM HUNT II DECAL",
+    "SimplifiedChinese": "蠕虫狩猎II贴花",
+    "TraditionalChinese": "巨蟲狩獵 II 轉印貼紙"
+  },
+  "NameLower": {
+    "English": "Worm Hunt II Decal",
+    "SimplifiedChinese": "蠕虫狩猎II贴花",
+    "TraditionalChinese": "巨蟲狩獵 II 轉印貼紙"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive placeable decal, to add flair and decoration to bases.<br>This <span class=\"name name-special\">cursed</span> decal depicts the mighty <span class=\"name name-stellar\">titan worm</span>.<br><br>\"The veins of the Atlas had surfaced.\"",
+    "SimplifiedChinese": "专属的可放置贴花，可以为你的基地增添风格和美观。<br>这张<span class=\"name name-special\">被诅咒的</span>贴花描绘了威武的<span class=\"name name-stellar\">泰坦蠕虫</span>。<br><br>“阿特拉斯的血脉已升上地面。”",
+    "TraditionalChinese": "特殊的可放置轉印貼紙，可以裝飾基地，增添個人風格。<br>這片<span class=\"name name-special\">被詛咒</span>的轉印貼紙描繪了強大的<span class=\"name name-stellar\">泰坦巨蟲</span>。<br><br>「寰宇血脈已浮出地面。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.decalpworm2.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.worm2.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000253205217,
+  "NormalisedValueOffWorld": 0.0000253205217,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

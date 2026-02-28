@@ -1,0 +1,89 @@
+{
+  "ID": "BUI_HEAD_11",
+  "Name": {
+    "English": "ARMOURED FACIAL UNIT",
+    "SimplifiedChinese": "装甲面部单元",
+    "TraditionalChinese": "裝甲面部元件"
+  },
+  "NameLower": {
+    "English": "Armoured Facial Unit",
+    "SimplifiedChinese": "装甲面部单元",
+    "TraditionalChinese": "裝甲面部元件"
+  },
+  "Subtitle": {
+    "English": "Autophage Appearance Modification",
+    "SimplifiedChinese": "自噬体外观修改",
+    "TraditionalChinese": "自噬外觀改造"
+  },
+  "Description": {
+    "English": "An exclusive <span class=\"name name-stellar\">Exosuit Appearance Override</span>, granted by the <TRANS_BUI>Autophage<> to those who seek to build their own shell.<br><br>Transform the appearance of your Exosuit at an <span class=\"name name-technology\">Appearance Modifier</span>.",
+    "SimplifiedChinese": "专属<span class=\"name name-stellar\">套装外观</span>，由<TRANS_BUI>自噬体<>赠予那些愿意为自己建造躯壳之人的礼物。<br><br>可以在<span class=\"name name-technology\">外观修改器</span>使用以更改你的套装外观。",
+    "TraditionalChinese": "特殊的<span class=\"name name-stellar\">強化套裝外觀覆寫</span>，由<TRANS_BUI>自噬<>提供給有意製作自身外殼的人。<br><br>在<span class=\"name name-technology\">外觀改造器</span>改變你的強化套裝外觀。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 999,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/robotparts/robotparts.head.11.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.549019635,
+    "G": 0.294117659,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "CustomisationPart",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000748718216,
+  "NormalisedValueOffWorld": 0.000748718216,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Armoured Facial Unit",
+    "SimplifiedChinese": "寻找或购买装甲面部单元",
+    "TencentChinese": "寻找或购买装甲面部单元",
+    "TraditionalChinese": "找出或購買裝甲面部元件"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

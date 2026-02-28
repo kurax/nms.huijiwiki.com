@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ENERGY1",
+  "Name": {
+    "English": "SPARK CANISTER",
+    "SimplifiedChinese": "电火花罐",
+    "TencentChinese": "电火花罐",
+    "TraditionalChinese": "火花罐"
+  },
+  "NameLower": {
+    "English": "Spark Canister",
+    "SimplifiedChinese": "电火花罐",
+    "TencentChinese": "电火花罐",
+    "TraditionalChinese": "火花罐"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Energy Source)",
+    "SimplifiedChinese": "交易货物（能源）",
+    "TencentChinese": "可交易能源",
+    "TraditionalChinese": "貿易商品 (能量供給源)"
+  },
+  "Description": {
+    "English": "A crate packed with spark canisters.<br><br>Many industrial and <span class=\"name name-special\">mining</span> processes have considerable power demands. A counterpart to the slow release of a battery, spark canisters are able to meet these demands instantaneously.",
+    "SimplifiedChinese": "装满电火花罐的箱子。<br><br>许多工业与<span class=\"name name-special\">采矿</span>过程都需要大量能源。作为应对电池缓慢释放能源的方法，这些电火花罐能够在一瞬间满足能源需求。",
+    "TencentChinese": "装满电火花罐的箱子。<br><br>许多工业与<span class=\"name name-special\">采矿</span>过程都需要大量能源。作为应对电池缓慢释放能源的方法，这些电火花罐能够在一瞬间满足能源需求。",
+    "TraditionalChinese": "一整箱的火花罐。<br><br>許多工業和<span class=\"name name-special\">礦業</span>作業時需要大量能源。有別於電池放電緩慢的特性，火花罐能立即提供所需能源。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.energy1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "Energy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1.2,
+  "PinObjective": {
+    "English": "Purchase Spark Canister from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买电火花罐",
+    "TencentChinese": "从空间站的交易终端购买电火花罐",
+    "TraditionalChinese": "從太空站交易終端站購買火花罐"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

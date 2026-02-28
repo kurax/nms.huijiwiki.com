@@ -1,0 +1,109 @@
+{
+  "ID": "REACTION1",
+  "Name": {
+    "English": "THERMIC CONDENSATE",
+    "SimplifiedChinese": "热凝物",
+    "TencentChinese": "热凝物",
+    "TraditionalChinese": "導熱凝液"
+  },
+  "NameLower": {
+    "English": "Thermic Condensate",
+    "SimplifiedChinese": "热凝物",
+    "TencentChinese": "热凝物",
+    "TraditionalChinese": "導熱凝液"
+  },
+  "Subtitle": {
+    "English": "Enhanced Gas Product",
+    "SimplifiedChinese": "增强型气体产品",
+    "TencentChinese": "增强型气体产品",
+    "TraditionalChinese": "強化氣體產品"
+  },
+  "Description": {
+    "English": "A refined product, holding the energy potential of heated atmospheric gas in a stable state until required.<br><br>Crafted from <span class=\"name name-tradeable\">Sulphurine</span> and <span class=\"name name-fuel\">Condensed Carbon</span>.",
+    "SimplifiedChinese": "一种精炼产品，可使大气气体在受热时保持稳定状态，需要时再释放其潜在能量。<br><br>由<span class=\"name name-tradeable\">硫磺</span>和<span class=\"name name-fuel\">浓缩碳</span>制作。",
+    "TencentChinese": "一种精炼产品，可使大气气体在受热时保持稳定状态，需要时再释放其潜在能量。<br><br>由<span class=\"name name-tradeable\">硫磺</span>和<span class=\"name name-fuel\">浓缩碳</span>制作。",
+    "TraditionalChinese": "精製產品，可將高溫大氣氣體的潛在能量壓抑在穩定狀態，待需要時使用。<br><br>可使用<span class=\"name name-tradeable\">硫氣</span>與<span class=\"name name-technology\">濃縮碳</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/reaction.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "GAS1": {
+      "ID": "GAS1",
+      "Type": "Substance",
+      "Amount": 250
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Thermic Condensate",
+    "SimplifiedChinese": "制作热凝物",
+    "TencentChinese": "制作热凝物",
+    "TraditionalChinese": "製作導熱凝液"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-tradeable\">Sulphurine</span> and <span class=\"name name-fuel\">Condensed Carbon</span>. Learn the blueprint by raiding <span class=\"name name-technology\">planetary factories</span> or from the <span class=\"name name-stellar\">Synthesis Lab</span> on the <span class=\"name name-special\">Space Anomaly</span>.<br>Harvest Sulphurine with an <span class=\"name name-technology\">Atmosphere Harvester</span> on <span class=\"name name-fuel\">Scorched</span> and <span class=\"name name-stellar\">Barren</span>worlds.<br>Refine Condensed Carbon from regular, plant-based <span class=\"name name-fuel\">Carbon</span>.",
+    "SimplifiedChinese": "由<span class=\"name name-tradeable\">硫磺</span>和<span class=\"name name-fuel\">浓缩碳</span>制作而成。通过突袭<span class=\"name name-technology\">行星工厂</span>或在<span class=\"name name-special\">太空异象</span>上的<span class=\"name name-stellar\">合成实验室</span>学习设计图。<br>在<span class=\"name name-fuel\">炽热</span>和<span class=\"name name-stellar\">贫瘠</span>世界使用<span class=\"name name-technology\">大气收集器</span>以收集硫磺。<br>使用星球上拥有的普通植物<span class=\"name name-fuel\">碳</span>精炼出浓缩碳。",
+    "TencentChinese": "由<span class=\"name name-tradeable\">硫磺</span>和<span class=\"name name-fuel\">浓缩碳</span>制作而成。通过突袭<span class=\"name name-technology\">行星工厂</span>学习设计图。<br>在<span class=\"name name-fuel\">炎热</span>和<span class=\"name name-stellar\">贫瘠</span>世界使用<span class=\"name name-technology\">大气采集器</span>以收集硫磺。<br>使用星球上拥有的普通<span class=\"name name-fuel\">碳</span>精炼出浓缩碳。",
+    "TraditionalChinese": "以<span class=\"name name-tradeable\">硫氣</span>及<span class=\"name name-fuel\">濃縮碳</span>製作。襲擊<span class=\"name name-technology\">星球工廠</span>或從<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-stellar\">合成實驗室</span>來了解設計圖。<br>在<span class=\"name name-fuel\">焦土</span>及<span class=\"name name-stellar\">荒蕪</span>世界使用<span class=\"name name-technology\">大氣採集器</span>來採收硫氣。<br>將一般的植物<span class=\"name name-fuel\">碳</span>精製成濃縮碳。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

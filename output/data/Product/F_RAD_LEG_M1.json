@@ -1,0 +1,89 @@
+{
+  "ID": "F_RAD_LEG_M1",
+  "Name": {
+    "English": "ABERRANT DUSKFIN",
+    "SimplifiedChinese": "异常暮鳍",
+    "TraditionalChinese": "異變黃昏鰭"
+  },
+  "NameLower": {
+    "English": "Aberrant Duskfin",
+    "SimplifiedChinese": "异常暮鳍",
+    "TraditionalChinese": "異變黃昏鰭"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"Its wings beat slowly as it sails though the poisoned seas, a drifter with no place of rest, no end to their journey.\"",
+    "SimplifiedChinese": "“缓慢扑打的翅膀带着它慢慢滑过剧毒的海洋，这位无处藏身的漂泊者进行着永无止境的旅程。“",
+    "TraditionalChinese": "「牠緩慢拍動著胸鰭，在有毒的大海中穿梭。牠是沒有歸屬的浪客，踏上一場永無止境的旅程。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 100000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product5.fish.ray.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Aberrant Duskfin",
+    "SimplifiedChinese": "寻找异常暮鳍",
+    "TencentChinese": "寻找异常暮鳍",
+    "TraditionalChinese": "找出異變黃昏鰭"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.35,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

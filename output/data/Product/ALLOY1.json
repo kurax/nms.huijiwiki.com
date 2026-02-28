@@ -1,0 +1,109 @@
+{
+  "ID": "ALLOY1",
+  "Name": {
+    "English": "ARONIUM",
+    "SimplifiedChinese": "阿洛姆",
+    "TencentChinese": "阿洛姆",
+    "TraditionalChinese": "鑨"
+  },
+  "NameLower": {
+    "English": "Aronium",
+    "SimplifiedChinese": "阿洛姆",
+    "TencentChinese": "阿洛姆",
+    "TraditionalChinese": "鑨"
+  },
+  "Subtitle": {
+    "English": "Alloy Metal",
+    "SimplifiedChinese": "合金金属",
+    "TencentChinese": "合金金属",
+    "TraditionalChinese": "合金"
+  },
+  "Description": {
+    "English": "A lightweight and highly malleable alloy. Crafted from <span class=\"name name-earth\">Paraffinium</span> and <span class=\"name name-earth\">Ionized Cobalt</span>.<br><br>In high demand on the Galactic Trade Network due to its utility in the construction of planetside outposts and facilities.",
+    "SimplifiedChinese": "可塑性很强的轻质合金。由<span class=\"name name-earth\">矿脂</span>和<span class=\"name name-earth\">离子钴</span>制作而成。<br><br>此金属广泛运用于行星前哨基站与设施的建筑工作，在银河交易网络中十分抢手。",
+    "TencentChinese": "可塑性很强的轻质合金。由<span class=\"name name-earth\">石蜡</span>和<span class=\"name name-earth\">氯</span>制作而成。<br><br>此金属广泛运用于行星前哨基站与设施的建筑工作，在银河交易网络中十分抢手。",
+    "TraditionalChinese": "輕量、延展性高的合金。由<span class=\"name name-earth\">鑞</span>和<span class=\"name name-earth\">離子化鈷</span>製作而成。<br><br>因為建築行星基地與設施時會大量使用，所以銀河交易網對此材料有極高需求。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 25000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.metallic.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LUSH1": {
+      "ID": "LUSH1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0.5
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0016025001,
+  "NormalisedValueOffWorld": 0.0016025001,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Aronium",
+    "SimplifiedChinese": "制作或精炼阿洛姆",
+    "TencentChinese": "制作或精炼阿洛姆",
+    "TraditionalChinese": "製作或精製鑨"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Aronium from <span class=\"name name-earth\">Paraffinium</span> and <span class=\"name name-earth\">Ionized Cobalt</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Paraffinium is found in large deposits on <span class=\"name name-tradeable\">lush planets</span> with an <span class=\"name name-technology\">Analysis Visor</span>.<br>Refine Chlorine from <span class=\"name name-tradeable\">Salt</span>, which is harvested from <span class=\"name name-technology\">underwater mineral deposits</span>.",
+    "SimplifiedChinese": "可利用阿洛姆石蜡<span class=\"name name-earth\">和</span>离子钴<span class=\"name name-earth\">制作或精炼</span>。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>石蜡能在<span class=\"name name-tradeable\">茂盛星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-tradeable\">盐</span>中能精炼出氯，盐可从<span class=\"name name-technology\">水下矿藏</span>中采集到。",
+    "TencentChinese": "使用<span class=\"name name-earth\">矿脂</span>和<span class=\"name name-earth\">氯</span>制作或精炼出阿洛姆。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>矿脂能在<span class=\"name name-tradeable\">茂盛星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-tradeable\">盐</span>中精炼出氯，盐能从<span class=\"name name-technology\">水下矿藏</span>中采集到。",
+    "TraditionalChinese": "將<span class=\"name name-earth\">鑞</span>及<span class=\"name name-earth\">離子化鈷</span>製作或精製成鑨。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>鑞可用<span class=\"name name-technology\">分析護目鏡</span>在<span class=\"name name-tradeable\">蒼翠星球</span>的大型資源產地找到。<br>將<span class=\"name name-technology\">水底礦資源產地</span>所採收的<span class=\"name name-tradeable\">鹽</span>精製成氯。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

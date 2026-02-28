@@ -1,0 +1,89 @@
+{
+  "ID": "MP_REP_PART2C",
+  "Name": {
+    "English": "COMMUNICATOR CONTROL UNIT",
+    "SimplifiedChinese": "通讯器控制单元",
+    "TraditionalChinese": "通訊控制器"
+  },
+  "NameLower": {
+    "English": "Communicator Control Unit",
+    "SimplifiedChinese": "通讯器控制单元",
+    "TraditionalChinese": "通訊控制器"
+  },
+  "Subtitle": {
+    "English": "Starship Component",
+    "SimplifiedChinese": "飞船部件",
+    "TraditionalChinese": "太空船元件"
+  },
+  "Description": {
+    "English": "An advanced nanocomputer, performing processing tasks related to ship-to-ship communications, quantum transportation, and coordinate tracing.<br><br>The part appears intact, functional, and ready to be installed in a new ship.",
+    "SimplifiedChinese": "一台先进的纳米电脑，可执行与船对船通信、量子运输和坐标跟踪相关的处理任务。<br><br>该部件看起来完好无损，功能正常，可以被安装至新的飞船。",
+    "TraditionalChinese": "先進奈米電腦，能處理太空船通訊、量子傳輸與座標追蹤相關的任務。<br><br>此零件完好，可正常運作，能夠安裝到新的太空船上。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.salvage.rare.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00020506412,
+  "NormalisedValueOffWorld": 0.00020506412,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Communicator Control Unit",
+    "SimplifiedChinese": "寻找通讯器控制单元",
+    "TencentChinese": "寻找通讯器控制单元",
+    "TraditionalChinese": "找出通訊控制器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

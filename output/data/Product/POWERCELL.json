@@ -1,0 +1,109 @@
+{
+  "ID": "POWERCELL",
+  "Name": {
+    "English": "ION BATTERY",
+    "SimplifiedChinese": "离子电池",
+    "TencentChinese": "离子电池",
+    "TraditionalChinese": "離子電池"
+  },
+  "NameLower": {
+    "English": "Ion Battery",
+    "SimplifiedChinese": "离子电池",
+    "TencentChinese": "离子电池",
+    "TraditionalChinese": "離子電池"
+  },
+  "Subtitle": {
+    "English": "Portable Energy Storage",
+    "SimplifiedChinese": "便携式能量存储器",
+    "TencentChinese": "便携式能量存储器",
+    "TraditionalChinese": "可攜式能量儲存裝置"
+  },
+  "Description": {
+    "English": "Convenient and optimized power storage unit. Used in a wide variety of <span class=\"name name-commodity\">defensive</span> and <span class=\"name name-commodity\">hazard protection</span> systems.<br> <br>Constructed by fusing <span class=\"name name-earth\">Ferrite Dust</span> with underground <span class=\"name name-technology\">Cobalt</span>. Frequently found ready-made in cylindrical metal containers.",
+    "SimplifiedChinese": "方便、有效的能量存储单元在<span class=\"name name-commodity\">防御系统</span>和<span class=\"name name-commodity\">危险防护系统</span>中有广泛的应用。<br> <br>可由<span class=\"name name-earth\">铁氧体粉末</span>和地下开采出的<span class=\"name name-technology\">钴</span>化合后制得。经常能在圆柱形金属容器中找到成品。",
+    "TencentChinese": "方便、有效的能量存储单元在<span class=\"name name-commodity\">防御系统</span>和<span class=\"name name-commodity\">危险防护系统</span>中有广泛的应用。<br> <br>可由<span class=\"name name-earth\">铁氧体粉末</span>和地下开采出的<span class=\"name name-technology\">钴</span>化合后制得。经常能在圆柱形金属容器中找到成品。",
+    "TraditionalChinese": "方便使用的最佳化能量儲存單元。廣泛用於<span class=\"name name-commodity\">防禦</span>與<span class=\"name name-commodity\">風險防護</span>系統。<br> <br>能融合<span class=\"name name-earth\">鐵氧體粉塵</span>與地下<span class=\"name name-technology\">鈷</span>製成。現成品常見於圓筒形金屬容器中。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.powercell.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Consumable",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 80,
+  "StackMultiplier": 20,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CAVE1": {
+      "ID": "CAVE1",
+      "Type": "Substance",
+      "Amount": 10
+    },
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 5
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000127564108,
+  "NormalisedValueOffWorld": 0.0000127564108,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft, find or purchase Ion Battery",
+    "SimplifiedChinese": "制作、寻找或购买离子电池",
+    "TencentChinese": "制作、寻找或购买离子电池",
+    "TraditionalChinese": "製造、找出或購買離子電池"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Ion Battery from <span class=\"name name-technology\">Cobalt</span> and <span class=\"name name-earth\">Ferrite dust</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Cobalt is found underground. Locate natural cave entrances. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.<br>Supplies are occasionally found in <span class=\"name name-technology\">Supply Caches</span> left on planets.",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">钴</span>和<span class=\"name name-earth\">铁氧体粉末</span>制作离子电池。使用 <span class=\"name name-img\">PRODMENU</span> 在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>钴能在地下被找到。寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。<br>补给品偶尔能从留在行星上的<span class=\"name name-technology\">物资贮存箱</span>中找到。",
+    "TencentChinese": "使用<span class=\"name name-technology\">钴</span>和<span class=\"name name-earth\">铁氧体粉末</span>制作离子电池。使用 <span class=\"name name-img\">PRODMENU</span> 在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>钴能在地下被找到。寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。<br>补给品偶尔能从留在行星上的<span class=\"name name-technology\">物资贮存箱</span>中找到。",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">鈷</span>和<span class=\"name name-earth\">鐵氧體粉塵</span>製作離子電池。按下 <span class=\"name name-img\">PRODMENU</span> 在空的<span class=\"name name-technology\">道具欄欄位</span>中製作。<br>鈷能在地底找到。找出天然洞穴入口。<span class=\"name name-red\">警告：</span>許多洞穴內有危險植物。<br>偶爾能在棄置於星球的<span class=\"name name-technology\">補給儲物箱</span>中找到補給品。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

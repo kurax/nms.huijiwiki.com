@@ -1,0 +1,105 @@
+{
+  "ID": "STAFF_PART_A",
+  "Name": {
+    "English": "FIBERGLASS GRIP",
+    "SimplifiedChinese": "玻璃纤维握柄",
+    "TraditionalChinese": "玻璃纖維握把"
+  },
+  "NameLower": {
+    "English": "Fiberglass Grip",
+    "SimplifiedChinese": "玻璃纤维握柄",
+    "TraditionalChinese": "玻璃纖維握把"
+  },
+  "Subtitle": {
+    "English": "Voltaic Component",
+    "SimplifiedChinese": "伏打构件",
+    "TraditionalChinese": "伏打元件"
+  },
+  "Description": {
+    "English": "A strap of flexible resin, securely wrapped around a steel pole.<br><br>One of three core components, this forms the <span class=\"name name-stellar\">backbone</span> of a traditional Autophage <span class=\"name name-technology\">Voltaic Staff</span>.",
+    "SimplifiedChinese": "由柔韧树脂构成的带子被牢牢缠在一根钢管上。<br><br>作为三种核心构件之一，此物是传统自噬体<span class=\"name name-technology\">伏打长杖</span>的<span class=\"name name-stellar\">支撑部</span>。",
+    "TraditionalChinese": "一條彈性樹脂帶，牢固地纏繞在鋼桿上。<br><br>三個核心元件之一，構成傳統自噬<span class=\"name name-technology\">伏打手杖</span>的<span class=\"name name-stellar\">骨幹</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 333,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/staffparta.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.549019635,
+    "G": 0.294117659,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Fiberglass Grip",
+    "SimplifiedChinese": "制作玻璃纤维握柄",
+    "TencentChinese": "制作玻璃纤维握柄",
+    "TraditionalChinese": "製作玻璃纖維握把"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

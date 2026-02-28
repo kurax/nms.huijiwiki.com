@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_MINERALS2",
+  "Name": {
+    "English": "UNREFINED PYRITE GREASE",
+    "SimplifiedChinese": "未提炼黄铁脂",
+    "TencentChinese": "未提炼黄铁脂",
+    "TraditionalChinese": "未提煉黃鐵油"
+  },
+  "NameLower": {
+    "English": "Unrefined Pyrite Grease",
+    "SimplifiedChinese": "未提炼黄铁脂",
+    "TencentChinese": "未提炼黄铁脂",
+    "TraditionalChinese": "未提煉黃鐵油"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Minerals)",
+    "SimplifiedChinese": "交易货物（矿物）",
+    "TencentChinese": "可交易材料",
+    "TraditionalChinese": "貿易商品 (礦物)"
+  },
+  "Description": {
+    "English": "Large jars full of pyrite grease.<br><br>A fat solution with a high mineral content. This grease is highly valued by <span class=\"name name-special\">manufacturing</span> economies, where it's used to keep large machinery oiled and glistening.",
+    "SimplifiedChinese": "灌满了黄铁溶液的大罐子。<br><br>富含矿物成分的饱和溶液。<span class=\"name name-special\">制造业</span>经济体非常喜欢这种油脂，他们经常使用这些溶液给大型机械上油抛光。",
+    "TencentChinese": "灌满了黄铁溶液的大罐子。<br><br>富含矿物成分的饱和溶液。<span class=\"name name-special\">制造业</span>经济体非常喜欢这种油脂，他们经常使用这些溶液给大型机械上油抛光。",
+    "TraditionalChinese": "數大罐滿滿的黃鐵油。<br><br>此種脂肪溶液含有豐富的金屬成分。對<span class=\"name name-special\">製造業</span>經濟體尤其實用，能拿來潤滑打亮大型機具。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.minerals2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000384551298,
+  "NormalisedValueOffWorld": 0.000384551298,
+  "TradeCategory": "Mineral",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1,
+  "PinObjective": {
+    "English": "Purchase Unrefined Pyrite Grease from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买未提炼黄铁脂",
+    "TencentChinese": "从空间站的交易终端购买未提炼黄铁脂",
+    "TraditionalChinese": "從太空站交易終端站購買未提煉黃鐵油"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

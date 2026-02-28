@@ -1,0 +1,104 @@
+{
+  "ID": "CASING",
+  "Name": {
+    "English": "METAL PLATING",
+    "SimplifiedChinese": "金属电镀",
+    "TencentChinese": "金属电镀",
+    "TraditionalChinese": "金屬電鍍"
+  },
+  "NameLower": {
+    "English": "Metal Plating",
+    "SimplifiedChinese": "金属电镀",
+    "TencentChinese": "金属电镀",
+    "TraditionalChinese": "金屬電鍍"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A lightweight metal product, heavily used in the manufacture of <span class=\"name name-technology\">starship parts</span> and <span class=\"name name-technology\">deployable technology</span>. A mainstay of the construction industries of all known primary species.<br><br>Crafted from <span class=\"name name-earth\">Ferrite Dust</span>.",
+    "SimplifiedChinese": "一种轻质金属产品，大量用于制造<span class=\"name name-technolog\">飞船部件</span>和<span class=\"name name-technology\">可部署科技设备</span>。所有已知原初种族的建筑业的基础。<br><br>使用<span class=\"name name-earth\">铁氧体粉末</span>制成。",
+    "TencentChinese": "一种轻质金属产品，大量用于制造<span class=\"name name-technolog\">飞船部件</span>和<span class=\"name name-technology\">可部署科技设备</span>。所有已知原初种族的建筑业的基础。<br><br>使用<span class=\"name name-earth\">铁氧体粉末</span>制成。",
+    "TraditionalChinese": "輕巧的金屬，廣泛用於製作<span class=\"name name-technology\">太空船部件</span>與<span class=\"name name-technology\">可部署科技</span>。所有已知主要種族的營建業都會用到它。<br><br>以<span class=\"name name-earth\">鐵氧體粉塵</span>製成。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.casing.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Metal Plating",
+    "SimplifiedChinese": "制作金属电镀",
+    "TencentChinese": "制作金属电镀",
+    "TraditionalChinese": "製作金屬電鍍"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft <span class=\"name name-commodity\">Metal Plating</span> from <span class=\"name name-earth\">Ferrite Dust</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Harvest <span class=\"name name-earth\">Ferrite Dust</span> from small rocks using the <span class=\"name name-technology\">Mining Laser</span>. Fire the laser with <span class=\"name name-img\">ATTACK</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-earth\">铁氧体粉末</span>制作<span class=\"name name-commodity\">金属电镀</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>使用<span class=\"name name-technology\">开采激光</span>从小岩石块中采集<span class=\"name name-earth\">铁氧体粉末</span>。按下<span class=\"name name-img\">ATTACK</span>发射激光。",
+    "TencentChinese": "使用<span class=\"name name-earth\">铁氧体粉末</span>制作<span class=\"name name-commodity\">金属电镀</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>使用<span class=\"name name-technology\">开采激光</span>从小岩石块中采集<span class=\"name name-earth\">铁氧体粉末</span>。按下<span class=\"name name-img\">ATTACK</span>发射激光。",
+    "TraditionalChinese": "使用<span class=\"name name-earth\">鐵氧體粉塵</span>製作<span class=\"name name-commodity\">金屬電鍍</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。<br>使用<span class=\"name name-technology\">採礦雷射</span>從小石頭中採收<span class=\"name name-earth\">鐵氧體粉塵</span>。按下<span class=\"name name-img\">ATTACK</span>發射雷射。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,90 @@
+{
+  "ID": "BASE_NEXUS1",
+  "Name": {
+    "English": "ANTIMATTER OBSERVATION ORB",
+    "SimplifiedChinese": "反物质观察珠",
+    "TraditionalChinese": "反物質觀察球體"
+  },
+  "NameLower": {
+    "English": "Antimatter Observation Orb",
+    "SimplifiedChinese": "反物质观察珠",
+    "TraditionalChinese": "反物質觀察球體"
+  },
+  "Subtitle": {
+    "English": "Space Anomaly Replica Part",
+    "SimplifiedChinese": "太空异象复制品部件",
+    "TraditionalChinese": "太空異常複製品部件"
+  },
+  "Description": {
+    "English": "This spiked chamber contains a globule of antimatter, creating an unusual display piece for discerning base builders.",
+    "SimplifiedChinese": "带尖刺的包装里有一个反物质球，对眼光敏锐的基地建设者来说是十分特别的展示物。",
+    "TraditionalChinese": "這個帶刺容器裡裝有一團反物質小球。對眼光獨到的基地建造者而言，是很特殊的展示品。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.nexusprop01.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.nexusprop01.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

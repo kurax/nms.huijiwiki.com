@@ -1,0 +1,89 @@
+{
+  "ID": "S15_MESSAGE0",
+  "Name": {
+    "English": "THE ANGLER'S DIARY",
+    "SimplifiedChinese": "垂钓者的日记",
+    "TraditionalChinese": "垂釣者的日記"
+  },
+  "NameLower": {
+    "English": "The Angler's Diary",
+    "SimplifiedChinese": "垂钓者的日记",
+    "TraditionalChinese": "垂釣者的日記"
+  },
+  "Subtitle": {
+    "English": "Collected Flotsam",
+    "SimplifiedChinese": "收集到的漂浮物",
+    "TraditionalChinese": "一團漂流物"
+  },
+  "Description": {
+    "English": "A message recovered from a bottle stowed beneath the seat of the starship. It reads:<br><br><VAL_ON>\"I finally feel like I'm getting closer. A trader on Gisto offered me solid-gold information on its location, for a price.<br>And so I'm selling my ship. I'll miss the <VAL_ON>Celeste<>, but I have to know if the rumours are true. I hope whoever buys you takes good care of you...\"<br>%PARTY_1%<>",
+    "SimplifiedChinese": "藏在飞船驾驶室中的瓶子里面的一封信。信件上的内容：<br><br><VAL_ON>“终于，我感觉自己已经越来越近了。吉斯托上的一个商人信誓旦旦地表示手上有关于这个位置的确凿信息，但是他开的价格十分高昂。<br>迫于无奈，我只能选择卖掉自己的飞船，我舍不得<VAL_ON>蔚蓝号<>，但我必须确认那个传闻是不是真的。希望买下你的新主人会好好善待你......”<br>%PARTY_1%<>",
+    "TraditionalChinese": "從藏在太空船座位下方的一個瓶子中，找到了一則訊息，上面寫著：<br><br><VAL_ON>「我總算有種自己離目標越來越近的感覺了。吉斯托上有個商人要用高價賣給我那東西貨真價實的位置資訊。<br>所以我打算賣掉我的太空船。我會很想念<VAL_ON>賽萊斯特<>的，但我得先查明傳言是否屬實。希望買下你的人能好好照顧你......」<br>%PARTY_1%<>"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "S15_PARTY",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product.fish.message.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft The Angler's Diary",
+    "SimplifiedChinese": "制作垂钓者的日记",
+    "TencentChinese": "制作垂钓者的日记",
+    "TraditionalChinese": "製作垂釣者的日記"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

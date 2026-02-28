@@ -1,0 +1,91 @@
+{
+  "ID": "BUILDCHAIR4",
+  "Name": {
+    "English": "CLASSIC CHAIR",
+    "SimplifiedChinese": "古典椅子",
+    "TraditionalChinese": "經典椅子"
+  },
+  "NameLower": {
+    "English": "Classic Chair",
+    "SimplifiedChinese": "古典椅子",
+    "TraditionalChinese": "經典椅子"
+  },
+  "Subtitle": {
+    "English": "Furniture",
+    "SimplifiedChinese": "家具",
+    "TencentChinese": "家具",
+    "TraditionalChinese": "家具"
+  },
+  "Description": {
+    "English": "A sturdy, well-constructed seat, standardised for installation in Space Stations across the galaxies. Its angular design is surprisingly ergonomic.",
+    "SimplifiedChinese": "坚固、结构良好的座椅，遍及全宇宙空间站的标志内饰。虽然外表棱角分明，但却不可思议地符合人体工程学设计。",
+    "TraditionalChinese": "堅固、結構良好的座椅，是銀河系各個太空站中的標準裝置。棱角分明的設計意外地符合人體工學。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.chair004.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.chair004.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "TRA_COMMODITY2": {
+      "ID": "TRA_COMMODITY2",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

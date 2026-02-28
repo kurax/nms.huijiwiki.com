@@ -1,0 +1,89 @@
+{
+  "ID": "F_DEEP_LEG_XL",
+  "Name": {
+    "English": "LEVIATHAN SPAWN",
+    "SimplifiedChinese": "巨兽子嗣",
+    "TraditionalChinese": "龐然大物幼體"
+  },
+  "NameLower": {
+    "English": "Leviathan Spawn",
+    "SimplifiedChinese": "巨兽子嗣",
+    "TraditionalChinese": "龐然大物幼體"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"So young and fragile, despite its years beneath the waves. And yet thousands more years must pass before it joins the great herd in the stars...\"",
+    "SimplifiedChinese": "“尽管在波浪之下生活了许多年，但它仍然是年轻而且脆弱。只有再经历数千年的岁月之后，它才能与自己的伟大同胞们一起遨游在星辰之间......”",
+    "TraditionalChinese": "「儘管牠在海浪下生活了很多年，卻仍如此年輕脆弱。在牠加入星空中的大家庭之前，還必須再歷練數千年......」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product.leviathanfish.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Leviathan Spawn",
+    "SimplifiedChinese": "寻找巨兽子嗣",
+    "TencentChinese": "寻找巨兽子嗣",
+    "TraditionalChinese": "找出龐然大物幼體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

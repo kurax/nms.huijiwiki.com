@@ -1,0 +1,89 @@
+{
+  "ID": "WORMSCROLL1",
+  "Name": {
+    "English": "WORMSKIN FOLIO: 1",
+    "SimplifiedChinese": "虫蜕经书：1",
+    "TraditionalChinese": "巨蟲皮片：1"
+  },
+  "NameLower": {
+    "English": "Wormskin Folio: 1",
+    "SimplifiedChinese": "虫蜕经书：1",
+    "TraditionalChinese": "巨蟲皮片：1"
+  },
+  "Subtitle": {
+    "English": "Fleshy Scroll",
+    "SimplifiedChinese": "肉质文卷",
+    "TraditionalChinese": "血肉卷軸"
+  },
+  "Description": {
+    "English": "Ancient words are carved into this <span class=\"name name-stellar\">living document</span>. They read:<br><br>'The worm lord towers above the dusty earth; its flesh becomes the sky.<br>Our pathetic shells cannot follow, cannot reach its height, cannot reach its depths.<br>We offer ourselves to the ground.<br>We beg our sacrifice accepted.'",
+    "SimplifiedChinese": "这份<span class=\"name name-stellar\">活经文</span>上刻着古老的文字。上面写道：<br><br>“蠕虫领主的身影徘徊于尘土之上，躯体则化为了天空。<br>吾等肉体凡胎无法追随，无法到达那种高度，更无法触及那渊底。<br>吾等将自身献给大地。<br>吾等乞求自我的牺牲能被接受。”",
+    "TraditionalChinese": "被刻進<span class=\"name name-stellar\">活體文件</span>的古老文字。上頭刻著：<br><br>「蟲王佇立在沙土之上，其血肉遮天。<br>我們可憐的軀殼無可企及其高度與深度。<br>我們匍匐於土地，奉獻出自身。<br>我們乞求自身奉獻能獲得接納。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/wormscroll.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Wormskin Folio: 1",
+    "SimplifiedChinese": "寻找虫蜕经书：1",
+    "TencentChinese": "寻找虫蜕经书：1",
+    "TraditionalChinese": "找出巨蟲皮片：1"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,91 @@
+{
+  "ID": "EXPD_POSTER14B",
+  "Name": {
+    "English": "BROOD MOTHER POSTER",
+    "SimplifiedChinese": "巢母海报",
+    "TraditionalChinese": "蟲后海報"
+  },
+  "NameLower": {
+    "English": "Brood Mother Poster",
+    "SimplifiedChinese": "巢母海报",
+    "TraditionalChinese": "蟲后海報"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive piece of self-adhesive, crease-proof wall art.<br><br>The vile queen looms from this poster, a warning to all those who would disturb her brood...",
+    "SimplifiedChinese": "一幅独特自粘且防皱的墙壁艺术。<br><br>海报上，蠢蠢欲动的邪恶女王正警告着所有胆敢打扰她的巢穴之人......",
+    "TraditionalChinese": "獨特的自黏防皺牆面藝術作品。<br><br>邪惡蟲后的身影在這張海報中若隱若現，向所有打擾她親愛孩兒的騷擾者發出警告......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.poster14b.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.poster14b.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255869254,
+  "NormalisedValueOffWorld": 0.0000255869254,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

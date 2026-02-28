@@ -1,0 +1,99 @@
+{
+  "ID": "PURPM_PACKET",
+  "Name": {
+    "English": "MEMORIES OF ATLANTID",
+    "SimplifiedChinese": "阿特兰蒂的回忆",
+    "TraditionalChinese": "亞特蘭提德的記憶"
+  },
+  "NameLower": {
+    "English": "Memories of Atlantid",
+    "SimplifiedChinese": "阿特兰蒂的回忆",
+    "TraditionalChinese": "亞特蘭提德的記憶"
+  },
+  "Subtitle": {
+    "English": "Forgotten Void Data",
+    "SimplifiedChinese": "被遗忘的虚空数据",
+    "TraditionalChinese": "被遺忘的虛空資料"
+  },
+  "Description": {
+    "English": "The howling of an advanced intelligence banished to oblivion, a reverberation in sentience and crystal. <br><br>Each memory in this <span class=\"name name-technology\">data packet</span> is an entire reality in itself, bearing the fingerprint of countless lives. The <span class=\"name name-fuel\">Atlas</span> will recognise this seed.",
+    "SimplifiedChinese": "被放逐至堙灭之中的高等智慧的尖叫，蕴藏在智慧生命与水晶之中的回响。<br><br>这个<span class=\"name name-technology\">数据包</span>中的每段回忆都是完整的现实，里面承载着无数生命的痕迹。<span class=\"name name-fuel\">阿特拉斯</span>将辨识这枚种子。",
+    "TraditionalChinese": "某種已蕩然無存的高級智慧生物，其怒吼聲在智慧生物和晶體中迴盪。<br><br>這個<span class=\"name name-technology\">資料包</span>中的每個記憶本身就是一個完整的現實，承載著無數生命的痕跡。<span class=\"name name-fuel\">寰宇</span>認得這個種子。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1919,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.2024.purplepacket.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "S10_SOUL": {
+      "ID": "S10_SOUL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "COMPUTER": {
+      "ID": "COMPUTER",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000122948724,
+  "NormalisedValueOffWorld": 0.000184455144,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Compile Memories of Atlantid",
+    "SimplifiedChinese": "编写阿特兰蒂的回忆",
+    "TraditionalChinese": "編譯 亞特蘭提德的記憶"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

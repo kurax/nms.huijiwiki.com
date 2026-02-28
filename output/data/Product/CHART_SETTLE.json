@@ -1,0 +1,89 @@
+{
+  "ID": "CHART_SETTLE",
+  "Name": {
+    "English": "SETTLEMENT CHART",
+    "SimplifiedChinese": "定居点图表",
+    "TraditionalChinese": "聚居地圖"
+  },
+  "NameLower": {
+    "English": "Settlement Chart",
+    "SimplifiedChinese": "定居点图表",
+    "TraditionalChinese": "聚居地圖"
+  },
+  "Subtitle": {
+    "English": "Specialist Planetary Chart",
+    "SimplifiedChinese": "专业星图",
+    "TraditionalChinese": "專家星系圖"
+  },
+  "Description": {
+    "English": "A map showing the location of a nearby planetary settlement, acquired from the <span class=\"name name-stellar\">Space Station Cartographer</span>.<br><br>Select the map and use <VAL_ON>Plot Route (<span class=\"name name-img\">FE_ALT1</span>)<> to pin the location in your Exosuit display.",
+    "SimplifiedChinese": "显示附近行星定居点的地图，可在<span class=\"name name-stellar\">空间站的制图师处获得</span>。<br><br>选择地图并使用<VAL_ON>规划路线（<span class=\"name name-img\">FE_ALT1</span>）<>以在你的套装屏幕中标记该地点。",
+    "TraditionalChinese": "顯示附近星球聚居地位置的地圖，從<span class=\"name name-stellar\">太空站地圖學家</span>的手中取得。<br><br>選取地圖，並使用<VAL_ON>規劃路線功能 (<span class=\"name name-img\">FE_ALT1</span>)<>，即可在你的強化套裝顯示器中釘選該地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.settlement.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 5,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Settlement Chart",
+    "SimplifiedChinese": "寻找定居点图表",
+    "TencentChinese": "寻找定居点图表",
+    "TraditionalChinese": "找出聚居地圖"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

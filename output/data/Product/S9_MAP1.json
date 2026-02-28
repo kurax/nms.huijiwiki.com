@@ -1,0 +1,89 @@
+{
+  "ID": "S9_MAP1",
+  "Name": {
+    "English": "SETTLEMENT COORDINATES BETA",
+    "SimplifiedChinese": "定居点坐标B",
+    "TraditionalChinese": "聚居地座標 Beta"
+  },
+  "NameLower": {
+    "English": "Settlement Coordinates Beta",
+    "SimplifiedChinese": "定居点坐标B",
+    "TraditionalChinese": "聚居地座標 Beta"
+  },
+  "Subtitle": {
+    "English": "Utopia Foundation Settlement Chart",
+    "SimplifiedChinese": "乌托邦基金会定居点图标",
+    "TraditionalChinese": "烏托邦基金會聚居地圖"
+  },
+  "Description": {
+    "English": "A map from the Utopia Foundation, showing <span class=\"name name-stellar\">personalized coordinates</span> for your target construction site.<br><br>Select the map and use <VAL_ON>Plot Route<> (<span class=\"name name-img\">FE_ALT1</span>) to pin the location in your Exosuit display.",
+    "SimplifiedChinese": "乌托邦基金会提供的地图，上面显示着你的目标建筑地点的<span class=\"name name-stellar\">个性化坐标</span>。<br><br>选择地图并使用<VAL_ON>规划路线（<>FE_ALT1<span class=\"name name-img\">）</span>在你的套装界面标记位置。",
+    "TraditionalChinese": "來自烏托邦基金會的地圖，標示了目標建設區域的<span class=\"name name-stellar\">個人化座標</span>。<br><br>選擇地圖並使用<VAL_ON>規劃路線<> (<span class=\"name name-img\">FE_ALT1</span>) 即可在強化套裝顯示器中釘選該地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 2613,
+  "Level": 1,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.season9.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000167435908,
+  "NormalisedValueOffWorld": 0.000167435908,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Settlement Coordinates Beta",
+    "SimplifiedChinese": "制作定居点坐标B",
+    "TencentChinese": "制作定居点坐标B",
+    "TraditionalChinese": "製作聚居地座標 Beta"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

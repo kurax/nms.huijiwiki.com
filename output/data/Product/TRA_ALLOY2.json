@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ALLOY2",
+  "Name": {
+    "English": "SELF-REPAIRING HERIDIUM",
+    "SimplifiedChinese": "自我修复海瑞蒂姆",
+    "TencentChinese": "自我修复海瑞蒂姆",
+    "TraditionalChinese": "自修復氥"
+  },
+  "NameLower": {
+    "English": "Self-Repairing Heridium",
+    "SimplifiedChinese": "自我修复海瑞蒂姆",
+    "TencentChinese": "自我修复海瑞蒂姆",
+    "TraditionalChinese": "自修復氥"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Construction)",
+    "SimplifiedChinese": "交易货物（建造）",
+    "TencentChinese": "先进构造材料",
+    "TraditionalChinese": "貿易商品 (建造)"
+  },
+  "Description": {
+    "English": "A hopper of self-repairing Heridium. It looks fresh.<br><br>Used in the creation of <span class=\"name name-special\">scientific components</span>. Self-repairing heridium is particularly useful for deployment in remote facilities, where maintenance opportunities may be limited or deadly.",
+    "SimplifiedChinese": "一管自我修复海瑞蒂姆。看上去很新鲜。<br><br>用于建造<span class=\"name name-special\">科学部件</span>。自我修复海瑞蒂姆在建造遥控设施中非常实用，因为此类构造的维护机会有可能非常有限或者非常危险。",
+    "TencentChinese": "一管自我修复海瑞蒂姆。看上去很新鲜。<br><br>用于建造<span class=\"name name-special\">科学部件</span>。自我修复海瑞蒂姆在建造遥控设施中非常实用，因为此类构造的维护机会有可能非常有限或者非常危险。",
+    "TraditionalChinese": "一槽自修復氥，還很新鮮。<br><br>用來製造<span class=\"name name-special\">科學元件</span>，偏遠設施維修資源稀少或根本無法維修，自修復氥就顯得特別實用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.alloy2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000384551298,
+  "NormalisedValueOffWorld": 0.000384551298,
+  "TradeCategory": "Alloy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1,
+  "PinObjective": {
+    "English": "Purchase Self-Repairing Heridium from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买自我修复海瑞蒂姆",
+    "TencentChinese": "从空间站的交易终端购买自我修复海瑞蒂姆",
+    "TraditionalChinese": "從太空站交易終端站購買自修復氥"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

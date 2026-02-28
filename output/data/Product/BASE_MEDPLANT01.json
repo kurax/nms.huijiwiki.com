@@ -1,0 +1,94 @@
+{
+  "ID": "BASE_MEDPLANT01",
+  "Name": {
+    "English": "CARNIVOROUS BUSH",
+    "SimplifiedChinese": "肉食灌木",
+    "TencentChinese": "肉食灌木",
+    "TraditionalChinese": "食肉灌木"
+  },
+  "NameLower": {
+    "English": "Carnivorous Bush",
+    "SimplifiedChinese": "肉食灌木",
+    "TencentChinese": "肉食灌木",
+    "TraditionalChinese": "食肉灌木"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A medium-sized decorative plant. Each of its leaves is covered in a thin film of sticky latex. Insects that land on these leaves are slowly absorbed by digestive hormones mixed in with the glue.<br><br>Avoid accidental skin contact.",
+    "SimplifiedChinese": "中型装饰性植物。它的每片叶子都被一层粘稠的乳胶薄膜所覆盖。落在这些叶子上的昆虫会慢慢被混着胶水的消化激素吸收。<br><br>避免意外皮肤接触。",
+    "TencentChinese": "中型装饰性植物。它的每片叶子都被一层粘稠的乳胶薄膜所覆盖。落在这些叶子上的昆虫会慢慢被混着胶水的消化激素吸收。<br><br>避免意外皮肤接触。",
+    "TraditionalChinese": "中型裝飾植物。每片葉子都覆蓋著一層薄薄的乳膠，黏膠混有消化性荷爾蒙，會緩慢吸收停駐在葉片上的昆蟲。<br><br>避免意外的皮膚接觸。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.medplant01.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.medplant01.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

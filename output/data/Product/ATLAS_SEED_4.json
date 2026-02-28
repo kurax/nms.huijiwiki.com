@@ -1,0 +1,104 @@
+{
+  "ID": "ATLAS_SEED_4",
+  "Name": {
+    "English": "DARK MATTER",
+    "SimplifiedChinese": "暗物质",
+    "TencentChinese": "暗物质",
+    "TraditionalChinese": "暗物質"
+  },
+  "NameLower": {
+    "English": "Dark Matter",
+    "SimplifiedChinese": "暗物质",
+    "TencentChinese": "暗物质",
+    "TraditionalChinese": "暗物質"
+  },
+  "Subtitle": {
+    "English": "Unique valuable curiosity",
+    "SimplifiedChinese": "独特的珍品",
+    "TencentChinese": "独特的珍品",
+    "TraditionalChinese": "獨一無二又珍貴的好奇心"
+  },
+  "Description": {
+    "English": "An Atlas Seed shell encompassing a void element harvested from the collapse state of the last universe. Toxic if ingested.",
+    "SimplifiedChinese": "这个阿特拉斯之种的外壳包裹着从坍塌状态的上个宇宙中获取到的虚空元素。有毒，请勿食用。",
+    "TencentChinese": "这个阿特拉斯之种的外壳包裹着从坍塌状态的上个宇宙中获取到的虚空元素。有毒，请勿食用。",
+    "TraditionalChinese": "寰宇之種的殼，包含了上個宇宙崩毀留下來的空元素。吸入身體會中毒。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/atlasseed.4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ATLAS_SEED_3": {
+      "ID": "ATLAS_SEED_3",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 5
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Dark Matter",
+    "SimplifiedChinese": "寻找暗物质",
+    "TencentChinese": "寻找暗物质",
+    "TraditionalChinese": "找出暗物質"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

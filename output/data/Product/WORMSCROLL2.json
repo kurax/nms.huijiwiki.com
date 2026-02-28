@@ -1,0 +1,89 @@
+{
+  "ID": "WORMSCROLL2",
+  "Name": {
+    "English": "WORMSKIN FOLIO: 2",
+    "SimplifiedChinese": "虫蜕经书：2",
+    "TraditionalChinese": "巨蟲皮片：2"
+  },
+  "NameLower": {
+    "English": "Wormskin Folio: 2",
+    "SimplifiedChinese": "虫蜕经书：2",
+    "TraditionalChinese": "巨蟲皮片：2"
+  },
+  "Subtitle": {
+    "English": "Fleshy Scroll",
+    "SimplifiedChinese": "肉质文卷",
+    "TraditionalChinese": "血肉卷軸"
+  },
+  "Description": {
+    "English": "Ancient words are carved into this <span class=\"name name-stellar\">living document</span>. They read:<br><br>'The dust was choking. <br>Our eyes reddened and watered. <br>But the truth was inescapable.<br>The veins of the Atlas had surfaced.'",
+    "SimplifiedChinese": "这份<span class=\"name name-stellar\">活经文</span>上刻着古老的文字。上面写道：<br><br>“沙尘蔽日。<br>吾等之眼不禁红肿泪流。<br>但真相岂能轻易逃避。<br>阿特拉斯的血脉再次现身。”",
+    "TraditionalChinese": "被刻進<span class=\"name name-stellar\">活體文件</span>的古老文字。上頭刻著：<br><br>「塵土飛揚，飛沙走石。<br>我們的雙眼紅腫濕潤。<br>但眼前的事實無可置疑。<br>寰宇血脈已浮出地面。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/wormscroll.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Wormskin Folio: 2",
+    "SimplifiedChinese": "寻找虫蜕经书：2",
+    "TencentChinese": "寻找虫蜕经书：2",
+    "TraditionalChinese": "找出巨蟲皮片：2"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

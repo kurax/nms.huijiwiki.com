@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_CAVE3",
+  "Name": {
+    "English": "TROGLOTULIP",
+    "SimplifiedChinese": "特洛格郁金香",
+    "TraditionalChinese": "穴居鬱金香"
+  },
+  "NameLower": {
+    "English": "Troglotulip",
+    "SimplifiedChinese": "特洛格郁金香",
+    "TraditionalChinese": "穴居鬱金香"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "This attractive glowing flower is remarkable for its scent, reminiscent of freshly tilled soil. Due to the plant's mineral-rich diet, the stamens often contain traces of cobalt.",
+    "SimplifiedChinese": "有着特别的香气的发光花朵，让人联想到新翻的土壤。这种植物的食物富含矿物质，所以花蕊通常含有微量的钴。",
+    "TraditionalChinese": "這種迷人的發光花朵以香味著名，令人回想起剛翻過的新鮮泥土。由於此植物的生長環境富含礦物質，雄蕊通常含有微量的鈷元素。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.caveplant03.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.caveplant03.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

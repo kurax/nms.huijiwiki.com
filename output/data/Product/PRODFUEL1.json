@@ -1,0 +1,98 @@
+{
+  "ID": "PRODFUEL1",
+  "Name": {
+    "English": "OXYGEN CAPSULE",
+    "SimplifiedChinese": "氧气胶囊",
+    "TencentChinese": "氧气胶囊",
+    "TraditionalChinese": "氧氣膠囊"
+  },
+  "NameLower": {
+    "English": "Oxygen Capsule",
+    "SimplifiedChinese": "氧气胶囊",
+    "TencentChinese": "氧气胶囊",
+    "TraditionalChinese": "氧氣膠囊"
+  },
+  "Subtitle": {
+    "English": "Portable Life Support Power",
+    "SimplifiedChinese": "便携式维生系统能量",
+    "TencentChinese": "便携式维生系统能量",
+    "TraditionalChinese": "可攜式維生系統能量"
+  },
+  "Description": {
+    "English": "Stabilized and secure <span class=\"name name-fuel\">life support</span> filtration gas.<br><br>Easily assembled from <span class=\"name name-fuel\">Oxygen</span> and <span class=\"name name-earth\">Ferrite Dust</span>. Offers an efficient method for long-term life support power.",
+    "SimplifiedChinese": "稳定且安全的<span class=\"name name-fuel\">维生</span> 过滤气体。<br><br>使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">铁氧体粉末</span>可以很容易地制作出来。是为长期的维生系统提供能量的有效方法。",
+    "TencentChinese": "稳定且安全的<span class=\"name name-fuel\">维生</span> 过滤气体。<br><br>使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">铁氧体粉末</span>可以很容易地制作出来。是为长期的维生系统提供能量的有效方法。",
+    "TraditionalChinese": "穩定且安全的<span class=\"name name-fuel\">維生</span> 過濾氣體。<br><br>使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">鐵氧體粉塵</span>可以很容易地製作出來。為長期的維生系統能量提供有效方法。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 350,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.oxygengel.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Fuel",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 100,
+  "StackMultiplier": 20,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000223717961,
+  "NormalisedValueOffWorld": 0.0000223717961,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft, find or purchase Oxygen Capsule",
+    "SimplifiedChinese": "制作、寻找或购买氧气胶囊",
+    "TencentChinese": "制作、寻找或购买氧气胶囊",
+    "TraditionalChinese": "製造、找出或購買氧氣膠囊"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Oxygen Capsule from <span class=\"name name-fuel\">Oxygen</span> and <span class=\"name name-earth\">Ferrite dust</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Supplies are occasionally found in <span class=\"name name-technology\">Supply Caches</span> left on planets.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">铁氧体粉末</span>制作氧气胶囊。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>补给品偶尔能从被遗弃在星球上的<span class=\"name name-technology\">补给箱</span>中找到。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">铁氧体粉末</span>制作氧气胶囊。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>补给品偶尔能从被遗弃在星球上的<span class=\"name name-technology\">补给箱</span>中找到。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">鐵氧體粉塵</span>製作氧氣膠囊。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。<br>補給品偶爾能在被遺棄在星球上的<span class=\"name name-technology\">補給儲物箱</span>中被找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

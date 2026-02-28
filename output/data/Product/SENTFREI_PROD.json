@@ -1,0 +1,93 @@
+{
+  "ID": "SENTFREI_PROD",
+  "Name": {
+    "English": "CARRIER AI FRAGMENT",
+    "SimplifiedChinese": "航空母舰人工智能碎片",
+    "TraditionalChinese": "母艦 AI 片段"
+  },
+  "NameLower": {
+    "English": "Carrier AI Fragment",
+    "SimplifiedChinese": "航空母舰人工智能碎片",
+    "TraditionalChinese": "母艦 Ai 片段"
+  },
+  "Subtitle": {
+    "English": "Battleship Core Remnant",
+    "SimplifiedChinese": "战舰核心遗物",
+    "TraditionalChinese": "戰艦核心殘骸"
+  },
+  "Description": {
+    "English": "A single splinter of the colossal mainframe at the heart of a Sentinel capital ship. It blinks, its solitary living eye trained upon the one piece of data it retains - the last known location of one of its fleet of <span class=\"name name-technology\">Interceptors</span>.<br><br>Select the AI Fragment and use <span class=\"name name-stellar\">Search Archive</span> (<span class=\"name name-img\">FE_ALT1</span>) to translate information about Interceptor's crash site to your starship's navigation systems.",
+    "SimplifiedChinese": "护卫主力飞船中心的巨型主机的单个碎片。它闪烁着，那鲜活的独眼盯着它所保留的最后数据，也就是<span class=\"name name-technology\">拦截机</span>舰队的最后已知位置。<br><br>选择人工智能碎片并使用<span class=\"name name-stellar\">调查档案</span>（<span class=\"name name-img\">FE_ALT1</span>）将关于拦截机失事地点的信息翻译至你的飞船导航系统。",
+    "TraditionalChinese": "巡警主力太空船核心巨型主機的一個碎片。它眨著眼，那隻孤零零的獨眼盯著一項保留下來的資料：其中一支<span class=\"name name-technology\">攔截艦</span>艦隊的最後已知位置。<br><br>選擇 AI 碎片並使用<span class=\"name name-stellar\">搜尋資料庫</span> (<span class=\"name name-img\">FE_ALT1</span>)，即可將攔截艦墜毀地點的資訊轉譯到太空船的導航系統。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 35000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.freightercore.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00224352581,
+  "NormalisedValueOffWorld": 0.00224352581,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Carrier AI Fragment",
+    "SimplifiedChinese": "寻找航空母舰人工智能碎片",
+    "TencentChinese": "寻找航空母舰人工智能碎片",
+    "TraditionalChinese": "找出母艦 Ai 片段"
+  },
+  "PinObjectiveTip": {
+    "English": "Harvest <span class=\"name name-special\">Hyaline Brains</span> from the remains of <span class=\"name name-special\">Sentinel Interceptor Ships</span>, lethal starcraft deployed to maintain law and order in regulated space.<br>Increase your <span class=\"name name-fuel\">Wanted Level</span> in space to engage <span class=\"name name-special\">System Authorities</span>",
+    "SimplifiedChinese": "从<span class=\"name name-special\">护卫拦截机</span>的残骸收获<span class=\"name name-special\">透明质脑部</span>，这是一种专门被部署来维护受管制空间内的法治的致命飞船。<br>在太空中提高你的<span class=\"name name-fuel\">通缉等级</span>以吸引<span class=\"name name-special\">星系当局</span>的注意",
+    "TraditionalChinese": "從當局部署在受管制太空內，維持法律與秩序的致命太空船：<span class=\"name name-special\">巡警攔截艦</span>殘骸採收<span class=\"name name-special\">透明大腦</span>。<br>提高你在太空中的<span class=\"name name-fuel\">通緝等級</span>，即可與<span class=\"name name-special\">星系當局</span>交戰"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

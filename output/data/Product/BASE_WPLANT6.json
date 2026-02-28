@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_WPLANT6",
+  "Name": {
+    "English": "AQUATIC COLONY",
+    "SimplifiedChinese": "水生殖民地",
+    "TraditionalChinese": "水中殖民地"
+  },
+  "NameLower": {
+    "English": "Aquatic Colony",
+    "SimplifiedChinese": "水生殖民地",
+    "TraditionalChinese": "水中殖民地"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A rock formation pulled from the floor of a densely-populated ocean. The attached marine life is lacquered in a nutrient-rich mucus, to keep it fed and moist in terrestrial conditions.",
+    "SimplifiedChinese": "从生机盎然的海底发掘的石块。上面附着的海洋生物笼罩在充满营养成分的黏液中，使其在陆地环境下也能够保证充足的湿度与食物。",
+    "TraditionalChinese": "從生機盎然的海床拉出的岩層。附著其上的海洋生物覆蓋在營養豐富的黏液中，在陸地條件下也能保持進食與濕潤。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.waterplant06.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.waterplant06.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "WATERPLANT": {
+      "ID": "WATERPLANT",
+      "Type": "Substance",
+      "Amount": 80
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

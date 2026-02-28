@@ -1,0 +1,89 @@
+{
+  "ID": "S10_FRAGMENT",
+  "Name": {
+    "English": "ECHO COLLECTIVE",
+    "SimplifiedChinese": "回音群落",
+    "TraditionalChinese": "回音集體"
+  },
+  "NameLower": {
+    "English": "Echo Collective",
+    "SimplifiedChinese": "回音群落",
+    "TraditionalChinese": "回音集體"
+  },
+  "Subtitle": {
+    "English": "Consciousness Housing",
+    "SimplifiedChinese": "意识躯壳",
+    "TraditionalChinese": "收容意識"
+  },
+  "Description": {
+    "English": "A shifting vortex of <span class=\"name name-special\">atlantideum</span>, attuned to the growing collective will housed inside Nada's <span class=\"name name-stellar\">Prime Terminal</span>. Current sentience threshold: <span class=\"name name-stellar\">??%</span>.<br><br>The grains oscillate in a pattern, but the message is unintelligible.",
+    "SimplifiedChinese": "不停涌动着的<span class=\"name name-special\">亚特拉迪姆</span>旋涡，现在已经与将寄宿在纳达的<span class=\"name name-stellar\">主行星终端</span>中成长中的群落调谐。当前智慧阈值：<span class=\"name name-stellar\">??%</span>。<br><br>粒子正在按照某种模式有序跳动着，但是讯息的意义无法识别。",
+    "TraditionalChinese": "一個不斷變化的<span class=\"name name-special\">亞特蘭提德鋼</span>漩渦，適應著納達<span class=\"name name-stellar\">超行星終端站</span>中所容納集體的不斷增長。目前智慧生物閾值：<span class=\"name name-stellar\">??%</span>。<br><br>顆粒以特定模式來回振盪，但其中的訊息難以理解。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 900,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.s10.fragment.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000576282073,
+  "NormalisedValueOffWorld": 0.0000864743633,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Echo Collective",
+    "SimplifiedChinese": "制作回音群落",
+    "TencentChinese": "制作回音群落",
+    "TraditionalChinese": "製作回音集體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

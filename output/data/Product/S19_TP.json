@@ -1,0 +1,95 @@
+{
+  "ID": "S19_TP",
+  "Name": {
+    "English": "ORBITAL UPLINK",
+    "SimplifiedChinese": "轨道上行链路",
+    "TraditionalChinese": "軌道通信鏈路"
+  },
+  "NameLower": {
+    "English": "Orbital Uplink",
+    "SimplifiedChinese": "轨道上行链路",
+    "TraditionalChinese": "軌道通信鏈路"
+  },
+  "Subtitle": {
+    "English": "Teleport Network Tunnel",
+    "SimplifiedChinese": "传送网络通道",
+    "TraditionalChinese": "瞬間傳送網路隧道"
+  },
+  "Description": {
+    "English": "This device bypasses the mainstream teleport network, providing a <span class=\"name name-special\">direct link</span> to the local Space Station.<br><br>Select the device and use <VAL_ON>Activate Teleport<> (<span class=\"name name-img\">FE_ALT1</span>) to instantly transfer to the nearest Space Station.",
+    "SimplifiedChinese": "该设备可绕过主流传送网络，建立起一条直达当地空间站的<span class=\"name name-special\">直接链接</span>。<br><br>选择该设备，使用<VAL_ON>激活传送<>（<span class=\"name name-img\">FE_ALT1</span>）立即传送到最近的空间站。",
+    "TraditionalChinese": "該裝置可繞過主流瞬間傳送網路，<span class=\"name name-special\">直接連結</span>到當地太空站。<br><br>選擇裝置並<VAL_ON>啟動瞬間傳送<> (<span class=\"name name-img\"> FE_ALT1</span>)，立即轉移到最近的太空站。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.2025.s19_tp.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Orbital Uplink",
+    "SimplifiedChinese": "制作轨道上行链路",
+    "TencentChinese": "制作轨道上行链路",
+    "TraditionalChinese": "製作軌道通信鏈路"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

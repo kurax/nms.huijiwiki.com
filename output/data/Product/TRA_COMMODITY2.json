@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMMODITY2",
+  "Name": {
+    "English": "STAR SILK",
+    "SimplifiedChinese": "星绸",
+    "TencentChinese": "星绸",
+    "TraditionalChinese": "星絲"
+  },
+  "NameLower": {
+    "English": "Star Silk",
+    "SimplifiedChinese": "星绸",
+    "TencentChinese": "星绸",
+    "TraditionalChinese": "星絲"
+  },
+  "Subtitle": {
+    "English": "Trade Goods",
+    "SimplifiedChinese": "交易货物",
+    "TencentChinese": "贸易商品",
+    "TraditionalChinese": "貿易商品"
+  },
+  "Description": {
+    "English": "Several spools of star silk.<br><br>Star silk is woven on enormous solar looms in orbit around trading planets. Cosmic ray impact triggers the pattern of the weave, which can then be used in <span class=\"name name-special\">advanced material</span> processing.",
+    "SimplifiedChinese": "数卷星绸。<br><br>环绕贸易星球的巨大轨道太阳能编织工厂制作着星绸。宇宙射线撞击会触发纺织品的特性，星绸在<span class=\"name name-special\">改进材料</span>加工中非常有用。",
+    "TencentChinese": "数卷星绸。<br><br>环绕贸易星球的巨大轨道太阳能编织工厂制作着星绸。宇宙射线撞击会触发纺织品的特性，星绸在<span class=\"name name-special\">改进材料</span>加工中非常有用。",
+    "TraditionalChinese": "數捲星絲。<br><br>星絲的紡織工具是環繞商業星球運行的太陽能巨型織布機。宇宙線衝擊會影響編織紋路，加工<span class=\"name name-special\">先進素材</span>時會用到。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.commodity2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000384551298,
+  "NormalisedValueOffWorld": 0.000384551298,
+  "TradeCategory": "Commodity",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1,
+  "PinObjective": {
+    "English": "Purchase Star Silk from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买星绸",
+    "TencentChinese": "从空间站的交易终端购买星绸",
+    "TraditionalChinese": "從太空站交易終端站購買星絲"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

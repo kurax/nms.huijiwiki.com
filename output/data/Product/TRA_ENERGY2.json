@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ENERGY2",
+  "Name": {
+    "English": "INDUSTRIAL-GRADE BATTERY",
+    "SimplifiedChinese": "工业级电池",
+    "TencentChinese": "工业级电池",
+    "TraditionalChinese": "工業用電池"
+  },
+  "NameLower": {
+    "English": "Industrial-Grade Battery",
+    "SimplifiedChinese": "工业级电池",
+    "TencentChinese": "工业级电池",
+    "TraditionalChinese": "工業用電池"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Energy Source)",
+    "SimplifiedChinese": "交易货物（能源）",
+    "TencentChinese": "可交易能源",
+    "TraditionalChinese": "貿易商品 (能量供給源)"
+  },
+  "Description": {
+    "English": "A packet of well-isolated industrial batteries.<br><br>Heavy-duty batteries are required to power deep level <span class=\"name name-special\">mining</span> operations. These highly durable sources can last for weeks, even in the extremes of heat and pressure found kilometers underground.",
+    "SimplifiedChinese": "分装好的工业电池包。<br><br>深层<span class=\"name name-special\">采矿</span>作业需要重型电池供能。这些持久性能源甚至在地表数公里下的高压高热环境中都能坚持好几周。",
+    "TencentChinese": "分装好的工业电池包。<br><br>深层<span class=\"name name-special\">采矿</span>作业需要重型电池供能。这些持久性能源甚至在地表数公里下的高压高热环境中都能坚持好几周。",
+    "TraditionalChinese": "一包絕緣良好的電池。<br><br>深層<span class=\"name name-special\">礦業</span>開採需要耐用的電池。這種續航力強的電池能夠使用持續數週，就算在超高溫和地底數公里的高壓環境中也能正常使用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.energy2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000384551298,
+  "NormalisedValueOffWorld": 0.000384551298,
+  "TradeCategory": "Energy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1,
+  "PinObjective": {
+    "English": "Purchase Industrial-Grade Battery from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买工业级电池",
+    "TencentChinese": "从空间站的交易终端购买工业级电池",
+    "TraditionalChinese": "從太空站交易終端站購買工業用電池"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,98 @@
+{
+  "ID": "CATAPROD3",
+  "Name": {
+    "English": "DESTABLISED SODIUM",
+    "SimplifiedChinese": "不稳定的钠",
+    "TencentChinese": "不稳定的钠",
+    "TraditionalChinese": "不穩定鈉"
+  },
+  "NameLower": {
+    "English": "Destabilized Sodium",
+    "SimplifiedChinese": "不稳定的钠",
+    "TencentChinese": "不稳定的钠",
+    "TraditionalChinese": "不穩定鈉"
+  },
+  "Subtitle": {
+    "English": "Concentrated Sodium Deposit",
+    "SimplifiedChinese": "浓缩钠沉积",
+    "TencentChinese": "浓缩钠沉积",
+    "TraditionalChinese": "濃縮鈉資源"
+  },
+  "Description": {
+    "English": "Sodium is typically highly stable, but certain configurations retain the reactivity of its component ions. User is advised to wear <span class=\"name name-technology\">Hazardous Material Gauntlets</span> before handling.<br><br>Synthesized from <span class=\"name name-tradeable\">Sodium</span>.",
+    "SimplifiedChinese": "钠通常是高度稳定的，但某些构型的成分离子却仍保留有反应性。建议使用者在处理前戴好<span class=\"name name-technology\">危险防护手套</span>。<br><br>合成自<span class=\"name name-tradeable\">钠</span>。",
+    "TencentChinese": "钠通常是高度稳定的，但某些构型的成分离子却仍保留有反应性。建议使用者在处理前戴好<span class=\"name name-technology\">危险防护手套</span>。<br><br>合成自<span class=\"name name-tradeable\">钠</span>。",
+    "TraditionalChinese": "鈉通常非常穩定，但特定組態能恢復其構成離子的活性。建議使用者戴上<span class=\"name name-technology\">危險物質防護手套</span>再進行處理。<br><br>由<span class=\"name name-tradeable\">鈉</span>合成而來。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 12300,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.destabilisedsodium.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000788397505,
+  "NormalisedValueOffWorld": 0.000788397505,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Destabilized Sodium",
+    "SimplifiedChinese": "收集或精炼不稳定的钠",
+    "TencentChinese": "收集或精炼不稳定的钠",
+    "TraditionalChinese": "收集或精製不穩定鈉"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Destabilized Sodium from <span class=\"name name-catalyst\">Sodium Nitrate</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Supplies of Destabilized Sodium are very occasionally found inside rare planetary crystals.",
+    "SimplifiedChinese": "使用<span class=\"name name-catalyst\">硝酸钠</span>制作或精炼出不稳定的钠。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>不稳定的钠偶尔能在稀有的星球晶体中找到。",
+    "TencentChinese": "使用<span class=\"name name-catalyst\">硝酸钠</span>制作或精炼出不稳定的钠。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>不稳定的钠偶尔能在稀有的星球晶体中找到。",
+    "TraditionalChinese": "將<span class=\"name name-catalyst\">硝酸鈉</span>製作或精製成不穩定鈉。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>不穩定鈉偶爾能在罕見星球結晶中找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

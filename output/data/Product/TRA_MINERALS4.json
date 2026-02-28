@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_MINERALS4",
+  "Name": {
+    "English": "POLYCHROMATIC ZIRCONIUM",
+    "SimplifiedChinese": "五彩锆",
+    "TencentChinese": "五彩锆",
+    "TraditionalChinese": "多色鋯"
+  },
+  "NameLower": {
+    "English": "Polychromatic Zirconium",
+    "SimplifiedChinese": "五彩锆",
+    "TencentChinese": "五彩锆",
+    "TraditionalChinese": "多色鋯"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Minerals)",
+    "SimplifiedChinese": "交易货物（矿物）",
+    "TencentChinese": "可交易材料",
+    "TraditionalChinese": "貿易商品 (礦物)"
+  },
+  "Description": {
+    "English": "A sack full of polychromatic zirconium crystals.<br><br>These crystals produce lenses of dazzling color and near-indestructible hardness. Highly valuable in <span class=\"name name-special\">manufacturing</span> economies.",
+    "SimplifiedChinese": "满满一袋五彩锆水晶。<br><br>这些晶体能够散发出绚烂华彩并且有着几乎坚不可摧的硬度。<span class=\"name name-special\">制造业</span>经济体非常看重它们。",
+    "TencentChinese": "满满一袋五彩锆水晶。<br><br>这些晶体能够散发出绚烂华彩并且有着几乎坚不可摧的硬度。<span class=\"name name-special\">制造业</span>经济体非常看重它们。",
+    "TraditionalChinese": "一大袋多色鋯水晶。<br><br>此種水晶光澤眩目，可以說是無堅不摧。對<span class=\"name name-special\">製造業</span>經濟體特別有用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.minerals4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0019230129,
+  "NormalisedValueOffWorld": 0.0019230129,
+  "TradeCategory": "Mineral",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.5,
+  "PinObjective": {
+    "English": "Purchase Polychromatic Zirconium from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买五彩锆",
+    "TencentChinese": "从空间站的交易终端购买五彩锆",
+    "TraditionalChinese": "從太空站交易終端站購買多色鋯"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

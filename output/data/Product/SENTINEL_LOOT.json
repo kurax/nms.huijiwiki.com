@@ -1,0 +1,89 @@
+{
+  "ID": "SENTINEL_LOOT",
+  "Name": {
+    "English": "SALVAGED GLASS",
+    "SimplifiedChinese": "回收玻璃",
+    "TraditionalChinese": "回收玻璃"
+  },
+  "NameLower": {
+    "English": "Salvaged Glass",
+    "SimplifiedChinese": "回收玻璃",
+    "TraditionalChinese": "回收玻璃"
+  },
+  "Subtitle": {
+    "English": "Recovered Sentinel Components",
+    "SimplifiedChinese": "已回收护卫构件",
+    "TraditionalChinese": "尋獲的巡警元件"
+  },
+  "Description": {
+    "English": "A sinister shard of <span class=\"name name-special\">purple glass</span>, salvaged from the destroyed remains of Sentinel machinery. Its walls are thin, and it may be broken down to access valuable Sentinel components.<br><br>Select in the Inventory (<span class=\"name name-img\">INVENTORY</span>) and shatter with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "由<span class=\"name name-special\">紫色玻璃</span>构成的不详碎片，来自被摧毁的护卫机体残骸。外壁极其轻薄，打破后也许能够提供宝贵的护卫构件。<br><br>在库存（<span class=\"name name-img\">INVENTORY</span>）中选择碎片并按<span class=\"name name-img\">FE_ALT1</span>将其打破。",
+    "TraditionalChinese": "一塊邪惡的<span class=\"name name-special\">紫色玻璃</span>碎片，從被毀壞的巡警機械殘骸中回收而來。它的外壁很薄，也許可以被分解成珍貴的巡警元件。<br><br>在道具欄 (<span class=\"name name-img\">INVENTORY</span>) 中選擇並按下<span class=\"name name-img\">FE_ALT1</span>分解。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.sentinelloot.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000192243606,
+  "NormalisedValueOffWorld": 0.000192243606,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Salvaged Glass",
+    "SimplifiedChinese": "寻找回收玻璃",
+    "TencentChinese": "寻找回收玻璃",
+    "TraditionalChinese": "找出回收玻璃"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

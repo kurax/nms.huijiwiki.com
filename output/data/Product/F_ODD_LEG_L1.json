@@ -1,0 +1,89 @@
+{
+  "ID": "F_ODD_LEG_L1",
+  "Name": {
+    "English": "CHILD OF HELIOS",
+    "SimplifiedChinese": "赫利俄斯之子",
+    "TraditionalChinese": "赫利奧斯之子"
+  },
+  "NameLower": {
+    "English": "Child of Helios",
+    "SimplifiedChinese": "赫利俄斯之子",
+    "TraditionalChinese": "赫利奧斯之子"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"Its song resonates across time and space, calling to its home in the endless black above. One day, it will rise and return to its home among the stars.\"",
+    "SimplifiedChinese": "“歌声穿透了时间与空间，悠扬的共鸣呼唤着无垠虚空之上的家园。总有一天，它将崛起并寻回群星之间的家。“",
+    "TraditionalChinese": "「牠的歌聲跨越時空，呼喚著無盡黑暗中的家園。有朝一日，牠將起身回到群行之中的家園。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 150000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product5.fish.jelly.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Child of Helios",
+    "SimplifiedChinese": "寻找赫利俄斯之子",
+    "TencentChinese": "寻找赫利俄斯之子",
+    "TraditionalChinese": "找出赫利奧斯之子"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

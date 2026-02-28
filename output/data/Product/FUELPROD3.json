@@ -1,0 +1,98 @@
+{
+  "ID": "FUELPROD3",
+  "Name": {
+    "English": "CARBON CRYSTAL",
+    "SimplifiedChinese": "碳晶体",
+    "TencentChinese": "碳晶体",
+    "TraditionalChinese": "碳晶"
+  },
+  "NameLower": {
+    "English": "Carbon Crystal",
+    "SimplifiedChinese": "碳晶体",
+    "TencentChinese": "碳晶体",
+    "TraditionalChinese": "碳晶"
+  },
+  "Subtitle": {
+    "English": "Concentrated Carbon Deposit",
+    "SimplifiedChinese": "浓缩碳沉积",
+    "TencentChinese": "浓缩碳沉积",
+    "TraditionalChinese": "濃縮碳資源"
+  },
+  "Description": {
+    "English": "Hyper-compressed <span class=\"name name-fuel\">carbon</span>, this substance's dense nanostructure makes it highly valuable as both an energy source and a technology component.<br><br>Synthesized from <span class=\"name name-fuel\">Condensed Carbon</span>.",
+    "SimplifiedChinese": "高浓缩 <span class=\"name name-fuel\">碳</span>，这种物质致密的纳米结构使其不管是作为能源还是技术部件具有很高的价值。<br><br>从<span class=\"name name-fuel\">浓缩碳</span>中合成。",
+    "TencentChinese": "高浓缩 <span class=\"name name-fuel\">碳</span>，这种物质致密的纳米结构使其不管是作为能源还是技术部件具有很高的价值。<br><br>从<span class=\"name name-fuel\">浓缩碳</span>中合成。",
+    "TraditionalChinese": "高壓縮<span class=\"name name-fuel\">碳</span>，此物質奈米結構的密度高，非常珍貴，能作為能量來源與科技元件。<br><br>由<span class=\"name name-fuel\">濃縮碳</span>合成而來。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.fuelprod.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000230705147,
+  "NormalisedValueOffWorld": 0.000230705147,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Carbon Crystal",
+    "SimplifiedChinese": "收集或精炼碳晶体",
+    "TencentChinese": "收集或精炼碳晶体",
+    "TraditionalChinese": "收集或精製碳晶"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Carbon Crystal from <span class=\"name name-fuel\">Condensed Carbon</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Supplies of Carbon Crystal are very occasionally found inside rare planetary crystals.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">浓缩碳</span>制作或精炼出碳晶体。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>碳晶体偶尔能在稀有的星球晶体中找到。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">浓缩碳</span>制作或精炼出碳晶体。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>碳晶体偶尔能在稀有的星球晶体中找到。",
+    "TraditionalChinese": "將<span class=\"name name-fuel\">濃縮碳</span>製作或精製成碳晶。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>碳晶偶爾才能在罕見星球結晶中找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

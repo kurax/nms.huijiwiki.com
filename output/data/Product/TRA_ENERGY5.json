@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ENERGY5",
+  "Name": {
+    "English": "FUSION CORE",
+    "SimplifiedChinese": "融合核心",
+    "TencentChinese": "融合核心",
+    "TraditionalChinese": "融合核心"
+  },
+  "NameLower": {
+    "English": "Fusion Core",
+    "SimplifiedChinese": "融合核心",
+    "TencentChinese": "融合核心",
+    "TraditionalChinese": "融合核心"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Energy Source)",
+    "SimplifiedChinese": "交易货物（能源）",
+    "TencentChinese": "可交易能源",
+    "TraditionalChinese": "貿易商品 (能量供給源)"
+  },
+  "Description": {
+    "English": "A slightly glowing bundle of fusion cores.<br><br>Power source, engine, high-capacity heater. A fusion core is the ultimate in deep-space power generation. Highly valued by <span class=\"name name-special\">mining</span> economies looking to make their asteroid colonies more self-sufficient.",
+    "SimplifiedChinese": "发出黯淡荧光的融合核心堆。<br><br>融合核心是能源，引擎，也是高效加热器。融合核心是深空能源的最完美选择，希望让小行星殖民地自给自足的<span class=\"name name-special\">采矿</span>经济体非常重视。",
+    "TencentChinese": "发出黯淡荧光的融合核心堆。<br><br>融合核心是能源，引擎，也是高效加热器。融合核心是深空能源的最完美选择，希望让小行星基地自给自足的<span class=\"name name-special\">采矿</span>经济体非常重视。",
+    "TraditionalChinese": "一捆微亮的融合核心。<br><br>兼具電源、引擎和強力加熱器的功能，融合核心是深空發電的最佳選擇。對<span class=\"name name-special\">礦業</span>經濟體特別實用，能讓自己的小行星殖民地更自給自足。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.energy5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "Energy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.4,
+  "PinObjective": {
+    "English": "Purchase Fusion Core from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买融合核心",
+    "TencentChinese": "从空间站的交易终端购买融合核心",
+    "TraditionalChinese": "從太空站交易終端站購買融合核心"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

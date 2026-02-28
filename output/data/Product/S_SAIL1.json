@@ -1,0 +1,91 @@
+{
+  "ID": "S_SAIL1",
+  "Name": {
+    "English": "OFFSET SAILS",
+    "SimplifiedChinese": "偏移帆",
+    "TraditionalChinese": "偏置帆"
+  },
+  "NameLower": {
+    "English": "Offset Sails",
+    "SimplifiedChinese": "偏移帆",
+    "TraditionalChinese": "偏置帆"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "These offset sails replicate the design of the ancient maritime trade vessels of the Gek, and make for a striking nautical-themed home decoration.",
+    "SimplifiedChinese": "这些偏移的船帆复制了吉克族的古代贸易船设计，是一个令人瞩目的航海主题家庭装饰品。",
+    "TraditionalChinese": "這些偏置的船帆複製了古代海上貿易吉客族船隻的設計，是非常引人注目的航海主題家飾。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.s_sail_1.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.s_sail_1.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

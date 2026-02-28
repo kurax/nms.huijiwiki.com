@@ -1,0 +1,89 @@
+{
+  "ID": "U_ROBOSUIT",
+  "Name": {
+    "English": "REBUILT EXOSUIT MODULE",
+    "SimplifiedChinese": "已重塑套装模块",
+    "TraditionalChinese": "重建強化套裝模組"
+  },
+  "NameLower": {
+    "English": "Rebuilt Exosuit Module",
+    "SimplifiedChinese": "已重塑套装模块",
+    "TraditionalChinese": "重建強化套裝模組"
+  },
+  "Subtitle": {
+    "English": "Salvaged Upgrade Components",
+    "SimplifiedChinese": "回收的升级构件",
+    "TraditionalChinese": "回收升級元件"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">salvaged</span> upgrade for the <span class=\"name name-technology\">Exosuit</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>Constructed by the <TRANS_BUI>Autophage<>, this technology package is the result of a high degree of engineering improvisation. As a one-of-a-kind piece of repurposed technology, its exact effect upon suit performance is hard to determine prior to installation within the Exosuit's systems.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">回收</span>的<span class=\"name name-technology\">套装</span>升级组件。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>启动升级<VAL_ON>安装流程<>。<br><br>该技术包由<TRANS_BUI>自噬体<>制造，是即兴工程创作的成果。在安装到套装系统之前，很难预知这项独一无二的改造技术对套装性能的具体影响。",
+    "TraditionalChinese": "<span class=\"name name-technology\">強化套裝</span>的<span class=\"name name-stellar\">回收</span>升級。使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 即可開始升級<VAL_ON>安裝程序<>。<br><br>此科技套組由<TRANS_BUI>自噬<>製作，是高度即興創作的工程學產物。這個獨一無二的改裝技術元件，在安裝到強化套裝系統之前，較難預測對套裝效能的影響。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 313,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.robot.suit.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000200000013,
+  "NormalisedValueOffWorld": 0.0000200000013,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_RBSUIT",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Rebuilt Exosuit Module from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买已重塑套装模块",
+    "TencentChinese": "从空间站的交易终端购买已重塑套装模块",
+    "TraditionalChinese": "從太空站交易終端站購買重建強化套裝模組"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

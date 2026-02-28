@@ -1,0 +1,114 @@
+{
+  "ID": "SUBFUEL",
+  "Name": {
+    "English": "HYDROTHERMAL FUEL CELL",
+    "SimplifiedChinese": "热液燃料电池",
+    "TencentChinese": "热液燃料电池",
+    "TraditionalChinese": "熱液燃料電池"
+  },
+  "NameLower": {
+    "English": "Hydrothermal Fuel Cell",
+    "SimplifiedChinese": "热液燃料电池",
+    "TencentChinese": "热液燃料电池",
+    "TraditionalChinese": "熱液燃料電池"
+  },
+  "Subtitle": {
+    "English": "Submarine Reactor Fuel",
+    "SimplifiedChinese": "潜水艇反应堆燃料",
+    "TencentChinese": "潜水艇反应堆燃料",
+    "TraditionalChinese": "潛艇反應爐燃料"
+  },
+  "Description": {
+    "English": "A high thermal energy fuel, contained within a standardized fuel cell. Used to fuel the <span class=\"name name-technology\">Humboldt Drive</span> that powers the Nautilon submarine.<br><br>Created with a mix of organic compounds (<span class=\"name name-fuel\">Carbon</span> and <span class=\"name name-tradeable\">cyto-phosphates</span>) and localized mineral <span class=\"name name-tradeable\">salts</span>.",
+    "SimplifiedChinese": "容纳在标准化燃料电池里的一种高热能燃料。为驱动大鹦鹉螺潜水艇的<span class=\"name name-technology\">洪堡驱动器</span>提供燃料。<br><br>由有机化合物（<span class=\"name name-fuel\">碳</span>和<span class=\"name name-tradeable\">磷酸细胞</span>）和局部矿物<span class=\"name name-tradeable\">盐</span>混合而成。",
+    "TencentChinese": "容纳在标准化燃料电池里的一种高热能燃料。为驱动大鹦鹉螺潜水艇的<span class=\"name name-technology\">洪堡驱动器</span>提供燃料。<br><br>由有机化合物（<span class=\"name name-fuel\">碳</span>和<span class=\"name name-tradeable\">磷酸细胞</span>）和局部矿物<span class=\"name name-tradeable\">盐</span>混合而成。",
+    "TraditionalChinese": "含有高度熱能的能量燃料，並以標準燃料電池方式儲存。用以驅動<span class=\"name name-technology\">洪保德驅動器</span>，提供巡洋龍潛艇動力。<br><br>利用混和有機合成物（<span class=\"name name-fuel\">碳</span>與<span class=\"name name-tradeable\">細胞磷酸鹽</span>）以及地域性的礦<span class=\"name name-tradeable\">鹽</span>生成。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 7200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.subfuel.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Fuel",
+  "Type": "Consumable",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 400,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "WATER1": {
+      "ID": "WATER1",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "WATERPLANT": {
+      "ID": "WATERPLANT",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 98,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.000461474381,
+  "NormalisedValueOffWorld": 0.000461474381,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Hydrothermal Fuel Cell",
+    "SimplifiedChinese": "制作热液燃料电池",
+    "TencentChinese": "制作热液燃料电池",
+    "TraditionalChinese": "製作熱液燃料電池"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Hydrothermal Fuel Cell from <span class=\"name name-tradeable\">cyto-phosphate</span>, <span class=\"name name-tradeable\">salt</span> and <span class=\"name name-fuel\">carbon</span>.<br>All these elements are readily extracted from <span class=\"name name-earth\">underwater plants</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-tradeable\">磷酸细胞</span>、<span class=\"name name-tradeable\">盐</span>以及<span class=\"name name-fuel\">碳</span>制作热液燃料电池。<br>所有材料都能够直接从<span class=\"name name-earth\">水下植物</span>提取。",
+    "TencentChinese": "使用<span class=\"name name-technology\">二氢</span>和<span class=\"name name-commodity\">金属电镀</span>制作热液燃料电池<br><span class=\"name name-technology\">二氢</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位二氢晶体。<br>金属电镀由<span class=\"name name-earth\">铁氧体粉末</span>制作而成。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。",
+    "TraditionalChinese": "使用<span class=\"name name-tradeable\">細胞磷酸鹽</span>、<span class=\"name name-tradeable\">鹽</span>和<span class=\"name name-fuel\">碳</span>製作 熱液燃料電池。<br>以上元素可直接從<span class=\"name name-earth\">水下植物</span>取得。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

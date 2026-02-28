@@ -1,0 +1,89 @@
+{
+  "ID": "SUIT_INV_TOKEN",
+  "Name": {
+    "English": "EXOSUIT EXPANSION UNIT",
+    "SimplifiedChinese": "套装扩展装置",
+    "TraditionalChinese": "強化套裝擴充元件"
+  },
+  "NameLower": {
+    "English": "Exosuit Expansion Unit",
+    "SimplifiedChinese": "套装扩展装置",
+    "TraditionalChinese": "強化套裝擴充元件"
+  },
+  "Subtitle": {
+    "English": "Upgrade Unit",
+    "SimplifiedChinese": "升级装置",
+    "TraditionalChinese": "升級元件"
+  },
+  "Description": {
+    "English": "An advanced survival technology module that allows expansion of a user's <span class=\"name name-stellar\">Exosuit Storage</span>.<br><br>Pre-packed nano-expanders create stablised sub-warp voids within the Exosuit, increasing its <span class=\"name name-stellar\">inventory capacity</span>. Apply this augmentation at the Exosuit upgrade terminal on board a <span class=\"name name-stellar\">Space Station</span>.",
+    "SimplifiedChinese": "用以扩展使用者<span class=\"name name-stellar\">套装存储空间</span>的高级生存技术模块。<br><br>预装的纳米扩张器能在套装内生成稳定的次曲速虚空，从而增加<span class=\"name name-stellar\">库存容量</span>。你可以在<span class=\"name name-stellar\">空间站</span>内的套装升级终端处安装这个增强部件。",
+    "TraditionalChinese": "能擴充使用者<span class=\"name name-stellar\">強化套裝儲存空間</span>的先進生存科技模組。<br><br>內含奈米擴充填料，能在強化套裝中創造穩定的子空間跳躍虛空，進而增加<span class=\"name name-stellar\">道具欄容量</span>。可在<span class=\"name name-stellar\">太空站</span>上的強化套裝升級終端站套用此擴充。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 155000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.exosuittoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00993583351,
+  "NormalisedValueOffWorld": 0.00993583351,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Exosuit Expansion Unit",
+    "SimplifiedChinese": "寻找套装扩展装置",
+    "TencentChinese": "寻找套装扩展装置",
+    "TraditionalChinese": "找出強化套裝擴充元件"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

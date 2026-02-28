@@ -1,0 +1,89 @@
+{
+  "ID": "GEODE_RARE",
+  "Name": {
+    "English": "GLOWING MINERAL",
+    "SimplifiedChinese": "发光的矿物",
+    "TraditionalChinese": "發光礦物"
+  },
+  "NameLower": {
+    "English": "Glowing Mineral",
+    "SimplifiedChinese": "发光的矿物",
+    "TraditionalChinese": "發光礦物"
+  },
+  "Subtitle": {
+    "English": "Valuable Rock Sample",
+    "SimplifiedChinese": "宝贵的岩石样本",
+    "TraditionalChinese": "珍貴岩石樣本"
+  },
+  "Description": {
+    "English": "Though its surface is dirtied and dull, polishing this rock reveals a deep inner glow, a glitter beneath a subtly iridescent surface.<br><br>Select in the Inventory (<span class=\"name name-img\">INVENTORY</span>) and crack open with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "尽管其表面肮脏而暗淡，这块岩石在抛光后会显现出深层的内在光芒，那是一种细微虹彩表面下的闪光。<br><br>在库存（<span class=\"name name-img\">INVENTORY</span>）中选择它，通过<span class=\"name name-img\">FE_ALT1</span>将其砸开。",
+    "TraditionalChinese": "雖然表面骯髒暗沉，將岩石拋光後能看到深層的內部光澤，輕微虹光的表面下閃耀著光彩。<br><br>在道具欄（<span class=\"name name-img\">INVENTORY</span>）中選取，再用 <span class=\"name name-img\">FE_ALT1</span> 敲開。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.waterprod.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.05,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Glowing Mineral",
+    "SimplifiedChinese": "寻找发光的矿物",
+    "TencentChinese": "寻找发光的矿物",
+    "TraditionalChinese": "找出發光礦物"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

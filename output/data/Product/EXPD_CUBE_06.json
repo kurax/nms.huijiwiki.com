@@ -1,0 +1,90 @@
+{
+  "ID": "EXPD_CUBE_06",
+  "Name": {
+    "English": "WAYWARD CUBE",
+    "SimplifiedChinese": "倔强立方体",
+    "TraditionalChinese": "反覆無常箱體"
+  },
+  "NameLower": {
+    "English": "Wayward Cube",
+    "SimplifiedChinese": "倔强立方体",
+    "TraditionalChinese": "反覆無常箱體"
+  },
+  "Subtitle": {
+    "English": "Floating Primitive",
+    "SimplifiedChinese": "漂浮的远古生物",
+    "TraditionalChinese": "漂浮的遠古之物"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament.<br><br>This cubic lifeform drifted into an orbital station from another reality, where it was captured by a travelling merchant. Provides placid companionship when rehomed in a habitable base.",
+    "SimplifiedChinese": "一件专属的可建造基地装饰。<br><br>这个立方生命体从另一个世界漂流到某个轨道空间站，并在那里被一个旅行商人捕获。被安置在一个适合居住的基地时，可以提供温和的陪伴。",
+    "TraditionalChinese": "特殊的可建造基地裝飾。<br><br>這個方塊型生命體從另一個現實漂流到軌道站中，被一名旅行商人捕獲。重新安置在可居住的基地後，會平靜地陪伴著你。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.cube06.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.cube06.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

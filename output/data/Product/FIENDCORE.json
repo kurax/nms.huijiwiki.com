@@ -1,0 +1,97 @@
+{
+  "ID": "FIENDCORE",
+  "Name": {
+    "English": "LARVAL CORE",
+    "SimplifiedChinese": "幼虫核心",
+    "TencentChinese": "幼虫核心",
+    "TraditionalChinese": "蟲核"
+  },
+  "NameLower": {
+    "English": "Larval Core",
+    "SimplifiedChinese": "幼虫核心",
+    "TencentChinese": "幼虫核心",
+    "TraditionalChinese": "蟲核"
+  },
+  "Subtitle": {
+    "English": "Monstrosity",
+    "SimplifiedChinese": "怪物",
+    "TencentChinese": "怪物",
+    "TraditionalChinese": "怪物"
+  },
+  "Description": {
+    "English": "A pulsating jellied orb, this gooey sphere is warm to the touch. Its stench triggers a primal fear in mortal beings, a deep-seated gnawing that begs you to drop it and flee.",
+    "SimplifiedChinese": "这个不停搏动的胶粘球体摸上去很暖和。它的恶臭能激起人类心中的原始恐惧，那种根深蒂固的苦痛让你不禁想要把它甩掉，拔腿就跑。",
+    "TencentChinese": "这个不停搏动的胶粘球体摸上去很暖和。它的恶臭能激起人类心中的原始恐惧，那种根深蒂固的苦痛让你不禁想要把它甩掉，拔腿就跑。",
+    "TraditionalChinese": "脈衝膠狀球體，這個黏膩的球體觸感溫暖。其惡臭會觸發凡人的原始恐懼，彷彿從深處噬咬著你，求你快放下它逃之夭夭。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 65000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.fiendcore.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.15,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00447910279,
+  "NormalisedValueOffWorld": 0.00447910279,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Find or purchase Larval Core",
+    "SimplifiedChinese": "寻找或购买幼虫核心",
+    "TencentChinese": "寻找或购买幼虫核心",
+    "TraditionalChinese": "找出或購買蟲核"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-special\">Larval Cores</span> are the pungent, gooey hearts of <span class=\"name name-fuel\">Whispering Eggs</span>, often found laid on airless planets, or around abandoned buildings.<br><span class=\"name name-fuel\">CAUTION</span>: Monstrous broods will guard their larvae fiercely.<br>Locate <span class=\"name name-fuel\">Whispering Eggs</span> using the <span class=\"name name-technology\">Analysis Visor</span>.",
+    "SimplifiedChinese": "<span class=\"name name-special\">幼虫核心</span>是通常发现于缺乏空气行星上或废弃建筑周围的<span class=\"name name-fuel\">低语的卵</span>的刺鼻而粘稠的心脏。<br><span class=\"name name-fuel\">警告</span>：巨大的母虫会凶猛地守护自己的幼虫。<br>使用<span class=\"name name-technology\">分析面甲</span>定位<span class=\"name name-fuel\">低语的卵</span>。",
+    "TraditionalChinese": "<span class=\"name name-special\">蟲核</span>是<span class=\"name name-fuel\">低語蛋</span>的核心，氣味難聞、質地黏膩，通常這種卵會生在無空氣的星球上，或是廢棄建築物的周圍。<br><span class=\"name name-fuel\">注意</span>：怪獸守卵非常凶猛。<br>利用<span class=\"name name-technology\">分析護目鏡</span>可以找到<span class=\"name name-fuel\">低語蛋</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "HazardEgg",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Suit_Energy_Regen",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

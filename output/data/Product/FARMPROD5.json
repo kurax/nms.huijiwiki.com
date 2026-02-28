@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD5",
+  "Name": {
+    "English": "POLY FIBER",
+    "SimplifiedChinese": "聚乙烯纤维",
+    "TencentChinese": "聚乙烯纤维",
+    "TraditionalChinese": "聚纖維"
+  },
+  "NameLower": {
+    "English": "Poly Fiber",
+    "SimplifiedChinese": "聚乙烯纤维",
+    "TencentChinese": "聚乙烯纤维",
+    "TraditionalChinese": "聚纖維"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "A connective fiber for electronics, made from an advanced synthetic polymer and capable of serving as a conduit for power and data.<br><br>Crafted from <span class=\"name name-tradeable\">Cactus Flesh</span> and <span class=\"name name-tradeable\">Star Bulbs</span>.",
+    "SimplifiedChinese": "用于电子的可结合纤维，由高级合成聚合物制成，能够作为能量与数据的导体。<br><br>由<span class=\"name name-tradeable\">仙人掌肉</span>和<span class=\"name name-tradeable\">星辰朵</span>制作。",
+    "TencentChinese": "用于电子的可结合纤维，由高级合成聚合物制成，能够作为能量与数据的导体。<br><br>由<span class=\"name name-tradeable\">仙人掌肉</span>和<span class=\"name name-tradeable\">星辰朵</span>制作。",
+    "TraditionalChinese": "電子產品線路用纖維，以高級合成聚合物製成，能用來傳輸能量和資料。<br><br>可使用<span class=\"name name-tradeable\">仙人掌肉</span>和<span class=\"name name-tradeable\">星球莖</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 130000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "PLANT_DUST": {
+      "ID": "PLANT_DUST",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "PLANT_LUSH": {
+      "ID": "PLANT_LUSH",
+      "Type": "Substance",
+      "Amount": 200
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.02240224,
+  "NormalisedValueOffWorld": 0.02240224,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Poly Fiber",
+    "SimplifiedChinese": "制作聚乙烯纤维",
+    "TencentChinese": "制作聚乙烯纤维",
+    "TraditionalChinese": "製作聚纖維"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-tradeable\">Cactus Flesh</span> and <span class=\"name name-tradeable\">Star Bulbs</span>. Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.<br>Cactus Flesh can be farmed, or found wild on <span class=\"name name-stellar\">barren planets</span>.<br>Star Bulbs can be farmed, or found wild on <span class=\"name name-tradeable\">lush planets</span>.",
+    "SimplifiedChinese": "由<span class=\"name name-tradeable\">仙人掌肉</span>和<span class=\"name name-tradeable\">星辰朵</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>仙人掌肉可以通过种植获得，也能在<span class=\"name name-stellar\">贫瘠星球</span>上找到。<br>星辰朵可以通过种植获得，也能在<span class=\"name name-tradeable\">茂盛星球</span>上找到。",
+    "TencentChinese": "由<span class=\"name name-tradeable\">仙人掌肉</span>和<span class=\"name name-tradeable\">星辰朵</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>仙人掌肉可以通过种植获得，也能在<span class=\"name name-stellar\">贫瘠星球</span>上找到。<br>星辰朵可以通过种植获得，也能在<span class=\"name name-tradeable\">茂盛星球</span>上找到。",
+    "TraditionalChinese": "以<span class=\"name name-tradeable\">仙人掌肉</span>及<span class=\"name name-tradeable\">星球莖</span>製作。在基地裡借助<span class=\"name name-technology\">科學專家</span>來了解設計圖。<br>仙人掌肉可以在<span class=\"name name-stellar\">荒蕪星球</span>上栽種或於野外採集。<br>星球莖則可以於<span class=\"name name-tradeable\">蒼翠星球</span>上栽種或於野外採集。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

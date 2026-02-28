@@ -1,0 +1,109 @@
+{
+  "ID": "GRENFUEL1",
+  "Name": {
+    "English": "UNSTABLE PLASMA",
+    "SimplifiedChinese": "不稳定的等离子",
+    "TencentChinese": "不稳定的等离子",
+    "TraditionalChinese": "不穩定電漿"
+  },
+  "NameLower": {
+    "English": "Unstable Plasma",
+    "SimplifiedChinese": "不稳定的等离子",
+    "TencentChinese": "不稳定的等离子",
+    "TraditionalChinese": "不穩定電漿"
+  },
+  "Subtitle": {
+    "English": "Plasma Launcher Recharge",
+    "SimplifiedChinese": "等离子发射器充能",
+    "TencentChinese": "等离子发射器充能",
+    "TraditionalChinese": "電漿發射器補充品"
+  },
+  "Description": {
+    "English": "Densely-packed fuel capsule for use in the <span class=\"name name-technology\">Plasma Launcher</span>.<br> <br>Contained highly-pressurized electro-thermal energy for use in land disruption grenade technology.",
+    "SimplifiedChinese": "在<span class=\"name name-technology\">等离子发射器</span>中使用的密封燃料匣。<br> <br>包含用于陆地破坏榴弹技术的高压电热能量。",
+    "TencentChinese": "在<span class=\"name name-technology\">等离子发射器</span>中使用的密封燃料匣。<br> <br>包含用于陆地改造迸裂弹技术的高压电热能量。",
+    "TraditionalChinese": "高密度燃料膠囊，能用於<span class=\"name name-technology\">電漿發射器</span>。<br> <br>內含高壓電熱能量，可用於陸上破壞手榴彈科技。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 5750,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.plasma1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Fuel",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 20,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "OXYGEN": {
+      "ID": "OXYGEN",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000368525652,
+  "NormalisedValueOffWorld": 0.000368525652,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft, find or purchase Unstable Plasma",
+    "SimplifiedChinese": "制作、寻找或购买不稳定的等离子",
+    "TencentChinese": "制作、寻找或购买不稳定的等离子",
+    "TraditionalChinese": "製造、找出或購買不穩定電漿"
+  },
+  "PinObjectiveTip": {
+    "English": "Purchase Unstable Plasma from <span class=\"name name-technology\">Trade Terminals</span> and <span class=\"name name-technology\">Shops</span>.<br>Craft Unstable Plasma from <span class=\"name name-fuel\">Oxygen</span> and <span class=\"name name-commodity\">Metal Plating</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Supplies are occasionally found in <span class=\"name name-technology\">Supply Caches</span> left on planets.",
+    "SimplifiedChinese": "从<span class=\"name name-technology\">交易终端</span>和<span class=\"name name-technology\">商店</span>购买不稳定的等离子。<br>使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-commodity\">金属电镀</span>制作不稳定的等离子。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>补给品偶尔能从被遗弃在星球上的<span class=\"name name-technology\">补给箱</span>中找到。",
+    "TencentChinese": "从<span class=\"name name-technology\">交易终端</span>和<span class=\"name name-technology\">商店</span>购买不稳定的等离子。<br>使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-commodity\">金属电镀</span>制作不稳定的等离子。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>补给品偶尔能从被遗弃在星球上的<span class=\"name name-technology\">补给箱</span>中找到。",
+    "TraditionalChinese": "從<span class=\"name name-technology\">貿易終端站</span>和<span class=\"name name-technology\">商店</span>購買不穩定電漿。<br>使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-commodity\">金屬電鍍</span>製作不穩定電漿。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。<br>補給品偶爾能在被遺棄在星球上的<span class=\"name name-technology\">補給儲物箱</span>中被找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

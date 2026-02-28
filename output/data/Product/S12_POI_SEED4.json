@@ -1,0 +1,105 @@
+{
+  "ID": "S12_POI_SEED4",
+  "Name": {
+    "English": "MEMORY OF THE VOID",
+    "SimplifiedChinese": "虚空的回忆",
+    "TraditionalChinese": "虛空記憶"
+  },
+  "NameLower": {
+    "English": "Memory of the Void",
+    "SimplifiedChinese": "虚空的回忆",
+    "TraditionalChinese": "虛空記憶"
+  },
+  "Subtitle": {
+    "English": "Fragment of the Atlas",
+    "SimplifiedChinese": "阿特拉斯碎片",
+    "TraditionalChinese": "寰宇碎片"
+  },
+  "Description": {
+    "English": "This memory is a fragment of the cosmos, one filament in an infinite galaxy of possible pasts and possible futures.<br><br>Reach the stars and then use <span class=\"name name-img\">FE_ALT1</span> to awaken this memory.",
+    "SimplifiedChinese": "这份回忆是宇宙的一块碎片，是有可能的过去与潜在的未来构成的无尽宇宙中的一隅。<br><br>飞向群星并使用<span class=\"name name-img\">FE_ALT1</span>唤醒这份回忆。",
+    "TraditionalChinese": "這個記憶是宇宙的碎片，是無窮銀河中各種過去和未來可能性的一縷細絲。<br><br>抵達群星深處，然後使用 <span class=\"name name-img\">FE_ALT1</span> 喚醒這個記憶。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/atlasseed.5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 99
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 66
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 33
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Memory of the Void",
+    "SimplifiedChinese": "制作虚空的回忆",
+    "TencentChinese": "制作虚空的回忆",
+    "TraditionalChinese": "製作虛空記憶"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

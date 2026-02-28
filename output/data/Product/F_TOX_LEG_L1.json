@@ -1,0 +1,89 @@
+{
+  "ID": "F_TOX_LEG_L1",
+  "Name": {
+    "English": "BLEACHED BONEFISH",
+    "SimplifiedChinese": "漂白骨鱼",
+    "TraditionalChinese": "褪色白骨魚"
+  },
+  "NameLower": {
+    "English": "Bleached Bonefish",
+    "SimplifiedChinese": "漂白骨鱼",
+    "TraditionalChinese": "褪色白骨魚"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"Robbed of flesh and stripped of color by acid seas, the bonefish swims on regardless.\"",
+    "SimplifiedChinese": "“虽然浓酸性的海水腐蚀到只剩下一具白骨，但这种鱼仍然在顽强地游动着。“",
+    "TraditionalChinese": "「即使被酸海剝奪了皮肉和色彩，骨魚依然勇往直前。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 150000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product.fish.xl.2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Bleached Bonefish",
+    "SimplifiedChinese": "寻找漂白骨鱼",
+    "TencentChinese": "寻找漂白骨鱼",
+    "TraditionalChinese": "找出褪色白骨魚"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

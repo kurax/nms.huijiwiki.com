@@ -1,0 +1,91 @@
+{
+  "ID": "EXPD_DECAL09",
+  "Name": {
+    "English": "UTOPIA EXPEDITION DECAL",
+    "SimplifiedChinese": "乌托邦远征贴花",
+    "TraditionalChinese": "烏托邦探險轉印貼紙"
+  },
+  "NameLower": {
+    "English": "Utopia Expedition Decal",
+    "SimplifiedChinese": "乌托邦远征贴花",
+    "TraditionalChinese": "烏托邦探險轉印貼紙"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive placeable decal, to add flair and decoration to bases.<br><br>This decal commemorates completion of the <span class=\"name name-stellar\">Utopia</span> expedition, and contributions to the Utopia Foundation communal habitation project.",
+    "SimplifiedChinese": "专属的可放置贴花，为你的基地增添风格和美观。<br><br>此贴花为完成<span class=\"name name-stellar\">乌托邦</span>远征并为乌托邦基金会的公共聚居地项目作出贡献的纪念品。",
+    "TraditionalChinese": "特殊的可放置轉印貼紙，可以裝飾基地，增添個人風格。<br><br>這片轉印貼紙紀念了<span class=\"name name-stellar\">烏托邦</span>探險的完成，以及對烏托邦基金會公共居住計畫的貢獻。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.decal09.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.decal09.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255869254,
+  "NormalisedValueOffWorld": 0.0000255869254,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "EXP_CURIO3",
+  "Name": {
+    "English": "DIVERGENCE CUBE",
+    "SimplifiedChinese": "集会方型箱",
+    "TencentChinese": "集会方型箱",
+    "TraditionalChinese": "議會箱體"
+  },
+  "NameLower": {
+    "English": "Divergence Cube",
+    "SimplifiedChinese": "集会方型箱",
+    "TencentChinese": "集会方型箱",
+    "TraditionalChinese": "議會箱體"
+  },
+  "Subtitle": {
+    "English": "Anomalous Data Unit",
+    "SimplifiedChinese": "异常的数据单位",
+    "TencentChinese": "异常的数据单位",
+    "TraditionalChinese": "異常資料單元"
+  },
+  "Description": {
+    "English": "A glitching, pulsing data unit. It does not seem to belong in this reality.<br><br>The cube gives the impression of a silent scream, the frozen cries of hundreds of lost minds trapped within.",
+    "SimplifiedChinese": "一个短路、但仍在搏动的单元。它看起来并不属于这个现实世界。<br><br>方型箱仿佛是在发出无声的呐喊，被困在里面千百个灵魂发出着哭喊。",
+    "TencentChinese": "一个短路、但仍在搏动的单元。它看起来并不属于这个现实世界。<br><br>方型箱仿佛是在发出无声的呐喊，被困在里面千百个灵魂发出着哭喊。",
+    "TraditionalChinese": "資料單元出現干擾，不停閃爍，看似不屬於這個現實中。<br><br>此箱體讓人感覺到一種無聲的尖叫，好像有上百個發瘋的生物體困在箱中，發出凍結的慘叫聲。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3015,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.curio.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0008372757,
+  "NormalisedValueOffWorld": 0.0008372757,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Divergence Cube",
+    "SimplifiedChinese": "寻找集会方型箱",
+    "TencentChinese": "寻找集会方型箱",
+    "TraditionalChinese": "找出議會箱體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "REP_TOKEN",
+  "Name": {
+    "English": "FORGED PASSPORT",
+    "SimplifiedChinese": "伪造护照",
+    "TraditionalChinese": "偽造護照"
+  },
+  "NameLower": {
+    "English": "Forged Passport",
+    "SimplifiedChinese": "伪造护照",
+    "TraditionalChinese": "偽造護照"
+  },
+  "Subtitle": {
+    "English": "Overwritten Digital Record",
+    "SimplifiedChinese": "覆写数字记录",
+    "TraditionalChinese": "覆蓋數位記錄"
+  },
+  "Description": {
+    "English": "A counterfeit <span class=\"name name-technology\">starship registration document</span>. This digital signature is guaranteed free of previous crimes or misdemeanors.<br><br>Can be used to reset any negative <span class=\"name name-stellar\">faction standing</span> records at a <span class=\"name name-technology\">Space Station Core</span>.",
+    "SimplifiedChinese": "一份伪造的<span class=\"name name-technology\">飞船注册文件</span>。这个数字签名保证不带有任何犯罪和不法行为前科。<br><br>可以用于重置<span class=\"name name-stellar\">空间站核心</span>中的任何负面<span class=\"name name-technology\">派系声望</span>记录",
+    "TraditionalChinese": "偽造的<span class=\"name name-technology\">太空船註冊文件</span>。此數位簽名保證不含以前的犯罪或不端行為紀錄。<br><br>可用於在<span class=\"name name-technology\">太空站台核心</span>重設任何負面<span class=\"name name-stellar\">陣營評價</span>記錄。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 256000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/reptoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Illegal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0008372757,
+  "NormalisedValueOffWorld": 0.0008372757,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Forged Passport",
+    "SimplifiedChinese": "寻找伪造护照",
+    "TencentChinese": "寻找伪造护照",
+    "TraditionalChinese": "找出偽造護照"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

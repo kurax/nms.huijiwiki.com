@@ -1,0 +1,109 @@
+{
+  "ID": "MICROCHIP",
+  "Name": {
+    "English": "MICROPROCESSOR",
+    "SimplifiedChinese": "微处理器",
+    "TencentChinese": "微处理器",
+    "TraditionalChinese": "微處理機"
+  },
+  "NameLower": {
+    "English": "Microprocessor",
+    "SimplifiedChinese": "微处理器",
+    "TencentChinese": "微处理器",
+    "TraditionalChinese": "微處理機"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A compact, <span class=\"name name-technology\">low-heat microchip</span>. Assembled from processed <span class=\"name name-stellar\">Chromatic Metal</span>, created from one of several specialized terrain metals.<br><br>Used in the creation of a wide range of <span class=\"name name-technology\">advanced technologies</span>.",
+    "SimplifiedChinese": "一个小型<span class=\"name name-technology\">低热微芯片</span>。由几种特殊地形金属中收集的加工<span class=\"name name-stellar\">彩色金属</span>所制成。<br><br>用于创建大量<span class=\"name name-technology\">高级技术</span>。",
+    "TencentChinese": "一个小型<span class=\"name name-technology\">低热微芯片</span>。由几种特殊地形金属中收集的加工<span class=\"name name-stellar\">彩色金属</span>所制成。<br><br>用于创建大量<span class=\"name name-technology\">高级技术</span>。",
+    "TraditionalChinese": "小巧、<span class=\"name name-technology\">低溫的微晶片</span>。須先將多種特殊地形金屬擇一精製出<span class=\"name name-stellar\">有色金屬</span>，再將其組合而成。<br><br>能用來製作各式各樣的<span class=\"name name-technology\">先進科技</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 2000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.microchip.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 8.5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000128141037,
+  "NormalisedValueOffWorld": 0.000128141037,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Craft or purchase Microprocessor",
+    "SimplifiedChinese": "制作或购买微处理器",
+    "TencentChinese": "制作或购买微处理器",
+    "TraditionalChinese": "製造或購買微處理機"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Microprocessor, or purchase at a <span class=\"name name-technology\">Trade Terminal</span>. Find Trade Terminals on planetary outposts or onboard the Space Station.",
+    "SimplifiedChinese": "制作微处理器，或是在<span class=\"name name-technology\">交易终端</span>里购买一个。在行星前哨基站中寻找交易终端，或是登上空间站进行寻找。",
+    "TencentChinese": "制作微处理器，或是在<span class=\"name name-technology\">交易终端</span>里购买一个。在行星前哨基站中寻找交易终端，或是登上空间站进行寻找。",
+    "TraditionalChinese": "製作微處理機，或於<span class=\"name name-technology\">交易終端站</span>購買。交易終端站可以在星球基地或太空站上找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

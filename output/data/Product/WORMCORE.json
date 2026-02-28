@@ -1,0 +1,89 @@
+{
+  "ID": "WORMCORE",
+  "Name": {
+    "English": "FLESH ROPE",
+    "SimplifiedChinese": "血肉之绳",
+    "TraditionalChinese": "血肉之繩"
+  },
+  "NameLower": {
+    "English": "Flesh Rope",
+    "SimplifiedChinese": "血肉之绳",
+    "TraditionalChinese": "血肉之繩"
+  },
+  "Subtitle": {
+    "English": "Intestinal Fragment",
+    "SimplifiedChinese": "脏器碎片",
+    "TraditionalChinese": "腸壁碎片"
+  },
+  "Description": {
+    "English": "The coiled remains of a <span class=\"name name-special\">Hungering Tendril</span>'s digestive tract. Though its meaty walls still convulse, there is surely no way for a fresh tendril to regrow from these meager scraps...<br><br>Such specialist offal is rarely traded on the Galactic Exchange and is thus <span class=\"name name-stellar\">highly valuable</span>.",
+    "SimplifiedChinese": "一根<span class=\"name name-special\">饥饿的触手</span>的消化道残骸。虽然上面的肉壁依旧在不停抽搐，但是这些残渣绝不可能复原成真正的触手......<br><br>银河交易所中极少能见到这种特殊脏器，因此拥有着<span class=\"name name-stellar\">十分宝贵</span>的价值。",
+    "TraditionalChinese": "一根<span class=\"name name-special\">飢渴觸手</span>消化束的蜷曲殘骸。儘管它多肉的內壁依舊在蠕動，但這堆貧弱的遺骸不可能再長出一根新觸手的......<br><br>如此特殊的內臟遺骸在銀河交易所內相當罕見，因此<span class=\"name name-stellar\">極度珍貴</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16016,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/wormcore.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Flesh Rope",
+    "SimplifiedChinese": "寻找血肉之绳",
+    "TencentChinese": "寻找血肉之绳",
+    "TraditionalChinese": "找出血肉之繩"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

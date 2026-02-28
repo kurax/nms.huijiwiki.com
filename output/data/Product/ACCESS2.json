@@ -1,0 +1,104 @@
+{
+  "ID": "ACCESS2",
+  "Name": {
+    "English": "ATLASPASS v2",
+    "SimplifiedChinese": "阿特拉斯通行卡 V2",
+    "TencentChinese": "阿特拉斯通行卡2",
+    "TraditionalChinese": "寰宇證 V2"
+  },
+  "NameLower": {
+    "English": "AtlasPass v2",
+    "SimplifiedChinese": "阿特拉斯通行卡 V2",
+    "TencentChinese": "阿特拉斯通行卡2",
+    "TraditionalChinese": "寰宇證 V2"
+  },
+  "Subtitle": {
+    "English": "Access Card",
+    "SimplifiedChinese": "通行卡",
+    "TencentChinese": "通行卡",
+    "TraditionalChinese": "通行證"
+  },
+  "Description": {
+    "English": "Security and permissions pass granted to specific travelers by many primary galactic species.<br> <br>Provides access to mid-tier restricted areas and outpost systems.",
+    "SimplifiedChinese": "星系中不少主要种族授予特定旅行者的安保与通行权限卡。<br><br>可用此卡进入中级的禁区和前哨基站系统。",
+    "TencentChinese": "星系中不少主要种族授予特定旅行者的安保与通行权限卡。<br><br>可用此卡进入中级的禁区和前哨基站系统。",
+    "TraditionalChinese": "銀河系中許多主要物種核發的安全通關證，僅限發證對象使用。<br><br>持證者可進入中等限制區與基地系統。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1856,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.atlaspass.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "RED2": {
+      "ID": "RED2",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000118910262,
+  "NormalisedValueOffWorld": 0.000118910262,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft AtlasPass v2",
+    "SimplifiedChinese": "制作阿特拉斯通行卡 V2",
+    "TencentChinese": "制作阿特拉斯通行卡2",
+    "TraditionalChinese": "製作寰宇證 V2"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

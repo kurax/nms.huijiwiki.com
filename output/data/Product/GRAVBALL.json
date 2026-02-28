@@ -1,0 +1,98 @@
+{
+  "ID": "GRAVBALL",
+  "Name": {
+    "English": "GRAVITINO BALL",
+    "SimplifiedChinese": "引力微子球",
+    "TencentChinese": "引力微子球",
+    "TraditionalChinese": "伴重力子球"
+  },
+  "NameLower": {
+    "English": "Gravitino Ball",
+    "SimplifiedChinese": "引力微子球",
+    "TencentChinese": "引力微子球",
+    "TraditionalChinese": "伴重力子球"
+  },
+  "Subtitle": {
+    "English": "Trade commodity",
+    "SimplifiedChinese": "交易商品",
+    "TencentChinese": "交易商品",
+    "TraditionalChinese": "貿易物資"
+  },
+  "Description": {
+    "English": "A supersymmetric particle cluster created by divergent super-gravitational forces. A <span class=\"name name-stellar\">micro-rift</span> is created as they form, and extraction of the orb prompts a localised reality weakening. <span class=\"name name-fuel\">Sentinel forces</span> will respond to stabilize any such anomaly.<br><br>Can be sold at a <span class=\"name name-technology\">Galactic Trade Terminal</span>.",
+    "SimplifiedChinese": "在发散超重力作用下形成的超对称粒子簇。它们形成时会产生一个<span class=\"name name-stellar\">微型裂缝</span>，提取球体会促生局部现实弱化。<span class=\"name name-fuel\">护卫部队</span>会做出反应来稳定这种异象。<br><br>可以在<span class=\"name name-technology\">银河交易终端</span>出售。",
+    "TencentChinese": "超对称粒子簇。<br><br>这种在发散超重力作用下形成的产物极其稀有、极具价值。",
+    "TraditionalChinese": "超對稱粒子群集，是發散型異端超級重力所產生。此種粒子群集生成時，亦會產生<span class=\"name name-stellar\">微裂痕</span>，將其取出即會導致當地現實弱化。<span class=\"name name-fuel\">巡警部隊</span>會立即反應，穩定化此類異常。<br><br>可在<span class=\"name name-technology\">銀河交易終端站</span>出售。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 42130,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.gravball.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00256554503,
+  "NormalisedValueOffWorld": 0.00256554503,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Find or purchase Gravitino Ball",
+    "SimplifiedChinese": "寻找或购买引力微子球",
+    "TencentChinese": "寻找或购买引力微子球",
+    "TraditionalChinese": "找出或購買伴重力子球"
+  },
+  "PinObjectiveTip": {
+    "English": "Collect Gravitino Ball from rare <span class=\"name name-tradeable\">Gravitino Hosts</span> found occasionally on planets.<br><span class=\"name name-fuel\">WARNING:</span> Gravitino Hosts are monitored by Sentinel forces.",
+    "SimplifiedChinese": "从偶尔能在星球上找到的稀有<span class=\"name name-tradeable\">引力微子宿体</span>中收集引力微子球。<br><span class=\"name name-fuel\">警告：</span>引力微子宿体通常被护卫部队所监视。",
+    "TencentChinese": "从偶尔能在星球上找到的稀有<span class=\"name name-tradeable\">引力微子宿体</span>中收集引力微子球。<br><span class=\"name name-fuel\">警告：</span>引力微子宿体通常被护卫部队所监视。",
+    "TraditionalChinese": "從偶爾能在星球上找到的稀有<span class=\"name name-tradeable\">伴重力子宿主</span>中收集伴重力子球。<br><span class=\"name name-fuel\">警告：</span>伴重力子宿主通常被巡警部隊所監視。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "Rare2",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

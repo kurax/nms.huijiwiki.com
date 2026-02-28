@@ -1,0 +1,89 @@
+{
+  "ID": "F_TOX_LEG_XL",
+  "Name": {
+    "English": "TRANSLUCENT GULPER",
+    "SimplifiedChinese": "透明大嘴鱼",
+    "TraditionalChinese": "半透明大嘴鰻"
+  },
+  "NameLower": {
+    "English": "Translucent Gulper",
+    "SimplifiedChinese": "透明大嘴鱼",
+    "TraditionalChinese": "半透明大嘴鰻"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"Seemingly weak and fragile at the surface, these giant jaws have swallowed alive many an unwary soul who ventured into their abyssal home...\"",
+    "SimplifiedChinese": "“虽然乍一看脆弱而且无力，但是这些巨大的下颚已经吞下过无数误闯深渊的牺牲品......”",
+    "TraditionalChinese": "「巨大的口部雖然看似軟弱無力，卻已經活吞了無數誤闖其深淵棲地的生命......」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product.fish.xl.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Translucent Gulper",
+    "SimplifiedChinese": "寻找透明大嘴鱼",
+    "TencentChinese": "寻找透明大嘴鱼",
+    "TraditionalChinese": "找出半透明大嘴鰻"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,91 @@
+{
+  "ID": "BLD_BUGHEAD3",
+  "Name": {
+    "English": "BROODLING TROPHY",
+    "SimplifiedChinese": "幼虫奖杯",
+    "TraditionalChinese": "幼蟲獎盃"
+  },
+  "NameLower": {
+    "English": "Broodling Trophy",
+    "SimplifiedChinese": "幼虫奖杯",
+    "TraditionalChinese": "幼蟲獎盃"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament.<br><br>The mounted head of a colossal insect, this is a trophy from the glorious work of the Liquidators.",
+    "SimplifiedChinese": "一件专属的可建造基地装饰。<br><br>来自一只巨大昆虫的悬挂式头部，通过清算员的光荣使命获得的一座奖杯。",
+    "TraditionalChinese": "獨特的可建造基地裝飾。<br><br>這個龐大的昆蟲頭部是清算人光榮奮鬥的戰利品。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.bughead3.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.bughead3.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CREATURE1": {
+      "ID": "CREATURE1",
+      "Type": "Substance",
+      "Amount": 5
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255869254,
+  "NormalisedValueOffWorld": 0.0000255869254,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,105 @@
+{
+  "ID": "MESSAGE_JUICE1",
+  "Name": {
+    "English": "ELIXIR OF BLOOD<span class=\"name name-img\">PR_4</span>",
+    "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_4</span>",
+    "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_4</span>"
+  },
+  "NameLower": {
+    "English": "Elixir of Blood<span class=\"name name-img\">PR_4</span>",
+    "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_4</span>",
+    "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_4</span>"
+  },
+  "Subtitle": {
+    "English": "Otherworldly Concoction",
+    "SimplifiedChinese": "异界混合物",
+    "TraditionalChinese": "超凡混合物"
+  },
+  "Description": {
+    "English": "Thick and warm, the liquid in this jar is both deeply comforting and deeply unsettling, both familiar and repulsive at the same time.<br><br>A shape forms in the surface, impossible and yet unmistakeable: <VAL_ON><span class=\"name name-img\">PR_4</span><>.<br><br>Present the elixir at a <span class=\"name name-special\">portal</span>, or consume it with <span class=\"name name-img\">FE_ALT1</span> to commune with those beyond the boundaries of reality.",
+    "SimplifiedChinese": "罐子里的液体浓厚而温暖，让人既感到无比舒适又感到无比不安，那是一种既熟悉又令人厌恶的感觉。<br><br>液体表面形成了一个不可思议的诡异形状：<VAL_ON><span class=\"name name-img\">PR_4</span><>。<br><br>将灵药带至一处<span class=\"name name-special\">传送门</span>，或者使用<span class=\"name name-img\">FE_ALT1</span>服下灵药以与现实边界之外的存在进行通讯......",
+    "TraditionalChinese": "這個罐子裡的液體既濃稠又溫暖，既能安撫人心，卻又令人深感不安；既熟悉，又令人厭惡。<br><br>表面形成了一個形狀，難以理解，卻又清晰不已：<VAL_ON><span class=\"name name-img\">PR_4</span><>。<br><br>在<span class=\"name name-special\">傳送門</span>獻上靈藥，或者使用 <span class=\"name name-img\">FE_ALT1</span> 服用靈藥，與現實邊界外的異物交流。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.messagejuice1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 40,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CREATURE1": {
+      "ID": "CREATURE1",
+      "Type": "Substance",
+      "Amount": 15
+    },
+    "STORM_CRYSTAL": {
+      "ID": "STORM_CRYSTAL",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Elixir of Blood<span class=\"name name-img\">PR_4</span>",
+    "SimplifiedChinese": "制作鲜血灵药<span class=\"name name-img\">PR_4</span>",
+    "TencentChinese": "制作鲜血灵药<span class=\"name name-img\">PR_4</span>",
+    "TraditionalChinese": "製作血之靈藥 <span class=\"name name-img\">PR_4</span>"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": false
+}

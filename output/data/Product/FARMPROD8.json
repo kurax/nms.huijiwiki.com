@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD8",
+  "Name": {
+    "English": "LIVING GLASS",
+    "SimplifiedChinese": "活体玻璃",
+    "TencentChinese": "活体玻璃",
+    "TraditionalChinese": "活玻璃"
+  },
+  "NameLower": {
+    "English": "Living Glass",
+    "SimplifiedChinese": "活体玻璃",
+    "TencentChinese": "活体玻璃",
+    "TraditionalChinese": "活玻璃"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "An advanced building material, this glass has been imbued with organic compounds that allow it to react to the environment. Microbes within the glass filter harmful light of all wavelengths and balance the atmosphere as required.<br><br>Crafted from <span class=\"name name-technology\">Lubricant</span> and <span class=\"name name-technology\">Glass</span>.",
+    "SimplifiedChinese": "一种先进的建造材料，这种玻璃中一直被灌入有机化合物，使其能够对环境作出反应。玻璃中的微生物可过滤所有波长的有害光照，并按需平衡大气。<br><br>由<span class=\"name name-technology\">润滑剂</span>和<span class=\"name name-technology\">玻璃</span>制作。",
+    "TencentChinese": "一种先进的建造材料，这种玻璃中一直被灌入有机化合物，使其能够对环境作出反应。玻璃中的微生物可过滤所有波长的有害光照，并按需平衡大气。<br><br>由<span class=\"name name-technology\">润滑剂</span>和<span class=\"name name-technology\">玻璃</span>制作。",
+    "TraditionalChinese": "此玻璃為先進建築材料，裡頭充滿有機化合物，因此可與環境進行反應。玻璃的微生物能夠過濾各波長的有害光線，並且平衡大氣。<br><br>可使用<span class=\"name name-technology\">潤滑劑</span>與<span class=\"name name-technology\">玻璃</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 566000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.8.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD2": {
+      "ID": "FARMPROD2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 5
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.02240224,
+  "NormalisedValueOffWorld": 0.02240224,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Living Glass",
+    "SimplifiedChinese": "制作活体玻璃",
+    "TencentChinese": "制作活体玻璃",
+    "TraditionalChinese": "製作活玻璃"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-commodity\">Lubricant</span> and <span class=\"name name-commodity\">Glass</span>.<br>Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.",
+    "SimplifiedChinese": "由<span class=\"name name-commodity\">润滑剂</span>和<span class=\"name name-commodity\">玻璃</span>制作而成。<br>在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。",
+    "TencentChinese": "由<span class=\"name name-commodity\">润滑剂</span>和<span class=\"name name-commodity\">玻璃</span>制作而成。<br>在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。",
+    "TraditionalChinese": "以<span class=\"name name-commodity\">潤滑劑</span>及<span class=\"name name-commodity\">玻璃</span>製作。<br>在基地裡借助<span class=\"name name-technology\">科學專家</span>來了解設計圖。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

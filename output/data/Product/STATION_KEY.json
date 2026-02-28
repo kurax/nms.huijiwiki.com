@@ -1,0 +1,89 @@
+{
+  "ID": "STATION_KEY",
+  "Name": {
+    "English": "STATION OVERRIDE",
+    "SimplifiedChinese": "空间站超控",
+    "TraditionalChinese": "站台覆寫"
+  },
+  "NameLower": {
+    "English": "Station Override",
+    "SimplifiedChinese": "空间站超控",
+    "TraditionalChinese": "站台覆寫"
+  },
+  "Subtitle": {
+    "English": "AI Master Key",
+    "SimplifiedChinese": "AI主密钥",
+    "TraditionalChinese": "AI 總金鑰"
+  },
+  "Description": {
+    "English": "A portable data drive containing the <span class=\"name name-stellar\">AI override codes</span> for a Space Station Core.<br><br>The importance of the station AI core ensures that such keys are both highly regulated and extremely profitable on the black market.",
+    "SimplifiedChinese": "一块移动数据硬盘，包含空间站核心的<span class=\"name name-stellar\">AI超控代码</span>。<br><br>空间站AI核心的重要性，使这种密钥受到了高度管制，在黑市上价值极高。",
+    "TraditionalChinese": "包含 <span class=\"name name-stellar\">AI 覆寫代碼</span>的可攜式資料驅動器，能用於太空站台核心。<br><br>站台 AI 核心的重要性，讓此類金鑰既受到高度管控，在黑市上又充滿價值。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 256000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/autotranslator.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Illegal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0008372757,
+  "NormalisedValueOffWorld": 0.0008372757,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Station Override",
+    "SimplifiedChinese": "寻找空间站超控",
+    "TencentChinese": "寻找空间站超控",
+    "TraditionalChinese": "找出站台覆寫"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

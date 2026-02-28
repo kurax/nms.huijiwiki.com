@@ -1,0 +1,90 @@
+{
+  "ID": "TITLE_UNLOCK",
+  "Name": {
+    "English": "Title",
+    "SimplifiedChinese": "头衔",
+    "TraditionalChinese": "頭銜"
+  },
+  "NameLower": {
+    "English": "Title",
+    "SimplifiedChinese": "头衔",
+    "TraditionalChinese": "頭銜"
+  },
+  "Subtitle": {
+    "English": "Reward Item",
+    "SimplifiedChinese": "奖励物品",
+    "TencentChinese": "奖励物品",
+    "TraditionalChinese": "獎勵道具"
+  },
+  "Description": {
+    "English": "Title",
+    "SimplifiedChinese": "头衔",
+    "TraditionalChinese": "頭銜"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 0,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/rank/titleunlocked.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 0,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Title",
+    "SimplifiedChinese": "寻找头衔",
+    "TencentChinese": "寻找头衔",
+    "TraditionalChinese": "找出頭銜"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

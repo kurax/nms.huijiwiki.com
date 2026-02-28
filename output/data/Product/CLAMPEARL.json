@@ -1,0 +1,98 @@
+{
+  "ID": "CLAMPEARL",
+  "Name": {
+    "English": "LIVING PEARL",
+    "SimplifiedChinese": "活体珍珠",
+    "TencentChinese": "活体珍珠",
+    "TraditionalChinese": "活珍珠"
+  },
+  "NameLower": {
+    "English": "Living Pearl",
+    "SimplifiedChinese": "活体珍珠",
+    "TencentChinese": "活体珍珠",
+    "TraditionalChinese": "活珍珠"
+  },
+  "Subtitle": {
+    "English": "Semi-Conscious Gemstone",
+    "SimplifiedChinese": "半意识宝石",
+    "TencentChinese": "半意识宝石",
+    "TraditionalChinese": "具有微量意識的寶石"
+  },
+  "Description": {
+    "English": "Born in the hearts of enormous glowing mollusks found deep underwater.<br><br>Unlike most pearls, this sample is no unliving calcite. Some trace of the mother-clam's consciousness remains within the gem, giving it a lingering, haunting beauty.",
+    "SimplifiedChinese": "发现于深海的巨大发光软体动物的核心产物。<br><br>与大多数珍珠不同，该样本并非是无生命的方解石。母蚌的部分意识残留在宝石里，使它拥有了一种滞留不去的诡异之美。",
+    "TencentChinese": "发现于深海的巨大发光软体动物的核心产物。<br><br>与大多数珍珠不同，该样本并非是无生命的方解石。母蚌的部分意识残留在宝石里，使它拥有了一种滞留不去的诡异之美。",
+    "TraditionalChinese": "生存在深海的巨大發光蚌中心。<br><br>與多數珍珠不同，這個樣本是有生命的方解石。寶石保有母蚌的微量意識，讓它帶有令人難以忘懷的美。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 5050,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.clampearl.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00030746797,
+  "NormalisedValueOffWorld": 0.00030746797,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Harvest Living Pearl from armored deep-water clams",
+    "SimplifiedChinese": "从装甲深海蛤蜊处收集活体珍珠",
+    "TencentChinese": "从装甲深海蛤蜊处收集活体珍珠",
+    "TraditionalChinese": "自裝甲深海蚌採收活珍珠"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-commodity\">Living Pearls</span> are harvested from <span class=\"name name-stellar\">Armored Clams</span> found on the sea bed. Use the Galaxy Map to locate systems with aquatic life.<br>While swimming, identify <span class=\"name name-stellar\">Armored Clams</span> with the <span class=\"name name-technology\">Analysis Visor</span>.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span>, refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>, or travelling in a <span class=\"name name-stellar\">Nautilon Submarine</span>.",
+    "SimplifiedChinese": "<span class=\"name name-commodity\">活体珍珠</span>能从常见于海床上的<span class=\"name name-stellar\">装甲蛤蜊</span>中收获。使用星系图定位有水生生物的恒星系。<br>游泳时，用<span class=\"name name-technology\">分析面甲</span>识别<span class=\"name name-stellar\">装甲蛤蜊</span>。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
+    "TencentChinese": "<span class=\"name name-commodity\">活体珍珠</span>能从常见于海床上的<span class=\"name name-stellar\">装甲蛤蜊</span>中收获。使用星系图定位有水生生物的恒星系。<br>游泳时，用<span class=\"name name-technology\">分析面甲</span>识别<span class=\"name name-stellar\">装甲蛤蜊</span>。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">活珍珠</span>可自海底的<span class=\"name name-stellar\">裝甲蚌</span>中採收。利用銀河系地圖尋找擁有水中生物體的星系。<br>游泳時，利用<span class=\"name name-technology\">分析護目鏡</span>偵測<span class=\"name name-stellar\">裝甲蚌</span>。<br>升級強化套裝的<span class=\"name name-technology\">曝氣黏膜</span>、從<span class=\"name name-tradeable\">巨藻囊</span>補充氧氣補給，或搭乘<span class=\"name name-stellar\">巡洋龍潛艇</span>前進，以提高海洋行動的效率。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "Clam",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD1",
+  "Name": {
+    "English": "ACID",
+    "SimplifiedChinese": "酸",
+    "TencentChinese": "酸",
+    "TraditionalChinese": "酸劑"
+  },
+  "NameLower": {
+    "English": "Acid",
+    "SimplifiedChinese": "酸",
+    "TencentChinese": "酸",
+    "TraditionalChinese": "酸劑"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "Dilute acid for high current generation in diverse power cells.<br><br>Crafted from <span class=\"name name-special\">Mordite</span> and <span class=\"name name-tradeable\">Fungal Mold</span>.",
+    "SimplifiedChinese": "用于多种能量电池中聚集高强度电流的稀酸。<br><br>由<span class=\"name name-special\">腐藤</span>和<span class=\"name name-tradeable\">真菌霉</span>制作。",
+    "TencentChinese": "用于多种能量电池中聚集高强度电流的稀酸。<br><br>由<span class=\"name name-special\">腐藤</span>和<span class=\"name name-tradeable\">真菌霉</span>制作。",
+    "TraditionalChinese": "稀酸劑，可用來讓各種電池產生強力電流。<br><br>可使用<span class=\"name name-special\">歿鹽</span>和<span class=\"name name-tradeable\">蕈模</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 188000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CREATURE1": {
+      "ID": "CREATURE1",
+      "Type": "Substance",
+      "Amount": 25
+    },
+    "PLANT_TOXIC": {
+      "ID": "PLANT_TOXIC",
+      "Type": "Substance",
+      "Amount": 600
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0120512191,
+  "NormalisedValueOffWorld": 0.0120512191,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Acid",
+    "SimplifiedChinese": "制作酸",
+    "TencentChinese": "制作酸",
+    "TraditionalChinese": "製作酸劑"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-special\">Mordite</span> and <span class=\"name name-tradeable\">Fungal Mold</span>. Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.<br>Fungal Mold can be farmed, or found wild on <span class=\"name name-tradeable\">toxic planets</span>.<br>Mordite is harvested from the <span class=\"name name-fuel\">corpses of creatures</span>",
+    "SimplifiedChinese": "由<span class=\"name name-special\">腐藤</span>和<span class=\"name name-tradeable\">真菌霉</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>真菌霉可以通过种植获得，也能在<span class=\"name name-tradeable\">有毒星球</span>上找到。<br>腐藤能从<span class=\"name name-fuel\">生物尸体</span>中被采集到。",
+    "TencentChinese": "由<span class=\"name name-special\">腐藤</span>和<span class=\"name name-tradeable\">真菌霉</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>真菌霉可以通过种植获得，也能在<span class=\"name name-tradeable\">有毒星球</span>上找到。<br>腐藤能从<span class=\"name name-fuel\">生物遗骸</span>中被采集到。",
+    "TraditionalChinese": "以<span class=\"name name-special\">歿鹽</span>及<span class=\"name name-tradeable\">蕈模</span>製作。在基地裡借助<span class=\"name name-technology\">科學專家</span>來了解設計圖。<br>蕈模可以在<span class=\"name name-tradeable\">毒性星球</span>上栽種或於野外採集。<br>歿鹽則可於<span class=\"name name-fuel\">生物屍體</span>上採收。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

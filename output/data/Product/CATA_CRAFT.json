@@ -1,0 +1,98 @@
+{
+  "ID": "CATA_CRAFT",
+  "Name": {
+    "English": "SODIUM DIODE",
+    "SimplifiedChinese": "钠二极管",
+    "TencentChinese": "钠二极管",
+    "TraditionalChinese": "鈉二極體"
+  },
+  "NameLower": {
+    "English": "Sodium Diode",
+    "SimplifiedChinese": "钠二极管",
+    "TencentChinese": "钠二极管",
+    "TraditionalChinese": "鈉二極體"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "An advanced circuit component.<br><br>The refined sodium electrode within its vacuum tube gives this diode specialist surge-protection capabilities.",
+    "SimplifiedChinese": "先进的电路部件。<br><br>真空管内的精钠电极赋予其专业的浪涌保护能力。",
+    "TencentChinese": "先进的电路部件。<br><br>真空管内的精钠电极赋予其专业的浪涌保护能力。",
+    "TraditionalChinese": "先進電路元件。<br><br>其真空管內精製過的鈉電極體讓此二極體具有專家級的突波防護能力。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.catacraft.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000224294883,
+  "NormalisedValueOffWorld": 0.000224294883,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Sodium Diode",
+    "SimplifiedChinese": "制作或购买钠二极管",
+    "TencentChinese": "制作或购买钠二极管",
+    "TraditionalChinese": "製造或購買鈉二極體"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft <span class=\"name name-commodity\">Sodium Diodes</span> from <span class=\"name name-catalyst\">Sodium</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br><span class=\"name name-catalyst\">Sodium</span> is harvested from yellow plants found on all planets. Locate sodium-rich plants with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>).",
+    "SimplifiedChinese": "使用<span class=\"name name-catalyst\">钠</span>制作<span class=\"name name-commodity\">钠二极管</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br><span class=\"name name-catalyst\">钠</span>可以从所有行星上都有的黄色植物中采集。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富含钠的植物。",
+    "TencentChinese": "使用<span class=\"name name-catalyst\">钠</span>制作<span class=\"name name-commodity\">钠二极管</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br><span class=\"name name-catalyst\">钠</span>可以从所有行星上都有的黄色植物中采集。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富含钠的植物。",
+    "TraditionalChinese": "使用<span class=\"name name-catalyst\">鈉</span>製作<span class=\"name name-commodity\">鈉二極體</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。<br><span class=\"name name-catalyst\">鈉</span>可以從所有行星上都有的黃色植物中採收。使用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）定位富含鈉的植物。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

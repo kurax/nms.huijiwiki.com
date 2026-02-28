@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_EXOTICS2",
+  "Name": {
+    "English": "NEUTRON MICROSCOPE",
+    "SimplifiedChinese": "中子显微镜",
+    "TencentChinese": "中子显微镜",
+    "TraditionalChinese": "中子顯微鏡"
+  },
+  "NameLower": {
+    "English": "Neutron Microscope",
+    "SimplifiedChinese": "中子显微镜",
+    "TencentChinese": "中子显微镜",
+    "TraditionalChinese": "中子顯微鏡"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Scientific)",
+    "SimplifiedChinese": "交易货物（科学）",
+    "TencentChinese": "科研原件",
+    "TraditionalChinese": "貿易商品 (科學)"
+  },
+  "Description": {
+    "English": "A parcel of neutron microscopes.<br><br>Scientific economies produce and consume large numbers of microscopes. However, some have slight defects that render them unsuitable for precision work. These are still a <span class=\"name name-special\">trading</span> opportunity, in that they can be sold to those unable to tell the difference.",
+    "SimplifiedChinese": "一包中子显微镜。<br><br>科研型经济体制造并且消耗着大量显微镜。但是其中的一些瑕疵品并不适合用于精细工作，但这仍是<span class=\"name name-special\">贸易</span>良机。因为可以把这些显微镜出售给那些看不出来好坏之人。",
+    "TencentChinese": "一包中子显微镜。<br><br>科研型经济体制造并且消耗着大量显微镜。但是其中的一些瑕疵品并不适合用于精细工作，但这仍是<span class=\"name name-special\">贸易</span>良机。因为可以把这些显微镜出售给那些看不出来好坏之人。",
+    "TraditionalChinese": "一包中子顯微鏡。<br><br>科學經濟體製造並消耗了大量的顯微鏡。顯微鏡一旦有任何瑕疵，便不能用於精密研究，但這些顯微鏡仍蘊藏<span class=\"name name-special\">商業</span>機會，能賣給不識貨的買家。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.exotics2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000384551298,
+  "NormalisedValueOffWorld": 0.000384551298,
+  "TradeCategory": "Exotic",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1,
+  "PinObjective": {
+    "English": "Purchase Neutron Microscope from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买中子显微镜",
+    "TencentChinese": "从空间站的交易终端购买中子显微镜",
+    "TraditionalChinese": "從太空站交易終端站購買中子顯微鏡"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

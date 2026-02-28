@@ -1,0 +1,109 @@
+{
+  "ID": "MIND_ARC",
+  "Name": {
+    "English": "MIND ARK",
+    "SimplifiedChinese": "心灵方舟",
+    "TencentChinese": "心灵之弧",
+    "TraditionalChinese": "思維方舟"
+  },
+  "NameLower": {
+    "English": "Mind Ark",
+    "SimplifiedChinese": "心灵方舟",
+    "TencentChinese": "心灵之弧",
+    "TraditionalChinese": "思維方舟"
+  },
+  "Subtitle": {
+    "English": "Advanced Crafted Product",
+    "SimplifiedChinese": "先进铸造物",
+    "TencentChinese": "先进铸造物",
+    "TraditionalChinese": "精工改良產品"
+  },
+  "Description": {
+    "English": "A strange piece of technology, a gift from beyond the stars. It shimmers in a way that suggests it is not fully in this world.",
+    "SimplifiedChinese": "这项奇异的技术是来自群星彼方的礼物。它闪烁微光的方式，透露出它并不完全存在于这个世界。",
+    "TencentChinese": "这项奇异的技术是来自群星彼方的礼物。它闪烁微光的方式，透露出它并不完全存在于这个世界。",
+    "TraditionalChinese": "奇怪的科技，是來自群星彼方的贈禮。它閃爍光芒的樣子透露出它不完全屬於這世界。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/mindarc.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "SOUL_ENGINE": {
+      "ID": "SOUL_ENGINE",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Mind Ark",
+    "SimplifiedChinese": "制作心灵方舟",
+    "TencentChinese": "制作心灵之弧",
+    "TraditionalChinese": "製作思維方舟"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

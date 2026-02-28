@@ -1,0 +1,93 @@
+{
+  "ID": "WAR_CURIO3",
+  "Name": {
+    "English": "VY'KEEN TABLET",
+    "SimplifiedChinese": "维吉恩石碑",
+    "TencentChinese": "维吉恩石碑",
+    "TraditionalChinese": "維金族石碑"
+  },
+  "NameLower": {
+    "English": "Vy'keen Tablet",
+    "SimplifiedChinese": "维吉恩石碑",
+    "TencentChinese": "维吉恩石碑",
+    "TraditionalChinese": "維金族石碑"
+  },
+  "Subtitle": {
+    "English": "Communion of Hirk",
+    "SimplifiedChinese": "赫客教会",
+    "TencentChinese": "赫客教会",
+    "TraditionalChinese": "赫克交流儀式"
+  },
+  "Description": {
+    "English": "A stone tablet bearing line after line of intricate runes. The words are unintelligible, an ancient dialect forgotten by all but the oldest of the Vy'keen elders.<br><br>The hand that carved this stone must have been extraordinary. The stonework is precise, delicate - and yet perfectly conveys the unyielding aggression its writer clearly possessed.",
+    "SimplifiedChinese": "一块行行布满精细符文的石碑。石碑上面的词汇难以理解，一种只有最年长的维吉恩才能读懂的古老语言。<br><br>雕琢这块石碑的双手必定有着非凡的能力。石雕工艺非常精确，细腻——同时又完美地表达了撰写者坚定不移的侵略性。",
+    "TencentChinese": "一块行行布满精细符文的石碑。石碑上面的词汇难以理解，一种只有最年长的维吉恩才能读懂的古老语言。<br><br>雕琢这块石碑的双手必定有着非凡的能力。石雕工艺非常精确，细腻——同时又完美地表达了撰写者坚定不移的敌意。",
+    "TraditionalChinese": "石碑上刻著一行行精細的符文，我們無法解讀這些文字，因為除了最老的維金族長者之外，其他族人都已經遺忘這門古老的方言。<br><br>雕刻此石碑的巧手絕對出自不凡，其工藝既準確又精緻，又完美地傳達了作者本身驍勇不屈的精神。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1250,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/treasureprod.strangebook.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00158647448,
+  "NormalisedValueOffWorld": 0.00158647448,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Vy'keen Tablet",
+    "SimplifiedChinese": "寻找维吉恩石碑",
+    "TencentChinese": "寻找维吉恩石碑",
+    "TraditionalChinese": "找出維金族石碑"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

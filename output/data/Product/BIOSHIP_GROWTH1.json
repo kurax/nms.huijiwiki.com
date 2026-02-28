@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_GROWTH1",
+  "Name": {
+    "English": "MATURE NEURAL STEM",
+    "SimplifiedChinese": "成熟的神经干",
+    "TraditionalChinese": "成熟神經主幹"
+  },
+  "NameLower": {
+    "English": "Mature Neural Stem",
+    "SimplifiedChinese": "成熟的神经干",
+    "TraditionalChinese": "成熟神經主幹"
+  },
+  "Subtitle": {
+    "English": "Living Starship Organ",
+    "SimplifiedChinese": "活体飞船的器官",
+    "TraditionalChinese": "活太空船器官"
+  },
+  "Description": {
+    "English": "This web of living tissue has grown its own metallic filaments, a mesh of silver and flesh. It crackles with its own electric charge, a network in need of its nodes.<br><br>It awaits its host.",
+    "SimplifiedChinese": "这个活体组织网已长出自己的金属细丝，那是一种银和肉组成的丝网。它自带噼啪作响的电荷，是一个需要节点的网络。<br><br>它正在等待宿主。",
+    "TraditionalChinese": "這個脆弱的網狀活組織會自行長出由銀與肌肉交織而成的金屬細絲。能自行產生電流，需要節點才能運作。<br><br>正在等待宿主。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/biotech.brain.mod.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.137254909,
+    "B": 0.156862751,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Mature Neural Stem",
+    "SimplifiedChinese": "寻找成熟的神经干",
+    "TencentChinese": "寻找成熟的神经干",
+    "TraditionalChinese": "找出成熟神經主幹"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

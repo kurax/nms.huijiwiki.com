@@ -1,0 +1,89 @@
+{
+  "ID": "F_BOSS_JELLY",
+  "Name": {
+    "English": "SPAWN OF ARCADIA",
+    "SimplifiedChinese": "阿卡迪亚之子",
+    "TraditionalChinese": "阿卡迪亞幼體"
+  },
+  "NameLower": {
+    "English": "Spawn of Arcadia",
+    "SimplifiedChinese": "阿卡迪亚之子",
+    "TraditionalChinese": "阿卡迪亞幼體"
+  },
+  "Subtitle": {
+    "English": "Fragile Medusoid",
+    "SimplifiedChinese": "脆弱的类水母体",
+    "TraditionalChinese": "脆弱的水母"
+  },
+  "Description": {
+    "English": "A glassy jellyfish, lights pulsing beneath its skin. Its thin tentacles pluck at the air, their vibrations manipulating the space around its body.<br><br>As it writhes, a faint music drifts from its tendrils, worming its way into your ears. The melody seems to never end, worming its way into your ears, never ending, worming its way into your ears, never ending, never...",
+    "SimplifiedChinese": "一只玻璃状的水母，内生的光在其皮肤下搏动。它细长的触手撩拨着空气，身体发出的振动操纵着周围的空间。<br><br>当它扭动时，触须间会飘出微弱的乐声，钻入你的耳中。那旋律似乎永无止境，从耳膜钻入大脑，永无止境，钻入大脑，永无止境，永远......",
+    "TraditionalChinese": "一隻玻璃般的水母，表皮下的光芒間歇閃爍。牠纖細的觸手撥動空氣，身旁的空間隨之震動。<br><br>當牠扭動身軀時，微弱的音樂從觸手之間飄出，鑽進你的耳中。這旋律彷彿永無止境，鑽進你的耳中，永無止境，鑽進耳中，永無止境、永無止境......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product4.fish.jelly.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Spawn of Arcadia",
+    "SimplifiedChinese": "寻找阿卡迪亚之子",
+    "TencentChinese": "寻找阿卡迪亚之子",
+    "TraditionalChinese": "找出阿卡迪亞幼體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

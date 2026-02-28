@@ -1,0 +1,93 @@
+{
+  "ID": "WALKER_PROD",
+  "Name": {
+    "English": "WALKER BRAIN",
+    "SimplifiedChinese": "步行机脑",
+    "TencentChinese": "步行机脑",
+    "TraditionalChinese": "步行機腦"
+  },
+  "NameLower": {
+    "English": "Walker Brain",
+    "SimplifiedChinese": "步行机脑",
+    "TencentChinese": "步行机脑",
+    "TraditionalChinese": "步行機腦"
+  },
+  "Subtitle": {
+    "English": "Anomalous Material",
+    "SimplifiedChinese": "异常材料",
+    "TencentChinese": "异常材料",
+    "TraditionalChinese": "異常材料"
+  },
+  "Description": {
+    "English": "Shifting nanite clusters sewn together with a pugneum filament, this circuit is painfully hot to the touch.<br><br>A sinister purple light leaks from deep within its wiring, changing in intensity as it watches its holder.",
+    "SimplifiedChinese": "这块电路是通过普茵单纤维连接的纳米星团，摸上去很烫手。<br><br>线路深处漏出的邪恶紫光注视着持有者，并不断改变强度。",
+    "TencentChinese": "这块电路是通过普茵单纤维连接的纳米星团，摸上去很烫手。<br><br>线路深处漏出的邪恶紫光注视着持有者，并不断改变强度。",
+    "TraditionalChinese": "這塊電路板用搏絲將會變形的奈米機群縫在一起，非常燙而難以觸碰。<br><br>從線路深處洩出邪惡的紫色燈光，映照持有者時便會改變閃爍頻率。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 35000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.walkerbrain.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00224352581,
+  "NormalisedValueOffWorld": 0.00224352581,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Walker Brain",
+    "SimplifiedChinese": "寻找步行机脑",
+    "TencentChinese": "寻找步行机脑",
+    "TraditionalChinese": "找出步行機腦"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

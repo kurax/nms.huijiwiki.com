@@ -1,0 +1,104 @@
+{
+  "ID": "JELLY",
+  "Name": {
+    "English": "DI-HYDROGEN JELLY",
+    "SimplifiedChinese": "二氢凝胶",
+    "TencentChinese": "二氢凝胶",
+    "TraditionalChinese": "二氫膠"
+  },
+  "NameLower": {
+    "English": "Di-hydrogen Jelly",
+    "SimplifiedChinese": "二氢凝胶",
+    "TencentChinese": "二氢凝胶",
+    "TraditionalChinese": "二氫膠"
+  },
+  "Subtitle": {
+    "English": "Portable Life Support Power",
+    "SimplifiedChinese": "便携式维生系统能量",
+    "TencentChinese": "便携式维生系统能量",
+    "TraditionalChinese": "可攜式維生系統能量"
+  },
+  "Description": {
+    "English": "A faintly-glowing jelly. Its gentle light and soft wobble belie the fact that this sticky gel is both highly toxic and highly flammable. Skin contact is to be avoided at all costs.<br><br>Synthesized from <span class=\"name name-technology\">Di-hydrogen</span>.",
+    "SimplifiedChinese": "微弱发光的胶冻。它柔和的光线和轻微的抖动掩盖了一个事实：这种粘性凝胶既剧毒又高度易燃。千万要避免与皮肤接触。<br><br>从<span class=\"name name-technology\">二氢</span>中合成。",
+    "TencentChinese": "微弱发光的胶冻。它柔和的光线和轻微的抖动掩盖了一个事实：这种粘性凝胶既剧毒又高度易燃。千万要避免与皮肤接触。<br><br>从<span class=\"name name-technology\">二氢</span>中合成。",
+    "TraditionalChinese": "微微發亮的膠。溫和的光芒與軟膠性質，讓人猜不到這黏膠其實極具毒性，且高度易燃。應全力避免與皮膚接觸。<br><br>由<span class=\"name name-technology\">二氫</span>合成而來。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.jelly.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Fuel",
+  "Type": "Component",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAUNCHSUB": {
+      "ID": "LAUNCHSUB",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000127564108,
+  "NormalisedValueOffWorld": 0.0000127564108,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Di-hydrogen Jelly",
+    "SimplifiedChinese": "制作或精炼二氢凝胶",
+    "TencentChinese": "制作或精炼二氢凝胶",
+    "TraditionalChinese": "製作或精製二氫膠"
+  },
+  "PinObjectiveTip": {
+    "English": "Refine or craft <span class=\"name name-technology\">Di-hydrogen Jelly</span> from the blue <span class=\"name name-technology\">Di-hydrogen Crystals</span> found on all worlds. Use the Scanner (<span class=\"name name-img\">SCAN</span>) to locate crystals.",
+    "SimplifiedChinese": "使用在所有星球上都能找到的蓝色<span class=\"name name-technology\">二氢晶体</span>精炼或制作<span class=\"name name-technology\">二氢凝胶</span>。使用扫描仪（<span class=\"name name-img\">SCAN</span>）来定位晶体。",
+    "TencentChinese": "使用在所有星球上都能找到的蓝色<span class=\"name name-technology\">二氢晶体</span>精炼或制作<span class=\"name name-technology\">二氢凝胶</span>。使用扫描仪（<span class=\"name name-img\">SCAN</span>）来定位晶体。<br>进度：<span class=\"name name-stellar\">%CURRENT%/%AMOUNT%</span>",
+    "TraditionalChinese": "使用在所有星球上都能找到的藍色<span class=\"name name-technology\">二氫結晶</span>精製或製作成<span class=\"name name-technology\">二氫膠</span>。使用掃描器 (<span class=\"name name-img\">SCAN</span>) 找出結晶。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

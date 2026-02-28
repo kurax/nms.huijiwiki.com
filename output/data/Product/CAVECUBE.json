@@ -1,0 +1,98 @@
+{
+  "ID": "CAVECUBE",
+  "Name": {
+    "English": "VORTEX CUBE",
+    "SimplifiedChinese": "漩涡立方",
+    "TencentChinese": "漩涡立方",
+    "TraditionalChinese": "漩渦箱體"
+  },
+  "NameLower": {
+    "English": "Vortex Cube",
+    "SimplifiedChinese": "漩涡立方",
+    "TencentChinese": "漩涡立方",
+    "TraditionalChinese": "漩渦箱體"
+  },
+  "Subtitle": {
+    "English": "Trade commodity",
+    "SimplifiedChinese": "交易商品",
+    "TencentChinese": "交易商品",
+    "TraditionalChinese": "貿易物資"
+  },
+  "Description": {
+    "English": "An ancient object, unearthed from the depths of a planetary cave system. Its surface is cold to the touch, and is curiously polished despite its age.<br><br>A fusion of metal and rock, these cubes have proved resistant to industrial processing. As such, they are of value only to collectors.<br><br>Can be sold at a <span class=\"name name-technology\">Galactic Trade Terminal</span>.",
+    "SimplifiedChinese": "从行星洞穴系统深处出土的古代物件。表面入手冰凉，尽管年代久远，但却光滑得出奇。<br><br>这些立方体是金属和岩石的融合体，难以进行工业加工。因此，它们只对收藏家有价值。<br><br>可以在<span class=\"name name-technology\">银河交易终端</span>出售。",
+    "TencentChinese": "密度大的金属物品，很久之前形成于星系各处的地下网络。<br><br>极其稀有，价值很高。",
+    "TraditionalChinese": "從星球洞穴系統深處出土的古老物體。其表面觸感冰涼，雖然年代久遠，卻異常光滑。<br><br>此類箱體為金屬與岩石融合而成，經證實難以進行工業處理，因此僅有收藏價值。<br><br>可在<span class=\"name name-technology\">銀河交易終端站</span>出售。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 5800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.vortexcube.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000371730799,
+  "NormalisedValueOffWorld": 0.000371730799,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Find or purchase Vortex Cube",
+    "SimplifiedChinese": "寻找或购买漩涡立方",
+    "TencentChinese": "寻找或购买漩涡立方",
+    "TraditionalChinese": "找出或購買漩渦箱體"
+  },
+  "PinObjectiveTip": {
+    "English": "Collect Vortex Cube from ancient artifacts found occasionally in <span class=\"name name-technology\">caves</span>.<br>Locate natural cave entrances or create your own with the <span class=\"name name-technology\">Terrain Manipulator</span>. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.",
+    "SimplifiedChinese": "从偶尔能被发现的<span class=\"name name-technology\">洞穴</span>中收集远古文物。<br>寻找天然洞穴的入口，或是使用<span class=\"name name-technology\">地形操纵器</span>自己创造出洞穴。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险的植物群。",
+    "TencentChinese": "从偶尔能被发现的<span class=\"name name-technology\">洞穴</span>中收集远古文物。<br>寻找天然洞穴的入口，或是使用<span class=\"name name-technology\">地形操纵器</span>自己创造出洞穴。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险的植物群。",
+    "TraditionalChinese": "從偶爾能在<span class=\"name name-technology\">洞穴</span>中找到的古老器物收集漩渦箱體。<br>用<span class=\"name name-technology\">地形改造器</span>找出或創造自己的天然洞穴入口。<span class=\"name name-red\">警告：</span>許多洞穴暗藏危險植物。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "CaveStone",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

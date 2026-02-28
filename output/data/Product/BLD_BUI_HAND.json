@@ -1,0 +1,91 @@
+{
+  "ID": "BLD_BUI_HAND",
+  "Name": {
+    "English": "CONSTRUCT DIGITS",
+    "SimplifiedChinese": "构造体手指",
+    "TraditionalChinese": "構造體趾頭"
+  },
+  "NameLower": {
+    "English": "Construct Digits",
+    "SimplifiedChinese": "构造体手指",
+    "TraditionalChinese": "構造體趾頭"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament.<br><br>A partially assembled robotic hand, as seen on mechanical lifeforms across the galaxy. The unit is severly damaged and appears to contain no trace of Autophage entity inhabitation...",
+    "SimplifiedChinese": "一件专属的可建造基地装饰。<br><br>尚未完成组装的机械手，宇宙各地的机械生命体身上都能看见类似的构造。这个单元已经严重受损，而且不存在任何自噬体实体存在的迹象......",
+    "TraditionalChinese": "獨特的可建造基地裝飾。<br><br>未組裝完成的機器手，外觀和銀河系裡眾多機械生命體的手臂零件無異。元件已嚴重損毀，上面沒有任何自噬存在體棲息的跡象..."
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.builderhand.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.builderhand.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ROBOT2": {
+      "ID": "ROBOT2",
+      "Type": "Substance",
+      "Amount": 15
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

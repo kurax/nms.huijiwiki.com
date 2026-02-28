@@ -1,0 +1,104 @@
+{
+  "ID": "ATLAS_SEED_8",
+  "Name": {
+    "English": "NOVAE RECLAIMENT",
+    "SimplifiedChinese": "新星残留物",
+    "TencentChinese": "新星残留物",
+    "TraditionalChinese": "超新星殘骸"
+  },
+  "NameLower": {
+    "English": "Novae Reclaiment",
+    "SimplifiedChinese": "新星残留物",
+    "TencentChinese": "新星残留物",
+    "TraditionalChinese": "超新星殘骸"
+  },
+  "Subtitle": {
+    "English": "Unique valuable curiosity",
+    "SimplifiedChinese": "独特的珍品",
+    "TencentChinese": "独特的珍品",
+    "TraditionalChinese": "獨一無二又珍貴的好奇心"
+  },
+  "Description": {
+    "English": "Atlas Seed contains neutronium elements from a catastrophic supernova event that obliterated a sentient civilization in an earlier era.",
+    "SimplifiedChinese": "此阿特拉斯之种中装有之前纪元里超新星爆发时留下的中子态元素。该次爆发毁灭了一个智慧文明。",
+    "TencentChinese": "此阿特拉斯之种中装有之前纪元里超新星爆发时留下的中子态元素。该次爆发彻底改变了一个智慧文明。",
+    "TraditionalChinese": "寰宇之種，裡頭的中子元素出自於先前世代抹除了感知文化的超新星災難事件。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/atlasseed.8.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ATLAS_SEED_7": {
+      "ID": "ATLAS_SEED_7",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "GREEN2": {
+      "ID": "GREEN2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Novae Reclaiment",
+    "SimplifiedChinese": "寻找新星残留物",
+    "TencentChinese": "寻找新星残留物",
+    "TraditionalChinese": "找出超新星殘骸"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

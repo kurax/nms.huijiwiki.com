@@ -1,0 +1,89 @@
+{
+  "ID": "PIRATE_PROD",
+  "Name": {
+    "English": "PIRATE TRANSPONDER",
+    "SimplifiedChinese": "海盗应答器",
+    "TraditionalChinese": "海盜應答器"
+  },
+  "NameLower": {
+    "English": "Pirate Transponder",
+    "SimplifiedChinese": "海盗应答器",
+    "TraditionalChinese": "海盜應答器"
+  },
+  "Subtitle": {
+    "English": "Salvaged Identification Device",
+    "SimplifiedChinese": "回收的身份辨识设备",
+    "TraditionalChinese": "回收的識別裝置"
+  },
+  "Description": {
+    "English": "A unique ID <span class=\"name name-technology\">transponder</span>, ripped from the internal signal array of an <span class=\"name name-stellar\">outlaw starship</span>.<br><br>Possesion of such a device implies the destruction of the vessel in question. Turn it over to an envoy of the <span class=\"name name-technology\">Mercenaries Guild</span> to collect any associated bounties.",
+    "SimplifiedChinese": "从一艘<span class=\"name name-stellar\">亡命之徒飞船</span>的网络信号矩阵中取下的独特ID<span class=\"name name-technology\">应答器</span>。<br><br>拥有这种设备意味着原始飞船已被彻底摧毁。将应答器交给<span class=\"name name-technology\">雇佣兵公会</span>的使者以收集对应赏金。",
+    "TraditionalChinese": "具有唯一識別碼的<span class=\"name name-technology\">應答器</span>，取自<span class=\"name name-stellar\">亡命之徒太空船</span>的內部訊號陣列。<br><br>擁有這種裝置表示賊人的太空船損毀。上交應答器給<span class=\"name name-technology\">傭兵公會</span>的使節，即可領取相關賞金。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 85000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.pirateloot.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00544865429,
+  "NormalisedValueOffWorld": 0.00544865429,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Pirate Transponder",
+    "SimplifiedChinese": "寻找海盗应答器",
+    "TencentChinese": "寻找海盗应答器",
+    "TraditionalChinese": "找出海盜應答器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMPONENT4",
+  "Name": {
+    "English": "HOLOGRAPHIC CRANKSHAFT",
+    "SimplifiedChinese": "全息曲柄",
+    "TencentChinese": "全息曲柄",
+    "TraditionalChinese": "全像曲軸"
+  },
+  "NameLower": {
+    "English": "Holographic Crankshaft",
+    "SimplifiedChinese": "全息曲柄",
+    "TencentChinese": "全息曲柄",
+    "TraditionalChinese": "全像曲軸"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Industrial)",
+    "SimplifiedChinese": "交易货物（工业）",
+    "TencentChinese": "工业原件",
+    "TraditionalChinese": "貿易商品 (工業)"
+  },
+  "Description": {
+    "English": "Packed and separated data containers for holographic crankshafts.<br><br>Real crankshafts are frequently too large, noisy or hard-to-maintain for use in delicate machines. When faced with such a situation, <span class=\"name name-special\">high-tech</span> manufacturers turn to these holographic substitutes.",
+    "SimplifiedChinese": "归类包装好的全息曲轴数据容器。<br><br>真的曲柄通常太过巨大、吵闹或者难以在精密机械中维护。当遭遇这种情况时，<span class=\"name name-special\">高科技</span>制造商们会转而使用这些全息替代品。",
+    "TencentChinese": "归类包装好的全息曲轴数据容器。<br><br>真的曲柄通常太过巨大、吵闹或者难以在精密机械中维护。当遭遇这种情况时，<span class=\"name name-special\">高科技</span>制造商们会转而使用这些全息替代品。",
+    "TraditionalChinese": "獨立包裝全像曲軸資料庫。<br><br>精密機械使用真實的曲軸常會太大太吵又維護困難的問題。為了解決問題，<span class=\"name name-special\">高科技</span>製造廠就改為使用全像曲軸。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.component4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0019230129,
+  "NormalisedValueOffWorld": 0.0019230129,
+  "TradeCategory": "Component",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.5,
+  "PinObjective": {
+    "English": "Purchase Holographic Crankshaft from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买全息曲柄",
+    "TencentChinese": "从空间站的交易终端购买全息曲柄",
+    "TraditionalChinese": "從太空站交易終端站購買全像曲軸"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

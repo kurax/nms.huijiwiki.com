@@ -1,0 +1,89 @@
+{
+  "ID": "CHART_HIVE",
+  "Name": {
+    "English": "SENTINEL BOUNDARY MAP",
+    "SimplifiedChinese": "护卫边界地图",
+    "TraditionalChinese": "巡警邊界地圖"
+  },
+  "NameLower": {
+    "English": "Sentinel Boundary Map",
+    "SimplifiedChinese": "护卫边界地图",
+    "TraditionalChinese": "巡警邊界地圖"
+  },
+  "Subtitle": {
+    "English": "Anomalous Planetary Location Data",
+    "SimplifiedChinese": "异常的行星位置数据",
+    "TraditionalChinese": "異常星球地點資料"
+  },
+  "Description": {
+    "English": "A strange, shifting map. Though hard to focus upon, this chart appears to show the location of a nearby <span class=\"name name-special\">Sentinel Pillar</span>. Such Sentinel strongholds house many secrets...<br><br>Select the map and use <VAL_ON>Plot Route (<span class=\"name name-img\">FE_ALT1</span>)<> to pin the location in your Exosuit display.",
+    "SimplifiedChinese": "一张奇异的、不断变化的地图。尽管很难聚焦，这张地图似乎显示了附近<span class=\"name name-special\">护卫之柱</span>的位置。这样的护卫据点守护者无数秘密......<br><br>选择地图并使用<VAL_ON>规划路线（<span class=\"name name-img\">FE_ALT1</span>）<>以在你的套装屏幕中标记该地点。",
+    "TraditionalChinese": "一張奇怪、不斷變化的地圖。雖然很難集中注意，不過這張圖似乎顯示了附近的<span class=\"name name-special\">巡警台柱</span>。這類巡警要塞隱藏著許多秘密......<br><br>選擇地圖並使用<VAL_ON>規劃路線 (<span class=\"name name-img\">FE_ALT1</span>)<>，即可在你的強化套裝顯示中釘選該地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.hive.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Sentinel Boundary Map",
+    "SimplifiedChinese": "寻找护卫边界地图",
+    "TencentChinese": "寻找护卫边界地图",
+    "TraditionalChinese": "找出巡警邊界地圖"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

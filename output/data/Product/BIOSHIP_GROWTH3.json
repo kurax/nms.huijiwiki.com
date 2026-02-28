@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_GROWTH3",
+  "Name": {
+    "English": "HARDENED SHELL",
+    "SimplifiedChinese": "硬化的外壳",
+    "TraditionalChinese": "硬化殼體"
+  },
+  "NameLower": {
+    "English": "Hardened Shell",
+    "SimplifiedChinese": "硬化的外壳",
+    "TraditionalChinese": "硬化殼體"
+  },
+  "Subtitle": {
+    "English": "Living Starship Organ",
+    "SimplifiedChinese": "活体飞船的器官",
+    "TraditionalChinese": "活太空船器官"
+  },
+  "Description": {
+    "English": "Translucent, reflective, iridescent, impossibly strong. This shell swiftly reconfigures itself upon damage, knitting itself back together stronger than ever before. The newly formed bonds create a memory in glass, reflecting back the light absorbed at the moment of damage.<br><br>It awaits its host.",
+    "SimplifiedChinese": "反光、半透明、色彩斑斓且硬得出奇。这个壳能在受到伤害时迅速自我重组并变得更加坚固。新形成的纽带在玻璃中形成记忆，反射受损瞬间所吸收的光。<br><br>它正在等待宿主。",
+    "TraditionalChinese": "這個殼體呈現半透明、反光、絢爛又極為堅硬。受到傷害時能快速改變形體，將自己重新接合後變得更加堅硬。新形成的連結會在玻璃中形成記憶，將受傷害時所吸收的光反射回去。<br><br>正在等待宿主。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/biotech.scales.mod.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.137254909,
+    "B": 0.156862751,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Hardened Shell",
+    "SimplifiedChinese": "寻找硬化的外壳",
+    "TencentChinese": "寻找硬化的外壳",
+    "TraditionalChinese": "找出硬化殼體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

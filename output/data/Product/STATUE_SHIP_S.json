@@ -1,0 +1,99 @@
+{
+  "ID": "STATUE_SHIP_S",
+  "Name": {
+    "English": "SILVER FIGHTER STATUE",
+    "SimplifiedChinese": "白银战斗机雕像",
+    "TencentChinese": "白银战斗机雕像",
+    "TraditionalChinese": "銀鑄戰鬥機雕像"
+  },
+  "NameLower": {
+    "English": "Silver Fighter Statue",
+    "SimplifiedChinese": "白银战斗机雕像",
+    "TencentChinese": "白银战斗机雕像",
+    "TraditionalChinese": "銀鑄戰鬥機雕像"
+  },
+  "Subtitle": {
+    "English": "Unlockable Decoration",
+    "SimplifiedChinese": "可解锁装饰",
+    "TencentChinese": "可解锁装饰",
+    "TraditionalChinese": "可解鎖的裝飾"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament, cast in silver.<br>This statue depicts the iconic starship Alpha Vector.",
+    "SimplifiedChinese": "一件专属的可建造基地装饰，由白银铸成。<br>此雕像刻画了一架标志性的星际飞船：A 型制导飞船。",
+    "TencentChinese": "一件专属的可建造基地装饰，由白银铸成。<br>此雕像刻画了一架标志性的星际飞船：阿尔法制导飞船。",
+    "TraditionalChinese": "特殊的可建造基地裝飾，用銀鑄成。<br>這座雕像描繪著名的「A 向量船」太空船。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.ship_s.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.ship_s.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 20
+    },
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255769246,
+  "NormalisedValueOffWorld": 0.0000255769246,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "WEAP_INV_TOKEN",
+  "Name": {
+    "English": "MULTI-TOOL EXPANSION SLOT",
+    "SimplifiedChinese": "多用途工具扩展栏位",
+    "TraditionalChinese": "工具組擴充欄位"
+  },
+  "NameLower": {
+    "English": "Multi-Tool Expansion Slot",
+    "SimplifiedChinese": "多用途工具扩展栏位",
+    "TraditionalChinese": "工具組擴充欄位"
+  },
+  "Subtitle": {
+    "English": "Upgrade Unit",
+    "SimplifiedChinese": "升级单位",
+    "TraditionalChinese": "升級元件"
+  },
+  "Description": {
+    "English": "A flexible upgrade circuit, compatible with all <span class=\"name name-stellar\">person Multi-Tools</span>.<br><br>This module can be wired into a Multi-Tool at a Space Station <span class=\"name name-stellar\">Multi-Tool Upgrade Rack</span>, granting the user more space in the Multi-Tool's internal layout to add further upgrades or technology specialisations.",
+    "SimplifiedChinese": "一种灵活的升级电路，兼容所有<span class=\"name name-stellar\">个人多用途工具</span>。<br><br>该模块可以通过空间站的<span class=\"name name-stellar\">多用途工具升级架</span>连接至多用途工具，让用户有更多的多用途工具内部空间来添加进一步的升级或技术专长。",
+    "TraditionalChinese": "用途多元的升級電路，與所有<span class=\"name name-stellar\">個人工具組</span>相容。<br><br>在太空站上的<span class=\"name name-stellar\">工具組升級架</span>將此模組接上工具組，能加大使用者工具組的內部配置，方便新增升級或專業科技。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 85000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.weapontoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00544865429,
+  "NormalisedValueOffWorld": 0.00544865429,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Multi-Tool Expansion Slot",
+    "SimplifiedChinese": "寻找多用途工具扩展栏位",
+    "TencentChinese": "寻找多用途工具扩展栏位",
+    "TraditionalChinese": "找出工具組擴充欄位"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,94 @@
+{
+  "ID": "BASE_HOTPLANT02",
+  "Name": {
+    "English": "GLOBE TREE",
+    "SimplifiedChinese": "球根树",
+    "TencentChinese": "球根树",
+    "TraditionalChinese": "球體樹"
+  },
+  "NameLower": {
+    "English": "Globe Tree",
+    "SimplifiedChinese": "球根树",
+    "TencentChinese": "球根树",
+    "TraditionalChinese": "球體樹"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A thin tree with a large, fleshy root system, well adapted to hot climates.<br><br>Root bulb may be tapped for a source of drinkable liquid, but this is not advised outside of the most dire circumstances.",
+    "SimplifiedChinese": "一种纤细的树，拥有大而多肉的根系，能很好地适应炎热的气候。<br><br>按压根部球茎可获得适于饮用的液体，但除非遇上最糟糕的情况，否则不建议那样做。",
+    "TencentChinese": "一种纤细的树，拥有大而多肉的根系，能很好地适应炎热的气候。<br><br>按压根部球茎可获得适于饮用的液体，但除非遇上最糟糕的情况，否则不建议那样做。",
+    "TraditionalChinese": "細瘦的樹木，根系龐大多肉，適應燠熱的氣候。<br><br>鑽開根系的球體能取得可飲用的液體，但情勢極為嚴重時才建議如此下下之策。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.hotplant02.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.hotplant02.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "S9_MYSTERY_ITEM",
+  "Name": {
+    "English": "CONSTRUCTION HISTORY",
+    "SimplifiedChinese": "建造历史",
+    "TraditionalChinese": "建築歷史"
+  },
+  "NameLower": {
+    "English": "Construction History",
+    "SimplifiedChinese": "建造历史",
+    "TraditionalChinese": "建築歷史"
+  },
+  "Subtitle": {
+    "English": "Classified Dossier",
+    "SimplifiedChinese": "机密文件",
+    "TraditionalChinese": "機密檔案"
+  },
+  "Description": {
+    "English": "This report records the history of a planetary facility forming part of the <span class=\"name name-exped\">Utopia Project</span>. Several sections are curiously absent.<br><br>DS 2368 :: <span class=\"name name-stellar\">Facility </span><span class=\"name name-tradeable\">founded</span><span class=\"name name-stellar\">. Plasma deep drill rig operational.</span><br>DS 2384 :: <span class=\"name name-stellar\">Return growth steady at 1%.</span><br>DS 2400 :: <span class=\"name name-stellar\">Overseers querying growth rate.</span><br>DS 2416 :: <span class=\"name name-stellar\">Orbital exp. approved. Station trade booming.</span><br>DS 2432 :: <span class=\"name name-special\">[Redacted]</span> <span class=\"name name-stellar\">hazard encountered.</span><br>DS 2448 :: <span class=\"name name-special\">[Redacted]</span><br>DS 2464 :: <span class=\"name name-stellar\">Utopia Project launched.</span><br>DS 2464 :: <span class=\"name name-stellar\">Facility </span><span class=\"name name-tradeable\">restored</span><span class=\"name name-stellar\">. Plasma deep drill rig operational. Trade routes re-opened.</span><br>DS 2480 :: <span class=\"name name-special\">[Redacted]</span><br>DS 2496 :: <span class=\"name name-stellar\">Facility </span><span class=\"name name-tradeable\">restored</span><span class=\"name name-stellar\">. Plasma deep drill rig operational. Trade routes re-opened.</span><br>DS 2512 :: <span class=\"name name-special\">[Redacted]</span><br><br>The last two entries are repeated over and over, across hundreds of pages.",
+    "SimplifiedChinese": "这份报告记录了作为<span class=\"name name-exped\">乌托邦项目</span>一部分的一处行星设施的历史。令人好奇的是，记录中缺失了多个部分。<br><br>DS2368 :: <span class=\"name name-stellar\">设施</span><span class=\"name name-tradeable\">建立</span><span class=\"name name-stellar\">。等离子深层钻井运作正常。</span><br>DS2384 :: <span class=\"name name-stellar\">回归增长率稳定在1%。</span><br>DS2400 :: <span class=\"name name-stellar\">监督者们对增长率进行了问询。</span><br>DS2416 :: <span class=\"name name-stellar\">轨道层扩建已得到批准。空间站贸易如火如荼。</span><br>DS2432 :: 遭遇<span class=\"name name-special\">[已修订]</span><span class=\"name name-stellar\">危害</span><br>DS2448 :: <span class=\"name name-special\">[已修订]</span><br>DS2464 :: <span class=\"name name-stellar\">启动乌托邦项目。</span><br>DS2464 :: <span class=\"name name-stellar\">设施</span><span class=\"name name-tradeable\">修复</span><span class=\"name name-stellar\">。等离子深层钻井运作正常。贸易路线重启。</span><br>DS2480 :: <span class=\"name name-special\">[已修订]</span><br>DS2496 :: <span class=\"name name-stellar\">设施</span><span class=\"name name-tradeable\">修复</span><span class=\"name name-stellar\">。等离子深层钻井运作正常。贸易路线重启。</span><br>DS2512 :: <span class=\"name name-special\">[已修订]</span><br><br>接下来长达数百页的内容都在反复重复日志中的最后两行条目。",
+    "TraditionalChinese": "此報告記錄著<span class=\"name name-exped\">烏托邦計畫</span>下，一座星球設施的歷史。數個篇章有異常缺失現象。<br><br>DS 2368 :: <span class=\"name name-stellar\">設施</span><span class=\"name name-tradeable\">成立</span><span class=\"name name-stellar\">。電漿深層鑽探設備可正常運行。</span><br>DS 2384 :: <span class=\"name name-stellar\">回報成長率穩定維持在 1%。</span><br>DS 2400 :: <span class=\"name name-stellar\">監督者詢問成長率狀況。</span><br>DS 2416 :: <span class=\"name name-stellar\">已批准軌道擴張，太空站貿易蓬勃發展。</span><br>DS 2432 :: <span class=\"name name-special\">[已刪改]</span><span class=\"name name-stellar\">遭遇風險。</span><br>DS 2448 :: <span class=\"name name-special\">[已刪改]</span><br>DS 2464 :: <span class=\"name name-stellar\">烏托邦計畫啟動。</span><br>DS 2464 :: <span class=\"name name-stellar\">設施</span><span class=\"name name-tradeable\">已修復</span><span class=\"name name-stellar\">。電漿深層鑽探設備可正常運行。貿易路線已重新開啟。</span><br>DS 2480 :: <span class=\"name name-special\">[已刪改]</span><br>DS 2496 :: <span class=\"name name-stellar\">設施</span><span class=\"name name-tradeable\">已修復</span><span class=\"name name-stellar\">。電漿深層探鑽設備可正常運行。貿易路線已重新開啟。</span><br>DS 2512 :: <span class=\"name name-special\">[已刪改]</span><br><br>最後兩項紀錄一再重複，佔據了幾百頁的空間。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/treasureprod.strangebook.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Construction History",
+    "SimplifiedChinese": "寻找建造历史",
+    "TencentChinese": "寻找建造历史",
+    "TraditionalChinese": "找出建築歷史"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

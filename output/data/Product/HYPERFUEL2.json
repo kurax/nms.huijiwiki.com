@@ -1,0 +1,109 @@
+{
+  "ID": "HYPERFUEL2",
+  "Name": {
+    "English": "WARP HYPERCORE",
+    "SimplifiedChinese": "曲速超核心",
+    "TencentChinese": "曲速超核心",
+    "TraditionalChinese": "空間跳躍超核心"
+  },
+  "NameLower": {
+    "English": "Warp Hypercore",
+    "SimplifiedChinese": "曲速超核心",
+    "TencentChinese": "曲速超核心",
+    "TraditionalChinese": "空間跳躍超核心"
+  },
+  "Subtitle": {
+    "English": "Hyperdrive Charging Unit",
+    "SimplifiedChinese": "超光速推进充能单元",
+    "TencentChinese": "超光速推进充能单元",
+    "TraditionalChinese": "超空間驅動器補充單位"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">high-capacity</span> <span class=\"name name-fuel\">antimatter-based fuel</span>, this cell harnesses an internal black hole generator to power <span class=\"name name-technology\">starship hyperdrives</span> across multiple warp jumps.<br><br>Cell walls are specially designed to reflect any reality paradoxes back towards the heart of the unit, where they generate additional power.",
+    "SimplifiedChinese": "一种<span class=\"name name-commodity\">高容量</span><span class=\"name name-fuel\">反物质燃料</span>。这种电池可利用内部黑洞生成器为<span class=\"name name-technology\">星际飞船超光速推进器</span>的多次曲速飞行供能。<br><br>特别设计的电池壁能将任何现实悖论反射回单元中心，并在那里产生额外的能量。",
+    "TencentChinese": "一种<span class=\"name name-commodity\">高容量</span><span class=\"name name-fuel\">反物质燃料</span>。这种电池可利用内部黑洞生成器为<span class=\"name name-technology\">星际飞船超光速推进器</span>的多次曲速飞行供能。<br><br>特别设计的电池壁能将任何现实悖论反射回单元中心，并在那里产生额外的能量。",
+    "TraditionalChinese": "本電池為<span class=\"name name-commodity\">高容量</span><span class=\"name name-fuel\">反物質燃料</span>，利用內部的黑洞能量源，提供<span class=\"name name-technology\">太空船超空間驅動器</span>所需能量，可進行多次空間跳躍。<br><br>電池壁經特殊設計，可將任何現實悖論反射回單位中心，產生更多能量。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 46750,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.warpcell2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 240,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "STORM_CRYSTAL": {
+      "ID": "STORM_CRYSTAL",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.00299673085,
+  "NormalisedValueOffWorld": 0.00299673085,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Warp Hypercore",
+    "SimplifiedChinese": "制作曲速超核心",
+    "TencentChinese": "制作曲速超核心",
+    "TraditionalChinese": "製作空間跳躍超核心"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Warp Hypercore from <span class=\"name name-fuel\">Antimatter</span> and <span class=\"name name-commodity\">Antimatter Housing</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">反物质</span>和<span class=\"name name-commodity\">反物质外壳</span>制作曲速超核心。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">反物质</span>和<span class=\"name name-commodity\">反物质外壳</span>制作曲速超核心。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">反物質</span>和<span class=\"name name-commodity\">反物質容器</span>製作空間跳躍超核心。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "STARCHART_B",
+  "Name": {
+    "English": "PLANETARY CHART",
+    "SimplifiedChinese": "星图",
+    "TencentChinese": "星图",
+    "TraditionalChinese": "星系圖"
+  },
+  "NameLower": {
+    "English": "Planetary Chart",
+    "SimplifiedChinese": "星图",
+    "TencentChinese": "星图",
+    "TraditionalChinese": "星系圖"
+  },
+  "Subtitle": {
+    "English": "Emergency Cartographic Data",
+    "SimplifiedChinese": "紧急制图资料",
+    "TencentChinese": "制图资料",
+    "TraditionalChinese": "緊急地圖資料"
+  },
+  "Description": {
+    "English": "A map of a nearby planet. The coordinates of a <span class=\"name name-technology\">distress signal</span> have been marked.<br><br>Select the map and use <VAL_ON>Plot Route (<span class=\"name name-img\">FE_ALT1</span>)<> to pin the location in your Exosuit display.<br><br>New maps can be gained by exchanging <span class=\"name name-commodity\">Navigation Data</span> with a Space Station Cartographer.",
+    "SimplifiedChinese": "一张附近行星的地图，标有一个<span class=\"name name-technology\">求救信号</span>的坐标。<br><br>选择地图并使用<VAL_ON>规划路线（<span class=\"name name-img\">FE_ALT1</span>）<>以在你的套装屏幕中标记该地点。<br><br>新地图可以通过与空间站制图师交换<span class=\"name name-commodity\">导航数据</span>获取。",
+    "TencentChinese": "一张附近行星的地图，标有一个<span class=\"name name-technology\">求救信号</span>的坐标。<br><br>选择地图并使用规划航线（<span class=\"name name-img\">FE_ALT1</span>）以在你的套装屏幕中固定该地点。<br><br>新地图可以通过与空间站制图师交换<span class=\"name name-commodity\">导航数据</span>获取。",
+    "TraditionalChinese": "附近行星的地圖，已標記一處<span class=\"name name-technology\">求救訊號</span>的座標。<br><br>選取地圖後，使用<VAL_ON>規劃路線功能 (<span class=\"name name-img\">FE_ALT1</span>)<> 即可在你的強化套裝顯示器中釘選該地點。<br><br>與太空站中的地圖學家交換<span class=\"name name-commodity\">導航資料</span>，即可獲得新星系圖。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.distresssignal.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Planetary Chart",
+    "SimplifiedChinese": "寻找星图",
+    "TencentChinese": "寻找星图",
+    "TraditionalChinese": "找出星系圖"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

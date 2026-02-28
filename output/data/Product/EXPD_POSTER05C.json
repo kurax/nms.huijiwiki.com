@@ -1,0 +1,91 @@
+{
+  "ID": "EXPD_POSTER05C",
+  "Name": {
+    "English": "TERRITORIES POSTER",
+    "SimplifiedChinese": "领地海报",
+    "TraditionalChinese": "領土海報"
+  },
+  "NameLower": {
+    "English": "Territories Poster",
+    "SimplifiedChinese": "领地海报",
+    "TraditionalChinese": "領土海報"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive piece of self-adhesive, crease-proof wall art.<br>This adrenaline-fueled poster depicts two noble herd leaders clashing over territory.",
+    "SimplifiedChinese": "一件专属自附着的无褶皱墙壁艺术。<br>让人看着血脉偾张的海报，上面描绘了两只正在为各自领土而战的高贵兽群领袖。",
+    "TraditionalChinese": "獨特的自黏防皺牆面藝術作品。<br>這張令人腎上腺素飆升的海報，描繪了兩位崇高的族群領袖為爭奪領地而爭鬥。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.poster05c.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.poster05c.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255769246,
+  "NormalisedValueOffWorld": 0.0000255769246,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

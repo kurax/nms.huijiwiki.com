@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ALLOY4",
+  "Name": {
+    "English": "5D TORUS",
+    "SimplifiedChinese": "五维环面",
+    "TencentChinese": "五维环面",
+    "TraditionalChinese": "5D 環面"
+  },
+  "NameLower": {
+    "English": "5D Torus",
+    "SimplifiedChinese": "五维环面",
+    "TencentChinese": "五维环面",
+    "TraditionalChinese": "5D 環面"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Construction)",
+    "SimplifiedChinese": "交易货物（建造）",
+    "TencentChinese": "先进构造材料",
+    "TraditionalChinese": "貿易商品 (建造)"
+  },
+  "Description": {
+    "English": "A specially manufactured container of five-dimensional tori.<br><br>Highly specific materials are required to construct shapes in extra dimensions. These tori are used to contain the strong fields generated in the manufacture of <span class=\"name name-special\">scientific components</span>.",
+    "SimplifiedChinese": "一种用来储存五维环面的特殊容器。<br><br>在额外维度铸造物件需要高特异性材料。这些环面可以控制住制造<span class=\"name name-special\">科学构件</span>时产生的强大力场。",
+    "TencentChinese": "一种用来储存五维环面的特殊容器。<br><br>为了在额外维度铸造物件需要高特异性材料。这些环面可以控制住制造<span class=\"name name-special\">科学部件</span>时产生的强力场。",
+    "TraditionalChinese": "特製五維環面容器。<br><br>建構多維形體時，需要此高度限定特製素材。能將製造<span class=\"name name-special\">科學元件</span>所產生的強大力場裝進環面中。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.alloy4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0019230129,
+  "NormalisedValueOffWorld": 0.0019230129,
+  "TradeCategory": "Alloy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.5,
+  "PinObjective": {
+    "English": "Purchase 5D Torus from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买五维环面",
+    "TencentChinese": "从空间站的交易终端购买五维环面",
+    "TraditionalChinese": "從太空站交易終端站購買5D 環面"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

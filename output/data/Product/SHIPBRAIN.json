@@ -1,0 +1,93 @@
+{
+  "ID": "SHIPBRAIN",
+  "Name": {
+    "English": "HYALINE BRAIN",
+    "SimplifiedChinese": "透明质脑部",
+    "TraditionalChinese": "透明大腦"
+  },
+  "NameLower": {
+    "English": "Hyaline Brain",
+    "SimplifiedChinese": "透明质脑部",
+    "TraditionalChinese": "透明大腦"
+  },
+  "Subtitle": {
+    "English": "Sentience Vessel",
+    "SimplifiedChinese": "智慧飞船",
+    "TraditionalChinese": "智慧生物太空船"
+  },
+  "Description": {
+    "English": "The central processing unit of a Sentinel interceptor ship. The circuitry writhes microscopically, constantly rearranging itself as it scans for anomalies.<br><br>A vital component for any entity wishing to construct their own <span class=\"name name-technology\">Pilot Interface</span> for a Sentinel Interceptor.<br><br>Status: <span class=\"name name-fuel\">VOLATILE</span>",
+    "SimplifiedChinese": "一艘护卫拦截机的中央处理单元。在显微镜角度下，上面的电路永远在扭动重组，不停扫描着潜在的异象。<br><br>对任何想为护卫拦截机构建属于自己的<span class=\"name name-technology\">驾驶员接口</span>的实体而言，这都是至关重要的构件。<br><br>状态：<span class=\"name name-fuel\">不稳定</span>",
+    "TraditionalChinese": "巡警攔截艦的中央處理單位。電路微微蠕動，不斷地重新排序，就像是在掃描異常一樣。<br><br>對任何想打造巡警攔截艦<span class=\"name name-technology\">駕駛員介面</span>的人來說，都是不可缺少的元件。<br><br>狀態：<span class=\"name name-fuel\">不穩定</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 35000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.sentinelshipbrain.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00224352581,
+  "NormalisedValueOffWorld": 0.00224352581,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Hyaline Brain",
+    "SimplifiedChinese": "寻找透明质脑部",
+    "TencentChinese": "寻找透明质脑部",
+    "TraditionalChinese": "找出透明大腦"
+  },
+  "PinObjectiveTip": {
+    "English": "Harvest <span class=\"name name-special\">Hyaline Brains</span> from the remains of <span class=\"name name-special\">Sentinel Interceptor Ships</span>, lethal starcraft deployed to maintain law and order in regulated space.<br>Increase your <span class=\"name name-fuel\">Wanted Level</span> in space to engage <span class=\"name name-special\">System Authorities</span>",
+    "SimplifiedChinese": "从<span class=\"name name-special\">护卫拦截机</span>的残骸收获<span class=\"name name-special\">透明质脑部</span>，这是一种专门被部署来维护受管制空间内的法治的致命飞船。<br>在太空中提高你的<span class=\"name name-fuel\">通缉等级</span>以吸引<span class=\"name name-special\">星系当局</span>的注意",
+    "TraditionalChinese": "從當局部署在受管制太空內，維持法律與秩序的致命太空船：<span class=\"name name-special\">巡警攔截艦</span>殘骸採收<span class=\"name name-special\">透明大腦</span>。<br>提高你在太空中的<span class=\"name name-fuel\">通緝等級</span>，即可與<span class=\"name name-special\">星系當局</span>交戰"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

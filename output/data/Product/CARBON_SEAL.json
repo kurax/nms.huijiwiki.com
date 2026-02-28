@@ -1,0 +1,104 @@
+{
+  "ID": "CARBON_SEAL",
+  "Name": {
+    "English": "HERMETIC SEAL",
+    "SimplifiedChinese": "密封剂",
+    "TencentChinese": "密封剂",
+    "TraditionalChinese": "密封劑"
+  },
+  "NameLower": {
+    "English": "Hermetic Seal",
+    "SimplifiedChinese": "密封剂",
+    "TencentChinese": "密封剂",
+    "TraditionalChinese": "密封劑"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A high-performance <span class=\"name name-fuel\">carbon seal</span>, able to withstand both the harsh interstellar environment and the rigors of intensive, high-energy industrial use.<br><br>User is advised to regularly check seal integrity after installation.",
+    "SimplifiedChinese": "高效的<span class=\"name name-fuel\">碳封</span>能够承受严酷的星际环境，以及苛刻的高能工业用途。<br><br>建议使用者在安装后定期检查密封完整性。",
+    "TencentChinese": "高效的<span class=\"name name-fuel\">碳封</span>能够承受严酷的星际环境，以及苛刻的高能工业用途。<br><br>建议使用者在安装后定期检查密封完整性。",
+    "TraditionalChinese": "高效能<span class=\"name name-fuel\">碳封</span>，可承受嚴酷的星際環境，也可用於密集、高能量的精密工業用途。<br><br>建議使用者於安裝後定期檢查密封情形。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.commodity5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Hermetic Seal",
+    "SimplifiedChinese": "制作或购买密封剂",
+    "TencentChinese": "制作或购买密封剂",
+    "TraditionalChinese": "製造或購買密封劑"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft <span class=\"name name-commodity\">Hermetic Seals</span> from <span class=\"name name-fuel\">Condensed Carbon</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Refine Condensed Carbon from <span class=\"name name-fuel\">Carbon</span>. Condensed Carbon can occasionally be found as crystals on planet surfaces.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">浓缩碳</span>制作<span class=\"name name-commodity\">密封剂</span>。打开<span class=\"name name-img\">PRODMENU</span>在空余<span class=\"name name-technology\">库存栏位</span>中制作。<br>使用<span class=\"name name-fuel\">碳</span>精炼制成浓缩碳。浓缩碳偶尔会以结晶形式在星球表面被找到。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">浓缩碳</span>制作<span class=\"name name-commodity\">密封剂</span>。打开<span class=\"name name-img\">PRODMENU</span>在空余<span class=\"name name-technology\">库存栏位</span>中制作。<br>使用<span class=\"name name-fuel\">碳</span>精炼制成浓缩碳。浓缩碳偶尔会以结晶形式在星球表面被找到。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">濃縮碳</span>製作<span class=\"name name-commodity\">密封劑</span>。用 <span class=\"name name-img\">PRODMENU</span> 在空白<span class=\"name name-technology\">道具欄欄位</span>中製作。<br>濃縮碳可由<span class=\"name name-fuel\">碳</span>精製而成。濃縮碳偶爾也會以結晶形式出現在星球表面。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

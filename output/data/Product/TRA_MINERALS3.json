@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_MINERALS3",
+  "Name": {
+    "English": "BROMIDE SALT",
+    "SimplifiedChinese": "溴化盐",
+    "TencentChinese": "溴化盐",
+    "TraditionalChinese": "溴化鹽"
+  },
+  "NameLower": {
+    "English": "Bromide Salt",
+    "SimplifiedChinese": "溴化盐",
+    "TencentChinese": "溴化盐",
+    "TraditionalChinese": "溴化鹽"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Minerals)",
+    "SimplifiedChinese": "交易货物（矿物）",
+    "TencentChinese": "可交易材料",
+    "TraditionalChinese": "貿易商品 (礦物)"
+  },
+  "Description": {
+    "English": "A crate of bromide salt.<br><br>The result of an extensive distillation and evaporation process, the bromide salt vats feed hungry factories in <span class=\"name name-special\">manufacturing</span> systems.",
+    "SimplifiedChinese": "一箱溴化盐。<br><br>作为反复蒸发蒸馏的产品，溴化盐喂养着<span class=\"name name-special\">制造业</span>恒星系中对原料需求量大的工厂。",
+    "TencentChinese": "一箱溴化盐。<br><br>作为反复蒸发蒸馏的产品，溴化盐喂养着<span class=\"name name-special\">制造业</span>恒星系中对原料需求量大的工厂。",
+    "TraditionalChinese": "一箱溴化鹽。<br><br>溴化鹽需經長時間蒸發精餾才可取得。大桶的溴化鹽能提供給<span class=\"name name-special\">製造業</span>星系高用量的工廠使用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.minerals3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000961474434,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "Mineral",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.7,
+  "PinObjective": {
+    "English": "Purchase Bromide Salt from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买溴化盐",
+    "TencentChinese": "从空间站的交易终端购买溴化盐",
+    "TraditionalChinese": "從太空站交易終端站購買溴化鹽"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

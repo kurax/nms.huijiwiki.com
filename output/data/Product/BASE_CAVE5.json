@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_CAVE5",
+  "Name": {
+    "English": "FINGERY DEPOSIT",
+    "SimplifiedChinese": "手指库石笋",
+    "TraditionalChinese": "指狀鐘乳石"
+  },
+  "NameLower": {
+    "English": "Fingery Deposit",
+    "SimplifiedChinese": "手指库石笋",
+    "TraditionalChinese": "指狀鐘乳石"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "This stalagmite was formed by the dripping of cobalt-rich moisture over several millennia. It is eternally cold to the touch, as though the rock recalls the temperature of its home cave.",
+    "SimplifiedChinese": "富含钴的水经过几千年的滴落形成了这根石笋。它的触感永远是冰冷的，仿佛这块石头在回忆故乡洞穴的温度。",
+    "TraditionalChinese": "這種石筍狀鐘乳石，是含鈷水滴落千年所形成的。它摸起來永遠是冰的，就好像岩石會反應生長洞穴的溫度似的。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.caveplant05.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.caveplant05.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CAVE1": {
+      "ID": "CAVE1",
+      "Type": "Substance",
+      "Amount": 5
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

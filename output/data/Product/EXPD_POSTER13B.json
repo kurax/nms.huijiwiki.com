@@ -1,0 +1,91 @@
+{
+  "ID": "EXPD_POSTER13B",
+  "Name": {
+    "English": "ALONE IN THE DARK POSTER",
+    "SimplifiedChinese": "茕茕独立海报",
+    "TraditionalChinese": "孤身在黑暗中海報"
+  },
+  "NameLower": {
+    "English": "Alone in the Dark Poster",
+    "SimplifiedChinese": "茕茕独立海报",
+    "TraditionalChinese": "孤身在黑暗中海報"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive piece of self-adhesive, crease-proof wall art.<br><br>This poster stands a reminder of how impossibly small every Traveler is when compared to the infinite void that surrounds us.",
+    "SimplifiedChinese": "一幅自附着且无褶皱的专属墙壁艺术。<br><br>这张海报将无时不刻提醒你，与无垠的苍穹相比，每一位旅行者都是无比渺小的存在。",
+    "TraditionalChinese": "獨特的自黏防皺牆面藝術作品。<br><br>這張海報不禁令我們思考，周圍的虛空是如此無邊無際，每個旅行者是如此渺小。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.poster13b.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.poster13b.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255869254,
+  "NormalisedValueOffWorld": 0.0000255869254,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

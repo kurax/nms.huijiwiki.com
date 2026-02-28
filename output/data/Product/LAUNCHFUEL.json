@@ -1,0 +1,109 @@
+{
+  "ID": "LAUNCHFUEL",
+  "Name": {
+    "English": "STARSHIP LAUNCH FUEL",
+    "SimplifiedChinese": "飞船发射燃料",
+    "TencentChinese": "飞船发射燃料",
+    "TraditionalChinese": "太空船啟動燃料"
+  },
+  "NameLower": {
+    "English": "Starship Launch Fuel",
+    "SimplifiedChinese": "飞船发射燃料",
+    "TencentChinese": "飞船发射燃料",
+    "TraditionalChinese": "太空船啟動燃料"
+  },
+  "Subtitle": {
+    "English": "Stabilized Di-hydrogen Fuel",
+    "SimplifiedChinese": "稳定二氢燃料",
+    "TencentChinese": "稳定二氢燃料",
+    "TraditionalChinese": "穩定的二氫燃料"
+  },
+  "Description": {
+    "English": "Highly reactive solid-state fuel, required to fuel <span class=\"name name-technology\">Starship Launch Thrusters</span>.<br><br>Created from crystallized <span class=\"name name-technology\">Di-hydrogen</span>, found in blue deposits on all worlds.",
+    "SimplifiedChinese": "高反应性固态燃料，用于为<span class=\"name name-technology\">飞船发射推进器</span>充能。<br><br>可由晶体化的<span class=\"name name-technology\">二氢</span>制成，这种晶体在所有世界的蓝色矿床中均可找到。",
+    "TencentChinese": "高反应性固态燃料，用于为<span class=\"name name-technology\">飞船发射推进器</span>充能。<br><br>可由晶体化的<span class=\"name name-technology\">二氢</span>制成，这种晶体在所有世界的蓝色矿床中均可找到。",
+    "TraditionalChinese": "高活性固態燃料，有了它才能為<span class=\"name name-technology\">太空船啟動推進器</span>補充燃料。<br><br>以<span class=\"name name-technology\">二氫</span>晶體製成，所有世界的藍色資源產地皆能找到。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 450,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.launchfuel.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Fuel",
+  "Type": "Consumable",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 400,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAUNCHSUB": {
+      "ID": "LAUNCHSUB",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 98,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.0000287820531,
+  "NormalisedValueOffWorld": 0.0000287820531,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Starship Launch Fuel",
+    "SimplifiedChinese": "制作飞船发射燃料",
+    "TencentChinese": "制作飞船发射燃料",
+    "TraditionalChinese": "製作太空船啟動燃料"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Starship Launch Fuel from <span class=\"name name-technology\">Di-hydrogen</span> and <span class=\"name name-commodity\">Metal Plating</span><br><span class=\"name name-technology\">Di-hydrogen</span> is found in crystal form on most planets. Locate di-hydrogen crystals with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>).<br>Metal Plating is crafted from <span class=\"name name-earth\">Ferrite Dust</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">二氢</span>和<span class=\"name name-commodity\">金属电镀</span>制作飞船发射燃料<br><span class=\"name name-technology\">二氢</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位二氢晶体。<br>金属电镀由<span class=\"name name-earth\">铁氧体粉末</span>制作而成。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。",
+    "TencentChinese": "使用<span class=\"name name-technology\">二氢</span>和<span class=\"name name-commodity\">金属电镀</span>制作飞船发射燃料<br><span class=\"name name-technology\">二氢</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位二氢晶体。<br>金属电镀由<span class=\"name name-earth\">铁氧体粉末</span>制作而成。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">二氫</span>和<span class=\"name name-commodity\">金屬電鍍</span>製作太空船啟動燃料<br><span class=\"name name-technology\">二氫</span>在大多數行星上以晶體形式出現。使用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）定位二氫結晶。<br>金屬電鍍由<span class=\"name name-earth\">鐵氧體粉塵</span>製作而成。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

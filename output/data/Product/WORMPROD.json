@@ -1,0 +1,89 @@
+{
+  "ID": "WORMPROD",
+  "Name": {
+    "English": "VILE SPAWN",
+    "SimplifiedChinese": "邪恶滋生",
+    "TraditionalChinese": "汙穢之卵"
+  },
+  "NameLower": {
+    "English": "Vile Spawn",
+    "SimplifiedChinese": "邪恶滋生",
+    "TraditionalChinese": "汙穢之卵"
+  },
+  "Subtitle": {
+    "English": "Hungering Embryo",
+    "SimplifiedChinese": "饥饿的胚胎",
+    "TraditionalChinese": "飢渴胚胎"
+  },
+  "Description": {
+    "English": "The fragile embryo of a <span class=\"name name-special\">Hungering Tendril</span>, still dripping with mucal butter. It wails and recoils when touched.<br><br>May be extracted from embryotic sacs with the aid of a <span class=\"name name-technology\">Visceral Synthesiser</span>.",
+    "SimplifiedChinese": "一根<span class=\"name name-special\">饥饿的触手</span>的脆弱胚胎，依旧在不停往外渗着分泌液。一被触碰到就会悲鸣抖动。<br><br>可以借助<span class=\"name name-technology\">脏腑合成器</span>从发育囊中提取这种器官。",
+    "TraditionalChinese": "<span class=\"name name-special\">飢渴觸手</span>的脆弱胚胎，仍在不斷滴流黏液油。當被碰觸時，會慟哭並且蜷縮起來。<br><br>可使用<span class=\"name name-technology\">內臟合成器</span>從胚囊內取出。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/wormspawn.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Vile Spawn",
+    "SimplifiedChinese": "寻找邪恶滋生",
+    "TencentChinese": "寻找邪恶滋生",
+    "TraditionalChinese": "找出汙穢之卵"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,105 @@
+{
+  "ID": "PORTAL_JUICE",
+  "Name": {
+    "English": "ELIXIR OF QUICKSILVER",
+    "SimplifiedChinese": "水银灵药",
+    "TraditionalChinese": "水銀靈藥"
+  },
+  "NameLower": {
+    "English": "Elixir of Quicksilver",
+    "SimplifiedChinese": "水银灵药",
+    "TraditionalChinese": "水銀靈藥"
+  },
+  "Subtitle": {
+    "English": "Otherworldly Concoction",
+    "SimplifiedChinese": "异界混合物",
+    "TraditionalChinese": "超凡混合物"
+  },
+  "Description": {
+    "English": "The liquid's silvered surface forms a perfect mirror, your own face reflected back as you examine it. But the more you stare, the less perfect the mirror becomes. The face in the image moves. It blinks. It -<br><br>Consume the elixir with <span class=\"name name-img\">FE_ALT1</span> to reveal the location of nearby <span class=\"name name-special\">portals</span>.",
+    "SimplifiedChinese": "液体的银色表面形成了一面完美无瑕的镜子。当你审视它时，镜子里映出了你自己的脸。但你越是凝视，镜子中的画面就显得愈加不完美。图像中的面孔在动。它眨着眼睛。它......<br><br>使用<span class=\"name name-img\">FE_ALT1</span>服下灵药以揭示附近<span class=\"name name-special\">传送门</span>的位置。",
+    "TraditionalChinese": "銀色液體表面形成一面完美的鏡子，仔細一看，你看到上面映出自己的臉。但看得越久，這面「鏡子」就越詭異，上面映出的臉會開始移動、閃爍......<br><br>使用 <span class=\"name name-img\">FE_ALT1</span> 服用靈藥，顯現附近的<span class=\"name name-special\">傳送門</span>位置。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.portaljuice.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 40,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 33
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Elixir of Quicksilver",
+    "SimplifiedChinese": "制作水银灵药",
+    "TencentChinese": "制作水银灵药",
+    "TraditionalChinese": "製作水銀靈藥"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": false
+}

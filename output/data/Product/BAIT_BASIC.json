@@ -1,0 +1,94 @@
+{
+  "ID": "BAIT_BASIC",
+  "Name": {
+    "English": "CREATURE PELLETS",
+    "SimplifiedChinese": "生物颗粒",
+    "TencentChinese": "生物颗粒",
+    "TraditionalChinese": "生物顆粒飼料"
+  },
+  "NameLower": {
+    "English": "Creature Pellets",
+    "SimplifiedChinese": "生物颗粒",
+    "TencentChinese": "生物颗粒",
+    "TraditionalChinese": "生物顆粒飼料"
+  },
+  "Subtitle": {
+    "English": "Compressed Nutrients",
+    "SimplifiedChinese": "压缩养分",
+    "TencentChinese": "压缩养分",
+    "TraditionalChinese": "壓縮營養"
+  },
+  "Description": {
+    "English": "Basic <span class=\"name name-stellar\">creature bait</span>. Can be placed directly or accessed via the Quick Menu (<span class=\"name name-img\">QUICK_MENU</span>).<br><br>This bait will attract creatures and cause them to yield <span class=\"name name-fuel\">Faecium</span>. Once a creature has been fed, they may be <span class=\"name name-stellar\">tamed</span> or <span class=\"name name-stellar\">farmed</span> for their produce.<br><br>Dropping bait may calm <span class=\"name name-fuel\">angry</span> creatures.",
+    "SimplifiedChinese": "一种基本<span class=\"name name-stellar\">生物诱饵</span>。可以直接放置或通过快捷菜单（<span class=\"name name-img\">QUICK_MENU</span>）使用。<br><br>这种诱饵会吸引生物并使它们产出<span class=\"name name-fuel\">屎球菌</span>。向生物喂食后，就有机会将其<span class=\"name name-stellar\">驯化</span>或<span class=\"name name-stellar\">养殖</span>，获得收益。<br><br>诱饵还能安抚<span class=\"name name-fuel\">发怒</span>的生物。",
+    "TencentChinese": "一种基本<span class=\"name name-stellar\">生物诱饵</span>。可以直接放置或通过快捷菜单（<span class=\"name name-img\">QUICK_MENU</span>）使用。<br><br>基本诱饵会吸引生物并使它们产出<span class=\"name name-fuel\">屎球菌</span>。<br><br>使用<span class=\"name name-technology\">分析面甲</span>发现特定生物的诱饵偏好。使用特定诱饵后，可采取<span class=\"name name-stellar\">高级生物行动</span>。",
+    "TraditionalChinese": "基本的<span class=\"name name-stellar\">生物誘餌</span>。可以直接置放，或是透過快捷選單（<span class=\"name name-img\">QUICK_MENU</span>）選擇。<br><br>這種誘餌會吸引生物，並且讓牠們分泌<span class=\"name name-fuel\">屎菌</span>。餵食生物後，就有可能<span class=\"name name-stellar\">馴服</span>或<span class=\"name name-stellar\">畜牧</span>為農產品。<br><br>佈下誘餌可能可以安撫<span class=\"name name-fuel\">兇猛</span>的生物。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 20,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/cookingproducts/product.bait.pellets.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.474509805,
+    "B": 0.325490206,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Consumable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 20,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 5,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 60
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000509615566,
+  "NormalisedValueOffWorld": 0.0000509615566,
+  "TradeCategory": "None",
+  "WikiCategory": "Cooking",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.33,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Suit_Energy",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

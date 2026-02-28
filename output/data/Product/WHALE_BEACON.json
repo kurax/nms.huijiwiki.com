@@ -1,0 +1,100 @@
+{
+  "ID": "WHALE_BEACON",
+  "Name": {
+    "English": "DREAM AERIAL",
+    "SimplifiedChinese": "梦境飞行",
+    "TraditionalChinese": "夢境天線"
+  },
+  "NameLower": {
+    "English": "Dream Aerial",
+    "SimplifiedChinese": "梦境飞行",
+    "TraditionalChinese": "夢境天線"
+  },
+  "Subtitle": {
+    "English": "Subconscious Access Device",
+    "SimplifiedChinese": "潜意识访问设备",
+    "TraditionalChinese": "潛意識存取裝置"
+  },
+  "Description": {
+    "English": "A signal receiver and amplifier, tuned to the wavelength of the unconscious mind. It is every color all at once, splitting the surrounding light into a shimmering rainbow.<br><br><span class=\"name name-fuel\">Warning:</span> Carrying this antenna into deep space may attract the attention of <span class=\"name name-special\">cosmic megafauna</span>.",
+    "SimplifiedChinese": "一个信号接收放大器，根据无意识思维的波长进行调整。它同时具有各种颜色，能将周遭的光线分割成一道道闪亮的彩虹。<br><br><span class=\"name name-fuel\">警告</span>：携带此天线进入深空可能会引起<span class=\"name name-special\">宇宙巨型生物的注意</span>。",
+    "TraditionalChinese": "一個訊號接收器和放大器，調諧至無意識思維的波長。它同時呈現出每一種顏色，將周圍的光線分成閃閃發光的彩虹。<br><br><span class=\"name name-fuel\">警告：</span>攜帶此天線進入深空可能會引起<span class=\"name name-special\">宇宙巨型動物</span>的注意。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.whalebeacon.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "FARMPROD8": {
+      "ID": "FARMPROD8",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Dream Aerial",
+    "SimplifiedChinese": "制作梦境飞行",
+    "TencentChinese": "制作梦境飞行",
+    "TraditionalChinese": "製作夢境天線"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

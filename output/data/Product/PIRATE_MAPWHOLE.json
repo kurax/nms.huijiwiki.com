@@ -1,0 +1,105 @@
+{
+  "ID": "PIRATE_MAPWHOLE",
+  "Name": {
+    "English": "PIRATE MAP",
+    "SimplifiedChinese": "海盗地图",
+    "TraditionalChinese": "海盜地圖"
+  },
+  "NameLower": {
+    "English": "Pirate Map",
+    "SimplifiedChinese": "海盗地图",
+    "TraditionalChinese": "海盜地圖"
+  },
+  "Subtitle": {
+    "English": "Illicit Geographic Data",
+    "SimplifiedChinese": "非法的地理数据",
+    "TraditionalChinese": "非法地理資料"
+  },
+  "Description": {
+    "English": "Reassembled <span class=\"name name-commodity\">treasure coordinate data</span>, retrieved from the victims of pirate faction <span class=\"name name-special\">The Blight</span>.",
+    "SimplifiedChinese": "重组的<span class=\"name name-commodity\">宝藏坐标数据</span>，从海盗派系<span class=\"name name-special\">“瘟疫”</span>的受害者身上取回。",
+    "TraditionalChinese": "重新拼湊起來的<span class=\"name name-commodity\">寶藏座標資料</span>，從海盜陣營<span class=\"name name-special\">「毀滅」</span>的受害者身上取得。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 888,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/piratemapwhole.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "PIRATE_MAPPROD0": {
+      "ID": "PIRATE_MAPPROD0",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "PIRATE_MAPPROD1": {
+      "ID": "PIRATE_MAPPROD1",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "PIRATE_MAPPROD2": {
+      "ID": "PIRATE_MAPPROD2",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Pirate Map",
+    "SimplifiedChinese": "制作海盗地图",
+    "TencentChinese": "制作海盗地图",
+    "TraditionalChinese": "製作海盜地圖"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

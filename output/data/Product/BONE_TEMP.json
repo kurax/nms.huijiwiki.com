@@ -1,0 +1,89 @@
+{
+  "ID": "BONE_TEMP",
+  "Name": {
+    "English": "%NAME% EXHIBIT",
+    "SimplifiedChinese": "%NAME%展览品",
+    "TraditionalChinese": "展品 %NAME%"
+  },
+  "NameLower": {
+    "English": "%NAME% EXHIBIT Exhibit",
+    "SimplifiedChinese": "%NAME%展览品展览品",
+    "TraditionalChinese": "展品 展品 %NAME%"
+  },
+  "Subtitle": {
+    "English": "Pre-assembled Fossil Display",
+    "SimplifiedChinese": "预组装的化石展览品",
+    "TraditionalChinese": "預先組裝化石展品"
+  },
+  "Description": {
+    "English": "%CRE_DESC%<br><br>This <span class=\"name name-stellar\">curated fossil exhibit</span> can be sold, traded, or re-deployed within any <span class=\"name name-technology\">habitable base</span>.",
+    "SimplifiedChinese": "%CRE_DESC%<br><br>这份<span class=\"name name-stellar\">化石展览品</span>能够被出售、交易或者重新部署在任意<span class=\"name name-technology\">宜居基地</span>中。",
+    "TraditionalChinese": "%CRE_DESC%<br><br>這個<span class=\"name name-stellar\">精心策劃的化石展覽</span>可以在任何<span class=\"name name-technology\">可居住的基地</span>中出售、交易或重新布置。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fossilbones/fossil.head.an.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "ExhibitBone",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find %NAME% EXHIBIT Exhibit",
+    "SimplifiedChinese": "寻找%NAME%展览品展览品",
+    "TencentChinese": "寻找%NAME%展览品展览品",
+    "TraditionalChinese": "找出展品 展品 %NAME%"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

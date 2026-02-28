@@ -1,0 +1,91 @@
+{
+  "ID": "EXPD_POSTER08C",
+  "Name": {
+    "English": "HEAVY SHIPPING POSTER",
+    "SimplifiedChinese": "重型运输海报",
+    "TraditionalChinese": "重型運輸海報"
+  },
+  "NameLower": {
+    "English": "Heavy Shipping Poster",
+    "SimplifiedChinese": "重型运输海报",
+    "TraditionalChinese": "重型運輸海報"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive piece of self-adhesive, crease-proof wall art.<br><br>This poster is dedicated to the hard-working freighter crews who keep the universe fuelled and fed.",
+    "SimplifiedChinese": "一件专属自附着的无褶皱墙壁艺术。<br><br>这张海报对兢兢业业地确保群星上的生命们吃饱穿暖的货船船员们表示了敬意。",
+    "TraditionalChinese": "獨特的自黏防皺牆面藝術作品。<br><br>這張海報獻給勤奮工作的貨船船員，他們為宇宙提供燃料和食物。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.poster08c.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.poster08c.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.549019635,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255869254,
+  "NormalisedValueOffWorld": 0.0000255869254,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

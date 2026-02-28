@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_STEM1",
+  "Name": {
+    "English": "FRAGILE NEURAL STEM",
+    "SimplifiedChinese": "脆弱的神经干",
+    "TraditionalChinese": "脆弱神經主幹"
+  },
+  "NameLower": {
+    "English": "Fragile Neural Stem",
+    "SimplifiedChinese": "脆弱的神经干",
+    "TraditionalChinese": "脆弱神經主幹"
+  },
+  "Subtitle": {
+    "English": "Fragment of Life",
+    "SimplifiedChinese": "生命的碎片",
+    "TraditionalChinese": "生命碎片"
+  },
+  "Description": {
+    "English": "A delicate web of living tissue, this is the spark that will ignite a new lifeform into existence.<br><br>It requires careful attendance while it matures.",
+    "SimplifiedChinese": "一张精致的活体组织网，是点燃新生命体存在的火花。<br><br>它在成熟期间需细心照料。",
+    "TraditionalChinese": "這個脆弱的網狀活組織會發出閃光，能讓新生命體誕生。<br><br>成長過程需要仔細照顧。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.stem1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.137254909,
+    "B": 0.156862751,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Fragile Neural Stem",
+    "SimplifiedChinese": "寻找脆弱的神经干",
+    "TencentChinese": "寻找脆弱的神经干",
+    "TraditionalChinese": "找出脆弱神經主幹"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

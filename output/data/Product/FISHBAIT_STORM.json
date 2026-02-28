@@ -1,0 +1,105 @@
+{
+  "ID": "FISHBAIT_STORM",
+  "Name": {
+    "English": "MAGPULSE LURE",
+    "SimplifiedChinese": "磁脉冲诱饵",
+    "TraditionalChinese": "磁脈衝假餌"
+  },
+  "NameLower": {
+    "English": "Magpulse Lure",
+    "SimplifiedChinese": "磁脉冲诱饵",
+    "TraditionalChinese": "磁脈衝假餌"
+  },
+  "Subtitle": {
+    "English": "Fishing Bait",
+    "SimplifiedChinese": "鱼饵",
+    "TraditionalChinese": "魚餌"
+  },
+  "Description": {
+    "English": "A specialist <span class=\"name name-stellar\">lure</span>, designed to attract fish that are only active during <span class=\"name name-technology\">storms</span>.<br><br>Locate your <span class=\"name name-technology\">Fishing Rig</span> and begin bait application with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "一份专业<span class=\"name name-stellar\">诱饵</span>，用于吸引仅在<span class=\"name name-technology\">风暴</span>期间活动的鱼类。<br><br>定位你的<span class=\"name name-technology\">渔具</span>并按<span class=\"name name-img\">FE_ALT1</span>开始使用诱饵。",
+    "TraditionalChinese": "專用的<span class=\"name name-stellar\">假餌</span>，可用來吸引只會在<span class=\"name name-technology\">風暴</span>期間活動的魚類。<br><br>找出你的<span class=\"name name-technology\">釣具</span>，然後使用 <span class=\"name name-img\">FE_ALT1</span> 上餌。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 550,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.fishbait.storm.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 50,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 30,
+  "Requirements": {
+    "MAGNET": {
+      "ID": "MAGNET",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 90
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000351923081,
+  "NormalisedValueOffWorld": 0.0000351923081,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Craft Magpulse Lure",
+    "SimplifiedChinese": "制作磁脉冲诱饵",
+    "TencentChinese": "制作磁脉冲诱饵",
+    "TraditionalChinese": "製作磁脈衝假餌"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

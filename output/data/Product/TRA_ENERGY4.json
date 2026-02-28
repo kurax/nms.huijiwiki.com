@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ENERGY4",
+  "Name": {
+    "English": "EXPERIMENTAL POWER FLUID",
+    "SimplifiedChinese": "试验性能源液体",
+    "TencentChinese": "试验性能源液体",
+    "TraditionalChinese": "實驗能量液"
+  },
+  "NameLower": {
+    "English": "Experimental Power Fluid",
+    "SimplifiedChinese": "试验性能源液体",
+    "TencentChinese": "试验性能源液体",
+    "TraditionalChinese": "實驗能量液"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Energy Source)",
+    "SimplifiedChinese": "交易货物（能源）",
+    "TencentChinese": "可交易能源",
+    "TraditionalChinese": "貿易商品 (能量供給源)"
+  },
+  "Description": {
+    "English": "Corrosion-resistant barrels of an experimental power fluid.<br><br>One barrel of this highly volatile concoction is enough to power a space station for weeks on end. Particularly valued by <span class=\"name name-special\">mining</span> economies.",
+    "SimplifiedChinese": "装有试验性能源液体的抗腐蚀桶。<br><br>一桶这种相当不稳定的化合物就能够够满足一个空间站数周的能源需求。<span class=\"name name-special\">采矿</span>型经济体非常看重这种东西。",
+    "TencentChinese": "装有试验性能源液体的抗腐蚀桶。<br><br>一桶这种相当不稳定的化合物就能够够满足一个空间站数周的能源需求。<span class=\"name name-special\">采矿</span>型经济体非常看重这种东西。",
+    "TraditionalChinese": "抗腐蝕桶中裝有實驗能量液。<br><br>此種高揮發性混合物，只要一桶就足夠提供太空站數週的用電。對<span class=\"name name-special\">礦業</span>經濟體特別珍貴。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.energy4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0019230129,
+  "NormalisedValueOffWorld": 0.0019230129,
+  "TradeCategory": "Energy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.5,
+  "PinObjective": {
+    "English": "Purchase Experimental Power Fluid from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买试验性能源液体",
+    "TencentChinese": "从空间站的交易终端购买试验性能源液体",
+    "TraditionalChinese": "從太空站交易終端站購買實驗能量液"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

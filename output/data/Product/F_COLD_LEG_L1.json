@@ -1,0 +1,89 @@
+{
+  "ID": "F_COLD_LEG_L1",
+  "Name": {
+    "English": "ICEBLOOD GULPER",
+    "SimplifiedChinese": "冰血大嘴鱼",
+    "TraditionalChinese": "冰血大嘴鰻"
+  },
+  "NameLower": {
+    "English": "Iceblood Gulper",
+    "SimplifiedChinese": "冰血大嘴鱼",
+    "TraditionalChinese": "冰血大嘴鰻"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"A heart that beats but once a hour, a heart that sees faster life spawn and die, spawn and die, spawn and die...\"",
+    "SimplifiedChinese": "“跳动次数以小时计算的心脏静静地看着无数奔波的生命在出生与死亡中不断轮回......”",
+    "TraditionalChinese": "「每小時只跳一下的心臟，無數生命一而再再而三地在其眼前快速輪迴，誕生、死亡、又誕生、又死亡......。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 150000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product2.fish.xl.3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Iceblood Gulper",
+    "SimplifiedChinese": "寻找冰血大嘴鱼",
+    "TencentChinese": "寻找冰血大嘴鱼",
+    "TraditionalChinese": "找出冰血大嘴鰻"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

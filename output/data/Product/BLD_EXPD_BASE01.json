@@ -1,0 +1,90 @@
+{
+  "ID": "BLD_EXPD_BASE01",
+  "Name": {
+    "English": "PIONEERS EXPEDITION FLAG",
+    "SimplifiedChinese": "先驱远征大旗",
+    "TraditionalChinese": "先鋒探勘旗幟"
+  },
+  "NameLower": {
+    "English": "Pioneers Expedition Flag",
+    "SimplifiedChinese": "先驱远征大旗",
+    "TraditionalChinese": "先鋒探勘旗幟"
+  },
+  "Subtitle": {
+    "English": "Unlockable Decoration",
+    "SimplifiedChinese": "可解锁装饰",
+    "TraditionalChinese": "可解鎖的裝飾"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament.<br>This elaborate, <span class=\"name name-stellar\">gold-fringed flag</span> features a rendition of the iconic Alpha Vector Starship. Plant in a habitable base to commemorate completion of the inaugural <span class=\"name name-stellar\">Expedition</span>, 'Pioneers'.",
+    "SimplifiedChinese": "专属可建造基地装饰。<br>这面华丽的<span class=\"name name-stellar\">金边旗</span>上绘制了标志性的 A 型制导飞船。将这面大旗立在宜居基地内，纪念你完成第一次<span class=\"name name-stellar\">远征</span>，“先驱”。",
+    "TraditionalChinese": "獨特的可建造基地裝飾。<br>作工精緻的<span class=\"name name-stellar\">鑲金旗幟</span>，上面畫的是著名的「A 向量」太空船。將這支旗幟插在可居住的基地，紀念第一次完成<span class=\"name name-stellar\">探險</span>「先鋒」。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.expedition.basepart01.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.expedition.basepart01.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 80
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

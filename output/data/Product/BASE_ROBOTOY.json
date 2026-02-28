@@ -1,0 +1,99 @@
+{
+  "ID": "BASE_ROBOTOY",
+  "Name": {
+    "English": "ROBOTIC COMPANION",
+    "SimplifiedChinese": "机器同伴",
+    "TencentChinese": "机器同伴",
+    "TraditionalChinese": "機器人夥伴"
+  },
+  "NameLower": {
+    "English": "Robotic Companion",
+    "SimplifiedChinese": "机器同伴",
+    "TencentChinese": "机器同伴",
+    "TraditionalChinese": "機器人夥伴"
+  },
+  "Subtitle": {
+    "English": "Personal Drone Valet",
+    "SimplifiedChinese": "私人无人机仆从",
+    "TencentChinese": "私人无人机仆从",
+    "TraditionalChinese": "個人無人機服務員"
+  },
+  "Description": {
+    "English": "A perfectly-programmed and error free drone.<br><br>This miniature robot will be a lively presence in your base, bringing joy, laughter and a constant low-level humming to your home.",
+    "SimplifiedChinese": "一架程序完善、不会出错的无人机。<br><br>这个微型机器人将成为您基地里的活跃分子，给家园带来欢声笑语和低调的嗡嗡声。",
+    "TencentChinese": "一架程序完善、不会出错的无人机。<br><br>这个微型机器人将成为您基地里的活跃分子，给家园带来欢声笑语和低调的嗡嗡声。",
+    "TraditionalChinese": "程式設計無懈可擊的無人機。<br><br>這個微型機器人會是你基地活力十足的夥伴，為你帶來喜悅、歡笑，以及低調的嗡嗡聲。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.robottoy.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.robottoy.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

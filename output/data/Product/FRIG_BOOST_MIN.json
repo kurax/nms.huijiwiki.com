@@ -1,0 +1,104 @@
+{
+  "ID": "FRIG_BOOST_MIN",
+  "Name": {
+    "English": "MINERAL COMPRESSOR",
+    "SimplifiedChinese": "矿物压缩机",
+    "TencentChinese": "矿物压缩机",
+    "TraditionalChinese": "礦物壓縮機"
+  },
+  "NameLower": {
+    "English": "Mineral Compressor",
+    "SimplifiedChinese": "矿物压缩机",
+    "TencentChinese": "矿物压缩机",
+    "TraditionalChinese": "礦物壓縮機"
+  },
+  "Subtitle": {
+    "English": "Consumable Frigate Upgrade",
+    "SimplifiedChinese": "可消耗巡航舰升级",
+    "TencentChinese": "可消耗巡航舰升级",
+    "TraditionalChinese": "消耗型巡防艦升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">temporary frigate upgrade</span> that lasts for one expedition.<br><br>The mineral compressor allows fleet mining crews to liquidize the substances they extract, for both faster processing and easier transportation.",
+    "SimplifiedChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>矿物压缩机能让舰队采矿人员提取的物质液化，以实现更快的处理和更方便的运输。",
+    "TencentChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>矿物压缩机能让舰队采矿人员提取的物质液化，以实现更快的处理和更方便的运输。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">臨時性巡防艦升級</span>，僅能維持一次的探險。<br><br>礦物壓縮機讓艦隊採礦小組能將萃取的物質轉為液體，不僅能加快處理流程，也更方便運輸。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 75000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.frigboost.mining.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "HYDRALIC": {
+      "ID": "HYDRALIC",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00480762869,
+  "NormalisedValueOffWorld": 0.00480762869,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Mineral Compressor",
+    "SimplifiedChinese": "制作或购买矿物压缩机",
+    "TencentChinese": "制作或购买矿物压缩机",
+    "TraditionalChinese": "製造或購買礦物壓縮機"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

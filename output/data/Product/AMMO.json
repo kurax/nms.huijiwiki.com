@@ -1,0 +1,99 @@
+{
+  "ID": "AMMO",
+  "Name": {
+    "English": "PROJECTILE AMMUNITION",
+    "SimplifiedChinese": "炮弹弹药",
+    "TencentChinese": "炮弹弹药",
+    "TraditionalChinese": "射彈彈藥"
+  },
+  "NameLower": {
+    "English": "Projectile Ammunition",
+    "SimplifiedChinese": "炮弹弹药",
+    "TencentChinese": "炮弹弹药",
+    "TraditionalChinese": "射彈彈藥"
+  },
+  "Subtitle": {
+    "English": "Universal Ammo Module",
+    "SimplifiedChinese": "通用弹药模块",
+    "TencentChinese": "通用弹药模块",
+    "TraditionalChinese": "通用彈藥模組"
+  },
+  "Description": {
+    "English": "Advanced munition fragments, constructed to fit Universal Multi-Tool Standard 07/FF1.<br><br>Easily inserted into the <span class=\"name name-technology\">Boltcaster</span>, <span class=\"name name-technology\">Pulse Spitter</span> and <span class=\"name name-technology\">Scatter Blaster</span> via the Multi-Tool clip reloading system.",
+    "SimplifiedChinese": "高级弹药碎片，符合通用多用途工具标准07/FF1。<br><br>可通过多用途工具弹匣装弹系统轻易插入<span class=\"name name-technology\">离子闪电发射器</span>、<span class=\"name name-technology\">脉冲喷射器</span>和<span class=\"name name-technology\">散射爆破器</span>。",
+    "TencentChinese": "高级弹药碎片，符合通用多用途工具标准07/FF1。<br><br>可通过多用途工具弹匣装弹系统轻易插入<span class=\"name name-technology\">离子闪电发射器</span>、<span class=\"name name-technology\">脉冲喷射器</span>和<span class=\"name name-technology\">散射迸裂器</span>。",
+    "TraditionalChinese": "進階彈藥碎片，符合通用工具組標準 07/FF1。<br><br>能輕易透過工具組彈匣填充系統裝入<span class=\"name name-technology\">雷霆砲</span>、<span class=\"name name-technology\">脈衝槍</span>和<span class=\"name name-technology\">雙管霰彈槍</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.ammo.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 1000,
+  "DefaultCraftAmount": 25,
+  "CraftAmountStepSize": 25,
+  "CraftAmountMultiplier": 50,
+  "Requirements": {
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 2
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Projectile Ammunition",
+    "SimplifiedChinese": "制作或购买炮弹弹药",
+    "TencentChinese": "制作或购买炮弹弹药",
+    "TraditionalChinese": "製造或購買射彈彈藥"
+  },
+  "PinObjectiveTip": "UI_PIN_AMMO_OBJ_TIP",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

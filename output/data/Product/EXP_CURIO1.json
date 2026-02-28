@@ -1,0 +1,97 @@
+{
+  "ID": "EXP_CURIO1",
+  "Name": {
+    "English": "KORVAX CASING",
+    "SimplifiedChinese": "科尔瓦克斯外壳",
+    "TencentChinese": "科尔瓦克斯外壳",
+    "TraditionalChinese": "科瓦族頭套"
+  },
+  "NameLower": {
+    "English": "Korvax Casing",
+    "SimplifiedChinese": "科尔瓦克斯外壳",
+    "TencentChinese": "科尔瓦克斯外壳",
+    "TraditionalChinese": "科瓦族頭套"
+  },
+  "Subtitle": {
+    "English": "High value curiosity",
+    "SimplifiedChinese": "高价值古董",
+    "TencentChinese": "高价值古董",
+    "TraditionalChinese": "高等價值珍奇物品"
+  },
+  "Description": {
+    "English": "The metallic shell of a disconnected electronic lifeform that was too distant from its kind to be refreshed with a new entity.<br> <br>Highly prized by all species, not least its own.",
+    "SimplifiedChinese": "断开连接的电子生命体的外壳。由于其距离同类太远，无法接收新的实体。<br> <br>不仅仅是电子生命体种族，其他种族也都视之为珍宝。",
+    "TencentChinese": "断开连接的电子生命体的外壳。由于其距离同类太远，无法接收新的实体。<br> <br>不仅仅是电子生命体种族，其他种族也都视之为珍宝。",
+    "TraditionalChinese": "一個已經斷電的電子生命體金屬外殼，生命體離同類太遠，無法接受新的存在體。<br><br>所有物種均視為珍品，科瓦族本身也不例外。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 22000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.korvaxcasing.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00141019234,
+  "NormalisedValueOffWorld": 0.00141019234,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Korvax Casing",
+    "SimplifiedChinese": "寻找或购买科尔瓦克斯外壳",
+    "TencentChinese": "寻找或购买科尔瓦克斯外壳",
+    "TraditionalChinese": "找出或購買科瓦族頭套"
+  },
+  "PinObjectiveTip": {
+    "English": "The metallic shell of a disconnected electronic lifeform that was too distant from its kind to be refreshed with a new entity. Pilots at Trade Outposts on <TRANS_EXP>Korvax<> worlds may offer Korvax Casings for trade.",
+    "SimplifiedChinese": "断开连接的电子生命体的外壳。由于其距离同类太远，无法接收新的实体。<TRANS_EXP>科尔瓦克斯<>世界上的贸易前哨基站也许能够找到愿意交易科尔瓦克斯外壳的驾驶员。",
+    "TraditionalChinese": "一個已斷線的電子生命體金屬外殼，生命體離同類太遠，無法接受新的存在體。在<TRANS_EXP>科瓦族<>世界貿易基地的駕駛員，或許會提供科瓦族外殼進行交易。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

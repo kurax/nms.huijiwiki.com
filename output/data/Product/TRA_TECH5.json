@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_TECH5",
+  "Name": {
+    "English": "QUANTUM ACCELERATOR",
+    "SimplifiedChinese": "量子加速器",
+    "TencentChinese": "量子加速器",
+    "TraditionalChinese": "量子加速器"
+  },
+  "NameLower": {
+    "English": "Quantum Accelerator",
+    "SimplifiedChinese": "量子加速器",
+    "TencentChinese": "量子加速器",
+    "TraditionalChinese": "量子加速器"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Technology)",
+    "SimplifiedChinese": "交易货物（技术）",
+    "TencentChinese": "技术部件",
+    "TraditionalChinese": "貿易商品 (科技)"
+  },
+  "Description": {
+    "English": "Several large quantum accelerator units.<br> <br> Capable of propelling matter at unmeasurable speeds, these units are particularly important in <span class=\"name name-special\">power generation</span> economies, where they're used to compress the energy stored in high-grade batteries.",
+    "SimplifiedChinese": "数个大型量子加速单元。<br><br>能够将物质加速到无法估量速度的单元，在<span class=\"name name-special\">发电</span>型经济体中有着非常重要的用途，可用于压缩储存在高级电池中的能量。",
+    "TencentChinese": "数个大型量子加速单元。<br><br>能够将物质加速到无法估量速度的单元，在<span class=\"name name-special\">发电</span>型经济体中有着非常重要的用途，它们能够压缩储存在高级电池中的能量。",
+    "TraditionalChinese": "數組大型量子加速設備。<br> <br>能以無法測量的高速推動物質。此種裝置對<span class=\"name name-special\">能源生產</span>經濟體特別重要，能用來壓縮儲存在高級電池內的能量。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.tech5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "Tech",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.4,
+  "PinObjective": {
+    "English": "Purchase Quantum Accelerator from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买量子加速器",
+    "TencentChinese": "从空间站的交易终端购买量子加速器",
+    "TraditionalChinese": "從太空站交易終端站購買量子加速器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

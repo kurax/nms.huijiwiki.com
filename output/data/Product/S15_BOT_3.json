@@ -1,0 +1,89 @@
+{
+  "ID": "S15_BOT_3",
+  "Name": {
+    "English": "MESSAGE IN A BOTTLE",
+    "SimplifiedChinese": "瓶中信",
+    "TraditionalChinese": "瓶中信"
+  },
+  "NameLower": {
+    "English": "Message in a Bottle",
+    "SimplifiedChinese": "瓶中信",
+    "TraditionalChinese": "瓶中信"
+  },
+  "Subtitle": {
+    "English": "Collected Flotsam",
+    "SimplifiedChinese": "收集到的漂浮物",
+    "TraditionalChinese": "一團漂流物"
+  },
+  "Description": {
+    "English": "A sealed bottle, found floating in the water. There appears to be a message from <span class=\"name name-stellar\">the Angler</span> inside.<br><br>Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to <span class=\"name name-stellar\">unseal</span> the bottle and read the message within.",
+    "SimplifiedChinese": "漂浮在水中的密闭瓶子。里面似乎装着<span class=\"name name-stellar\">垂钓者</span>写的信。<br><br>使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><><span class=\"name name-stellar\">打开</span>瓶子并阅读里面的信件。",
+    "TraditionalChinese": "在水中尋獲的密封瓶子，看起來裝著<span class=\"name name-stellar\">垂釣者</span>發出的訊息。<br><br>使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> <span class=\"name name-stellar\">開啟</span>瓶子，並閱讀瓶中的紙條。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product.fish.bottle.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Message in a Bottle",
+    "SimplifiedChinese": "制作瓶中信",
+    "TencentChinese": "制作瓶中信",
+    "TraditionalChinese": "製作瓶中信"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

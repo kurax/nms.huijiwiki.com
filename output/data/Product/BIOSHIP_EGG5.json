@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_EGG5",
+  "Name": {
+    "English": "CRACKING VOID EGG",
+    "SimplifiedChinese": "开裂的虚空蛋",
+    "TraditionalChinese": "碎裂虛空蛋"
+  },
+  "NameLower": {
+    "English": "Cracking Void Egg",
+    "SimplifiedChinese": "开裂的虚空蛋",
+    "TraditionalChinese": "碎裂虛空蛋"
+  },
+  "Subtitle": {
+    "English": "Agitated Curiosity",
+    "SimplifiedChinese": "不安的稀有物",
+    "TraditionalChinese": "躁動的奇珍異寶"
+  },
+  "Description": {
+    "English": "An anomalous egg. Since the encounter with the bizarre deep-space 'creature', its strange music has grown more active, more agitated.<br><br>When touched, conjures a powerful visions of pink and blue, colors seared into the mind of the holder.<br><br>The Hunter <span class=\"name name-img\">SLASH</span> The Reflection <span class=\"name name-img\">SLASH</span> The Hunter <span class=\"name name-img\">SLASH</span> The Spiral of Reality <span class=\"name name-img\">SLASH</span> The Star Over Water<span class=\"name name-img\">SLASH</span> The Ascending Orb <span class=\"name name-img\">SLASH</span> The Obscured Companion <span class=\"name name-img\">SLASH</span> The Hunter <span class=\"name name-img\">SLASH</span> The Lowly Insect <span class=\"name name-img\">SLASH</span> The Anomaly <span class=\"name name-img\">SLASH</span> The Sailor <span class=\"name name-img\">SLASH</span> The Ocean King <span class=\"name name-img\">SLASH</span> EUCLID EUCLID EUCLID",
+    "SimplifiedChinese": "一个异常的蛋。与奇异的深空“生物”相遇后，它的古怪音乐变得更加活跃和不安。<br><br>被触摸时，它会生成一个粉色和蓝色的强大幻象，并将其颜色烙进持有者的脑海。<br><br>猎人<span class=\"name name-img\">SLASH</span>反射<span class=\"name name-img\">SLASH</span>猎人<span class=\"name name-img\">SLASH</span>螺旋现实<span class=\"name name-img\">SLASH</span>水上之星<span class=\"name name-img\">SLASH</span>升起的球体<span class=\"name name-img\">SLASH</span>遮掩的同伴<span class=\"name name-img\">SLASH</span>猎人<span class=\"name name-img\">SLASH</span>低等昆虫<span class=\"name name-img\">SLASH</span>异象<span class=\"name name-img\">SLASH</span>水手<span class=\"name name-img\">SLASH</span>海洋之王<span class=\"name name-img\">SLASH</span>欧几里德欧几里德欧几里德",
+    "TraditionalChinese": "一顆異常的蛋。自從遇見詭異外太空「生物」之後，蛋裡頭傳出的奇怪音樂越來越活躍和躁動。<br><br>觸摸時會出現粉紅色及藍色的強大幻象，映入持有者的腦海中。<br><br>獵人 <span class=\"name name-img\">SLASH</span> 鏡像 <span class=\"name name-img\">SLASH</span> 獵人 <span class=\"name name-img\">SLASH</span> 現實迴旋 <span class=\"name name-img\">SLASH</span> 水上之星 <span class=\"name name-img\">SLASH</span> 上升球 <span class=\"name name-img\">SLASH</span> 朦朧同伴 <span class=\"name name-img\">SLASH</span> 獵人 <span class=\"name name-img\">SLASH</span> 卑微昆蟲 <span class=\"name name-img\">SLASH</span> 異常狀態 <span class=\"name name-img\">SLASH</span> 水手 <span class=\"name name-img\">SLASH</span> 海洋之王 <span class=\"name name-img\">SLASH</span> 歐幾里得 歐幾里得 歐幾里得"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.egg4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Cracking Void Egg",
+    "SimplifiedChinese": "寻找开裂的虚空蛋",
+    "TencentChinese": "寻找开裂的虚空蛋",
+    "TraditionalChinese": "找出碎裂虛空蛋"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

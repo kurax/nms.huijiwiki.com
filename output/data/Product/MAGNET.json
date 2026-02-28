@@ -1,0 +1,105 @@
+{
+  "ID": "MAGNET",
+  "Name": {
+    "English": "MAGNETIC RESONATOR",
+    "SimplifiedChinese": "磁性共振器",
+    "TraditionalChinese": "磁力共振器"
+  },
+  "NameLower": {
+    "English": "Magnetic Resonator",
+    "SimplifiedChinese": "磁性共振器",
+    "TraditionalChinese": "磁力共振器"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "An electromagnetic <span class=\"name name-technology\">frequency oscillator</span>, able to function in a wide-range of conditions thanks to both ferrous and non-ferrous magnetic properties.<br><br>Used in the creation of a wide range of <span class=\"name name-technology\">advanced technologies</span>.",
+    "SimplifiedChinese": "一种电磁<span class=\"name name-technology\">频率振荡器</span>，由于含铁和非含铁的磁性，能够在各种条件下工作。<br><br>可用于创造各种<span class=\"name name-technology\">高级技术</span>。",
+    "TraditionalChinese": "電磁波<span class=\"name name-technology\">頻率震盪器</span>，能夠藉由亞鐵與非亞鐵的磁性，在各種情況下運轉。<br><br>能用來製造各式<span class=\"name name-technology\">先進科技</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6150,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.magnet.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 1.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00039416668,
+  "NormalisedValueOffWorld": 0.00039416668,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Magnetic Resonator",
+    "SimplifiedChinese": "制作磁性共振器",
+    "TencentChinese": "制作磁性共振器",
+    "TraditionalChinese": "製作磁力共振器"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Magnetic Resonator from <span class=\"name name-earth\">Magnetized Ferrite</span> and <span class=\"name name-technology\">Ionized Cobalt</span>. Use a <span class=\"name name-technology\">Refiner</span> to process advanced materials.<br><br><span class=\"name name-technology\">Cobalt</span> is found underground. Locate natural cave entrances. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.<br>Gather <span class=\"name name-earth\">Ferrite</span> from planetary rocks.",
+    "SimplifiedChinese": "用<span class=\"name name-earth\">磁化铁氧体</span>和<span class=\"name name-technology\">离子钴</span>制作磁性共振器。用<span class=\"name name-technology\">精炼机</span>加工高级材料。<br><br><span class=\"name name-technology\">钴</span>能在地下被找到。寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。<br>从行星岩石中收集<span class=\"name name-earth\">铁氧体</span>。",
+    "TraditionalChinese": "將<span class=\"name name-earth\">磁化鐵氧體</span>和<span class=\"name name-technology\">離子化鈷</span>製作成磁力共振器。使用<span class=\"name name-technology\">精製機</span>來處理先進材料。<br><br><span class=\"name name-technology\">鈷</span>能在地底找到。找出天然洞穴入口。<span class=\"name name-red\">警告：</span>許多洞穴內有危險植物。<br><span class=\"name name-earth\">鐵氧體</span>能在星球岩石採集。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

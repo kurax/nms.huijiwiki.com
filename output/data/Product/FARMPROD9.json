@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD9",
+  "Name": {
+    "English": "CIRCUIT BOARD",
+    "SimplifiedChinese": "电路板",
+    "TencentChinese": "电路板",
+    "TraditionalChinese": "電路板"
+  },
+  "NameLower": {
+    "English": "Circuit Board",
+    "SimplifiedChinese": "电路板",
+    "TencentChinese": "电路板",
+    "TraditionalChinese": "電路板"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "Stackable, semi-flexible circuit board made from a highly durable synthetic polymer.<br><br>Crafted from <span class=\"name name-commodity\">Heat Capacitors</span> and <span class=\"name name-technology\">Poly Fiber</span>.",
+    "SimplifiedChinese": "由高耐性合成聚合物制成的可堆叠、可半弯曲的电路板。<br><br>由<span class=\"name name-commodity\">热电容</span>和<span class=\"name name-technology\">聚乙烯纤维</span>制作。",
+    "TencentChinese": "由高耐性合成聚合物制成的可堆叠、可半弯曲的电路板。<br><br>由<span class=\"name name-commodity\">热电容</span>和<span class=\"name name-technology\">聚乙烯纤维</span>制作。",
+    "TraditionalChinese": "可堆疊、半彈性的電路板，以高度耐用的合成聚合物製作而成。<br><br>可使用<span class=\"name name-commodity\">熱能電容器</span>與<span class=\"name name-technology\">聚合纖維</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 916250,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.9.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD4": {
+      "ID": "FARMPROD4",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "FARMPROD5": {
+      "ID": "FARMPROD5",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.02240224,
+  "NormalisedValueOffWorld": 0.02240224,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Circuit Board",
+    "SimplifiedChinese": "制作电路板",
+    "TencentChinese": "制作电路板",
+    "TraditionalChinese": "製作電路板"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-commodity\">Heat Capacitors</span> and <span class=\"name name-commodity\">Poly Fiber</span>.<br>Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.",
+    "SimplifiedChinese": "由<span class=\"name name-commodity\">热电容</span>和<span class=\"name name-commodity\">聚羟乙酸纤维</span>制作而成。<br>在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。",
+    "TencentChinese": "由<span class=\"name name-commodity\">热电容</span>和<span class=\"name name-commodity\">聚羟乙酸纤维</span>制作而成。<br>在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。",
+    "TraditionalChinese": "以<span class=\"name name-commodity\">熱能電容器</span>及<span class=\"name name-commodity\">聚纖維</span>製作。<br>在基地裡借助<span class=\"name name-technology\">科學專家</span>來了解設計圖。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

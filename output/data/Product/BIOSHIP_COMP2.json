@@ -1,0 +1,105 @@
+{
+  "ID": "BIOSHIP_COMP2",
+  "Name": {
+    "English": "PULSATING CORE",
+    "SimplifiedChinese": "搏动的核心",
+    "TraditionalChinese": "脈動核心"
+  },
+  "NameLower": {
+    "English": "Pulsating Core",
+    "SimplifiedChinese": "搏动的核心",
+    "TraditionalChinese": "脈動核心"
+  },
+  "Subtitle": {
+    "English": "Superheated Life Fragment",
+    "SimplifiedChinese": "过热的生命碎片",
+    "TraditionalChinese": "極熱生命碎片"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">biomechanical construct</span>, created to the design of an anonymous host.<br><br>Organic, but aglow with heat and possessing a highly-pressurized inner vessel. This 'device' is part pump, and part accelerated evolutionary chamber.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">生物力学结构</span>，根据匿名宿主的设计创造出来。<br><br>有机但热得发光，且拥有一个高压的内容器。这个“设备”一部分是泵，一部分是加速进化室。",
+    "TraditionalChinese": "根據匿名宿主設計所打造的<span class=\"name name-stellar\">生物力學裝置</span>。<br><br>這項有機裝置散發熾熱的紅光，內部還擁有高壓的脈管。此「裝置」結合泵與加速演化艙。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.biocomp2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "SUNGOLD": {
+      "ID": "SUNGOLD",
+      "Type": "Substance",
+      "Amount": 250
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "CREATURE1": {
+      "ID": "CREATURE1",
+      "Type": "Substance",
+      "Amount": 80
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Pulsating Core",
+    "SimplifiedChinese": "寻找搏动的核心",
+    "TencentChinese": "寻找搏动的核心",
+    "TraditionalChinese": "找出脈動核心"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

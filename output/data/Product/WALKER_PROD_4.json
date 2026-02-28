@@ -1,0 +1,93 @@
+{
+  "ID": "WALKER_PROD_4",
+  "Name": {
+    "English": "RADIANT BRAIN",
+    "SimplifiedChinese": "闪光的脑部",
+    "TraditionalChinese": "光芒閃耀的腦"
+  },
+  "NameLower": {
+    "English": "Radiant Brain",
+    "SimplifiedChinese": "闪光的脑部",
+    "TraditionalChinese": "光芒閃耀的腦"
+  },
+  "Subtitle": {
+    "English": "Anomalous Material",
+    "SimplifiedChinese": "异常材料",
+    "TencentChinese": "异常材料",
+    "TraditionalChinese": "異常材料"
+  },
+  "Description": {
+    "English": "Shifting nanite clusters sewn together with a <span class=\"name name-special\">pugneum filament</span>, this circuit is painfully hot to the touch. The purple light that leaks from within its wiring has softened, as if it has become less hostile.<br><br>Previously embedded within a Sentinel Walker, this semi-organic computer has been altered by both <span class=\"name name-stellar\">Iteration: Tethys</span> and a <span class=\"name name-fuel\">Messenger of the Atlas</span>.",
+    "SimplifiedChinese": "这块电路是通过<span class=\"name name-special\">普茵单纤维</span>连接的纳米星团，摸上去很烫手。线路深处漏出的邪恶紫光已变得柔和，敌意也似乎没有之前那么强烈了。<br><br>原本是一台护卫步行机的内部构件，<span class=\"name name-stellar\">迭代：特提斯</span>与一名<span class=\"name name-fuel\">阿特拉斯的信使</span>已经对这块半有机电脑进行了改造。",
+    "TraditionalChinese": "這塊電路板用<span class=\"name name-special\">搏絲</span>將會變形的奈米機群縫在一起，非常燙且難以觸碰。從其線路中滲透出來的紫色燈光已經減弱，看起來敵意降低許多。<br><br>原本內嵌於巡警步行機中，這台半有機電腦已經被<span class=\"name name-stellar\">迭代：忒堤斯</span>及<span class=\"name name-fuel\">寰宇的使者</span>修改過。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 35000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.walkerbrain4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00224352581,
+  "NormalisedValueOffWorld": 0.00224352581,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Collect Radiant Brain",
+    "SimplifiedChinese": "收集闪光大脑",
+    "TraditionalChinese": "收集光芒閃耀的腦"
+  },
+  "PinObjectiveTip": {
+    "English": "Each day, Iteration: Tethys can provide a <span class=\"name name-special\">Radiant Brain</span> in exchange for a <span class=\"name name-special\">Walker Brain</span>.<br>Meet with Tethys aboard the Space Anomaly.<br>In space, summon the <span class=\"name name-special\">Anomaly</span> from the Quick Menu (<span class=\"name name-img\">QUICK_MENU</span>).",
+    "SimplifiedChinese": "每一天，迭代：特提斯都会提供一个<span class=\"name name-special\">闪光大脑</span>以换取<span class=\"name name-special\">步行机大脑</span>。<br>与特提斯在太空异象上见面。<br>在快捷菜单（<span class=\"name name-img\">QUICK_MENU</span>）中召唤<span class=\"name name-special\">太空异象</span>。",
+    "TraditionalChinese": "迭代：忒堤斯每天可以提供一個<span class=\"name name-special\">光芒閃耀的腦</span>，來交換一個<span class=\"name name-special\">步行機腦</span>。<br>登上太空異常和忒堤斯碰面。<br>身處太空時，你可以從快捷選單 (<span class=\"name name-img\">QUICK_MENU</span>) 叫出<span class=\"name name-special\">異常</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

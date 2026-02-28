@@ -1,0 +1,95 @@
+{
+  "ID": "PURPM_WATER_KEY",
+  "Name": {
+    "English": "REALITY ANCHOR",
+    "SimplifiedChinese": "现实锚点",
+    "TraditionalChinese": "現實錨點"
+  },
+  "NameLower": {
+    "English": "Reality Anchor",
+    "SimplifiedChinese": "现实锚点",
+    "TraditionalChinese": "現實錨點"
+  },
+  "Subtitle": {
+    "English": "Spacetime Tether",
+    "SimplifiedChinese": "时空系带",
+    "TraditionalChinese": "時空繫繩"
+  },
+  "Description": {
+    "English": "A ancient newborn star exists only at the strange intersection points of time and space, where the dissonance is strongest.<br><br>To bind such a place to the rest of reality, a proper <span class=\"name name-special\">anchor</span> is required...",
+    "SimplifiedChinese": "一个来自远古的新生恒星，仅存在时间与空间的奇特交汇点，就在不谐的幅度最强之地。<br><br>如果想要将这个地方与现实绑定在一起，就需要一个合适的<span class=\"name name-special\">锚点</span>......",
+    "TraditionalChinese": "一顆古老的新生恆星僅存在於時間與空間交錯的異常點之上，那裡的不和諧能量最為強烈。<br><br>要將此地與現實的其餘部分連接，則需要一個合適的<span class=\"name name-special\">錨點</span>......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1919,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.2024.purplekey.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "WATERWORLD1": {
+      "ID": "WATERWORLD1",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "PURPLE2": {
+      "ID": "PURPLE2",
+      "Type": "Substance",
+      "Amount": 160
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000122948724,
+  "NormalisedValueOffWorld": 0.000184455144,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "UI_PURPM_WATER_KEY_OBJ",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": false
+}

@@ -1,0 +1,109 @@
+{
+  "ID": "SOUL_ENGINE",
+  "Name": {
+    "English": "SOUL ENGINE",
+    "SimplifiedChinese": "灵魂引擎",
+    "TencentChinese": "灵魂引擎",
+    "TraditionalChinese": "靈魂引擎"
+  },
+  "NameLower": {
+    "English": "Soul Engine",
+    "SimplifiedChinese": "灵魂引擎",
+    "TencentChinese": "灵魂引擎",
+    "TraditionalChinese": "靈魂引擎"
+  },
+  "Subtitle": {
+    "English": "Advanced Crafted Product",
+    "SimplifiedChinese": "先进铸造物",
+    "TencentChinese": "先进铸造物",
+    "TraditionalChinese": "精工改良產品"
+  },
+  "Description": {
+    "English": "A powerful organic computing unit.<br><br>A glitching beat drives this miracle circuit, performing cycle after cycle in an endless, furious loop of calculation.",
+    "SimplifiedChinese": "一种强大的有机计算装置。<br><br>扰动的敲振驱动着这个奇迹般的电路，一环接一环地进行无休止而激烈的计算循环。",
+    "TencentChinese": "一种强大的有机计算装置。<br><br>扰动的敲振驱动着这个奇迹般的电路，一环接一环地进行无休止而激烈的计算循环。",
+    "TraditionalChinese": "一種強大的有機運算裝置。<br><br>某種受干擾的節奏驅動了這種奇蹟電路，其計算迴路的循環永不止息。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/soulengine.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "CLAMPEARL": {
+      "ID": "CLAMPEARL",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "RED2": {
+      "ID": "RED2",
+      "Type": "Substance",
+      "Amount": 120
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Soul Engine",
+    "SimplifiedChinese": "制作灵魂引擎",
+    "TencentChinese": "制作灵魂引擎",
+    "TraditionalChinese": "製作靈魂引擎"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

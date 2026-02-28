@@ -1,0 +1,104 @@
+{
+  "ID": "FRIG_BOOST_TRA",
+  "Name": {
+    "English": "MIND CONTROL DEVICE",
+    "SimplifiedChinese": "心智控制设备",
+    "TencentChinese": "心智控制设备",
+    "TraditionalChinese": "心靈控制器"
+  },
+  "NameLower": {
+    "English": "Mind Control Device",
+    "SimplifiedChinese": "心智控制设备",
+    "TencentChinese": "心智控制设备",
+    "TraditionalChinese": "心靈控制器"
+  },
+  "Subtitle": {
+    "English": "Consumable Frigate Upgrade",
+    "SimplifiedChinese": "可消耗巡航舰升级",
+    "TencentChinese": "可消耗巡航舰升级",
+    "TraditionalChinese": "消耗型巡防艦升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">temporary frigate upgrade</span> that lasts for one expedition.<br><br>The mind control device plugs into the ship's trading and communications systems, allowing the Fleet Commander to gain the upper hand in any negotiation.",
+    "SimplifiedChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>心智控制设备可插入飞船的交易和通信系统，让舰队指挥官在任何谈判中占据上风。",
+    "TencentChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>心智控制设备可插入飞船的交易和通信系统，让舰队指挥官在任何谈判中占据上风。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">臨時性巡防艦升級</span>，僅能維持一次的探險。<br><br>心靈控制器能安裝在太空船貿易與通訊系統，讓艦隊指揮官交涉時位居上風。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 75000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.frigboost.trade.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00480762869,
+  "NormalisedValueOffWorld": 0.00480762869,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Mind Control Device",
+    "SimplifiedChinese": "制作或购买心智控制设备",
+    "TencentChinese": "制作或购买心智控制设备",
+    "TraditionalChinese": "製造或購買心靈控制器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_CURIO1",
+  "Name": {
+    "English": "GEK RELIC",
+    "SimplifiedChinese": "吉克遗物",
+    "TencentChinese": "吉克遗物",
+    "TraditionalChinese": "吉客族遺物"
+  },
+  "NameLower": {
+    "English": "Gek Relic",
+    "SimplifiedChinese": "吉克遗物",
+    "TencentChinese": "吉克遗物",
+    "TraditionalChinese": "吉客族遺物"
+  },
+  "Subtitle": {
+    "English": "Medium value curiosity",
+    "SimplifiedChinese": "中等价值的古董",
+    "TencentChinese": "中等价值的古董",
+    "TraditionalChinese": "中等價值珍奇物品"
+  },
+  "Description": {
+    "English": "A metal statuette of a creature with a coin placed in its beak.<br> <br>Popular with many traders who see it as an emblem of fair commerce and peace.",
+    "SimplifiedChinese": "喙中衔着银币的生物金属雕像。<br><br>深受很多商人喜爱，它们都将其视为贸易与和平的象征。",
+    "TencentChinese": "喙中衔着银币的生物金属雕像。<br><br>深受很多商人喜爱，它们都将其视为贸易与和平的象征。",
+    "TraditionalChinese": "一個生物的小雕像，生物的喙上有一枚銅板。<br><br>這類雕像深受貿易商喜愛，在他們心中是公平交易與和平的象徵。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 23375,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.gekstatue.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00149833341,
+  "NormalisedValueOffWorld": 0.00149833341,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Gek Relic",
+    "SimplifiedChinese": "寻找或购买吉克遗物",
+    "TencentChinese": "寻找或购买吉克遗物",
+    "TraditionalChinese": "找出或購買吉客族遺物"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

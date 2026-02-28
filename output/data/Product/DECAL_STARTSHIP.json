@@ -1,0 +1,91 @@
+{
+  "ID": "DECAL_STARTSHIP",
+  "Name": {
+    "English": "LANDED SHIP DECAL",
+    "SimplifiedChinese": "着陆飞船贴花",
+    "TraditionalChinese": "登陸太空船貼花"
+  },
+  "NameLower": {
+    "English": "Landed Ship Decal",
+    "SimplifiedChinese": "着陆飞船贴花",
+    "TraditionalChinese": "登陸太空船貼花"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive placeable decal, to add flair and decoration to bases.<br>This decal depicts a landed starship, awaiting the return of its pilot.",
+    "SimplifiedChinese": "专属的可放置贴花，可以为你的基地增添风格和美观。<br>此贴花上画有一艘着陆的飞船，正在等待飞行员返回。",
+    "TraditionalChinese": "特殊的可放置貼花，可以裝飾基地，增添個人風格。<br>這片貼花描繪一艘登陸的太空船，正等待著駕駛員的歸來。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.decal16.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.decal16.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000253205217,
+  "NormalisedValueOffWorld": 0.0000253205217,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

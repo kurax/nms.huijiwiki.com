@@ -1,0 +1,109 @@
+{
+  "ID": "ALLOY5",
+  "Name": {
+    "English": "MAGNO-GOLD",
+    "SimplifiedChinese": "镍锰金",
+    "TencentChinese": "镍锰金",
+    "TraditionalChinese": "磁金"
+  },
+  "NameLower": {
+    "English": "Magno-Gold",
+    "SimplifiedChinese": "镍锰金",
+    "TencentChinese": "镍锰金",
+    "TraditionalChinese": "磁金"
+  },
+  "Subtitle": {
+    "English": "Alloy Metal",
+    "SimplifiedChinese": "合金金属",
+    "TencentChinese": "合金金属",
+    "TraditionalChinese": "合金"
+  },
+  "Description": {
+    "English": "Highly prized and lustrous alloy. Popular with traders of all known primary galactic races. Crafted from <span class=\"name name-earth\">Ionized Cobalt</span> and <span class=\"name name-earth\">Phosphorus</span>.<br><br>Easily recognizable by its bright red glow and strong magnetic field.",
+    "SimplifiedChinese": "柔软光亮的珍贵合金，深受所有已知的星系主要种族的商人喜爱。由<span class=\"name name-earth\">离子钴</span>和<span class=\"name name-earth\">磷</span>制作。<br><br>由于散发明亮的红光和强磁场而很容易辨认。",
+    "TencentChinese": "柔软光亮的珍贵合金，深受所有已知的星系主要种族的商人喜爱。由<span class=\"name name-earth\">离子钴</span>和<span class=\"name name-earth\">磷</span>制作。<br><br>由于散发明亮的红光和强磁场而很容易辨认。",
+    "TraditionalChinese": "價值極高、有著豐富光澤的合金。所有主要銀河種族貿易商都十分重視。由<span class=\"name name-earth\">離子化鈷</span>與<span class=\"name name-earth\">磷</span>製造而成。<br><br>明亮的紅色光澤與強烈的磁性，是其特色。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 25000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.metallic.5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "HOT1": {
+      "ID": "HOT1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0.5
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0016025001,
+  "NormalisedValueOffWorld": 0.0016025001,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Magno-Gold",
+    "SimplifiedChinese": "制作或精炼镍锰金",
+    "TencentChinese": "制作或精炼镍锰金",
+    "TraditionalChinese": "製作或精製磁金"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Magno-Gold from <span class=\"name name-earth\">Phosphorus</span> and <span class=\"name name-technology\">Ionized Cobalt</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Phosphorus is found in large deposits on <span class=\"name name-fuel\">scorched planets</span> with an <span class=\"name name-technology\">Analysis Visor</span>.<br>Refine Ionized Cobalt from <span class=\"name name-technology\">Cobalt</span>, which is harvested from <span class=\"name name-technology\">subterranean mineral deposits</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-earth\">磷</span>和<span class=\"name name-technology\">离子钴</span>制作或精炼出镍锰金。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>磷能在<span class=\"name name-fuel\">烧灼星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-technology\">钴</span>中精炼出离子钴，钴能从<span class=\"name name-technology\">水下矿藏</span>中采集到。",
+    "TencentChinese": "使用<span class=\"name name-earth\">磷</span>和<span class=\"name name-technology\">离子钴</span>制作或精炼出镍锰金。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>磷能在<span class=\"name name-fuel\">焦土星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-technology\">钴</span>中精炼出离子钴，钴能从<span class=\"name name-technology\">水下矿藏</span>中采集到。",
+    "TraditionalChinese": "將<span class=\"name name-earth\">磷</span>及<span class=\"name name-technology\">離子化鈷</span>製作或精製成磁金。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>磷可在<span class=\"name name-fuel\">焦土星球</span>的大型資源產地，用<span class=\"name name-technology\">分析護目鏡</span>找到。<br>將<span class=\"name name-technology\">地底礦資源產地</span>所採收的<span class=\"name name-technology\">鈷</span>精製成離子化鈷。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

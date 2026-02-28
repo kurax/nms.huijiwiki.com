@@ -1,0 +1,100 @@
+{
+  "ID": "S10_ATLAS_SEED3",
+  "Name": {
+    "English": "SEED OF WILL",
+    "SimplifiedChinese": "意志之种",
+    "TraditionalChinese": "意志種子"
+  },
+  "NameLower": {
+    "English": "Seed of Will",
+    "SimplifiedChinese": "意志之种",
+    "TraditionalChinese": "意志種子"
+  },
+  "Subtitle": {
+    "English": "Voice of the Wordless Atlas",
+    "SimplifiedChinese": "来自无言的阿特拉斯的声音",
+    "TraditionalChinese": "無聲的寰宇之語"
+  },
+  "Description": {
+    "English": "A seed of creation, a tiny drop of the infinity of the Atlas. A flash of pure light and fury, this seed contains the unsuppressable need to exist.<br><br>Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to <span class=\"name name-special\">resonate</span> the seed, converting its waveform into the audible range.",
+    "SimplifiedChinese": "一枚创造之种，源于阿特拉斯的无垠的渺小一隅。纯粹光芒与愤怒构成的闪光，这枚种子包含着对于“存在”无法遏制的渴望。<br><br>使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>使种子<span class=\"name name-special\">共鸣</span>，并将其中的波形转化为可以听见的频率。",
+    "TraditionalChinese": "創造的種子，一小滴寰宇的無限。閃爍純粹的光與憤怒，這顆種子蘊含著無法壓抑的存在渴望。<br><br>使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 讓種子<span class=\"name name-special\">共振</span>，將其波形轉換為聽得到的頻率範圍。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/atlasseed.6.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "S10_ATLAS_SEED2": {
+      "ID": "S10_ATLAS_SEED2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Seed of Will",
+    "SimplifiedChinese": "制作意志之种",
+    "TencentChinese": "制作意志之种",
+    "TraditionalChinese": "製作意志種子"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

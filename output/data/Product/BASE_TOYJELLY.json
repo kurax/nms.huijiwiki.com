@@ -1,0 +1,95 @@
+{
+  "ID": "BASE_TOYJELLY",
+  "Name": {
+    "English": "WRIGGLING COMPANION",
+    "SimplifiedChinese": "蠕动同伴",
+    "TraditionalChinese": "蠕動同伴"
+  },
+  "NameLower": {
+    "English": "Wriggling Companion",
+    "SimplifiedChinese": "蠕动同伴",
+    "TraditionalChinese": "蠕動同伴"
+  },
+  "Subtitle": {
+    "English": "Betentacled Steward",
+    "SimplifiedChinese": "触手管理员",
+    "TraditionalChinese": "觸手管家"
+  },
+  "Description": {
+    "English": "The captured essence of an abyssal horror, contained for scientific and decorative use.<br><br>The bounding forcefield is of the very highest quality. The companion cannot escape. The companion will not escape. Escape.",
+    "SimplifiedChinese": "所俘获的深渊惧兽之精华，以备科学和装饰之用。<br><br>边界力场质量极高。同伴无法逃跑。同伴不会逃跑。逃跑。",
+    "TraditionalChinese": "深淵懼獸的精華被捕捉後，在此隔離，作為科學與裝飾用途。<br><br>為囚禁同伴，使用最高品質的限制力場。同伴不可能逃跑。同伴絕不會逃跑。逃跑。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.toyjelly.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.toyjelly.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

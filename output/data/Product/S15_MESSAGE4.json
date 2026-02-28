@@ -1,0 +1,89 @@
+{
+  "ID": "S15_MESSAGE4",
+  "Name": {
+    "English": "THE ANGLER'S DIARY",
+    "SimplifiedChinese": "垂钓者的日记",
+    "TraditionalChinese": "垂釣者的日記"
+  },
+  "NameLower": {
+    "English": "The Angler's Diary",
+    "SimplifiedChinese": "垂钓者的日记",
+    "TraditionalChinese": "垂釣者的日記"
+  },
+  "Subtitle": {
+    "English": "Collected Flotsam",
+    "SimplifiedChinese": "收集到的漂浮物",
+    "TraditionalChinese": "一團漂流物"
+  },
+  "Description": {
+    "English": "A scrap of paper recovered from a bottle found bobbling in the water. The message on it reads:<br><br><VAL_ON>\"The fire has faded from my catch's scales, and my dreams have soured. I thrash through the night. My skin itches, damp and clammy. Salt seeps from my pores.<br>It longs to be free. I cannot keep it contained like this. It must be free.<br>I must be free...\"<>",
+    "SimplifiedChinese": "从漂浮在水中的瓶子里找到的一张纸片。上面写着一段内容：<br><br><VAL_ON>“它的鳞片中的火焰已经褪去，我的梦想也随之破灭。在黑夜里，我躁动不安。我感觉自己的皮肤养得要命，全身湿漉漉而且无比粘滑。我感觉盐水正在不断渗入我的体内。<br>它渴望着自由。我不能这样禁锢它。它必须获得自由。<br>我必须获得自由......”<>",
+    "TraditionalChinese": "從在水中載浮載沉的瓶子裡找到了一張紙片，上面寫著以下訊息：<br><br><VAL_ON>「我捕獲的那條魚，牠鱗片上的火焰逐漸熄滅，我的希望變成了絕望。我整夜輾轉反側，皮膚又癢又濕又黏。鹽分從我的毛孔裡滲漏出來。<br>牠渴望自由。我不能繼續這樣控制牠，牠必須獲得自由。<br>我也是......」<>"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "S15_PARTY",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product.fish.message.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft The Angler's Diary",
+    "SimplifiedChinese": "制作垂钓者的日记",
+    "TencentChinese": "制作垂钓者的日记",
+    "TraditionalChinese": "製作垂釣者的日記"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

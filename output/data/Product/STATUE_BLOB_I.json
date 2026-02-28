@@ -1,0 +1,96 @@
+{
+  "ID": "STATUE_BLOB_I",
+  "Name": {
+    "English": "ICE BLOB STATUE",
+    "SimplifiedChinese": "小生物冰雕",
+    "TraditionalChinese": "冰雕黏液雕像"
+  },
+  "NameLower": {
+    "English": "Ice Blob Statue",
+    "SimplifiedChinese": "小生物冰雕",
+    "TraditionalChinese": "冰雕黏液雕像"
+  },
+  "Subtitle": {
+    "English": "Unlockable Decoration",
+    "SimplifiedChinese": "可解锁装饰",
+    "TencentChinese": "可解锁装饰",
+    "TraditionalChinese": "可解鎖的裝飾"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament, sculpted from ice.<br>This statue depicts a primitive ancient creature, sought after by many early explorers.",
+    "SimplifiedChinese": "一件专属的可建造基地装饰，由冰块雕刻而成。<br>此雕像刻画了一只许多探险家都在寻找的原始古代生物。",
+    "TraditionalChinese": "特殊的可建造基地裝飾，用冰塊雕成。<br>這座雕像描繪一隻原始的古代生物，廣受眾多早期探險家的歡迎。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.blob_ice.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.blob_ice.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "PLANT_SNOW": {
+      "ID": "PLANT_SNOW",
+      "Type": "Substance",
+      "Amount": 10
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

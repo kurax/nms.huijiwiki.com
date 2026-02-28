@@ -57,13 +57,12 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
         const name = obj._attributes?.name;
         if (name == null) continue;
         const value = obj._attributes?.value;
-        const id = obj._attributes?._id;
-        if (value === 'TkModelResource') result[`[IGNORED]${name}`] = null;
+        if (['TkModelResource'].includes(value)) result[`[IGNORED]${name}`] = null;
         else if (obj.Property == null) {
             if (name !== 'ID' && typeof value === 'string' && localization.hasOwnProperty(value)) result[name] = getLocalizedValue(result, value);
             else result[name] = value ?? null;
         } else {
-            const field = id ?? name;
+            const field = obj._attributes?._id ?? name;
             // 数组类型
             if (Array.isArray(obj.Property) && obj.Property.every((item: any) => item._attributes?.name === name && typeof item._attributes?._index === 'number')) {
                 result[field] = [];
@@ -77,15 +76,18 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
             // 枚举类型
             const enumTypes = [
                 'GcAlienRace',
+                'GcCorvettePartCategory',
+                'GcFossilCategory',
                 'GcInventoryType',
                 'GcLegality',
                 'GcProceduralTechnologyCategory',
+                'GcProductCategory',
                 'GcRarity',
                 'GcRealitySubstanceCategory',
                 'GcScannerIconTypes',
                 'GcStatsTypes',
-                'GcTechnologyRarity',
                 'GcTechnologyCategory',
+                'GcTechnologyRarity',
                 'GcTradeCategory',
                 'GcWeightingCurve'
             ];
@@ -97,6 +99,10 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
             const textureTypes = ['TkTextureResource'];
             if (textureTypes.includes(value)) {
                 const texture = properties.Filename;
+                if (_.isEmpty(texture)) {
+                    result[field] = null;
+                    continue;
+                }
                 if (icons[texture] != null) result[field] = icons[texture];
                 else {
                     const paths = texture.split('/') as string[];
@@ -156,9 +162,11 @@ const writeTableData = (data: Record<string, any>) => {
     signale.complete(data.template);
 };
 
+const recipes = await processData('NMS_REALITY_GCRECIPETABLE.MXML');
 const substances = await processData('NMS_REALITY_GCSUBSTANCETABLE.MXML');
 const technologies = await processData('NMS_REALITY_GCTECHNOLOGYTABLE.MXML');
 const proceduralTechnologies = await processData('NMS_REALITY_GCPROCEDURALTECHNOLOGYTABLE.MXML');
+const products = await processData('NMS_REALITY_GCPRODUCTTABLE.MXML');
 
 // Procedural Technology 后处理
 for (const id in proceduralTechnologies.table) {
@@ -199,8 +207,9 @@ for (const id in proceduralTechnologies.table) {
 writeTableData(substances);
 writeTableData(technologies);
 writeTableData(proceduralTechnologies);
+writeTableData(products);
 
-fs.writeFileSync(path.join(DATA_DIR, 'proceduralTechnologies.json'), JSON.stringify(proceduralTechnologies.table, null, 2));
+// fs.writeFileSync(path.join(DATA_DIR, 'products.json'), JSON.stringify(products.table, null, 2));
 
 // 图片
 signale.start('Icons');

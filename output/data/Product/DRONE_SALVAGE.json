@@ -1,0 +1,93 @@
+{
+  "ID": "DRONE_SALVAGE",
+  "Name": {
+    "English": "INVERTED MIRROR",
+    "SimplifiedChinese": "反转镜面",
+    "TraditionalChinese": "反轉鏡"
+  },
+  "NameLower": {
+    "English": "Inverted Mirror",
+    "SimplifiedChinese": "反转镜面",
+    "TraditionalChinese": "反轉鏡"
+  },
+  "Subtitle": {
+    "English": "Burning Glassy Remnant",
+    "SimplifiedChinese": "火热的玻璃遗物",
+    "TraditionalChinese": "燃燒玻璃殘骸"
+  },
+  "Description": {
+    "English": "A pane of watchful <span class=\"name name-special\">g l a s s</span>, retrieved from the smoking remains of the corrupted swarm's <span class=\"name name-technology\">Dissonance Resonators</span>. It emits more light than it reflects, casting a faint purple hue on its surroundings.<br><br>Highly sought after for salvage operations, as it can be used to bypass the security systems of key <span class=\"name name-technology\">Sentinel ship technologies</span>.",
+    "SimplifiedChinese": "一面永远凝视着的<span class=\"name name-special\">玻璃</span>，来源于腐化群集浓烟滚滚的残骸中的<span class=\"name name-technology\">不谐共振器</span>。玻璃施放着超出反射量的光芒，因此位于其周遭的一切都被染上了淡淡的紫色。<br><br>此物是各类回收作业人心目中的抢手货，因为它能够被用于破解关键<span class=\"name name-technology\">护卫飞船技术</span>的安全系统。",
+    "TraditionalChinese": "一片警惕戒備的<span class=\"name name-special\">玻 璃</span>，從受腐蝕機群的<span class=\"name name-technology\">不和諧共振器</span>冒煙殘骸中回收而來。這片玻璃散發的光遠比反射還多，在周圍灑落微弱的紫色光芒。<br><br>因為可以用來繞過關鍵<span class=\"name name-technology\">巡警太空船科技</span>的保全系統，在回收行動中廣受歡迎。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 17000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.dronesalvage.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00108967954,
+  "NormalisedValueOffWorld": 0.00108967954,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Inverted Mirror",
+    "SimplifiedChinese": "收集反转镜面",
+    "TencentChinese": "收集反转镜面",
+    "TraditionalChinese": "收集反轉鏡"
+  },
+  "PinObjectiveTip": {
+    "English": "Harvest <span class=\"name name-special\">Inverted Mirrors</span> from the corrupted swarm's <span class=\"name name-technology\">Dissonance Resonators</span>.<br>These foul machines can be found with the Analysis Visor (<span class=\"name name-img\">AIM</span>) on worlds with a corrupted Sentinel presence.",
+    "SimplifiedChinese": "从腐化群集的<span class=\"name name-technology\">不谐共振器</span>收获<span class=\"name name-special\">反转镜面</span>。<br>于存在腐化护卫的世界使用分析面甲（<span class=\"name name-img\">AIM</span>）寻找这些可憎的机器。",
+    "TraditionalChinese": "從受腐蝕機群的<span class=\"name name-technology\">不和諧共振器</span>採收<span class=\"name name-special\">反轉鏡</span>。<br>可以在受腐蝕巡警的世界中，使用分析護目鏡 (<span class=\"name name-img\">AIM</span>) 找到邪惡機器。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "CorruptedMachine",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

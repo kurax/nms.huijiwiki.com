@@ -1,0 +1,100 @@
+{
+  "ID": "STAFF_PART_C",
+  "Name": {
+    "English": "CONCENTRIC TRANSDUCER",
+    "SimplifiedChinese": "同心换能器",
+    "TraditionalChinese": "同心換能器"
+  },
+  "NameLower": {
+    "English": "Concentric Transducer",
+    "SimplifiedChinese": "同心换能器",
+    "TraditionalChinese": "同心換能器"
+  },
+  "Subtitle": {
+    "English": "Voltaic Component",
+    "SimplifiedChinese": "伏打构件",
+    "TraditionalChinese": "伏打元件"
+  },
+  "Description": {
+    "English": "An electrified arrangement of mechanical wheels. Transforms stored energy into beams or propulsion, according to the specifications of weapons and laser attachments.<br><br>One of three core components, this forms the <span class=\"name name-stellar\">head</span> of a traditional Autophage <span class=\"name name-technology\">Voltaic Staff</span>.",
+    "SimplifiedChinese": "由机械轮盘构成的电器件。根据武器以及激光配件的不同规格，能够将储存的武器转化为光束或者是推动力。<br><br>作为三种核心构件之一，此物是传统自噬体<span class=\"name name-technology\">伏打长杖</span>的<span class=\"name name-stellar\">头部</span>。",
+    "TraditionalChinese": "裝有機械輪的導電構造。可根據武器和雷射配件規格，將儲存能量轉化為光束或推進力。<br><br>三個核心元件之一，構成傳統自噬<span class=\"name name-technology\">伏打手杖</span>的<span class=\"name name-stellar\">頭部</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 999,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/staffpartc.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.549019635,
+    "G": 0.294117659,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "COMPOUND5": {
+      "ID": "COMPOUND5",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Concentric Transducer",
+    "SimplifiedChinese": "制作同心换能器",
+    "TencentChinese": "制作同心换能器",
+    "TraditionalChinese": "製作同心換能器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

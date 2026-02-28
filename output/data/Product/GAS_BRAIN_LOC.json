@@ -1,0 +1,100 @@
+{
+  "ID": "GAS_BRAIN_LOC",
+  "Name": {
+    "English": "DEEP-SPACE LURE",
+    "SimplifiedChinese": "深空诱饵",
+    "TraditionalChinese": "深空誘餌"
+  },
+  "NameLower": {
+    "English": "Deep-Space Lure",
+    "SimplifiedChinese": "深空诱饵",
+    "TraditionalChinese": "深空誘餌"
+  },
+  "Subtitle": {
+    "English": "Anomaly Attraction Device",
+    "SimplifiedChinese": "异象引导装置",
+    "TraditionalChinese": "異常吸引裝置"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">single-use</span> device for locating a deep-space <span class=\"name name-special\">Gaseous Sentience</span>. The lure generates an electromagnetic field of an intriguing nature to these highly advanced lifeforms.<br><br>Select the Lure and use Generate Field (<span class=\"name name-img\">FE_ALT1</span>) to begin the location process.",
+    "SimplifiedChinese": "用于定位深空<span class=\"name name-special\">气态智慧生命</span><span class=\"name name-stellar\">一次性</span>装置。诱饵能够生成对这些高度进化生命体十分有吸引力的电磁场。<br><br>选择诱饵并使用生成力场（<span class=\"name name-img\">FE_ALT1</span>）开始定位。",
+    "TraditionalChinese": "一種<span class=\"name name-stellar\">單次使用</span>的裝置，用來尋找深空中的<span class=\"name name-special\">氣體智慧生物</span>。誘餌會產生一個對高度先進的生命體倍具吸引力的電磁力場。<br><br>選擇誘餌並使用產生力場 (<span class=\"name name-img\">FE_ALT1</span>) 開始尋找地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.locator.gaspoi.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.05,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

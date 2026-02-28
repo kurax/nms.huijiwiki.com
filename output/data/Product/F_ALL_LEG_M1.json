@@ -1,0 +1,89 @@
+{
+  "ID": "F_ALL_LEG_M1",
+  "Name": {
+    "English": "GOLDEN JELLYFISH",
+    "SimplifiedChinese": "黄金水母",
+    "TraditionalChinese": "黃金水母"
+  },
+  "NameLower": {
+    "English": "Golden Jellyfish",
+    "SimplifiedChinese": "黄金水母",
+    "TraditionalChinese": "黃金水母"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"Its tentacles that glitter like wisps of golden hair, but sting with the fire of thousand suns.\"",
+    "SimplifiedChinese": "“它的触手像一缕缕金色的头发一样闪闪发光，但被它蛰的时候就像是被一千个太阳灼烧那样火辣辣地疼。“",
+    "TraditionalChinese": "「其觸手宛如一頭閃亮金髮，被螫到卻如同受千顆烈日灼燒。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 100000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product3.fish.jelly.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Golden Jellyfish",
+    "SimplifiedChinese": "寻找黄金水母",
+    "TencentChinese": "寻找黄金水母",
+    "TraditionalChinese": "找出黃金水母"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.35,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

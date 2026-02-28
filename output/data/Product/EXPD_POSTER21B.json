@@ -1,0 +1,91 @@
+{
+  "ID": "EXPD_POSTER21B",
+  "Name": {
+    "English": "GRAVITINO COIL POSTER",
+    "SimplifiedChinese": "引力微子线圈海报",
+    "TraditionalChinese": "伴重力子線圈海報"
+  },
+  "NameLower": {
+    "English": "Gravitino Coil Poster",
+    "SimplifiedChinese": "引力微子线圈海报",
+    "TraditionalChinese": "伴重力子線圈海報"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive piece of self-adhesive, crease-proof wall art.<br><br>Is your home planet overburdened with industrial waste? Troubled by crates and barrels exploding in the night? Looking to earn rewards for responsible disposal? Purchase a <span class=\"name name-technology\">Gravitino Coil</span> today!",
+    "SimplifiedChinese": "一幅独特自粘且防皱的墙壁艺术。<br><br>你的母星是否被工业废料压得喘不过气？夜里箱子和桶子爆炸的噪音是否让你烦恼不已？想要通过负责任的废料处理获得奖励吗？不妨今天就购买一个<span class=\"name name-technology\">引力微子线圈</span>吧！",
+    "TraditionalChinese": "獨特的自黏防皺牆面藝術作品。<br><br>你的主星球是否有著過多的工業廢棄物？夜裡箱子和桶子爆炸是否讓你煩惱不已？想要負責任地處理廢棄物，進而獲得獎勵嗎？立刻購買<span class=\"name name-technology\">伴重力子線圈</span>！"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/expedition.s21.posterb.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.s21.posterb.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255869254,
+  "NormalisedValueOffWorld": 0.0000255869254,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,98 @@
+{
+  "ID": "ALBUMENPEARL",
+  "Name": {
+    "English": "ALBUMEN PEARL",
+    "SimplifiedChinese": "蛋白珍珠",
+    "TencentChinese": "蛋白珍珠",
+    "TraditionalChinese": "蛋白珍珠"
+  },
+  "NameLower": {
+    "English": "Albumen Pearl",
+    "SimplifiedChinese": "蛋白珍珠",
+    "TencentChinese": "蛋白珍珠",
+    "TraditionalChinese": "蛋白珍珠"
+  },
+  "Subtitle": {
+    "English": "Trade commodity",
+    "SimplifiedChinese": "交易商品",
+    "TencentChinese": "交易商品",
+    "TraditionalChinese": "貿易物資"
+  },
+  "Description": {
+    "English": "Gemstone formed over the course of centuries within the egg of a super-incubatory species. Highly ornamental, these gems are themselves living seeds, lucent grains of potential life.<br><br>Can be sold at a <span class=\"name name-technology\">Galactic Trade Terminal</span>.",
+    "SimplifiedChinese": "这种宝石要花几百年的时间才能形成于超级卵生物种的卵中。这些活体种子极具观赏性，是蕴含着潜在生命的透明颗粒。<br><br>可以在<span class=\"name name-technology\">银河交易终端</span>出售。",
+    "TencentChinese": "这种宝石要花几百年的时间才能形成在卵生物种的蛋中。<br><br>极其稀有。",
+    "TraditionalChinese": "自一種超級卵生物種的蛋中，耗時數百年生成的寶石。此種寶石極具裝飾價值，且本身即為有生命的種子，猶如光亮的稻穗一般，生命潛能飽滿。<br><br>可在<span class=\"name name-technology\">銀河交易終端站</span>出售。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 11200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.abumenpearl.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000681987207,
+  "NormalisedValueOffWorld": 0.000681987207,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Find or purchase Albumen Pearl",
+    "SimplifiedChinese": "寻找或购买蛋白珍珠",
+    "TencentChinese": "寻找或购买蛋白珍珠",
+    "TraditionalChinese": "找出或購買蛋白珍珠"
+  },
+  "PinObjectiveTip": {
+    "English": "Collect Albumen Pearl from rare <span class=\"name name-tradeable\">Sentient Plants</span> found occasionally on <span class=\"name name-tradeable\">lush planets</span>.<br><span class=\"name name-fuel\">WARNING:</span> Sentient Plants are monitored by Sentinel forces.",
+    "SimplifiedChinese": "从偶尔能在<span class=\"name name-tradeable\">茂盛星球</span>上找到的<span class=\"name name-tradeable\">意识植物</span>中收集蛋白珍珠。<br><span class=\"name name-fuel\">警告：</span>意识植物通常被护卫部队所监视。",
+    "TencentChinese": "从偶尔能在<span class=\"name name-tradeable\">茂盛星球</span>上找到的<span class=\"name name-tradeable\">意识植物</span>中收集蛋白珍珠。<br><span class=\"name name-fuel\">警告：</span>意识植物通常被护卫部队所监视。",
+    "TraditionalChinese": "從偶爾能在<span class=\"name name-tradeable\">蒼翠星球</span>上找到的罕見<span class=\"name name-tradeable\">感知植物</span>收集蛋白珍珠。<br><span class=\"name name-fuel\">警告：</span>感知植物由巡警部隊所監控。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "Pearl",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "S15_MESSAGE2",
+  "Name": {
+    "English": "THE ANGLER'S DIARY",
+    "SimplifiedChinese": "垂钓者的日记",
+    "TraditionalChinese": "垂釣者的日記"
+  },
+  "NameLower": {
+    "English": "The Angler's Diary",
+    "SimplifiedChinese": "垂钓者的日记",
+    "TraditionalChinese": "垂釣者的日記"
+  },
+  "Subtitle": {
+    "English": "Collected Flotsam",
+    "SimplifiedChinese": "收集到的漂浮物",
+    "TraditionalChinese": "一團漂流物"
+  },
+  "Description": {
+    "English": "A scrap of paper recovered from a bottle found bobbling in the water. The message on it reads:<br><br><VAL_ON>\"I saw it in my dreams last night. Scales like fire and eyes of pure starlight. It sang to me, a song of hope and longing. It wants me to find it, I know it. I must be closing in.\"<br>%PARTY_4%<>",
+    "SimplifiedChinese": "从漂浮在水中的瓶子里找到的一张纸片。上面写着一段内容：<br><br><VAL_ON>“昨天晚上，我在梦里看见它了。像火焰一样的鳞片和由纯粹星光构成的眼睛，它的歌声里充满希望与期待。它想要我去找它，一定是这样。我一定很接近了。”<br>%PARTY_4%<>",
+    "TraditionalChinese": "從在水中載浮載沉的瓶子裡找到了一張紙片，上面寫著以下訊息：<br><br><VAL_ON>「昨晚，我在夢中看見了牠，牠有著火焰一般的鱗片，和如純粹星光般的雙眼。牠對我唱了一首歌，一首充滿希冀與渴求的歌。我知道牠希望我找到牠。我一定已經很接近了。」<br>%PARTY_4%<>"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "S15_PARTY",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product.fish.message.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft The Angler's Diary",
+    "SimplifiedChinese": "制作垂钓者的日记",
+    "TencentChinese": "制作垂钓者的日记",
+    "TraditionalChinese": "製作垂釣者的日記"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

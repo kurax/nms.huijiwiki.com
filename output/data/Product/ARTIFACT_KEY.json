@@ -1,0 +1,93 @@
+{
+  "ID": "ARTIFACT_KEY",
+  "Name": {
+    "English": "ANCIENT KEY",
+    "SimplifiedChinese": "古代的钥匙",
+    "TencentChinese": "古代的钥匙",
+    "TraditionalChinese": "古老鑰匙"
+  },
+  "NameLower": {
+    "English": "Ancient Key",
+    "SimplifiedChinese": "古代的钥匙",
+    "TencentChinese": "古代的钥匙",
+    "TraditionalChinese": "古老鑰匙"
+  },
+  "Subtitle": {
+    "English": "Timeless Artifact",
+    "SimplifiedChinese": "永恒的遗物",
+    "TencentChinese": "永恒的遗物",
+    "TraditionalChinese": "歷久彌新的器物"
+  },
+  "Description": {
+    "English": "A key of some weight, this aged piece of wrought iron must belong in a nearby lock...",
+    "SimplifiedChinese": "一把有些分量的钥匙，这块经过锻造的铁块一定能用来打开附近的某把锁......",
+    "TencentChinese": "一把有些重的钥匙，这块经过锻造的铁块一定属于附近的某把锁......",
+    "TraditionalChinese": "頗有重量的鑰匙。鍛鐵製成的老舊鑰匙，肯定能打開附近的鎖......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/product.ancientkey.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Ancient Key",
+    "SimplifiedChinese": "寻找古代的钥匙",
+    "TencentChinese": "寻找古代的钥匙",
+    "TraditionalChinese": "找出古老鑰匙"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

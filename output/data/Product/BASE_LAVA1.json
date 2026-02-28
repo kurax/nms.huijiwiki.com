@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_LAVA1",
+  "Name": {
+    "English": "IGNEOUS CRYSTAL",
+    "SimplifiedChinese": "似火水晶",
+    "TraditionalChinese": "火成晶"
+  },
+  "NameLower": {
+    "English": "Igneous Crystal",
+    "SimplifiedChinese": "似火水晶",
+    "TraditionalChinese": "火成晶"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A quiet roar sounds from within this natural crystal formation, lava and gas dancing in a perpetual cycle of heating and solidifying. Mesmerising to the eye, but despite the ultrahot core, only slightly warm to the touch.<br><br>Provides decorative landscaping opportunities for bases.",
+    "SimplifiedChinese": "一声几不可闻的啸声自天然形成的晶体中发出，熔岩和气体在不断的加热和凝固循环中变换，宛若一场舞蹈，令人心醉神迷。尽管核心内的热度高到无法令人承受，但表面的触感只是微热。<br><br>可以作为基地的装饰景观。",
+    "TraditionalChinese": "此種天然晶體內部發出微微的低吼聲，是岩漿與蒸氣猶如舞蹈一般，永無止盡的升溫與凝固循環。這番景象引人入迷，但雖然晶體核心極熱，表面卻只是微溫而已。<br><br>可為基地提供景觀美化的機會。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.lavaplant01.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.lavaplant01.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

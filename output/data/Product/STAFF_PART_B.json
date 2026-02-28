@@ -1,0 +1,105 @@
+{
+  "ID": "STAFF_PART_B",
+  "Name": {
+    "English": "ATLANTIDEUM CHAMBER",
+    "SimplifiedChinese": "亚特拉迪姆室",
+    "TraditionalChinese": "亞特蘭提德鋼艙"
+  },
+  "NameLower": {
+    "English": "Atlantideum Chamber",
+    "SimplifiedChinese": "亚特拉迪姆室",
+    "TraditionalChinese": "亞特蘭提德鋼艙"
+  },
+  "Subtitle": {
+    "English": "Voltaic Component",
+    "SimplifiedChinese": "伏打构件",
+    "TraditionalChinese": "伏打元件"
+  },
+  "Description": {
+    "English": "A compact box of circuitry and ethereal crystals, painstakingly wired by hand.<br><br>One of three core components, this forms the <span class=\"name name-stellar\">core</span> of a traditional Autophage <span class=\"name name-technology\">Voltaic Staff</span>.",
+    "SimplifiedChinese": "电路与飘渺水晶构成的小型箱子，费心通过手工制作。<br><br>作为三种核心构件之一，此物是传统自噬体<span class=\"name name-technology\">伏打长杖</span>的<span class=\"name name-stellar\">核心</span>。",
+    "TraditionalChinese": "一個密實的盒子，裡面裝有電路和空靈晶體，手工精心接線而成。<br><br>三個核心元件之一，構成傳統自噬<span class=\"name name-technology\">伏打手杖</span>的<span class=\"name name-stellar\">核心</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 646,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/staffpartb.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.549019635,
+    "G": 0.294117659,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "TECH_COMP": {
+      "ID": "TECH_COMP",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "DRONE_SHARD": {
+      "ID": "DRONE_SHARD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Atlantideum Chamber",
+    "SimplifiedChinese": "制作亚特拉迪姆室",
+    "TencentChinese": "制作亚特拉迪姆室",
+    "TraditionalChinese": "製作亞特蘭提德鋼艙"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

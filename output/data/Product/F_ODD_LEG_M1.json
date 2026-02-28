@@ -1,0 +1,89 @@
+{
+  "ID": "F_ODD_LEG_M1",
+  "Name": {
+    "English": "ATLANTIDIAN CRAB",
+    "SimplifiedChinese": "阿特兰蒂蟹",
+    "TraditionalChinese": "亞特蘭提德蟹"
+  },
+  "NameLower": {
+    "English": "Atlantidian Crab",
+    "SimplifiedChinese": "阿特兰蒂蟹",
+    "TraditionalChinese": "亞特蘭提德蟹"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"Shell and claw of perfect crystal, eyestalks aglow with purple rage; a being displaced from another reality and cast here as crab.\"",
+    "SimplifiedChinese": "“由完美无瑕的水晶构成的外壳与螯，还有闪烁着愤怒紫色的眼柄，来自另一个现实的存在变成了这里的诡异螃蟹。“",
+    "TraditionalChinese": "「外殼和爪子猶如完美的水晶，眼柄散發紫色的憤怒；來自其他現實的生命體，在這裡淪落為螃蟹。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 100000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product5.fish.crab.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Atlantidian Crab",
+    "SimplifiedChinese": "寻找阿特兰蒂蟹",
+    "TencentChinese": "寻找阿特兰蒂蟹",
+    "TraditionalChinese": "找出亞特蘭提德蟹"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.35,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

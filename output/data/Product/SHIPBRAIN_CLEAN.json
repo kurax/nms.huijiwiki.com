@@ -1,0 +1,89 @@
+{
+  "ID": "SHIPBRAIN_CLEAN",
+  "Name": {
+    "English": "HARMONIC BRAIN",
+    "SimplifiedChinese": "谐波脑部",
+    "TraditionalChinese": "和諧大腦"
+  },
+  "NameLower": {
+    "English": "Harmonic Brain",
+    "SimplifiedChinese": "谐波脑部",
+    "TraditionalChinese": "和諧大腦"
+  },
+  "Subtitle": {
+    "English": "Harnessed Sentience",
+    "SimplifiedChinese": "被驯服的智能",
+    "TraditionalChinese": "已駕馭智慧生物"
+  },
+  "Description": {
+    "English": "The central processing unit of a Sentinel interceptor ship. The circuitry appears stable, pulsing with a regular electrical heartbeat. It no longer reacts angrily to my presence.<br><br>Status: <span class=\"name name-tradeable\">DOCILE</span><br><br>Install this unit in a disabled Sentinel ship to unlock its vestigial cockpit and enable <span class=\"name name-stellar\">manual piloting</span>.",
+    "SimplifiedChinese": "一艘护卫拦截机的中央处理单元。电路看似稳定，并且在有规律地脉动着电子心跳。现在它已经不会因为我的存在而强烈反抗。<br><br>状态：<span class=\"name name-tradeable\">温顺</span><br><br>在一艘损毁的护卫飞船安装该单元以解锁飞船已经退化的驾驶舱并开启<span class=\"name name-stellar\">手动驾驶</span>功能。",
+    "TraditionalChinese": "巡警攔截艦的中央處理器。電路看起來很穩定，能聽見規律的電子心跳脈動，不再對我產生激烈的反應。<br><br>狀態：<span class=\"name name-tradeable\">順從</span><br><br>把處理器安裝在癱瘓的巡警太空船上，即可解鎖殘餘駕駛艙，並啟用<span class=\"name name-stellar\">手動駕駛</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 480016,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.sentinelshipbrain.cleaned.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0307701938,
+  "NormalisedValueOffWorld": 0.0307701938,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Harmonic Brain",
+    "SimplifiedChinese": "寻找谐波脑部",
+    "TencentChinese": "寻找谐波脑部",
+    "TraditionalChinese": "找出和諧大腦"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ALLOY1",
+  "Name": {
+    "English": "NANOTUBE CRATE",
+    "SimplifiedChinese": "纳米管箱",
+    "TencentChinese": "纳米管箱",
+    "TraditionalChinese": "奈米管箱"
+  },
+  "NameLower": {
+    "English": "Nanotube Crate",
+    "SimplifiedChinese": "纳米管箱",
+    "TencentChinese": "纳米管箱",
+    "TraditionalChinese": "奈米管箱"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Construction)",
+    "SimplifiedChinese": "交易货物（建造）",
+    "TencentChinese": "先进构造材料",
+    "TraditionalChinese": "貿易商品 (建造)"
+  },
+  "Description": {
+    "English": "A packed crate of carbon nanotubes.<br><br>These tiny but incredibly strong tubes are required in the construction of tiny but incredibly strong <span class=\"name name-special\">scientific components</span>.",
+    "SimplifiedChinese": "一箱碳纳米管。<br><br>这些微小但是异常牢固的导管是建造微小但牢固的<span class=\"name name-special\">科学部件</span>的必需品。",
+    "TencentChinese": "一箱碳纳米管。<br><br>这些微小但是异常牢固的导管是建造微小但牢固的<span class=\"name name-special\">科学部件</span>的必需品。",
+    "TraditionalChinese": "一整箱奈米碳管。<br><br>想製作細小卻無比強韌的<span class=\"name name-special\">科學元件</span>時，就得靠這細小卻無比強韌的碳管。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.alloy1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "Alloy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1.2,
+  "PinObjective": {
+    "English": "Purchase Nanotube Crate from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买纳米管箱",
+    "TencentChinese": "从空间站的交易终端购买纳米管箱",
+    "TraditionalChinese": "從太空站交易終端站購買奈米管箱"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

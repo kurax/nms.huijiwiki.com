@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ALLOY3",
+  "Name": {
+    "English": "OPTICAL SOLVENT",
+    "SimplifiedChinese": "光学溶剂",
+    "TencentChinese": "光学溶剂",
+    "TraditionalChinese": "光學溶劑"
+  },
+  "NameLower": {
+    "English": "Optical Solvent",
+    "SimplifiedChinese": "光学溶剂",
+    "TencentChinese": "光学溶剂",
+    "TraditionalChinese": "光學溶劑"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Construction)",
+    "SimplifiedChinese": "交易货物（建造）",
+    "TencentChinese": "先进构造材料",
+    "TraditionalChinese": "貿易商品 (建造)"
+  },
+  "Description": {
+    "English": "Several bottles of optical solvent.<br><br>The liquid in these bottles is used to wash away surplus light that may otherwise cause decay in <span class=\"name name-special\">scientific components</span>.",
+    "SimplifiedChinese": "数瓶光学溶剂。<br><br>这些瓶子里的液体可以冲刷掉有可能会导致<span class=\"name name-special\">科学部件</span>腐烂的多余光线。",
+    "TencentChinese": "数瓶光学溶剂。<br><br>这些瓶子里的液体可以冲刷掉有可能会导致<span class=\"name name-special\">科学部件</span>腐烂的多余光线。",
+    "TraditionalChinese": "數瓶光學溶劑。<br><br>這幾瓶溶液可用來清洗多餘光線，以防過多光線造成<span class=\"name name-special\">科學元件</span>衰變。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.alloy3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000961474434,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "Alloy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.7,
+  "PinObjective": {
+    "English": "Purchase Optical Solvent from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买光学溶剂",
+    "TencentChinese": "从空间站的交易终端购买光学溶剂",
+    "TraditionalChinese": "從太空站交易終端站購買光學溶劑"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

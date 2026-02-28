@@ -1,0 +1,95 @@
+{
+  "ID": "PIRATE_MAPPROD1",
+  "Name": {
+    "English": "PIRATE MAP FRAGMENT 2 OF 3",
+    "SimplifiedChinese": "海盗地图碎片3片中的第2片",
+    "TraditionalChinese": "海盜地圖碎片 2/3"
+  },
+  "NameLower": {
+    "English": "Pirate Map Fragment 2 of 3",
+    "SimplifiedChinese": "海盗地图碎片3片中的第2片",
+    "TraditionalChinese": "海盜地圖碎片 2/3"
+  },
+  "Subtitle": {
+    "English": "Scrambled Geographic Data",
+    "SimplifiedChinese": "被毁坏的地理数据",
+    "TraditionalChinese": "受干擾的地理資料"
+  },
+  "Description": {
+    "English": "Partial coordinate data, acquired from a <span class=\"name name-stellar\">freighter</span> shot down by pirate faction <span class=\"name name-special\">The Blight</span>. The chart is signed with a snippet of pirate manifesto:<br><br>\"The galactic tunnels belong to the Blight!\"<br><br>The navigational information is corrupted, but appears to be linked to the data acquired from the <span class=\"name name-stellar\">freighter captain</span>.",
+    "SimplifiedChinese": "部分坐标数据，从一艘被海盗派系<span class=\"name name-stellar\">“瘟疫”</span>击落的<span class=\"name name-special\">货运飞船</span>上获得。图表上书写着一句海盗宣言：<br><br>“银河隧道属于瘟疫！”<br><br>导航信息已损坏，但似乎与从<span class=\"name name-stellar\">货船船长</span>获得的数据有关。",
+    "TraditionalChinese": "部分座標資料，從被海盜陣營<span class=\"name name-special\">「毀滅」</span>擊落的<span class=\"name name-stellar\">貨船</span>上取得。該圖表上簽署了一段海盜宣言：<br><br> 「銀河通道是屬於『毀滅』的！」<br><br>導航資訊已損毀，但似乎和從<span class=\"name name-stellar\">貨船船長</span>身上取得的資料有所關聯。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 88,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/piratemap1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 88
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Pirate Map Fragment 2 of 3",
+    "SimplifiedChinese": "制作海盗地图碎片3片中的第2片",
+    "TencentChinese": "制作海盗地图碎片3片中的第2片",
+    "TraditionalChinese": "製作海盜地圖碎片 2/3"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

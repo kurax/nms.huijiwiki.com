@@ -1,0 +1,98 @@
+{
+  "ID": "TECH_COMP",
+  "Name": {
+    "English": "WIRING LOOM",
+    "SimplifiedChinese": "卷线器",
+    "TencentChinese": "卷线器",
+    "TraditionalChinese": "線組電路板"
+  },
+  "NameLower": {
+    "English": "Wiring Loom",
+    "SimplifiedChinese": "卷线器",
+    "TencentChinese": "卷线器",
+    "TraditionalChinese": "線組電路板"
+  },
+  "Subtitle": {
+    "English": "Universal Technology Platform",
+    "SimplifiedChinese": "通用技术平台",
+    "TencentChinese": "通用技术平台",
+    "TraditionalChinese": "宇宙科技平台"
+  },
+  "Description": {
+    "English": "A prefabricated circuit board, designed for flexible use in a large range of <span class=\"name name-technology\">technology components</span>.<br><br>The module features an integrated nanite processor, allowing it to be quickly configured for a wide variety of uses.",
+    "SimplifiedChinese": "一种预制电路板，可灵活应用于各种<span class=\"name name-technology\">技术组件</span>。<br><br>该模块采用集成的纳米处理器，可快速配置用于各种用途。",
+    "TencentChinese": "一种预制电路板，可灵活应用于各种<span class=\"name name-technology\">技术组件</span>。<br><br>该模块采用集成的纳米处理器，可快速配置用于各种用途。",
+    "TraditionalChinese": "現成的電路板，能靈活應用於眾多<span class=\"name name-technology\">科技元件</span>。<br><br>模組內建奈米處理器，能夠快速組態，用途廣泛。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 25000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.techmodule.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0016025001,
+  "NormalisedValueOffWorld": 0.0016025001,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Purchase Wiring Loom from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买卷线器",
+    "TencentChinese": "从空间站的交易终端购买卷线器",
+    "TraditionalChinese": "從太空站交易終端站購買線組電路板"
+  },
+  "PinObjectiveTip": {
+    "English": "Purchase Wiring Loom from the <span class=\"name name-technology\">Trade Terminal</span> found aboard Space Stations or in planetary shops.",
+    "SimplifiedChinese": "从空间站或行星商店里的<span class=\"name name-technology\">交易终端</span>购买卷线器。",
+    "TencentChinese": "从空间站或行星商店里的<span class=\"name name-technology\">交易终端</span>购买卷线器。",
+    "TraditionalChinese": "向太空站或星球商店的<span class=\"name name-technology\">交易終端站</span>購買線組電路板。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,90 @@
+{
+  "ID": "BLD_FLYJAR",
+  "Name": {
+    "English": "BIO-LANTERN",
+    "SimplifiedChinese": "生物灯笼",
+    "TraditionalChinese": "生物燈"
+  },
+  "NameLower": {
+    "English": "Bio-Lantern",
+    "SimplifiedChinese": "生物灯笼",
+    "TraditionalChinese": "生物燈"
+  },
+  "Subtitle": {
+    "English": "Organic Lighting",
+    "SimplifiedChinese": "有机光源",
+    "TraditionalChinese": "有機照明"
+  },
+  "Description": {
+    "English": "A secure biological containment vessel, complete with its own purified internal atmosphere.<br><br>Pre-installed bioluminescent insects provide a soft, flickering light, perfect for those seeking natural lighting for their base.",
+    "SimplifiedChinese": "一个用于存放生命体的密封容器，内部维持着净化过的大气环境。<br><br>预先放置在其中的荧光昆虫能持续散发闪烁的柔和光芒，非常适合用来给基地添加一点自然光源。",
+    "TraditionalChinese": "安全的生化容器，配有獨立的淨化內部氣層。<br><br>事先安置在裡面的昆蟲具生物發光性，能提供閃爍柔光，適合想在基地安裝天然照明的人。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.flyjar.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.flyjar.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

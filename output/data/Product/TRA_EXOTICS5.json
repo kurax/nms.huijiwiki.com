@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_EXOTICS5",
+  "Name": {
+    "English": "NEURAL DUCT",
+    "SimplifiedChinese": "神经导管",
+    "TencentChinese": "神经导管",
+    "TraditionalChinese": "神經導管"
+  },
+  "NameLower": {
+    "English": "Neural Duct",
+    "SimplifiedChinese": "神经导管",
+    "TencentChinese": "神经导管",
+    "TraditionalChinese": "神經導管"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Scientific)",
+    "SimplifiedChinese": "交易货物（科学）",
+    "TencentChinese": "科研原件",
+    "TraditionalChinese": "貿易商品 (科學)"
+  },
+  "Description": {
+    "English": "A box of fresh neural ducts.<br><br>Neural ducts are temporary inserts designed for a brief boost of concentration and productivity. Useful everywhere, these are highly valued in <span class=\"name name-special\">trading</span> economies where competition between workers is fierce.",
+    "SimplifiedChinese": "一盒新鲜的神经导管。<br><br>神经导管是一种临时植入物，能够短暂提升集中力与生产力。哪里都用得到，工作竞争非常激烈的<span class=\"name name-special\">贸易</span>型经济体非常看重这些物品。",
+    "TencentChinese": "一盒新鲜的神经导管。<br><br>神经导管是一种临时植入物，能够短暂提升集中力与生产力。哪里都用得到，工作竞争非常激烈的<span class=\"name name-special\">贸易</span>型经济体非常看重这些物品。",
+    "TraditionalChinese": "一箱新鮮的神經導管。<br><br>插入暫時性神經導管能讓專注力和生產力得到短暫提升。此導管運用廣泛，對同事競爭激烈的<span class=\"name name-special\">商業</span>經濟體更是實用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.exotics5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "Exotic",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.4,
+  "PinObjective": {
+    "English": "Purchase Neural Duct from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买神经导管",
+    "TencentChinese": "从空间站的交易终端购买神经导管",
+    "TraditionalChinese": "從太空站交易終端站購買神經導管"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

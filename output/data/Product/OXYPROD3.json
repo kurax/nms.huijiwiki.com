@@ -1,0 +1,98 @@
+{
+  "ID": "OXYPROD3",
+  "Name": {
+    "English": "SUPEROXIDE CRYSTAL",
+    "SimplifiedChinese": "超氧化物晶体",
+    "TencentChinese": "超氧化物晶体",
+    "TraditionalChinese": "超氧化物結晶"
+  },
+  "NameLower": {
+    "English": "Superoxide Crystal",
+    "SimplifiedChinese": "超氧化物晶体",
+    "TencentChinese": "超氧化物晶体",
+    "TraditionalChinese": "超氧化物結晶"
+  },
+  "Subtitle": {
+    "English": "Concentrated Oxygen Deposit",
+    "SimplifiedChinese": "浓氧沉积",
+    "TencentChinese": "浓氧沉积",
+    "TraditionalChinese": "濃縮氧資源"
+  },
+  "Description": {
+    "English": "A para-magnetic form of Oxygen, this rare substance has much to offer in the production of <span class=\"name name-technology\">advanced technologies</span>. Requires conversion prior to input into Life Support systems. Direct inhalation is NOT recommended.<br><br>Synthesized from <span class=\"name name-fuel\">Oxygen</span>.",
+    "SimplifiedChinese": "作为一种超磁性形式的氧气，这种稀有物质在<span class=\"name name-technology\">高级技术</span>生产中有很广的用途。需要在输入维生系统之前进行转换。  不建议直接吸入。<br><br>从<span class=\"name name-fuel\">氧</span>中合成。",
+    "TencentChinese": "作为一种超磁性形式的氧气，这种稀有物质在<span class=\"name name-technology\">高级技术</span>生产中有很广的用途。需要在输入维生系统之前进行转换。  不建议直接吸入。<br><br>从<span class=\"name name-fuel\">氧</span>中合成。",
+    "TraditionalChinese": "氧的順磁性形態。這種罕見物質在製造<span class=\"name name-technology\">先進科技</span>時很有幫助。須要轉換才能輸入維生系統。不建議直接吸入。<br><br>由<span class=\"name name-fuel\">氧</span>合成而來。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 5100,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.superoxide.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000326859008,
+  "NormalisedValueOffWorld": 0.000326859008,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Superoxide Crystal",
+    "SimplifiedChinese": "收集或精炼超氧化物晶体",
+    "TencentChinese": "收集或精炼超氧化物晶体",
+    "TraditionalChinese": "收集或精製超氧化物結晶"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Superoxide Crystal from <span class=\"name name-fuel\">Oxygen</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Supplies of Superoxide Crystal are very occasionally found inside rare planetary crystals.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">氧气</span>制作或精炼出超氧化物晶体。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>超氧化物晶体偶尔能在稀有的星球晶体中找到。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">氧气</span>制作或精炼出超氧化物晶体。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>超氧化物晶体偶尔能在稀有的星球晶体中找到。",
+    "TraditionalChinese": "將<span class=\"name name-fuel\">氧氣</span>製作或精製成超氧化物結晶。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>超氧化物結晶偶爾能在罕見星球結晶中找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

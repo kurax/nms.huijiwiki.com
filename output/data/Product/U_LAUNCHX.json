@@ -1,0 +1,89 @@
+{
+  "ID": "U_LAUNCHX",
+  "Name": {
+    "English": "SUSPICIOUS LAUNCH THRUSTERS MODULE",
+    "SimplifiedChinese": "可疑的发射推进器模块",
+    "TraditionalChinese": "可疑啟動推進器模組"
+  },
+  "NameLower": {
+    "English": "Suspicious Launch Thrusters Module",
+    "SimplifiedChinese": "可疑的发射推进器模块",
+    "TraditionalChinese": "可疑啟動推進器模組"
+  },
+  "Subtitle": {
+    "English": "Banned Launch Thrusters Upgrade",
+    "SimplifiedChinese": "被封禁的发射推进器升级",
+    "TraditionalChinese": "禁用的啟動推進器升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-special\">black-market modification</span> for the <span class=\"name name-technology\">Starship Launch Thrusters</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">launch efficiency</span> and <span class=\"name name-stellar\">speed</span>.",
+    "SimplifiedChinese": "一项<span class=\"name name-special\">黑市改装</span>，适用于<span class=\"name name-technology\">飞船发射推进器</span>。按<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装流程<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升：<span class=\"name name-stellar\">发射效率</span>和<span class=\"name name-stellar\">速度</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">太空船啟動推進器</span>的<span class=\"name name-special\">黑市改造</span>。用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>開始升級<VAL_ON>安裝程序<>。<br><br>此模組靈活度高，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">啟動效率</span>和<span class=\"name name-stellar\">速度</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 280,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.x.vehicleboost.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000178846167,
+  "NormalisedValueOffWorld": 0.0000178846167,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_LAUNX",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Suspicious Launch Thrusters Module from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买可疑的发射推进器模块",
+    "TencentChinese": "从空间站的交易终端购买可疑的发射推进器模块",
+    "TraditionalChinese": "從太空站交易終端站購買可疑啟動推進器模組"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

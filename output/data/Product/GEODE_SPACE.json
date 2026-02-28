@@ -1,0 +1,93 @@
+{
+  "ID": "GEODE_SPACE",
+  "Name": {
+    "English": "TRITIUM HYPERCLUSTER",
+    "SimplifiedChinese": "超级氚团",
+    "TencentChinese": "超级氚团",
+    "TraditionalChinese": "超氚團"
+  },
+  "NameLower": {
+    "English": "Tritium Hypercluster",
+    "SimplifiedChinese": "超级氚团",
+    "TencentChinese": "超级氚团",
+    "TraditionalChinese": "超氚團"
+  },
+  "Subtitle": {
+    "English": "Energetic Fragment",
+    "SimplifiedChinese": "高能碎片",
+    "TencentChinese": "高能碎片",
+    "TraditionalChinese": "高能碎片"
+  },
+  "Description": {
+    "English": "A shard of pure crystalized <span class=\"name name-exotic\">Tritium</span>.<br><br>Select in the Inventory (<span class=\"name name-img\">INVENTORY</span>) and crack open with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "一块纯净的<span class=\"name name-exotic\">氚</span>结晶。<br><br>在库存（<span class=\"name name-img\">INVENTORY</span>）中选择它，通过<span class=\"name name-img\">FE_ALT1</span>将其打开。",
+    "TencentChinese": "一块纯净的<span class=\"name name-exotic\">氚</span>结晶。<br><br>在库存（<span class=\"name name-img\">INVENTORY</span>）中选择它，通过<span class=\"name name-img\">INTERACT</span>将其打开。",
+    "TraditionalChinese": "一片純<span class=\"name name-exotic\">氚</span>結晶。<br><br>在道具欄（<span class=\"name name-img\">INVENTORY</span>）中選取，再用 <span class=\"name name-img\">FE_ALT1</span> 敲開。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.geode.space.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.05,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Tritium Hypercluster",
+    "SimplifiedChinese": "寻找超级氚团",
+    "TencentChinese": "寻找超级氚团",
+    "TraditionalChinese": "找出超氚團"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

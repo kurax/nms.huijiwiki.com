@@ -1,0 +1,93 @@
+{
+  "ID": "EYEBALL",
+  "Name": {
+    "English": "HYPNOTIC EYE",
+    "SimplifiedChinese": "催眠之眼",
+    "TencentChinese": "催眠之眼",
+    "TraditionalChinese": "催眠之眼"
+  },
+  "NameLower": {
+    "English": "Hypnotic Eye",
+    "SimplifiedChinese": "催眠之眼",
+    "TencentChinese": "催眠之眼",
+    "TraditionalChinese": "催眠之眼"
+  },
+  "Subtitle": {
+    "English": "Horrific Sample",
+    "SimplifiedChinese": "恐怖的样本",
+    "TencentChinese": "可怕的样本",
+    "TraditionalChinese": "恐怖樣本"
+  },
+  "Description": {
+    "English": "The eye is cold, almost frozen, to the touch. Nonetheless, it is impossible to escape the feeling it is somehow still alive.<br><br>Extended exposure is not recommended. Do not stare back into the eye. Do not stare back. Do not stare back.",
+    "SimplifiedChinese": "冰冷的眼睛，甚至有冻结的触摸。尽管如此，仍会有一种它还活着的感觉。<br><br>不建议长期暴露。不要对它进行回视。不要回视。不要回视。",
+    "TencentChinese": "冰冷的眼睛，甚至有冻结的触摸。尽管如此，仍会有一种它还活着的感觉。<br><br>不建议长期暴露。不要对它进行回视。不要回视。不要回视。",
+    "TraditionalChinese": "眼睛摸起來是寒冷的，幾乎像冰塊。然而，卻讓人無法擺脫眼睛似乎還活著的感覺。<br><br>不建議長期接觸。請勿直接回視眼睛。請勿回視。請勿回視。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 60000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.eyeball.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00365378219,
+  "NormalisedValueOffWorld": 0.00365378219,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Gather Hypnotic Eye",
+    "SimplifiedChinese": "收集催眠之眼",
+    "TencentChinese": "收集催眠之眼",
+    "TraditionalChinese": "收集催眠之眼"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "HazardPlant",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Suit_Protection_ColdDrain",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

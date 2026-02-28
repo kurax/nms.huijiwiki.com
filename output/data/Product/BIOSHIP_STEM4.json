@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_STEM4",
+  "Name": {
+    "English": "GROWING SINGULARITY",
+    "SimplifiedChinese": "成长的奇点",
+    "TraditionalChinese": "生長奇異點"
+  },
+  "NameLower": {
+    "English": "Growing Singularity",
+    "SimplifiedChinese": "成长的奇点",
+    "TraditionalChinese": "生長奇異點"
+  },
+  "Subtitle": {
+    "English": "Fragile Breath",
+    "SimplifiedChinese": "脆弱的呼吸",
+    "TraditionalChinese": "脆弱氣息"
+  },
+  "Description": {
+    "English": "A slow knitting together of flesh, neurons and antimatter. The way this mind experiences the universe is beyond any imagining.<br><br>It requires careful attendance while it matures.",
+    "SimplifiedChinese": "肉、神经元和反物质被缓慢地编织在一起。这个意识体验宇宙的方式超出了任何想象。<br><br>它在成熟期间需细心照料。",
+    "TraditionalChinese": "由肌肉、神經元及反物質緩慢交錯生長而成。這種心智體驗宇宙的方式超乎想像。<br><br>成長過程需要仔細照顧。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.stem4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.137254909,
+    "B": 0.156862751,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Growing Singularity",
+    "SimplifiedChinese": "寻找成长的奇点",
+    "TencentChinese": "寻找成长的奇点",
+    "TraditionalChinese": "找出生長奇異點"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

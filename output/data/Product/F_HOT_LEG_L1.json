@@ -1,0 +1,89 @@
+{
+  "ID": "F_HOT_LEG_L1",
+  "Name": {
+    "English": "JELLY OF THE VEIL",
+    "SimplifiedChinese": "面纱水母",
+    "TraditionalChinese": "面紗水母"
+  },
+  "NameLower": {
+    "English": "Jelly of the Veil",
+    "SimplifiedChinese": "面纱水母",
+    "TraditionalChinese": "面紗水母"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"A dark cloud follows this creature, and dreams of doom await all those who touch it.\"",
+    "SimplifiedChinese": "“乌云永远与它如影随形，触碰这个生物的人都将面临厄运之梦。”",
+    "TraditionalChinese": "「這個生物被黑霧壟罩，任何人一旦輕輕一碰，就會陷入末日般的夢魘。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 150000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product5.fish.jelly.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Jelly of the Veil",
+    "SimplifiedChinese": "寻找面纱水母",
+    "TencentChinese": "寻找面纱水母",
+    "TraditionalChinese": "找出面紗水母"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

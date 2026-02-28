@@ -1,0 +1,93 @@
+{
+  "ID": "ATLAS_STONE",
+  "Name": {
+    "English": "ATLAS STONE",
+    "SimplifiedChinese": "阿特拉斯之石",
+    "TencentChinese": "阿特拉斯之石",
+    "TraditionalChinese": "寰宇石"
+  },
+  "NameLower": {
+    "English": "Atlas Stone",
+    "SimplifiedChinese": "阿特拉斯之石",
+    "TencentChinese": "阿特拉斯之石",
+    "TraditionalChinese": "寰宇石"
+  },
+  "Subtitle": {
+    "English": "Very high value curiosity",
+    "SimplifiedChinese": "价值连城的古董",
+    "TencentChinese": "价值连城的古董",
+    "TraditionalChinese": "極高等價值珍奇物品"
+  },
+  "Description": {
+    "English": "A spherical gem that seems to pulsate with red light from its center.<br> <br>An extremely rare item often associated with ancient monolithic sites.",
+    "SimplifiedChinese": "中心似乎发着红光的球形宝石。<br><br>这种稀世珍宝通常和古代石碑遗址有关联。",
+    "TencentChinese": "中心似乎发着红光的球形宝石。<br><br>这种稀世珍宝通常和古代石碑遗址有关联。",
+    "TraditionalChinese": "一個圓球狀寶石，中心似乎閃著紅光。<br><br>非常罕見的物品，一般看見會聯想到古老巨石地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 68750,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.atlasstone.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.474509805,
+    "B": 0.31764707,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 40,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00440698769,
+  "NormalisedValueOffWorld": 0.00440698769,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Atlas Stone",
+    "SimplifiedChinese": "寻找阿特拉斯之石",
+    "TencentChinese": "寻找阿特拉斯之石",
+    "TraditionalChinese": "找出寰宇石"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

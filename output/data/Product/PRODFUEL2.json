@@ -1,0 +1,109 @@
+{
+  "ID": "PRODFUEL2",
+  "Name": {
+    "English": "LIFE SUPPORT GEL",
+    "SimplifiedChinese": "维生凝胶",
+    "TencentChinese": "维生凝胶",
+    "TraditionalChinese": "維生膠"
+  },
+  "NameLower": {
+    "English": "Life Support Gel",
+    "SimplifiedChinese": "维生凝胶",
+    "TencentChinese": "维生凝胶",
+    "TraditionalChinese": "維生膠"
+  },
+  "Subtitle": {
+    "English": "Portable Life Support Power",
+    "SimplifiedChinese": "便携式维生系统能量",
+    "TencentChinese": "便携式维生系统能量",
+    "TraditionalChinese": "可攜式維生系統能量"
+  },
+  "Description": {
+    "English": "Emergency <span class=\"name name-fuel\">life support fuel</span>.<br><br>Synthesized from <span class=\"name name-technology\">rocket fuel crystals</span> and <span class=\"name name-fuel\">carbon</span>, this gel offers a temporary boost to life support systems. Long-term impact on user's lungs is currently unknown.",
+    "SimplifiedChinese": "紧急<span class=\"name name-fuel\">维生凝胶</span>。<br><br>这种凝胶从<span class=\"name name-technology\">火箭燃料水晶</span>和<span class=\"name name-fuel\">碳</span>中合成，可以为维生系统提供暂时的加持。目前还不知道对使用者肺部的长期影响。",
+    "TencentChinese": "紧急<span class=\"name name-fuel\">维生凝胶</span>。<br><br>这种凝胶从<span class=\"name name-technology\">火箭燃料水晶</span>和<span class=\"name name-fuel\">碳</span>中合成，可以为维生系统提供暂时的加持。目前还不知道对使用者肺部的长期影响。",
+    "TraditionalChinese": "緊急<span class=\"name name-fuel\">維生系統燃料</span>。<br><br>這種膠狀物質由<span class=\"name name-technology\">火箭燃料晶體</span>與<span class=\"name name-fuel\">碳</span>合成而來，能暫時強化維生系統。對使用者肺部的長期影響目前還不明朗。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.oxygengel.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Fuel",
+  "Type": "Consumable",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 100,
+  "StackMultiplier": 20,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "JELLY": {
+      "ID": "JELLY",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000127564108,
+  "NormalisedValueOffWorld": 0.0000127564108,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft, find or purchase Life Support Gel",
+    "SimplifiedChinese": "制作、寻找或购买维生凝胶",
+    "TencentChinese": "制作、寻找或购买维生凝胶",
+    "TraditionalChinese": "製造、找出或購買維生膠"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Life Support Gel from <span class=\"name name-technology\">Di-hydrogen Jelly</span> and <span class=\"name name-fuel\">Carbon</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Refine or craft <span class=\"name name-technology\">Di-hydrogen Jelly</span> from the blue <span class=\"name name-technology\">Di-hydrogen Crystals</span> found on all worlds. Use the Scanner (<span class=\"name name-img\">SCAN</span>) to locate crystals.",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">二氢凝胶</span>和<span class=\"name name-fuel\">碳</span>制作维生凝胶。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>使用在所有星球上都能找到的蓝色<span class=\"name name-technology\">二氢晶体</span>精炼或制作<span class=\"name name-technology\">二氢凝胶</span>。使用扫描仪（<span class=\"name name-img\">SCAN</span>）来定位晶体。",
+    "TencentChinese": "使用<span class=\"name name-technology\">二氢凝胶</span>和<span class=\"name name-fuel\">碳</span>制作维生凝胶。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>使用在所有星球上都能找到的蓝色<span class=\"name name-technology\">二氢晶体</span>精炼或制作<span class=\"name name-technology\">二氢凝胶</span>。使用扫描仪（<span class=\"name name-img\">SCAN</span>）来定位晶体。",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">二氫膠</span>和<span class=\"name name-fuel\">碳</span>製作維生膠。使用 <span class=\"name name-img\">PRODMENU</span> 在空置<span class=\"name name-technology\">道具欄欄位</span>中製作。<br>使用在所有星球上都能找到的藍色<span class=\"name name-technology\">二氫結晶</span>精製或製作<span class=\"name name-technology\">二氫膠</span>。使用掃描器 (<span class=\"name name-img\">SCAN</span>) 來定位晶體。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

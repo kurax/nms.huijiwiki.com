@@ -1,0 +1,89 @@
+{
+  "ID": "F_TRASH_8",
+  "Name": {
+    "English": "RUSTED TECHNOLOGY",
+    "SimplifiedChinese": "生锈技术",
+    "TraditionalChinese": "生鏽科技物"
+  },
+  "NameLower": {
+    "English": "Rusted Technology",
+    "SimplifiedChinese": "生锈技术",
+    "TraditionalChinese": "生鏽科技物"
+  },
+  "Subtitle": {
+    "English": "Collected Flotsam",
+    "SimplifiedChinese": "收集到的漂浮物",
+    "TraditionalChinese": "一團漂流物"
+  },
+  "Description": {
+    "English": "A technology upgrade that has been <span class=\"name name-fuel\">permanently damaged</span> by prolonged exposure to water.<br><br>Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.",
+    "SimplifiedChinese": "因为长时间与水接触而遭受了<span class=\"name name-fuel\">永久性损伤</span>的技术升级。<br><br>使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始升级<VAL_ON>安装流程<>。",
+    "TraditionalChinese": "因為長時間泡水而<span class=\"name name-fuel\">永久受損</span>的科技升級。<br><br>使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始<VAL_ON>安裝程序<>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 10,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product.fish.metaljunk.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.541176498,
+    "G": 0.498039216,
+    "B": 0.447058827,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "SEA_TRASH",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Rusted Technology",
+    "SimplifiedChinese": "寻找生锈技术",
+    "TencentChinese": "寻找生锈技术",
+    "TraditionalChinese": "找出生鏽科技物"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

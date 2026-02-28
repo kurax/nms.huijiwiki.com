@@ -1,0 +1,100 @@
+{
+  "ID": "BLD_PLANET_HOLO",
+  "Name": {
+    "English": "HOLOGRAPHIC CHART PROJECTOR",
+    "SimplifiedChinese": "全息星图投影仪",
+    "TraditionalChinese": "全像星系圖投影儀"
+  },
+  "NameLower": {
+    "English": "Holographic Chart Projector",
+    "SimplifiedChinese": "全息星图投影仪",
+    "TraditionalChinese": "全像星系圖投影儀"
+  },
+  "Subtitle": {
+    "English": "System Simulation Device",
+    "SimplifiedChinese": "星系模拟设备",
+    "TraditionalChinese": "星系模擬裝置"
+  },
+  "Description": {
+    "English": "A decorative model of a star system, complete with holographic representations of various stellar objects.<br><br>A small, self-contained, perpetual motion device generates the small amount of power required to continue the projection.",
+    "SimplifiedChinese": "装饰用的星系模型，配备的全息投影功能可显示各类太空物体。<br><br>一个封闭式的小型永动装置能够为持续不断的投影提供源源不断的能量。",
+    "TraditionalChinese": "一個星系裝飾模型，配有多種星體的全像顯示。<br><br>一個小型、自給自足的永動裝置，能產生維持投影所需的小量動力。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.planethologram.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.planethologram.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

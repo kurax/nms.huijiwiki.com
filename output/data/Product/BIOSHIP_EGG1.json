@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_EGG1",
+  "Name": {
+    "English": "ACTIVE VOID EGG",
+    "SimplifiedChinese": "活跃的虚空蛋",
+    "TraditionalChinese": "活性虛空蛋"
+  },
+  "NameLower": {
+    "English": "Active Void Egg",
+    "SimplifiedChinese": "活跃的虚空蛋",
+    "TraditionalChinese": "活性虛空蛋"
+  },
+  "Subtitle": {
+    "English": "Agitated Curiosity",
+    "SimplifiedChinese": "不安的稀有物",
+    "TraditionalChinese": "躁動的奇珍異寶"
+  },
+  "Description": {
+    "English": "An anomalous egg. Since the encounter with the bizarre deep-space 'creature', its strange music has grown more active, more agitated.<br><br>When touched, conjures a powerful vision of a world beset by <span class=\"name name-special\">powerful anomalies</span> and <span class=\"name name-stellar\">strange colors</span>.",
+    "SimplifiedChinese": "一个异常的蛋。与奇异的深空“生物”相遇后，它的古怪音乐变得更加活跃和不安。<br><br>被触摸时，它会生成一个被<span class=\"name name-special\">强大异象</span>和<span class=\"name name-stellar\">奇怪颜色</span>包围的世界的强大幻象。",
+    "TraditionalChinese": "一顆異常的蛋。自從遭遇詭異外太空「生物」之後，蛋裡頭傳出的奇怪音樂越來越活躍和躁動。<br><br>觸摸時會出現強大幻象，讓人看到被<span class=\"name name-special\">強大異常</span>以及<span class=\"name name-stellar\">奇怪顏色</span>包圍的世界。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.egg1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Active Void Egg",
+    "SimplifiedChinese": "寻找活跃的虚空蛋",
+    "TencentChinese": "寻找活跃的虚空蛋",
+    "TraditionalChinese": "找出活性虛空蛋"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

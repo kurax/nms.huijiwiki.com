@@ -1,0 +1,114 @@
+{
+  "ID": "ULTRAPROD1",
+  "Name": {
+    "English": "FUSION IGNITOR",
+    "SimplifiedChinese": "核融起爆机",
+    "TencentChinese": "核融触发机",
+    "TraditionalChinese": "融合點火器"
+  },
+  "NameLower": {
+    "English": "Fusion Ignitor",
+    "SimplifiedChinese": "核融起爆机",
+    "TencentChinese": "核融触发机",
+    "TraditionalChinese": "融合點火器"
+  },
+  "Subtitle": {
+    "English": "Highly Refined Technology",
+    "SimplifiedChinese": "高精制技术",
+    "TencentChinese": "高精制技术",
+    "TraditionalChinese": "高度精製科技"
+  },
+  "Description": {
+    "English": "A highly advanced piece of technology for use in the next generation of power plants. Producing a fusion core requires both intricate scientific skills and complex industrial processes.<br><br>Crafted from <span class=\"name name-fuel\">Portable Reactor</span>, <span class=\"name name-technology\">Quantum Processors</span> and <span class=\"name name-special\">Geodesite</span>.",
+    "SimplifiedChinese": "极为先进的技术，用于新一代发电站中。生产融合核心需要复杂的科学技术和工业制成。<br><br>由<span class=\"name name-fuel\">便携式反应器</span>、<span class=\"name name-technology\">量子处理器</span>和<span class=\"name name-special\">晶土矿</span>制作。",
+    "TencentChinese": "极为先进的技术，用于新一代发电站中。生产融合核心需要复杂的科学技术和工业制成。<br><br>由<span class=\"name name-fuel\">便携式反应器</span>、<span class=\"name name-technology\">量子处理器</span>和<span class=\"name name-special\">晶土矿</span>制作。",
+    "TraditionalChinese": "高度先進的科技，專門使用在次世代的發電廠上。製造融合核心不僅需要精密的科學技巧，還要複雜的工業流程。<br><br>可使用<span class=\"name name-fuel\">可攜式反應器</span>、<span class=\"name name-technology\">量子處理器</span>與<span class=\"name name-special\">晶球岩</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15600000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/ultraprod.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "MEGAPROD1": {
+      "ID": "MEGAPROD1",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "MEGAPROD2": {
+      "ID": "MEGAPROD2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ALLOY7": {
+      "ID": "ALLOY7",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 1,
+  "NormalisedValueOffWorld": 1,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Fusion Ignitor",
+    "SimplifiedChinese": "制作核融起爆机",
+    "TencentChinese": "制作核融触发机",
+    "TraditionalChinese": "製作融合點火器"
+  },
+  "PinObjectiveTip": {
+    "English": "Highly advanced crafting product. Learn the relevant blueprints by raiding <span class=\"name name-technology\">planetary factories</span> or from the <span class=\"name name-stellar\">Synthesis Lab</span> on the <span class=\"name name-special\">Space Anomaly</span>.<br>Craft from <span class=\"name name-commodity\">Portable Reactor</span>, <span class=\"name name-commodity\">Quantum Processor</span> and <span class=\"name name-commodity\">Geodesite</span>",
+    "SimplifiedChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>或在<span class=\"name name-special\">太空异象</span>上的<span class=\"name name-stellar\">合成实验室</span>学习相关设计图。<br>由<span class=\"name name-commodity\">便携式反应器</span>、<span class=\"name name-commodity\">量子处理器</span>和<span class=\"name name-commodity\">晶土矿</span>制作而成。",
+    "TencentChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>学习相关设计图。<br>由<span class=\"name name-commodity\">便携式反应堆</span>、<span class=\"name name-commodity\">量子处理器</span>和<span class=\"name name-commodity\">格兰丁</span>制作而成。",
+    "TraditionalChinese": "非常先進的製作產品。襲擊<span class=\"name name-technology\">星球工廠</span>或從<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-stellar\">合成實驗室</span>來了解相關設計圖。<br>由<span class=\"name name-commodity\">可攜式反應器</span>、<span class=\"name name-commodity\">量子處理器</span>和<span class=\"name name-commodity\">晶球岩</span>製作而成"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

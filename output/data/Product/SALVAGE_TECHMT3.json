@@ -1,0 +1,89 @@
+{
+  "ID": "SALVAGE_TECHMT3",
+  "Name": {
+    "English": "REINFORCED PIPING",
+    "SimplifiedChinese": "强化管道",
+    "TraditionalChinese": "強化管線"
+  },
+  "NameLower": {
+    "English": "Reinforced Piping",
+    "SimplifiedChinese": "强化管道",
+    "TraditionalChinese": "強化管線"
+  },
+  "Subtitle": {
+    "English": "Multi-Tool Subcomponent",
+    "SimplifiedChinese": "多用途工具子构件",
+    "TraditionalChinese": "工具組子元件"
+  },
+  "Description": {
+    "English": "A valuable piece of recycled Multi-Tool technology, created by a <span class=\"name name-technology\">Multi-Tool Decomissioning Terminal</span> aboard the <span class=\"name name-special\">Space Anomaly</span>.<br><br>Component is useful only as scrap to be sold at a <VAL_ON>Trade Terminal<>.",
+    "SimplifiedChinese": "珍贵的可回收多用途工具技术的一部分，由一台登上<span class=\"name name-special\">太空异象</span>的<span class=\"name name-technology\">多用途工具报废终端</span>创造。<br><br>构件仅能作为废料在<VAL_ON>交易终端<>出售。",
+    "TraditionalChinese": "回收工具組科技的貴重部件，由<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-technology\">工具組退役終端站</span>產出。<br><br>元件僅可作為廢料使用，在<VAL_ON>交易終端站<>出售。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 610000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.tech1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0391025022,
+  "NormalisedValueOffWorld": 0.0391025022,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.05,
+  "PinObjective": {
+    "English": "Purchase Reinforced Piping from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买强化管道",
+    "TencentChinese": "从空间站的交易终端购买强化管道",
+    "TraditionalChinese": "從太空站交易終端站購買強化管線"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

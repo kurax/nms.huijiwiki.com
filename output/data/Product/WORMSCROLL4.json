@@ -1,0 +1,89 @@
+{
+  "ID": "WORMSCROLL4",
+  "Name": {
+    "English": "WORMSKIN FOLIO: 4",
+    "SimplifiedChinese": "虫蜕经书：4",
+    "TraditionalChinese": "巨蟲皮片：4"
+  },
+  "NameLower": {
+    "English": "Wormskin Folio: 4",
+    "SimplifiedChinese": "虫蜕经书：4",
+    "TraditionalChinese": "巨蟲皮片：4"
+  },
+  "Subtitle": {
+    "English": "Fleshy Scroll",
+    "SimplifiedChinese": "肉质文卷",
+    "TraditionalChinese": "血肉卷軸"
+  },
+  "Description": {
+    "English": "Ancient words are carved into this <span class=\"name name-stellar\">living document</span>. They read:<br><br>'We tumble as it swallows, but grip the slick walls as best we can - <br>Oh! - to reach the gizzard still awake. <br>Breathe it deeply! How our lungs gurgle!<br>The slime clogs our noses and stings our eyes, <br>though in this warm darkness, we are already blind.'",
+    "SimplifiedChinese": "这份<span class=\"name name-stellar\">活经文</span>上刻着古老的文字。上面写道：<br><br>“吞噬之时，吾等瑟瑟发抖，然依旧尽力攀爬粘液之墙，呜呼哀哉！<br>只为在清醒时分到达砂囊。<br>尽力喘息！吾等咳呛不已！<br>黏质堵住了吾等的鼻腔，刺痛了眼睛，<br>但是在这温暖的黑暗之中，光明又与吾等何干。”",
+    "TraditionalChinese": "被刻進<span class=\"name name-stellar\">活體文件</span>的古老文字。上頭刻著：<br><br>「我們受其吞食時會不住踉蹌，最好抓緊光滑的壁面......<br>喔！為了甦醒著抵達其砂囊。<br>深深地呼吸！我們的肺咯咯低鳴著！<br>黏液堵住我們的鼻腔，刺痛我們的眼睛，<br>儘管處於溫暖的黑暗之中，我們已盲目不見五指。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/wormscroll.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Wormskin Folio: 4",
+    "SimplifiedChinese": "寻找虫蜕经书：4",
+    "TencentChinese": "寻找虫蜕经书：4",
+    "TraditionalChinese": "找出巨蟲皮片：4"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

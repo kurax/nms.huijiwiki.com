@@ -1,0 +1,93 @@
+{
+  "ID": "DRONE_SHARD",
+  "Name": {
+    "English": "RADIANT SHARD",
+    "SimplifiedChinese": "光耀碎片",
+    "TraditionalChinese": "發光裂片"
+  },
+  "NameLower": {
+    "English": "Radiant Shard",
+    "SimplifiedChinese": "光耀碎片",
+    "TraditionalChinese": "發光裂片"
+  },
+  "Subtitle": {
+    "English": "Glassy Reality Intrusion",
+    "SimplifiedChinese": "玻璃现实入侵物",
+    "TraditionalChinese": "玻璃實體入侵"
+  },
+  "Description": {
+    "English": "A fragment of glassy lifeforce, chipped from a larger formation. Dynamic intermolecular binding gives the shard a strangely flexible, sinewy quality. It writhes gently, almost as if it were seeking something...<br><br>Highly sought after for salvage operations, as it can be used to bypass the security systems of key <span class=\"name name-technology\">Sentinel ship technologies</span>.",
+    "SimplifiedChinese": "从大型结构上掉落的一块玻璃生命力碎片。动态的分子间结合给碎片带来了不同寻常的柔韧度与坚韧性。碎片不停轻轻扭动着，仿佛就像是在搜索着什么......<br><br>此物是各类回收作业人心目中的抢手货，因为它能够被用于破解关键<span class=\"name name-technology\">护卫飞船技术</span>的安全系统。",
+    "TraditionalChinese": "玻璃生命體的碎片，從更大的形體剝落下來。這塊裂片的分子不斷互相吸引與結合，有著宛如肌肉般充滿彈性的奇怪質地。它輕輕地蠕動著，彷彿在尋找某種東西......<br><br>因為可以用來繞過關鍵<span class=\"name name-technology\">巡警太空船科技</span>的保全系統，而在回收行動中廣受歡迎。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1900,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.droneshard.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 200,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00012173078,
+  "NormalisedValueOffWorld": 0.00012173078,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather Radiant Shard",
+    "SimplifiedChinese": "收集光耀碎片",
+    "TencentChinese": "收集光耀碎片",
+    "TraditionalChinese": "收集發光裂片"
+  },
+  "PinObjectiveTip": {
+    "English": "Harvest <span class=\"name name-special\">Radiant Shards</span> from the crystals that sprout from the soil of corrupted Sentinel planets.<br>These strange crystalline growths can be found with the Analysis Visor (<span class=\"name name-img\">AIM</span>) on worlds with a corrupted Sentinel presence.",
+    "SimplifiedChinese": "从被腐化的护卫星球的土壤中诞生出的水晶收集<span class=\"name name-special\">光耀碎片</span>。<br>于存在腐化护卫的世界使用分析面甲（<span class=\"name name-img\">AIM</span>）寻找这些奇怪的晶体增殖物。",
+    "TraditionalChinese": "從受腐蝕巡警行星土地中長出的水晶採收<span class=\"name name-special\">發光裂片</span>。<br>可以在受腐蝕巡警的世界中，使用分析護目鏡 (<span class=\"name name-img\">AIM</span>) 找到這些奇怪的透明生長物。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "CorruptedCrystal",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

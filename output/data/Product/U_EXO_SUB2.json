@@ -1,0 +1,93 @@
+{
+  "ID": "U_EXO_SUB2",
+  "Name": {
+    "English": "HUMBOLDT DRIVE MODULE",
+    "SimplifiedChinese": "洪堡驱动器模块",
+    "TencentChinese": "洪堡驱动器模块（初级）",
+    "TraditionalChinese": "洪保德驅動器模組"
+  },
+  "NameLower": {
+    "English": "Humboldt Drive Module",
+    "SimplifiedChinese": "洪堡驱动器模块",
+    "TencentChinese": "洪堡驱动器模块（初级）",
+    "TraditionalChinese": "洪保德驅動器模組"
+  },
+  "Subtitle": {
+    "English": "Significant Submarine Drive Upgrade",
+    "SimplifiedChinese": "显著的潜水艇驱动器升级",
+    "TencentChinese": "显著的潜水艇驱动器升级",
+    "TraditionalChinese": "潛艇驅動器重要升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Humboldt Drive</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">acceleration</span>, <span class=\"name name-stellar\">fuel efficiency</span> and <span class=\"name name-stellar\">top speed</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">洪堡驱动器</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">加速</span>、<span class=\"name name-stellar\">燃料效率</span>和<span class=\"name name-stellar\">最高速度</span>。",
+    "TencentChinese": "<span class=\"name name-technology\">显著</span>的升级，适用于<span class=\"name name-technology\">洪堡驱动器</span>。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>显著提升<span class=\"name name-stellar\">加速</span>、<span class=\"name name-stellar\">燃料效率</span>和<span class=\"name name-stellar\">最高速度</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">洪保德驅動器</span>的<span class=\"name name-technology\">重大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">加速</span>、<span class=\"name name-stellar\">燃料效率</span>及<span class=\"name name-stellar\">最高速度</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 140,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.b.vehicleboost.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00000891025684,
+  "NormalisedValueOffWorld": 0.00000891025684,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_EXSUB2",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Humboldt Drive Module from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买洪堡驱动器模块",
+    "TencentChinese": "从空间站的交易终端购买洪堡驱动器模块（初级）",
+    "TraditionalChinese": "從太空站交易終端站購買洪保德驅動器模組"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_MINERALS1",
+  "Name": {
+    "English": "DIRT",
+    "SimplifiedChinese": "尘土",
+    "TencentChinese": "尘土",
+    "TraditionalChinese": "灰塵"
+  },
+  "NameLower": {
+    "English": "Dirt",
+    "SimplifiedChinese": "尘土",
+    "TencentChinese": "尘土",
+    "TraditionalChinese": "灰塵"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Minerals)",
+    "SimplifiedChinese": "交易货物（矿物）",
+    "TencentChinese": "可交易材料",
+    "TraditionalChinese": "貿易商品 (礦物)"
+  },
+  "Description": {
+    "English": "Several tones of dirt.<br><br>Leftover dirt from mining operations. Residual metals can be extracted by specialists in <span class=\"name name-special\">manufacturing</span> economies with the time and equipment to sift through it.",
+    "SimplifiedChinese": "数吨尘土。<br><br>采矿作业中的废土。<span class=\"name name-special\">制造业</span>经济体中拥有时间与装备的专业人员们可以从这些东西里面提取出残余金属。",
+    "TencentChinese": "数吨尘土。<br><br>采矿作业中的废土。<span class=\"name name-special\">制造业</span>经济体中拥有时间与装备的专业人员们可以从这些东西里面提取出残余金属。",
+    "TraditionalChinese": "數噸灰塵。<br><br>開採礦產留下的灰塵。<span class=\"name name-special\">製造業</span>經濟體的專家有時間和設備把殘留的金屬物質萃取出來。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.minerals1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "Mineral",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1.2,
+  "PinObjective": {
+    "English": "Purchase Dirt from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买尘土",
+    "TencentChinese": "从空间站的交易终端购买尘土",
+    "TraditionalChinese": "從太空站交易終端站購買灰塵"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,98 @@
+{
+  "ID": "SACVENOM",
+  "Name": {
+    "English": "SAC VENOM",
+    "SimplifiedChinese": "囊袋毒液",
+    "TencentChinese": "萨克毒液",
+    "TraditionalChinese": "囊袋毒液"
+  },
+  "NameLower": {
+    "English": "Sac Venom",
+    "SimplifiedChinese": "囊袋毒液",
+    "TencentChinese": "萨克毒液",
+    "TraditionalChinese": "囊袋毒液"
+  },
+  "Subtitle": {
+    "English": "Trade commodity",
+    "SimplifiedChinese": "交易商品",
+    "TencentChinese": "交易商品",
+    "TraditionalChinese": "貿易物資"
+  },
+  "Description": {
+    "English": "A stabilised poison gland extracted from a terrestrial urchin. The host-urchin is actually a colony of smaller proto-creatures, a formation built on years of slow growth and cooperation.<br><br>Of use both medicinally and as a delicacy in some riskier cuisines.<br><br>Can be sold at a <span class=\"name name-technology\">Galactic Trade Terminal</span>.",
+    "SimplifiedChinese": "从陆生海胆中提取的稳定毒腺。其宿主海胆实际上是一群体形较小的原始生物，是很多年缓慢生长和合作基础上的群体。<br><br>既可药用，也可在一些风险较高的菜肴中用作食材。<br><br>可以在<span class=\"name name-technology\">银河交易终端</span>出售。",
+    "TencentChinese": "用海胆类水生生物分泌的毒液制成的样本，已经过稳定化处理。<br><br>在银河交易网络中属于稀有的贵重品。",
+    "TraditionalChinese": "穩定化的毒腺，取自一種陸生海膽生物。其宿主海膽其實是小型原生生物的群落，是多年緩慢生長與合作而成的結構體。<br><br>可用於製藥，也有某些高風險料理將其視為珍饈。<br><br>可在<span class=\"name name-technology\">銀河交易終端站</span>出售。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 64000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.sacvenom.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000748718216,
+  "NormalisedValueOffWorld": 0.000748718216,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Find or purchase Sac Venom",
+    "SimplifiedChinese": "寻找或购买囊袋毒液",
+    "TencentChinese": "寻找或购买萨克毒液",
+    "TraditionalChinese": "找出或購買囊袋毒液"
+  },
+  "PinObjectiveTip": {
+    "English": "Collect Sac Venom from rare <span class=\"name name-tradeable\">Land Urchins</span> found occasionally on planets.<br>Harvesting may require a <span class=\"name name-technology\">Haz-Mat Gauntlet</span>. Recruit a <span class=\"name name-technology\">Base Armorer</span> to learn the blueprint.<br><span class=\"name name-fuel\">WARNING:</span> Land Urchins have spine-based defenses.",
+    "SimplifiedChinese": "从偶尔能在星球上找到的稀有<span class=\"name name-tradeable\">陆生海胆</span>中收集囊袋毒液。<br>采集过程可能需要使用<span class=\"name name-technology\">防护手套</span>。招募一名<span class=\"name name-technology\">基地军械士</span>来学习设计图。<br><span class=\"name name-fuel\">警告：</span>陆生海胆有脊刺保护。",
+    "TencentChinese": "从偶尔能在星球上找到的稀有<span class=\"name name-tradeable\">陆生海胆</span>中收集萨克毒液。<br>采集过程可能需要使用<span class=\"name name-technology\">防护手套</span>。招募一名<span class=\"name name-technology\">基地军械士</span>来学习设计图。<br><span class=\"name name-fuel\">警告：</span>陆生海胆有脊刺保护。",
+    "TraditionalChinese": "從偶爾能在星球上找到的稀有<span class=\"name name-tradeable\">海膽仙人掌</span>中收集囊袋毒液。<br>採收過程可能需要使用<span class=\"name name-technology\">防護手套</span>。招募一名<span class=\"name name-technology\">基地軍械士</span>來學習設計圖。<br><span class=\"name name-fuel\">警告：</span>海膽仙人掌有脊刺保護。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMMODITY3",
+  "Name": {
+    "English": "COMET DROPLETS",
+    "SimplifiedChinese": "星露",
+    "TencentChinese": "星露",
+    "TraditionalChinese": "彗星雨滴"
+  },
+  "NameLower": {
+    "English": "Comet Droplets",
+    "SimplifiedChinese": "星露",
+    "TencentChinese": "星露",
+    "TraditionalChinese": "彗星雨滴"
+  },
+  "Subtitle": {
+    "English": "Trade Goods",
+    "SimplifiedChinese": "交易货物",
+    "TencentChinese": "贸易商品",
+    "TraditionalChinese": "貿易商品"
+  },
+  "Description": {
+    "English": "Several canisters of comet droplets.<br><br>An elaborate trading name for chunks of meteorite, these rocks are nonetheless extremely valuable to the <span class=\"name name-special\">advanced material</span> economies that can process them.",
+    "SimplifiedChinese": "数罐星露。<br><br>彗星块的商品名，这些石块对于可以加工它们的<span class=\"name name-special\">改进材料</span>经济体来说有着相当宝贵的价值。",
+    "TencentChinese": "数罐星露。<br><br>彗星块的商品名，这些石块对于可以加工它们的<span class=\"name name-special\">改进材料</span>经济体来说有着相当宝贵的价值。",
+    "TraditionalChinese": "數罐彗星雨滴。<br><br>這些隕石塊有個好聽的商品名稱，能交給<span class=\"name name-special\">先進素材</span>經濟體處理，他們非常寶貝這些石頭。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.commodity3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000961474434,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "Commodity",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.7,
+  "PinObjective": {
+    "English": "Purchase Comet Droplets from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买星露",
+    "TencentChinese": "从空间站的交易终端购买星露",
+    "TraditionalChinese": "從太空站交易終端站購買彗星雨滴"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

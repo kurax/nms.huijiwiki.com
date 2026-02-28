@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD7",
+  "Name": {
+    "English": "LIQUID EXPLOSIVE",
+    "SimplifiedChinese": "液体炸弹",
+    "TencentChinese": "液体炸弹",
+    "TraditionalChinese": "液體炸彈"
+  },
+  "NameLower": {
+    "English": "Liquid Explosive",
+    "SimplifiedChinese": "液体炸弹",
+    "TencentChinese": "液体炸弹",
+    "TraditionalChinese": "液體炸彈"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "A general purpose high explosive, offered in liquid form for convenience of transport and deployment. Do not drink.<br><br>Crafted from <span class=\"name name-technology\">Acid</span> and <span class=\"name name-technology\">Unstable Gel</span>.",
+    "SimplifiedChinese": "一种通用烈性炸药，为了便于运输和调度，一般以液体状态提供。请勿饮用。<br><br>由<span class=\"name name-technology\">酸</span>和<span class=\"name name-technology\">不稳定的凝胶</span>制作。",
+    "TencentChinese": "一种通用破坏装置，为了便于运输和调度，一般以液体状态提供。请勿饮用。<br><br>由<span class=\"name name-technology\">酸</span>和<span class=\"name name-technology\">不稳定的凝胶</span>制作。",
+    "TraditionalChinese": "多功能用途的強力爆裂物，為方便攜帶與設置製成液態。切勿飲用。<br><br>可使用<span class=\"name name-technology\">酸劑</span>和<span class=\"name name-technology\"><>不穩定凝膠</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.7.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD1": {
+      "ID": "FARMPROD1",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "FARMPROD6": {
+      "ID": "FARMPROD6",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.02240224,
+  "NormalisedValueOffWorld": 0.02240224,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Liquid Explosive",
+    "SimplifiedChinese": "制作液体炸弹",
+    "TencentChinese": "制作液体炸弹",
+    "TraditionalChinese": "製作液體炸彈"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-commodity\">Acid</span> and <span class=\"name name-commodity\">Unstable Gel</span>.<br>Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.",
+    "SimplifiedChinese": "由<span class=\"name name-commodity\">酸</span>和<span class=\"name name-commodity\">不稳定凝胶</span>制作而成。<br>在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。",
+    "TencentChinese": "由<span class=\"name name-commodity\">酸</span>和<span class=\"name name-commodity\">不稳定凝胶</span>制作而成。<br>在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。",
+    "TraditionalChinese": "以<span class=\"name name-commodity\">酸劑</span>及<span class=\"name name-commodity\">不穩定凝膠</span>製作。<br>在基地裡借助<span class=\"name name-technology\">科學專家</span>來了解設計圖。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "CHART_ROBOT",
+  "Name": {
+    "English": "ECHO LOCATOR",
+    "SimplifiedChinese": "回音定位器",
+    "TraditionalChinese": "回音定位器"
+  },
+  "NameLower": {
+    "English": "Echo Locator",
+    "SimplifiedChinese": "回音定位器",
+    "TraditionalChinese": "回音定位器"
+  },
+  "Subtitle": {
+    "English": "Harmonic Location Tracker",
+    "SimplifiedChinese": "谐波定位器",
+    "TraditionalChinese": "和諧地點追蹤器"
+  },
+  "Description": {
+    "English": "A curious mesh of old and new technology, a hybrid between two entirely separate methods of creation. Nonetheless, this <span class=\"name name-stellar\">location tracing device</span> appears fully functional.<br><br>Select this device and use <VAL_ON>Resonate (<span class=\"name name-img\">FE_ALT1</span>)<> to trace its harmonic origin.",
+    "SimplifiedChinese": "新旧科技的独特融合，其中混合着两种截然不同的制作工艺。无论如何，这台<span class=\"name name-stellar\">定位装置</span>似乎能够正常运作。<br><br>选择此装置并使用<VAL_ON>共鸣（<span class=\"name name-img\">FE_ALT1</span>）<>追踪最初的谐波来源。",
+    "TraditionalChinese": "由新舊科技結合而成的古怪產物，混合了兩種截然不同的創造方法。即使如此，這個<span class=\"name name-stellar\">地點追蹤裝置</span>看起來功能完全正常。<br><br>選擇本裝置並使用<VAL_ON>共振 (<span class=\"name name-img\">FE_ALT1</span>)<> 即可追蹤和諧來源。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.robotcamp.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Echo Locator",
+    "SimplifiedChinese": "寻找回音定位器",
+    "TencentChinese": "寻找回音定位器",
+    "TraditionalChinese": "找出回音定位器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

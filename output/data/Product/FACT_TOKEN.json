@@ -1,0 +1,93 @@
+{
+  "ID": "FACT_TOKEN",
+  "Name": {
+    "English": "FACTORY OVERRIDE UNIT",
+    "SimplifiedChinese": "工厂超控单位",
+    "TencentChinese": "工厂超控单位",
+    "TraditionalChinese": "工廠覆寫器"
+  },
+  "NameLower": {
+    "English": "Factory Override Unit",
+    "SimplifiedChinese": "工厂超控单位",
+    "TencentChinese": "工厂超控单位",
+    "TraditionalChinese": "工廠覆寫器"
+  },
+  "Subtitle": {
+    "English": "Advanced Research Module",
+    "SimplifiedChinese": "高级研究模块",
+    "TencentChinese": "高级研究模块",
+    "TraditionalChinese": "先進研究模組"
+  },
+  "Description": {
+    "English": "A portable data unit, compatible with most <span class=\"name name-stellar\">planetary fabricator facilities</span>.<br><br>Once access has been gained to a central control terminal, the Override Unit can divert the facilities resources towards researching new product recipes.",
+    "SimplifiedChinese": "一种便携式数据单位，与大多数<span class=\"name name-stellar\">行星制造机设施</span>兼容。<br><br>获得对中央控制终端的访问权后，超控单位可以将设施资源转往新产品配方的研究。",
+    "TencentChinese": "一种便携式数据单位，与大多数<span class=\"name name-stellar\">行星制造机设施</span>兼容。<br><br>获得对中枢控制终端的访问权后，超控单位可以将设施资源转往新产品配方的研究。",
+    "TraditionalChinese": "可攜式資料單位，與大部分的<span class=\"name name-stellar\">星球製造器設施</span>相容。<br><br>一旦獲得中央控制終端站的存取權限，這個覆寫器就可以將設施的資源調度到研究新的產品製作方法。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.researchtoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Factory Override Unit",
+    "SimplifiedChinese": "寻找工厂超控单位",
+    "TencentChinese": "寻找工厂超控单位",
+    "TraditionalChinese": "找出工廠覆寫器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

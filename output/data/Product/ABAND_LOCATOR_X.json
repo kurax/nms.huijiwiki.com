@@ -1,0 +1,89 @@
+{
+  "ID": "ABAND_LOCATOR_X",
+  "Name": {
+    "English": "EMERGENCY SIGNAL SCANNER (ACTIVE)",
+    "SimplifiedChinese": "紧急信号扫描仪（激活）",
+    "TraditionalChinese": "緊急訊號掃描器 (啟動)"
+  },
+  "NameLower": {
+    "English": "Emergency Signal Scanner (Active)",
+    "SimplifiedChinese": "紧急信号扫描仪（激活）",
+    "TraditionalChinese": "緊急訊號掃描器 (啟動)"
+  },
+  "Subtitle": {
+    "English": "Coordinate Data",
+    "SimplifiedChinese": "坐标数据",
+    "TraditionalChinese": "座標資料"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">single-use</span> receiver that scans for distress signals on <span class=\"name name-technology\">freighter frequencies</span>. Derelict or abandoned freighters often contain <span class=\"name name-stellar\">high-value salvage</span>.<br><br>Select the Receiver and use Tune Signal (<span class=\"name name-img\">FE_ALT1</span>) to begin the location process.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">一次性</span>接收器扫描<span class=\"name name-technology\">货船频率</span>中的求救信号。荒废或废弃货船通常拥有<span class=\"name name-stellar\">高价值的回收物</span>。<br><br>选择接收器并使用调谐信号（<span class=\"name name-img\">FE_ALT1</span>）即可开始定位流程。",
+    "TraditionalChinese": "一種<span class=\"name name-stellar\">單次使用</span>的接收器，用來掃描<span class=\"name name-technology\">貨船頻率</span>是否有求救訊號。棄守或廢棄的貨船，通常載有<span class=\"name name-stellar\">高價值回收物</span>。<br><br>選擇接收器，再使用「調整訊號頻率」（<span class=\"name name-img\">FE_ALT1</span>）功能，即可開始尋找。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.locator.aband.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 320,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.05,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Emergency Signal Scanner (Active)",
+    "SimplifiedChinese": "寻找紧急信号扫描仪（激活）",
+    "TencentChinese": "寻找紧急信号扫描仪（激活）",
+    "TraditionalChinese": "找出緊急訊號掃描器 (啟動)"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

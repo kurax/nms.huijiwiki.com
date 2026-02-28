@@ -1,0 +1,93 @@
+{
+  "ID": "HEXCORE",
+  "Name": {
+    "English": "HEX CORE",
+    "SimplifiedChinese": "六核",
+    "TencentChinese": "六核",
+    "TraditionalChinese": "六核"
+  },
+  "NameLower": {
+    "English": "Hex Core",
+    "SimplifiedChinese": "六核",
+    "TencentChinese": "六核",
+    "TraditionalChinese": "六核"
+  },
+  "Subtitle": {
+    "English": "Contained Reality Glitch",
+    "SimplifiedChinese": "闭锁现实错乱体",
+    "TencentChinese": "闭锁现实错乱体",
+    "TraditionalChinese": "含有真實故障"
+  },
+  "Description": {
+    "English": "This strange energy orb constantly vibrates, emitting a low-frequency drone. Slight variations in the pattern repeat over and over, almost as if it is attempting to relay a message.",
+    "SimplifiedChinese": "这个奇怪的能量球不停地振动并发出低频的嗡嗡声。有着细微变化的模式不断重复，就好像是在试图传递信息。",
+    "TencentChinese": "这个奇怪的能量球不停地振动并发出低频的嗡嗡声。有着细微变化的模式不断重复，就好像是在试图传递信息。",
+    "TraditionalChinese": "這個奇怪的能量球不停地振動並發出低頻的嗡嗡聲。有著細微變化的模式不斷重複，就好像是在試圖傳遞資訊。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.hexcore.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 9.6153849e-7,
+  "NormalisedValueOffWorld": 9.6153849e-7,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Hex Core",
+    "SimplifiedChinese": "寻找六核",
+    "TencentChinese": "寻找六核",
+    "TraditionalChinese": "找出六核"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

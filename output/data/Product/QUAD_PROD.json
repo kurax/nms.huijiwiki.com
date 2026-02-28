@@ -1,0 +1,98 @@
+{
+  "ID": "QUAD_PROD",
+  "Name": {
+    "English": "QUAD SERVO",
+    "SimplifiedChinese": "四足机甲伺服系统",
+    "TencentChinese": "四足机甲伺服系统",
+    "TraditionalChinese": "四核伺服"
+  },
+  "NameLower": {
+    "English": "Quad Servo",
+    "SimplifiedChinese": "四足机甲伺服系统",
+    "TencentChinese": "四足机甲伺服系统",
+    "TraditionalChinese": "四核伺服"
+  },
+  "Subtitle": {
+    "English": "Anomalous Material",
+    "SimplifiedChinese": "异常材料",
+    "TencentChinese": "异常材料",
+    "TraditionalChinese": "異常材料"
+  },
+  "Description": {
+    "English": "A highly sprung motor arm salvaged from inside of a Sentinel patrol unit. It occasionally twitches, as if experiencing the echo of combat.",
+    "SimplifiedChinese": "从护卫巡逻单位上回收的高弹性机动臂。偶尔会抽搐，仿佛正在经历战斗的回响。",
+    "TencentChinese": "从护卫巡逻单位上回收的高弹性机动臂。偶尔会抽搐，仿佛正在经历战斗的回响。",
+    "TraditionalChinese": "從巡警巡邏單位中回收的一具高度彎曲的機械手臂。它偶爾會抽搐，彷彿還殘有戰鬥的影響。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 20000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.quadservo.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00128198729,
+  "NormalisedValueOffWorld": 0.00128198729,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Quad Servo",
+    "SimplifiedChinese": "寻找四足机甲伺服系统",
+    "TencentChinese": "寻找四足机甲伺服系统",
+    "TraditionalChinese": "找出四核伺服"
+  },
+  "PinObjectiveTip": {
+    "English": "Harvest <span class=\"name name-special\">Quad Servos</span> from the remains of <span class=\"name name-special\">Sentinel Quads</span>, an advanced combat unit deployed at high alert levels.<br>Collect loot from defeated Sentinels by destroying <VAL_ON>Combat Supply Barrels<>.",
+    "SimplifiedChinese": "从一台在高度警惕级别时部署的高级战斗单位<span class=\"name name-special\">护卫四足机甲</span>的残骸上，收集<span class=\"name name-special\">四足机甲伺服</span>。<br>通过摧毁<VAL_ON>战斗补给桶<>，从已击败的护卫身上收集战利品。",
+    "TencentChinese": "从一台在高度警惕级别时部署的高级战斗单位<span class=\"name name-special\">护卫四足机甲</span>的残骸上，收集<span class=\"name name-special\">四足机甲伺服</span>。<br>通过破坏<VAL_ON>战斗补给桶<>，从已击败的护卫身上收集战利品。",
+    "TraditionalChinese": "從高度警惕級別時所部署的先進戰鬥機體<span class=\"name name-special\">巡警四足機甲</span>的殘骸上收集<span class=\"name name-special\">四足機甲伺服</span>。<br>從通過摧毀<VAL_ON>戰鬥補給桶<>擊敗的巡警身上收集戰利品。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

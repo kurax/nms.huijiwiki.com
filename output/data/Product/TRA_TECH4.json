@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_TECH4",
+  "Name": {
+    "English": "AUTONOMOUS POSITIONING UNIT",
+    "SimplifiedChinese": "自动定位单元",
+    "TencentChinese": "自动定位单元",
+    "TraditionalChinese": "自動定位裝置"
+  },
+  "NameLower": {
+    "English": "Autonomous Positioning Unit",
+    "SimplifiedChinese": "自动定位单元",
+    "TencentChinese": "自动定位单元",
+    "TraditionalChinese": "自動定位裝置"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Technology)",
+    "SimplifiedChinese": "交易货物（技术）",
+    "TencentChinese": "技术部件",
+    "TraditionalChinese": "貿易商品 (科技)"
+  },
+  "Description": {
+    "English": "A container of positioning units and associated wiring.<br><br>These APS units can be used to turn virtually any technology into a self-navigating system. Highly valuable in <span class=\"name name-special\">power generation</span> economies, where they're used to remove conductive organic hands from the manufacturing process.",
+    "SimplifiedChinese": "装有定位单元与相应导线的容器。<br><br>这些自动定位单元几乎可以将任何技术产品改造成导航系统。<span class=\"name name-special\">发电</span>型经济体中的高价值物品，这些单元将用来替代制造业中的有机传动臂。",
+    "TencentChinese": "装有定位单元与相应导线的容器。<br><br>这些自动定位单元几乎可以将任何技术产品改造成导航系统。<span class=\"name name-special\">发电</span>型经济体中的高价值物品，这些单元将用来替代制造业中的有机传动臂。",
+    "TraditionalChinese": "一批定位裝置和相關線路。<br><br>這種自動定位裝置幾乎能將所有科技轉為自動導航系統。<span class=\"name name-special\">發電</span>經濟體尤其受用，能在生產過程中移除會導電的生物工人。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.tech4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0019230129,
+  "NormalisedValueOffWorld": 0.0019230129,
+  "TradeCategory": "Tech",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.5,
+  "PinObjective": {
+    "English": "Purchase Autonomous Positioning Unit from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买自动定位单元",
+    "TencentChinese": "从空间站的交易终端购买自动定位单元",
+    "TraditionalChinese": "從太空站交易終端站購買自動定位裝置"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

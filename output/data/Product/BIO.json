@@ -1,0 +1,110 @@
+{
+  "ID": "BIO",
+  "Name": {
+    "English": "AMINO CHAMBER",
+    "SimplifiedChinese": "氨基舱",
+    "TraditionalChinese": "胺基艙"
+  },
+  "NameLower": {
+    "English": "Amino Chamber",
+    "SimplifiedChinese": "氨基舱",
+    "TraditionalChinese": "胺基艙"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A specialist <span class=\"name name-technology\">biological catalysation device</span>.<br><br>This unit takes advantage of naturally occurring enzymes in order to facilitate increased energy yields and faster processing in a wide range of <span class=\"name name-technology\">advanced technologies</span>.",
+    "SimplifiedChinese": "一种专业的<span class=\"name name-technology\">生物催化设备</span>。<br><br>该装置利用自然产生的酶，能协助各种<span class=\"name name-technology\">高级技术</span>提高能量产出和处理速度。",
+    "TraditionalChinese": "專家級<span class=\"name name-technology\">生物催化裝置</span>。<br><br>此裝置運用了自然生成的酵素，能夠提升能量生成與處理速度，適用於各式<span class=\"name name-technology\">先進科技</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 12300,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.bio.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "WATER2": {
+      "ID": "WATER2",
+      "Type": "Substance",
+      "Amount": 20
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 1.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000788397505,
+  "NormalisedValueOffWorld": 0.000788397505,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Amino Chamber",
+    "SimplifiedChinese": "制作氨基舱",
+    "TencentChinese": "制作氨基舱",
+    "TraditionalChinese": "製作胺基艙"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Amino Chamber from <span class=\"name name-commodity\">Metal Plating</span>, <span class=\"name name-fuel\">Condensed Carbon</span> and <span class=\"name name-tradeable\">Chlorine</span>.<br><br>Craft <span class=\"name name-commodity\">Metal Plating</span> from <span class=\"name name-earth\">Ferrite</span> or purchase at a <span class=\"name name-technology\">Trade Terminal</span>.<br>Refine Condensed Carbon from <span class=\"name name-fuel\">Carbon</span>. Condensed Carbon can occasionally be found as crystals on planet surfaces.<br>Refine Chlorine from <span class=\"name name-tradeable\">Salt</span>, which is harvested from <span class=\"name name-technology\">underwater mineral deposits</span>.",
+    "SimplifiedChinese": "用<span class=\"name name-commodity\">金属电镀</span>、<span class=\"name name-fuel\">浓缩碳</span>和<span class=\"name name-tradeable\">氯</span>制作氨基舱。<br><br>用<span class=\"name name-earth\">铁氧体</span>制作<span class=\"name name-commodity\">微处理器</span>或从<span class=\"name name-technology\">交易终端</span>购买。<br>从<span class=\"name name-fuel\">碳</span>中精炼浓缩碳。浓缩碳偶尔会以结晶形式出现在行星表面。<br>用提取自<span class=\"name name-technology\">水下矿床</span>的<span class=\"name name-tradeable\">盐</span>精炼氯。",
+    "TraditionalChinese": "使用<span class=\"name name-commodity\">金屬電鍍</span>、<span class=\"name name-fuel\">濃縮碳</span>和<span class=\"name name-tradeable\">氯</span>製作胺基艙。<br><br><span class=\"name name-commodity\">金屬電鍍</span>可用<span class=\"name name-earth\">鐵氧體</span>製成，或在<span class=\"name name-technology\">交易終端站</span>購買。<br>濃縮碳可由<span class=\"name name-fuel\">碳</span>精製而成。濃縮碳偶爾也會以結晶形式出現在星球表面。<br>將<span class=\"name name-technology\">水底礦資源產地</span>所採收的<span class=\"name name-tradeable\">鹽</span>精製成氯。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

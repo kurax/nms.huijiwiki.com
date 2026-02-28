@@ -1,0 +1,109 @@
+{
+  "ID": "ANTIMATTER",
+  "Name": {
+    "English": "ANTIMATTER",
+    "SimplifiedChinese": "反物质",
+    "TencentChinese": "反物质",
+    "TraditionalChinese": "反物質"
+  },
+  "NameLower": {
+    "English": "Antimatter",
+    "SimplifiedChinese": "反物质",
+    "TencentChinese": "反物质",
+    "TraditionalChinese": "反物質"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "Contained negative matter and baryogenesis antiparticles.<br> <br>The vast energy potential of antimatter makes it highly valuable. 95% of existing antimatter consumption is in the powering of <span class=\"name name-technology\">starship hyperdrives</span>.<br><br><span class=\"name name-fuel\">WARNING</span>: uncontained usage is not recommended.",
+    "SimplifiedChinese": "其中包含负物质和重子反粒子。<br> <br>反物质的巨大能量潜力使它具有很高价值。95%的现有反物质用于为<span class=\"name name-technology\">飞船超光速推进器</span>提供动力。<br><br><span class=\"name name-fuel\">警告</span>：不推荐无节制的使用。",
+    "TencentChinese": "其中包含负物质和重子反粒子。<br> <br>反物质的巨大能量潜力使它具有很高价值。95%的现有反物质用于为<span class=\"name name-technology\">飞船超光速推进器</span>提供动力。<br><br><span class=\"name name-fuel\">警告</span>：不推荐无节制的使用。",
+    "TraditionalChinese": "以容器裝載的負物質與重子生成反粒子。<br> <br>反物質可能蘊含強大能量，因此極為珍貴。目前的反物質總消耗量中，有 95% 是用來為<span class=\"name name-technology\">太空船超空間驅動器</span>提供能量。<br><br><span class=\"name name-fuel\">警告</span>：不建議暴露於外部使用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 5233,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.antimatter.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 25
+    },
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.043,
+    "HighPriceMod": 0.043,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 1.5
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000335384626,
+  "NormalisedValueOffWorld": 0.000503109011,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Antimatter",
+    "SimplifiedChinese": "制作反物质",
+    "TencentChinese": "制作反物质",
+    "TraditionalChinese": "製作反物質"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Antimatter from <span class=\"name name-fuel\">Condensed Carbon</span> and <span class=\"name name-special\">Chromatic Metal</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Refine <span class=\"name name-fuel\">Condensed Carbon</span> from regular, plant-based carbon. Refine <span class=\"name name-stellar\">Chromatic Metal</span> from large mineral deposits found with the <span class=\"name name-technology\">Analysis Visor</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">浓缩碳</span>和<span class=\"name name-special\">有色金属</span>制作反物质。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>使用普通植物碳精炼出<span class=\"name name-fuel\">浓缩碳</span>。使用通过<span class=\"name name-technology\">分析面甲</span>发现的大型矿床中的矿物精炼<span class=\"name name-stellar\">有色金属</span>。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">浓缩碳</span>和<span class=\"name name-special\">有色金属</span>制作反物质。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>使用普通植物碳精炼出<span class=\"name name-fuel\">浓缩碳</span>。使用通过<span class=\"name name-technology\">分析面甲</span>发现的大型矿床中的矿物精炼<span class=\"name name-stellar\">有色金属</span>。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">濃縮碳</span>和<span class=\"name name-special\">有色金屬</span>製作反物質。用 <span class=\"name name-img\">PRODMENU</span> 在空的<span class=\"name name-technology\">道具欄位</span>製作。<br>一般常見的植物碳可精製成<span class=\"name name-fuel\">濃縮碳</span>。使用<span class=\"name name-technology\">分析護目鏡</span>發現的大型礦物資源產地可精製出<span class=\"name name-stellar\">有色金屬</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,109 @@
+{
+  "ID": "MEGAPROD2",
+  "Name": {
+    "English": "QUANTUM PROCESSOR",
+    "SimplifiedChinese": "量子处理器",
+    "TencentChinese": "量子处理器",
+    "TraditionalChinese": "量子處理器"
+  },
+  "NameLower": {
+    "English": "Quantum Processor",
+    "SimplifiedChinese": "量子处理器",
+    "TencentChinese": "量子处理器",
+    "TraditionalChinese": "量子處理器"
+  },
+  "Subtitle": {
+    "English": "Advanced Crafted Product",
+    "SimplifiedChinese": "先进铸造物",
+    "TencentChinese": "先进铸造物",
+    "TraditionalChinese": "精工改良產品"
+  },
+  "Description": {
+    "English": "A highly advanced computational device, essential for the complex calculations involved in warp travel.<br><br>Crafted from <span class=\"name name-technology\">Circuit Boards</span> and <span class=\"name name-technology\">Superconductors</span>.",
+    "SimplifiedChinese": "高级计算设备，曲速航行中进行复杂计算的必需品。<br><br>由<span class=\"name name-technology\">电路板</span>和<span class=\"name name-technology\">超导体</span>制作。",
+    "TencentChinese": "高级计算设备，曲速航行中进行复杂计算的必需品。<br><br>由<span class=\"name name-technology\">电路板</span>和<span class=\"name name-technology\">超导体</span>制作。",
+    "TraditionalChinese": "高度先進計算裝置，為空間跳躍進行複雜計算的必要品。<br><br>可使用<span class=\"name name-technology\">電路板</span>與<span class=\"name name-technology\">超導體</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 4400000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/megaprod.2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD9": {
+      "ID": "FARMPROD9",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "COMPOUND5": {
+      "ID": "COMPOUND5",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.282051235,
+  "NormalisedValueOffWorld": 0.282051235,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Quantum Processor",
+    "SimplifiedChinese": "制作量子处理器",
+    "TencentChinese": "制作量子处理器",
+    "TraditionalChinese": "製作量子處理器"
+  },
+  "PinObjectiveTip": {
+    "English": "Highly advanced crafting product. Learn the relevant blueprints by raiding <span class=\"name name-technology\">planetary factories</span> or from the <span class=\"name name-stellar\">Synthesis Lab</span> on the <span class=\"name name-special\">Space Anomaly</span>.<br>Craft from <span class=\"name name-commodity\">Circuit Boards</span> and <span class=\"name name-commodity\">Superconductors</span>.",
+    "SimplifiedChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>或在<span class=\"name name-special\">太空异象</span>上的<span class=\"name name-stellar\">合成实验室</span>学习相关设计图。<br>由<span class=\"name name-commodity\">电路板</span>和<span class=\"name name-commodity\">超导体</span>制作而成。",
+    "TencentChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>学习相关设计图。<br>由<span class=\"name name-commodity\">电路板</span>和<span class=\"name name-commodity\">超导体</span>制作而成。",
+    "TraditionalChinese": "非常先進的製作產品。襲擊<span class=\"name name-technology\">星球工廠</span>或從<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-stellar\">合成實驗室</span>來了解相關設計圖。<br>由<span class=\"name name-commodity\">電路板</span>和<span class=\"name name-commodity\">超導體</span>製作而成。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

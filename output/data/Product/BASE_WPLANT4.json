@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_WPLANT4",
+  "Name": {
+    "English": "ARMORED ANEMONE",
+    "SimplifiedChinese": "装甲海葵",
+    "TraditionalChinese": "裝甲海葵"
+  },
+  "NameLower": {
+    "English": "Armored Anemone",
+    "SimplifiedChinese": "装甲海葵",
+    "TraditionalChinese": "裝甲海葵"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A carnivorous marine organism. An armoured shell encloses the core polyp, exposing only the stinging tentacles. Involuntary nerve spasms cause the creature to writhe perpetually: always seeking, always hungering.",
+    "SimplifiedChinese": "肉食类海洋有机物。核心息肉外面覆盖着一层坚硬的甲壳，只有用来蛰刺的触手暴露在外。不由自主的神经抽搐会使这种生物保持在扭动的状态中：永远在饥肠辘辘地寻觅着猎物。",
+    "TraditionalChinese": "一種肉食性海洋有機體。裝甲外殼包裹著核心息肉，只露出刺絲胞觸手。無意識的神經痙攣導致此生物永遠在扭動：總是在追尋，總是在飢餓。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.waterplant04.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.waterplant04.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "WATERPLANT": {
+      "ID": "WATERPLANT",
+      "Type": "Substance",
+      "Amount": 80
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

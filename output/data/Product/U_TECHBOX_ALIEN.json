@@ -1,0 +1,89 @@
+{
+  "ID": "U_TECHBOX_ALIEN",
+  "Name": {
+    "English": "%NAME% IMPLANT",
+    "SimplifiedChinese": "%NAME%植入",
+    "TraditionalChinese": "%NAME%植入物"
+  },
+  "NameLower": {
+    "English": "%NAME% IMPLANT Implant",
+    "SimplifiedChinese": "%NAME%植入植入",
+    "TraditionalChinese": "%NAME%植入物植入物"
+  },
+  "Subtitle": {
+    "English": "Potent Nodule",
+    "SimplifiedChinese": "强效节点",
+    "TraditionalChinese": "強力結節"
+  },
+  "Description": {
+    "English": "A pre-grown bionic implant, designed to facilitate the fusion of <span class=\"name name-technology\">bio-technology</span> to <span class=\"name name-technology\">sentient starships</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin the <span class=\"name name-stellar\">installation process</span>.<br><br>%TECH_DESC%",
+    "SimplifiedChinese": "预生成生物植入体，旨在促进<span class=\"name name-technology\">生物技术</span>与<span class=\"name name-technology\">有感知力的飞船</span>的融合。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>启动<span class=\"name name-stellar\">安装流程</span>。<br><br>%TECH_DESC%",
+    "TraditionalChinese": "預先生長的生物植入物，用來促進將<span class=\"name name-technology\">生物科技</span>結合至<span class=\"name name-technology\">感知太空船</span>。按下 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 即可開始進行<span class=\"name name-stellar\">安裝程序</span>。<br><br>%TECH_DESC%"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 480,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.stem3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000307051305,
+  "NormalisedValueOffWorld": 0.0000307051305,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "STRONGLASER",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase %NAME% IMPLANT Implant from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买%NAME%植入植入",
+    "TencentChinese": "从空间站的交易终端购买%NAME%植入植入",
+    "TraditionalChinese": "從太空站交易終端站購買%NAME%植入物植入物"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

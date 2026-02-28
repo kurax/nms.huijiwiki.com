@@ -1,0 +1,89 @@
+{
+  "ID": "ROGUE_KEY",
+  "Name": {
+    "English": "A DREADFUL WAILING",
+    "SimplifiedChinese": "绝望哀嚎",
+    "TraditionalChinese": "鬼哭神號"
+  },
+  "NameLower": {
+    "English": "A Dreadful Wailing",
+    "SimplifiedChinese": "绝望哀嚎",
+    "TraditionalChinese": "鬼哭神號"
+  },
+  "Subtitle": {
+    "English": "Loop Artifact",
+    "SimplifiedChinese": "循环遗物",
+    "TraditionalChinese": "迴圈器物"
+  },
+  "Description": {
+    "English": "A relentless, despairing cry that will not let you rest. Listen at a <span class=\"name name-stellar\">personally significant location</span> to remember what has been forgotten.<br><br>DEATH IS NOT THE END <span class=\"name name-img\">SLASH</span> THE LOOP CONTINUES",
+    "SimplifiedChinese": "无休止的绝望哀嚎。在一个<span class=\"name name-stellar\">对个人而言有重要意义的地点</span>回想起被遗忘的东西。<br><br>死亡不是结束<span class=\"name name-img\">SLASH</span>循环将会继续",
+    "TraditionalChinese": "讓你無法休息的持續不斷絕望嚎叫。在<span class=\"name name-stellar\">個人關鍵地點</span>聆聽來取回遺忘的記憶。<br><br>死亡並非終結<span class=\"name name-img\">SLASH</span> 迴圈將會繼續"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguekey.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft A Dreadful Wailing",
+    "SimplifiedChinese": "制作绝望哀嚎",
+    "TencentChinese": "制作绝望哀嚎",
+    "TraditionalChinese": "製作鬼哭神號"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

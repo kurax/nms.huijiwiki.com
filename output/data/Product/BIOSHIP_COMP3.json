@@ -1,0 +1,105 @@
+{
+  "ID": "BIOSHIP_COMP3",
+  "Name": {
+    "English": "IMPOSSIBLE MEMBRANE",
+    "SimplifiedChinese": "匪夷所思的膜",
+    "TraditionalChinese": "不可思議黏膜"
+  },
+  "NameLower": {
+    "English": "Impossible Membrane",
+    "SimplifiedChinese": "匪夷所思的膜",
+    "TraditionalChinese": "不可思議黏膜"
+  },
+  "Subtitle": {
+    "English": "Auto-Regenerating Lifeform",
+    "SimplifiedChinese": "自动再生的生命体",
+    "TraditionalChinese": "自動恢復生命體"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">biomechanical construct</span>, created to the design of an anonymous host.<br><br>A fine mesh of tightly woven fibre. Micro-organisms embedded within the weave allow it to regenerate endlessly, a perfect and infinite bionic skin.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">生物力学结构</span>，根据匿名宿主的设计创造出来。<br><br>一个由紧密编织的纤维制成的细网，嵌入织物中的微生物使它能够无休止地再生，是一种完美而无限的仿生皮肤。",
+    "TraditionalChinese": "根據匿名宿主設計所打造的<span class=\"name name-stellar\">生物力學裝置</span>。<br><br>由纖維緊密織成的細網。藏在織線間的微生物能夠無止盡重生細網，是完美的無限仿生皮膚。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.biocomp3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "EYEBALL": {
+      "ID": "EYEBALL",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "EXOTIC_BIOPROD": {
+      "ID": "EXOTIC_BIOPROD",
+      "Type": "Product",
+      "Amount": 150
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Impossible Membrane",
+    "SimplifiedChinese": "寻找匪夷所思的膜",
+    "TencentChinese": "寻找匪夷所思的膜",
+    "TraditionalChinese": "找出不可思議黏膜"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,104 @@
+{
+  "ID": "NANOTUBES",
+  "Name": {
+    "English": "CARBON NANOTUBES",
+    "SimplifiedChinese": "碳纳米管",
+    "TencentChinese": "碳纳米管",
+    "TraditionalChinese": "奈米碳管"
+  },
+  "NameLower": {
+    "English": "Carbon Nanotubes",
+    "SimplifiedChinese": "碳纳米管",
+    "TencentChinese": "碳纳米管",
+    "TraditionalChinese": "奈米碳管"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "Meters and meters of high capacity <span class=\"name name-fuel\">carbon nanotubes</span>.<br><br>Their high tensile strength and mild conductivity make these a key component in many <span class=\"name name-technology\">advanced technologies</span>.",
+    "SimplifiedChinese": "特长的高容量<span class=\"name name-fuel\">碳纳米管</span>。<br><br>它的高抗拉强度和温和的导电性使它成为许多<span class=\"name name-technology\">先进技术</span>的关键部件。",
+    "TencentChinese": "特长的高容量<span class=\"name name-fuel\">碳纳米管</span>。<br><br>它的高抗拉强度和温和的导电性使它成为许多<span class=\"name name-technology\">先进技术</span>的关键部件。",
+    "TraditionalChinese": "數公尺長的高容量<span class=\"name name-fuel\">奈米碳管</span>。<br><br>抗張強度高、輕微導電，許多<span class=\"name name-technology\">先進科技</span>都少不了這項元件。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.nanotubes.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Carbon Nanotubes",
+    "SimplifiedChinese": "制作碳纳米管",
+    "TencentChinese": "制作碳纳米管",
+    "TraditionalChinese": "製作奈米碳管"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft <span class=\"name name-commodity\">Carbon Nanotubes</span> from <span class=\"name name-fuel\">Carbon</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Gather <span class=\"name name-fuel\">Carbon</span> from plants and trees using the <span class=\"name name-technology\">Mining Laser</span>. Fire the laser with <span class=\"name name-img\">ATTACK</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">碳</span>制作<span class=\"name name-commodity\">碳纳米管</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>使用<span class=\"name name-technology\">开采激光</span>从植物和树中收集<span class=\"name name-fuel\">碳</span>。使用<span class=\"name name-img\">ATTACK</span>发射激光。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">碳</span>制作<span class=\"name name-commodity\">碳纳米管</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>使用<span class=\"name name-technology\">开采激光</span>从植物和树中收集<span class=\"name name-fuel\">碳</span>。使用<span class=\"name name-img\">ATTACK</span>发射激光。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">碳</span>製作<span class=\"name name-commodity\">奈米碳管</span>。使用 <span class=\"name name-img\">PRODMENU</span> 在空的<span class=\"name name-technology\">道具欄位</span>製作。<br>使用<span class=\"name name-technology\">採礦雷射</span>從植物和樹木收集<span class=\"name name-fuel\">碳</span>。按下 <span class=\"name name-img\">ATTACK</span> 發射雷射光束。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Suit_Protection",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

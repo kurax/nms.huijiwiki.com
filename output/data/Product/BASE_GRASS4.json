@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_GRASS4",
+  "Name": {
+    "English": "LOOPING GRASS",
+    "SimplifiedChinese": "环形草",
+    "TraditionalChinese": "迴圈草"
+  },
+  "NameLower": {
+    "English": "Looping Grass",
+    "SimplifiedChinese": "环形草",
+    "TraditionalChinese": "迴圈草"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A tough ornamental grass, suitable for growing in all biomes, soil types, and weather conditions. This variety features attractively curled blades, which furl and unfurl to allow the plant to maintain a constant internal temperature.",
+    "SimplifiedChinese": "一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。这个品种的特点是形态优美的卷曲叶片，它能够卷曲和展开，使植物保持恒定的内部温度。",
+    "TraditionalChinese": "一種堅韌的觀賞草，適合在所有生物群落、土壤類型和天氣條件下生長。此品種具有迷人的捲曲葉片，透過捲曲和展開葉片，以讓植物保持恆溫。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.grass04.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.grass04.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

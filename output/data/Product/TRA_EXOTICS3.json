@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_EXOTICS3",
+  "Name": {
+    "English": "INSTABILITY INJECTOR",
+    "SimplifiedChinese": "不稳定注射器",
+    "TencentChinese": "不稳定注射器",
+    "TraditionalChinese": "無常生成器"
+  },
+  "NameLower": {
+    "English": "Instability Injector",
+    "SimplifiedChinese": "不稳定注射器",
+    "TencentChinese": "不稳定注射器",
+    "TraditionalChinese": "無常生成器"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Scientific)",
+    "SimplifiedChinese": "交易货物（科学）",
+    "TencentChinese": "科研原件",
+    "TraditionalChinese": "貿易商品 (科學)"
+  },
+  "Description": {
+    "English": "A jumbled box of instability injectors.<br><br>Grand experiments often require a large number of variables to be changed in a very short period of time. An instability injector provides such a service. They can also be used to create chaos in market systems; such unethical behavior represents an excellent <span class=\"name name-special\">trading</span> opportunity.",
+    "SimplifiedChinese": "一盒乱七八糟的不稳定注射器。<br><br>大型试验通常需要在非常短的时间内更改大量变量。一只不稳定注射器能够达成这种目标。还可以使用它们来在贸易系统中制造混乱；这种不道德的行为实乃<span class=\"name name-special\">贸易</span>良机。",
+    "TencentChinese": "一盒乱七八糟的不稳定注射器。<br><br>大型试验通常需要在非常短的时间内更改大量变量。一只不稳定注射器能够达成这种目标。还可以使用它们来在贸易系统中制造混乱；这种不道德的行为实乃<span class=\"name name-special\">贸易</span>良机。",
+    "TraditionalChinese": "一大箱的無常生成器。<br><br>大型實驗常需要在短時間內更動大量變數。無常生成器能提供以上服務，造成市場系統混亂。如此不道德的行為能帶來絕佳的<span class=\"name name-special\">商業</span>機會。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.exotics3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000961474434,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "Exotic",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.7,
+  "PinObjective": {
+    "English": "Purchase Instability Injector from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买不稳定注射器",
+    "TencentChinese": "从空间站的交易终端购买不稳定注射器",
+    "TraditionalChinese": "從太空站交易終端站購買無常生成器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

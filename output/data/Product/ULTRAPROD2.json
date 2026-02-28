@@ -1,0 +1,114 @@
+{
+  "ID": "ULTRAPROD2",
+  "Name": {
+    "English": "STASIS DEVICE",
+    "SimplifiedChinese": "休眠设备",
+    "TencentChinese": "休眠设备",
+    "TraditionalChinese": "休眠裝置"
+  },
+  "NameLower": {
+    "English": "Stasis Device",
+    "SimplifiedChinese": "休眠设备",
+    "TencentChinese": "休眠设备",
+    "TraditionalChinese": "休眠裝置"
+  },
+  "Subtitle": {
+    "English": "Highly Refined Technology",
+    "SimplifiedChinese": "高精制技术",
+    "TencentChinese": "高精制技术",
+    "TraditionalChinese": "高度精製科技"
+  },
+  "Description": {
+    "English": "A device specifically crafted to keep lifeforms alive for thousands of years longer than their natural lifespan. Such a device requires great skill to manufacture, as not only is it technically complex, but the consequences for a user in the event of malfunction would be disastrous.<br><br>Crafted from <span class=\"name name-technology\">Quantum Processors</span>, <span class=\"name name-technology\">Cryogenic Chambers</span>, and <span class=\"name name-special\">Iridesite</span>.",
+    "SimplifiedChinese": "能使生命体比其自然寿命多存活几千年的设备。这种设备需要高超的技术制造，不仅技术复杂，而且一旦发生故障，将对使用者造成毁灭性影响。<br><br>由<span class=\"name name-technology\">量子处理器</span>、<span class=\"name name-technology\">低温舱</span>和<span class=\"name name-special\">辐矿</span>制作。",
+    "TencentChinese": "能使生命体比其自然寿命多存活几千年的设备。这种设备需要高超的技术制造，不仅技术复杂，而且一旦发生故障，将对使用者造成难以预估的影响。<br><br>由<span class=\"name name-technology\">量子处理器</span>、<span class=\"name name-technology\">低温舱</span>和<span class=\"name name-special\">辐矿</span>制作。",
+    "TraditionalChinese": "特地製造來讓生命體活得比自然生命週期長上數千年的裝置。此裝置不僅科技繁複，故障的話還會對使用者產生災難性的後果，因此其製造需要高超技術。<br><br>可使用<span class=\"name name-technology\">量子處理器</span>、<span class=\"name name-technology\">低溫艙</span>與<span class=\"name name-special\">霓虹石</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15600000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/ultraprod.2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "MEGAPROD2": {
+      "ID": "MEGAPROD2",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "MEGAPROD3": {
+      "ID": "MEGAPROD3",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ALLOY8": {
+      "ID": "ALLOY8",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 1,
+  "NormalisedValueOffWorld": 1,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Stasis Device",
+    "SimplifiedChinese": "制作休眠设备",
+    "TencentChinese": "制作休眠设备",
+    "TraditionalChinese": "製作休眠裝置"
+  },
+  "PinObjectiveTip": {
+    "English": "Highly advanced crafting product. Learn the relevant blueprints by raiding <span class=\"name name-technology\">planetary factories</span> or from the <span class=\"name name-stellar\">Synthesis Lab</span> on the <span class=\"name name-special\">Space Anomaly</span>.<br>Craft from <span class=\"name name-commodity\">Quantum Processor</span>, <span class=\"name name-commodity\">Cryogenic Chamber</span> and <span class=\"name name-commodity\">Iridesite</span>",
+    "SimplifiedChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>或在<span class=\"name name-special\">太空异象</span>上的<span class=\"name name-stellar\">合成实验室</span>学习相关设计图。<br>由<span class=\"name name-commodity\">量子处理器</span>、<span class=\"name name-commodity\">低温舱</span>和<span class=\"name name-commodity\">辐矿</span>制作而成。",
+    "TencentChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>学习相关设计图。<br>由<span class=\"name name-commodity\">量子处理器</span>、<span class=\"name name-commodity\">低温箱</span>和<span class=\"name name-commodity\">辐矿</span>制作而成。",
+    "TraditionalChinese": "非常先進的製作產品。襲擊<span class=\"name name-technology\">星球工廠</span>或從<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-stellar\">合成實驗室</span>來了解相關設計圖。<br>由<span class=\"name name-commodity\">量子處理器</span>、<span class=\"name name-commodity\">低溫艙</span>和<span class=\"name name-commodity\">霓虹石</span>製作而成"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

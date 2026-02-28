@@ -1,0 +1,110 @@
+{
+  "ID": "COMPUTER",
+  "Name": {
+    "English": "QUANTUM COMPUTER",
+    "SimplifiedChinese": "量子电脑",
+    "TraditionalChinese": "量子電腦"
+  },
+  "NameLower": {
+    "English": "Quantum Computer",
+    "SimplifiedChinese": "量子电脑",
+    "TraditionalChinese": "量子電腦"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "An extremely fast <span class=\"name name-technology\">advanced processing unit</span>. Allows real-time solving of otherwise impossible calculations. However, protection against decoherence is not guaranteed.<br><br>Used in the creation of a wide range of <span class=\"name name-technology\">advanced technologies</span>.",
+    "SimplifiedChinese": "一种速度极快的<span class=\"name name-technology\">高级处理单元</span>。允许实时处理原本不可能完成的计算。但是，不能保证防止退相干。<br><br>可用于创造各种<span class=\"name name-technology\">高级技术</span>。",
+    "TraditionalChinese": "極快的<span class=\"name name-technology\">先進處理器</span>。能夠即時處理其他電腦無法處理的計算，但可能發生去相干現象。<br><br>能用來製造各式<span class=\"name name-technology\">先進科技</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 4200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.computer.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "MICROCHIP": {
+      "ID": "MICROCHIP",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 1.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000269166689,
+  "NormalisedValueOffWorld": 0.000269166689,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Quantum Computer",
+    "SimplifiedChinese": "制作量子电脑",
+    "TencentChinese": "制作量子电脑",
+    "TraditionalChinese": "製作量子電腦"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Quantum Computer from <span class=\"name name-commodity\">Microprocessors</span>, <span class=\"name name-fuel\">Antimatter</span> and <span class=\"name name-special\">Chromatic Metal</span>.<br><br>Craft <span class=\"name name-commodity\">Microprocessors</span> or purchase at a <span class=\"name name-technology\">Trade Terminal</span>.<br>Craft <span class=\"name name-fuel\">Antimatter</span> from <span class=\"name name-special\">Chromatic Metal</span> and <span class=\"name name-fuel\">Condensed Carbon</span>.<br><span class=\"name name-special\">Chromatic Metal</span> is created in a <span class=\"name name-technology\">Refiner</span> from the <span class=\"name name-stellar\">stellar metals</span>: <span class=\"name name-commodity\">Copper</span>, <span class=\"name name-fuel\">Cadmium</span>, <span class=\"name name-tradeable\">Emeril</span> and <span class=\"name name-technology\">Indium</span>.",
+    "SimplifiedChinese": "用<span class=\"name name-commodity\">微处理器</span>、<span class=\"name name-fuel\">反物质</span>和<span class=\"name name-special\">有色金属</span>制作量子电脑。<br><br>制作<span class=\"name name-commodity\">微处理器</span>或从<span class=\"name name-technology\">交易终端</span>购买。<br>用<span class=\"name name-special\">有色金属</span>和<span class=\"name name-fuel\">浓缩碳</span>制作<span class=\"name name-fuel\">反物质</span>。<br><span class=\"name name-special\">有色金属</span>可采用<span class=\"name name-technology\">精炼机</span>从<span class=\"name name-stellar\">恒星金属</span>中制得：<span class=\"name name-commodity\">铜</span>、<span class=\"name name-fuel\">镉</span>、<span class=\"name name-tradeable\">艾梅里尔</span>和<span class=\"name name-technology\">铟</span>。",
+    "TraditionalChinese": "以<span class=\"name name-commodity\">微處理機</span>、<span class=\"name name-fuel\">反物質</span>和<span class=\"name name-special\">有色金屬</span>製作量子電腦。<br><br>可製作<span class=\"name name-commodity\">微處理機</span>或在<span class=\"name name-technology\">交易終端站</span>購買。<br>以<span class=\"name name-special\">有色金屬</span>和<span class=\"name name-fuel\">濃縮碳</span>製作<span class=\"name name-fuel\">反物質</span>。<br><span class=\"name name-special\">有色金屬</span>是以<span class=\"name name-technology\">精製機</span>加工以下<span class=\"name name-stellar\">星體金屬</span>而成：<span class=\"name name-commodity\">銅</span>、<span class=\"name name-fuel\">鎘</span>、<span class=\"name name-tradeable\">砪</span>、<span class=\"name name-technology\">銦</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

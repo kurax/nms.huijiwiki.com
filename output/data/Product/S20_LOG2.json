@@ -1,0 +1,89 @@
+{
+  "ID": "S20_LOG2",
+  "Name": {
+    "English": "LOG OF THE FIRESHIP ARCADIA",
+    "SimplifiedChinese": "火船阿卡迪亚号日志",
+    "TraditionalChinese": "火之船阿卡迪亞的日誌"
+  },
+  "NameLower": {
+    "English": "Log of the Fireship Arcadia",
+    "SimplifiedChinese": "火船阿卡迪亚号日志",
+    "TraditionalChinese": "火之船阿卡迪亞的日誌"
+  },
+  "Subtitle": {
+    "English": ":: Datestamp 22518.24 ::",
+    "SimplifiedChinese": ":: 日期22518.24 ::",
+    "TraditionalChinese": ":: 日期戳記 22518.24 ::"
+  },
+  "Description": {
+    "English": "<span class=\"name name-img\">SLASH</span>LOG CORRUPT <span class=\"name name-img\">CLOCK</span> RECOVERING DAMAGED SECTORS<span class=\"name name-img\">SLASH</span><br><br><VAL_ON>\"going from bad to worse<br>can't wait to get home<br>navigation ::: distorted ::: nothing but static<br>warping but ::: just empty systems<br>::: lost in some abandoned sector?\"<>",
+    "SimplifiedChinese": "<span class=\"name name-img\">SLASH</span>日志损坏<span class=\"name name-img\">CLOCK</span>正在恢复损坏扇区<span class=\"name name-img\">SLASH</span><br><br>“<VAL_ON>情况越来越糟了<br>我已经等不及要回家了<br>导航:::失真:::只有静电噪音<br>在曲速航行但:::都只是空荡荡的星系<br>:::在某个被遗弃的星区迷失了吗？”<>",
+    "TraditionalChinese": "<span class=\"name name-img\">SLASH</span> 日誌毀損 <span class=\"name name-img\">CLOCK</span> 正在復原受損區塊 <span class=\"name name-img\">SLASH</span><br><br>「<VAL_ON>情況每況愈下<br>等不及要回家了<br>導航:::扭曲:::只剩雜音<br>進行了空間跳躍但:::空蕩蕩的系統<br>::: 迷失在某個被遺棄的區域？」<>"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.logkey.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Log of the Fireship Arcadia",
+    "SimplifiedChinese": "制作火船阿卡迪亚号日志",
+    "TencentChinese": "制作火船阿卡迪亚号日志",
+    "TraditionalChinese": "製作火之船阿卡迪亞的日誌"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

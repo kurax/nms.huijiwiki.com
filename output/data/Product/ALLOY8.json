@@ -1,0 +1,114 @@
+{
+  "ID": "ALLOY8",
+  "Name": {
+    "English": "IRIDESITE",
+    "SimplifiedChinese": "辐矿",
+    "TencentChinese": "辐矿",
+    "TraditionalChinese": "霓虹石"
+  },
+  "NameLower": {
+    "English": "Iridesite",
+    "SimplifiedChinese": "辐矿",
+    "TencentChinese": "辐矿",
+    "TraditionalChinese": "霓虹石"
+  },
+  "Subtitle": {
+    "English": "Enriched Alloy Metal",
+    "SimplifiedChinese": "强化合金",
+    "TencentChinese": "强化合金",
+    "TraditionalChinese": "濃化合金"
+  },
+  "Description": {
+    "English": "Advanced light metal alloy traded throughout the galactic Outer Edge. Often used in the interiors of trading shuttles to reduce weight as they ascend from planets with high gravitational fields.<br><br>Crafted from <span class=\"name name-special\">Aronium</span>, <span class=\"name name-special\">Magno-Gold</span> and <span class=\"name name-special\">Grantine</span>.",
+    "SimplifiedChinese": "星系外缘各处均有交易的高级轻金属合金。通常用在贸易飞船的内部，减轻飞船从高重力的星球升空时的重量。<br><br>由<span class=\"name name-special\">阿洛姆</span>、<span class=\"name name-special\">镍锰金</span>和<span class=\"name name-special\">格兰丁</span>制作。",
+    "TencentChinese": "星系外缘各处均有交易的高级轻金属合金。通常用在贸易飞船的内部，减轻飞船从高重力的星球升空时的重量。<br><br>由<span class=\"name name-special\">阿洛姆</span>、<span class=\"name name-special\">镍锰金</span>和<span class=\"name name-special\">格兰丁</span>制作。",
+    "TraditionalChinese": "在外圍星域全境廣泛流通的先進輕合金。常用於貿易船的內部架構，以減輕重量，便於從高重力場星球起飛。<br><br>可使用<span class=\"name name-special\">鑨</span>、<span class=\"name name-special\">磁金</span>與<span class=\"name name-special\">大鋰</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 150000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.iridisite.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ALLOY1": {
+      "ID": "ALLOY1",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ALLOY5": {
+      "ID": "ALLOY5",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ALLOY6": {
+      "ID": "ALLOY6",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00961532071,
+  "NormalisedValueOffWorld": 0.00961532071,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Iridesite",
+    "SimplifiedChinese": "制作或精炼辐矿",
+    "TencentChinese": "制作或精炼辐矿",
+    "TraditionalChinese": "製作或精製霓虹石"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Iridesite from <span class=\"name name-special\">Aronium</span>, <span class=\"name name-special\">Magno-Gold</span> and <span class=\"name name-special\">Grantine</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-special\">阿洛姆</span>、<span class=\"name name-special\">镍锰金</span>和<span class=\"name name-special\">格兰丁</span>制作或精炼出辐矿。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。",
+    "TencentChinese": "使用<span class=\"name name-special\">阿洛姆</span>、<span class=\"name name-special\">镍锰金</span>和<span class=\"name name-special\">格兰丁</span>制作或精炼出辐矿。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。",
+    "TraditionalChinese": "將<span class=\"name name-special\">鑨</span>、<span class=\"name name-special\">磁金</span>及<span class=\"name name-special\">大鋰</span>製作或精製成霓虹石。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

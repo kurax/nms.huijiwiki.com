@@ -1,0 +1,93 @@
+{
+  "ID": "POLICE_TOKEN",
+  "Name": {
+    "English": "DEFENSE CHIT",
+    "SimplifiedChinese": "防御便函",
+    "TencentChinese": "防御便函",
+    "TraditionalChinese": "防衛信函"
+  },
+  "NameLower": {
+    "English": "Defense Chit",
+    "SimplifiedChinese": "防御便函",
+    "TencentChinese": "防御便函",
+    "TraditionalChinese": "防衛信函"
+  },
+  "Subtitle": {
+    "English": "System Authority Payment Substitute",
+    "SimplifiedChinese": "系统当局支付替代品",
+    "TencentChinese": "系统当局支付替代品",
+    "TraditionalChinese": "系統當局付費替代品"
+  },
+  "Description": {
+    "English": "A token, entitling the bearer to support from the system authorities in dealing with pirate attacks.",
+    "SimplifiedChinese": "一种代币，可使持有人在面对海盗攻击时获得系统当局的支援。",
+    "TencentChinese": "一种代币，可使持有人在面对海寇攻击时获得系统当局的支援。",
+    "TraditionalChinese": "一個象徵，賦予持有者系統當局的支持來對付海盜攻擊。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 10000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/policetoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 30,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000640961574,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Defense Chit from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买防御便函",
+    "TencentChinese": "从空间站的交易终端购买防御便函",
+    "TraditionalChinese": "從太空站交易終端站購買防衛信函"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

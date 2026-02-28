@@ -1,0 +1,105 @@
+{
+  "ID": "FISHBAIT_3",
+  "Name": {
+    "English": "BIONIC LURE",
+    "SimplifiedChinese": "仿生诱饵",
+    "TraditionalChinese": "仿生假餌"
+  },
+  "NameLower": {
+    "English": "Bionic Lure",
+    "SimplifiedChinese": "仿生诱饵",
+    "TraditionalChinese": "仿生假餌"
+  },
+  "Subtitle": {
+    "English": "Fishing Bait",
+    "SimplifiedChinese": "鱼饵",
+    "TraditionalChinese": "魚餌"
+  },
+  "Description": {
+    "English": "A specialist <span class=\"name name-stellar\">lure</span>, designed to vastly improve the size and rarity of your catch. Of particular interest to anglers seeking <span class=\"name name-commodity\">legendary fish</span>.<br><br>Locate your <span class=\"name name-technology\">Fishing Rig</span> and begin bait application with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "一份专业<span class=\"name name-stellar\">诱饵</span>，用于显著提高渔获的尺寸与稀有度。对于寻觅<span class=\"name name-commodity\">传说鱼类</span>的垂钓者来说有着极大的用处。<br><br>定位你的<span class=\"name name-technology\">渔具</span>并按<span class=\"name name-img\">FE_ALT1</span>开始使用诱饵。",
+    "TraditionalChinese": "專用的<span class=\"name name-stellar\">假餌</span>，可以更大幅度地提升漁獲的大小和稀有度。特別適合尋求<span class=\"name name-commodity\">傳奇魚類</span>的釣客。<br><br>找出你的<span class=\"name name-technology\">釣具</span>，然後使用 <span class=\"name name-img\">FE_ALT1</span> 上餌。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 450,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.fishbait.3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 50,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 30,
+  "Requirements": {
+    "BIO": {
+      "ID": "BIO",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "POWERCELL": {
+      "ID": "POWERCELL",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "FARMPROD2": {
+      "ID": "FARMPROD2",
+      "Type": "Product",
+      "Amount": 3
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000287820531,
+  "NormalisedValueOffWorld": 0.0000287820531,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Craft Bionic Lure",
+    "SimplifiedChinese": "制作仿生诱饵",
+    "TencentChinese": "制作仿生诱饵",
+    "TraditionalChinese": "製作仿生假餌"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,104 @@
+{
+  "ID": "FRIG_BOOST_EXP",
+  "Name": {
+    "English": "HOLOGRAPHIC ANALYSER",
+    "SimplifiedChinese": "全息分析器",
+    "TencentChinese": "全息分析器",
+    "TraditionalChinese": "全像分析儀"
+  },
+  "NameLower": {
+    "English": "Holographic Analyzer",
+    "SimplifiedChinese": "全息分析器",
+    "TencentChinese": "全息分析器",
+    "TraditionalChinese": "全像分析儀"
+  },
+  "Subtitle": {
+    "English": "Consumable Frigate Upgrade",
+    "SimplifiedChinese": "可消耗巡航舰升级",
+    "TencentChinese": "可消耗巡航舰升级",
+    "TraditionalChinese": "消耗型巡防艦升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">temporary frigate upgrade</span> that lasts for one expedition.<br><br>This powerful analytic computer overclocks the existing fleet systems, allowing for faster-than-light calculations. Heat is a problem, and the chips do not last long.",
+    "SimplifiedChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。这种强大的分析电脑使现有的舰队系统超频，达到超光速的计算速度。发热是一个问题，而芯片不耐久。",
+    "TencentChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。这种强大的分析电脑使现有的舰队系统超频，达到超光速的计算速度。发热是一个问题，而芯片不耐久。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">臨時性巡防艦升級</span>，僅能維持一次的探險。強大的分析型電腦，能讓現有艦隊系統超頻，進行超越光速的計算。但過熱是個問題，晶片也不持久。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 75000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.frigboost.explore.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "COMPUTER": {
+      "ID": "COMPUTER",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00480762869,
+  "NormalisedValueOffWorld": 0.00480762869,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Holographic Analyzer",
+    "SimplifiedChinese": "制作或购买全息分析器",
+    "TencentChinese": "制作或购买全息分析器",
+    "TraditionalChinese": "製造或購買全像分析儀"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

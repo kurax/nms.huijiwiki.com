@@ -1,0 +1,98 @@
+{
+  "ID": "CAVE_CRAFT",
+  "Name": {
+    "English": "COBALT MIRROR",
+    "SimplifiedChinese": "钴镜",
+    "TencentChinese": "钴镜",
+    "TraditionalChinese": "鈷鏡"
+  },
+  "NameLower": {
+    "English": "Cobalt Mirror",
+    "SimplifiedChinese": "钴镜",
+    "TencentChinese": "钴镜",
+    "TraditionalChinese": "鈷鏡"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A specialist optical component.<br><br>Employing a polished cobalt surface, this mirror is able to selectively filter different wavelengths of light, changing its reflective pattern based on nearby magnetic fields.",
+    "SimplifiedChinese": "专用的光学部件。<br><br>该镜采用抛光的钴面，能够选择性地过滤不同波长的光，并根据附近的磁场改变反射模式。",
+    "TencentChinese": "专用的光学部件。<br><br>该镜采用抛光的钴面，能够选择性地过滤不同波长的光，并根据附近的磁场改变反射模式。",
+    "TraditionalChinese": "一個專家級光學元件。<br><br>經拋光處理的鈷表面，這面鏡子能夠選擇性的過濾不同波長的光線，並根據週遭的磁場而改變反射規則。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 20500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.cobaltmirror.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00131403853,
+  "NormalisedValueOffWorld": 0.00131403853,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Cobalt Mirror",
+    "SimplifiedChinese": "制作或购买钴镜",
+    "TencentChinese": "制作或购买钴镜",
+    "TraditionalChinese": "製造或購買鈷鏡"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft <span class=\"name name-commodity\">Cobalt Mirrors</span> from <span class=\"name name-technology\">Cobalt</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br><span class=\"name name-technology\">Cobalt</span> is readily extracted from <span class=\"name name-earth\">subterranean rock deposits</span>. Locate natural cave entrances.",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">钴</span>制作<span class=\"name name-commodity\">钴镜</span>。使用 <span class=\"name name-img\">PRODMENU</span> 在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-technology\">钴</span>。寻找天然洞穴的入口。",
+    "TencentChinese": "使用<span class=\"name name-technology\">钴</span>制作<span class=\"name name-commodity\">钴镜</span>。使用 <span class=\"name name-img\">PRODMENU</span> 在空置<span class=\"name name-technology\">库存栏位</span>中制作。<br>从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-technology\">钴</span>。寻找天然洞穴的入口。",
+    "TraditionalChinese": "以<span class=\"name name-technology\">鈷</span>製作<span class=\"name name-commodity\">鈷鏡</span>。按下 <span class=\"name name-img\">PRODMENU</span> 在空的<span class=\"name name-technology\">道具欄欄位</span>中製作。<br>從<span class=\"name name-earth\">地下岩石資源產地</span>輕易即可萃取<span class=\"name name-technology\">鈷</span>。找出天然洞穴入口。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "AP_HYPER1",
+  "Name": {
+    "English": "SINGULARITY CORTEX NODE",
+    "SimplifiedChinese": "奇点主茎节点",
+    "TraditionalChinese": "奇異點皮質節點"
+  },
+  "NameLower": {
+    "English": "Singularity Cortex Node",
+    "SimplifiedChinese": "奇点主茎节点",
+    "TraditionalChinese": "奇異點皮質節點"
+  },
+  "Subtitle": {
+    "English": "Singularity Cortex Upgrade",
+    "SimplifiedChinese": "奇点主茎升级",
+    "TraditionalChinese": "奇異點皮質升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the <span class=\"name name-technology\">Singularity Cortex</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">warp-drive efficiency</span> and <span class=\"name name-stellar\">jump distance</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">奇点主茎</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">曲速引擎效率</span>和<span class=\"name name-stellar\">跃迁距离</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">奇異點皮質</span>的<span class=\"name name-tradeable\">一般</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">空間跳躍驅動器的效率</span>和<span class=\"name name-stellar\">跳躍距離</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 60,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctechalien.c.hyperdrive.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00000378205164,
+  "NormalisedValueOffWorld": 0.00000378205164,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UA_HYP1",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Singularity Cortex Node from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买奇点主茎节点",
+    "TencentChinese": "从空间站的交易终端购买奇点主茎节点",
+    "TraditionalChinese": "從太空站交易終端站購買奇異點皮質節點"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,91 @@
+{
+  "ID": "S_SIGN_BAR2",
+  "Name": {
+    "English": "\"SHIP AND PILOT\" SIGN",
+    "SimplifiedChinese": "“飞船与驾驶员”标志",
+    "TraditionalChinese": "「太空船與駕駛員」招牌"
+  },
+  "NameLower": {
+    "English": "\"Ship and Pilot\" Sign",
+    "SimplifiedChinese": "“飞船与驾驶员”标志",
+    "TraditionalChinese": "「太空船與駕駛員」招牌"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An attention-grabbing welcome sign, illuminated by an array of gas-discharge tubes.<br><br>Design salvaged from the lively Gek saloon known as the \"Ship and Pilot\".",
+    "SimplifiedChinese": "由一系列气体放电管拼凑而成的欢迎标志，看上去十分引人瞩目。<br><br>标志造型来源于人声鼎沸的吉克酒馆“飞船与驾驶员”。",
+    "TraditionalChinese": "一個引人注目的歡迎招牌，使用一列氣體放電管發光。<br><br>從一間充滿活力的吉客族沙龍：「太空船與駕駛員」回收而來的設計。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.s_sign_bar02.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.s_sign_bar02.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

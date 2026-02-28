@@ -1,0 +1,89 @@
+{
+  "ID": "STAFF_CORE2",
+  "Name": {
+    "English": "HAVOC CORE",
+    "SimplifiedChinese": "浩劫核心",
+    "TraditionalChinese": "浩劫核心"
+  },
+  "NameLower": {
+    "English": "Havoc Core",
+    "SimplifiedChinese": "浩劫核心",
+    "TraditionalChinese": "浩劫核心"
+  },
+  "Subtitle": {
+    "English": "Autophage Staff Core",
+    "SimplifiedChinese": "自噬体长杖核心",
+    "TraditionalChinese": "自噬手杖核心"
+  },
+  "Description": {
+    "English": "This tightly-package electronic unit forms the <span class=\"name name-stellar\">core</span> of a <span class=\"name name-technology\">Autophage staff</span>.<br><br>One of three core components, this can be assembled into a staff at the <span class=\"name name-technology\">Autophage Synthesis Terminal</span> found at all Autophage camps.",
+    "SimplifiedChinese": "这个紧密封装的电子单元构成了<span class=\"name name-technology\">自噬体长杖</span>的<span class=\"name name-stellar\">核心</span>。<br><br>作为三种核心构件之一，此物可以在所有自噬体营地都有的<span class=\"name name-technology\">自噬体合成终端</span>上组装成长杖。",
+    "TraditionalChinese": "<span class=\"name name-technology\">自噬手杖</span>的<span class=\"name name-stellar\">核心</span>，由緊密封裝的電子單位所組成。<br><br>三個核心元件之一，可以在所有自噬營地都能找到的<span class=\"name name-technology\">自噬合成終端站</span>組裝成手杖。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 646,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/robotparts/robotparts.staffcore.2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.549019635,
+    "G": 0.294117659,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000748718216,
+  "NormalisedValueOffWorld": 0.000748718216,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Havoc Core",
+    "SimplifiedChinese": "寻找或购买浩劫核心",
+    "TencentChinese": "寻找或购买浩劫核心",
+    "TraditionalChinese": "找出或購買浩劫核心"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

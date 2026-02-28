@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_ENERGY3",
+  "Name": {
+    "English": "OHMIC GEL",
+    "SimplifiedChinese": "电阻凝胶",
+    "TencentChinese": "电阻凝胶",
+    "TraditionalChinese": "歐姆凝膠"
+  },
+  "NameLower": {
+    "English": "Ohmic Gel",
+    "SimplifiedChinese": "电阻凝胶",
+    "TencentChinese": "电阻凝胶",
+    "TraditionalChinese": "歐姆凝膠"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Energy Source)",
+    "SimplifiedChinese": "交易货物（能源）",
+    "TencentChinese": "可交易能源",
+    "TraditionalChinese": "貿易商品 (能量供給源)"
+  },
+  "Description": {
+    "English": "Several packets of ohmic gel.<br><br>Power-hungry <span class=\"name name-special\">mining</span> operations are fraught with danger. Ohmic gel helps keep rapidly moving parts both insulated and lubricated.",
+    "SimplifiedChinese": "数包电阻凝胶。<br><br>消耗大量能源的<span class=\"name name-special\">采矿</span>作业很可能发生险情。电阻凝胶能够帮助快速移动的部件保持绝缘与润滑的状态。",
+    "TencentChinese": "数包电阻凝胶。<br><br>消耗大量能源的<span class=\"name name-special\">采矿</span>作业很可能发生险情。电阻凝胶能够帮助快速移动的部件保持绝缘与润滑的状态。",
+    "TraditionalChinese": "數包歐姆凝膠。<br><br><span class=\"name name-special\">礦業</span>開採耗費大量能源且危機四伏。歐姆凝膠能讓高速運轉的零件保持絕緣潤滑。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.energy3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000961474434,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "Energy",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.7,
+  "PinObjective": {
+    "English": "Purchase Ohmic Gel from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买电阻凝胶",
+    "TencentChinese": "从空间站的交易终端购买电阻凝胶",
+    "TraditionalChinese": "從太空站交易終端站購買歐姆凝膠"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

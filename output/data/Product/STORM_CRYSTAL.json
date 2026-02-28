@@ -1,0 +1,97 @@
+{
+  "ID": "STORM_CRYSTAL",
+  "Name": {
+    "English": "STORM CRYSTAL",
+    "SimplifiedChinese": "风暴水晶",
+    "TencentChinese": "风暴水晶",
+    "TraditionalChinese": "風暴晶"
+  },
+  "NameLower": {
+    "English": "Storm Crystal",
+    "SimplifiedChinese": "风暴水晶",
+    "TencentChinese": "风暴水晶",
+    "TraditionalChinese": "風暴晶"
+  },
+  "Subtitle": {
+    "English": "Unique valuable curiosity",
+    "SimplifiedChinese": "独特的珍品",
+    "TencentChinese": "独特的珍品",
+    "TraditionalChinese": "獨特珍貴的奇珍異寶"
+  },
+  "Description": {
+    "English": "A rare and highly valuable cluster of storm crystals. These crystalline structures thrive in stormy conditions, and naturally attract lightning strikes, becoming spectacularly luminescent when ionized. Exclusively found on <span class=\"name name-fuel\">extreme weather planets</span>.",
+    "SimplifiedChinese": "一簇稀有而珍贵的风暴水晶。这种晶体结构只会在风暴条件下形成，而且会自然吸引雷击，当离子化时会发出极其明亮的光芒。仅在<span class=\"name name-fuel\">极端气候行星</span>上才能找到。",
+    "TencentChinese": "一簇稀有而珍贵的风暴水晶。这种晶体结构只会在风暴条件下形成，而且会自然吸引雷击，当离子化时会发出极其明亮的光芒。仅在<span class=\"name name-fuel\">极端气候行星</span>上才能找到。",
+    "TraditionalChinese": "罕見且高度珍貴的風暴晶群。這些晶體在風暴環境中更形旺盛，且會自然吸引閃電，在離子化後自然發光。僅可在<span class=\"name name-fuel\">極端天氣星球</span>上找到。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 206000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.stormcrystal.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.05,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0135351932,
+  "NormalisedValueOffWorld": 0.0135351932,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Storm Crystal",
+    "SimplifiedChinese": "寻找风暴水晶",
+    "TencentChinese": "寻找风暴水晶",
+    "TraditionalChinese": "找出風暴晶"
+  },
+  "PinObjectiveTip": {
+    "English": "Storm Crystals occur naturally on planets with <span class=\"name name-fuel\">extreme weather</span>, and can be harvested during an active storm.<br>Locate Storm Crystals using the <span class=\"name name-technology\">Analysis Visor</span>.",
+    "SimplifiedChinese": "风暴水晶自然出现在具有<span class=\"name name-fuel\">极端天气</span>的行星上，可以在风暴期间收获。<br>使用<span class=\"name name-technology\">分析面甲</span>定位风暴水晶。",
+    "TraditionalChinese": "風暴晶在<span class=\"name name-fuel\">極端天氣</span>星球中自然出產，可在風暴中採集。<br>利用<span class=\"name name-technology\">分析護目鏡</span>可找到風暴晶。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "StormCrystal",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

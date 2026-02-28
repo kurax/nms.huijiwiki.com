@@ -1,0 +1,89 @@
+{
+  "ID": "F_COLD_LEG_XL",
+  "Name": {
+    "English": "NAUTILIA",
+    "SimplifiedChinese": "鹦鹉螺",
+    "TraditionalChinese": "鸚鵡巨螺"
+  },
+  "NameLower": {
+    "English": "Nautilia",
+    "SimplifiedChinese": "鹦鹉螺",
+    "TraditionalChinese": "鸚鵡巨螺"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"None would believe the scale of this beast: its colossal shell, its enormous slimy foot. None, except those who have seen it...\"",
+    "SimplifiedChinese": "“超乎想象的深海巨兽：硕大无比的甲壳还有像一座座粘滑山丘一样的触须。除非亲眼所见，否则没有人会相信世间竟存在这样的生物......“",
+    "TraditionalChinese": "「沒有人會相信這頭野獸的大小：龐大無比的殼體和黏滑的巨足。只有親眼見過的人才會相信眼前所見......。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product2.fish.snail.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Nautilia",
+    "SimplifiedChinese": "寻找鹦鹉螺",
+    "TencentChinese": "寻找鹦鹉螺",
+    "TraditionalChinese": "找出鸚鵡巨螺"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

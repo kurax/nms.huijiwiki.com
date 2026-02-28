@@ -1,0 +1,93 @@
+{
+  "ID": "S10_SOUL",
+  "Name": {
+    "English": "ECHO SEED",
+    "SimplifiedChinese": "回音种子",
+    "TraditionalChinese": "回音種子"
+  },
+  "NameLower": {
+    "English": "Echo Seed",
+    "SimplifiedChinese": "回音种子",
+    "TraditionalChinese": "回音種子"
+  },
+  "Subtitle": {
+    "English": "Crystalline Sentience Cage",
+    "SimplifiedChinese": "结晶智慧生命笼",
+    "TraditionalChinese": "晶狀智慧生物框架"
+  },
+  "Description": {
+    "English": "The <span class=\"name name-technology\">Seed</span> is an echo of life, the last reverberations of a living being.<br><br>This sentience was fused with a lattice of <span class=\"name name-special\">Atlantideum</span>, as though it had germinated together with the crystal.",
+    "SimplifiedChinese": "<span class=\"name name-technology\">种子</span>是生命的回音，象征着一个鲜活的生命最后的反响。<br><br>这个智慧生命已经与一层<span class=\"name name-special\">亚特拉迪姆</span>融为一体，就像是它与水晶一同发芽成长一般。",
+    "TraditionalChinese": "<span class=\"name name-technology\">種子</span>是生命的回音，是生命體最後的回響。<br><br>此智慧生物已與<span class=\"name name-special\">亞特蘭提德鋼</span>晶格結合，彷彿伴隨著晶體一同成長。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.s10.soulseed.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Echo Seed",
+    "SimplifiedChinese": "寻找回音种子",
+    "TencentChinese": "寻找回音种子",
+    "TraditionalChinese": "找出回音種子"
+  },
+  "PinObjectiveTip": {
+    "English": "On <span class=\"name name-special\">dissonant</span> worlds, use the <span class=\"name name-technology\">Analysis Visor</span> (<span class=\"name name-img\">AIM</span>) to locate <span class=\"name name-special\">Sentience Echoes</span>.<br>At an echo site, deploy a <span class=\"name name-technology\">Scan Harmonizer</span> or <span class=\"name name-technology\">Polyphonic Core</span> with <span class=\"name name-img\">SCAN</span>.",
+    "SimplifiedChinese": "在<span class=\"name name-special\">不谐世界</span>上时，使用<span class=\"name name-technology\">分析面甲</span>（<span class=\"name name-img\">AIM</span>）定位<span class=\"name name-special\">智慧回音</span>。<br>在一处回音地点使用<span class=\"name name-img\">SCAN</span>部署<span class=\"name name-technology\">扫描和谐器</span>或者<span class=\"name name-technology\">复调核心</span>。",
+    "TraditionalChinese": "在<span class=\"name name-special\">不和諧</span>世界，使用<span class=\"name name-technology\">分析護目鏡</span> (<span class=\"name name-img\">AIM</span>) 找到<span class=\"name name-special\">智慧生物回音</span>。<br>位於回音地點時，使用 <span class=\"name name-img\">SCAN</span> 部署<span class=\"name name-technology\">掃描協和器</span>或<span class=\"name name-technology\">複音核心</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_TECH3",
+  "Name": {
+    "English": "ION CAPACITOR",
+    "SimplifiedChinese": "离子电容器",
+    "TencentChinese": "离子电容器",
+    "TraditionalChinese": "離子電容器"
+  },
+  "NameLower": {
+    "English": "Ion Capacitor",
+    "SimplifiedChinese": "离子电容器",
+    "TencentChinese": "离子电容器",
+    "TraditionalChinese": "離子電容器"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Technology)",
+    "SimplifiedChinese": "交易货物（技术）",
+    "TencentChinese": "技术部件",
+    "TraditionalChinese": "貿易商品 (科技)"
+  },
+  "Description": {
+    "English": "A reinforced crate of ion capacitors.<br><br>These supercapacitors have an incredibly high energy density. In great demand in <span class=\"name name-special\">power generation</span> economies.",
+    "SimplifiedChinese": "装有离子电容器的加固箱。<br><br>这些超级电容器含有不可思议的能源密度。<span class=\"name name-special\">发电</span>型经济体中对它们有着大量需求。",
+    "TencentChinese": "装有离子电容器的加固箱。<br><br>这些超级电容器含有不可思议的能源密度。<span class=\"name name-special\">发电</span>型经济体中对它们有着大量需求。",
+    "TraditionalChinese": "強化箱中裝有離子電容器。<br><br>這些超級電容器儲存了超高能量。<span class=\"name name-special\">發電</span>經濟體有大量需求。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.tech3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000961474434,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "Tech",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.7,
+  "PinObjective": {
+    "English": "Purchase Ion Capacitor from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买离子电容器",
+    "TencentChinese": "从空间站的交易终端购买离子电容器",
+    "TraditionalChinese": "從太空站交易終端站購買離子電容器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

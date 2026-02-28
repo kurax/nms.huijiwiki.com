@@ -1,0 +1,89 @@
+{
+  "ID": "SCRAP_TECH",
+  "Name": {
+    "English": "SUSPICIOUS PACKET (TECH)",
+    "SimplifiedChinese": "可疑的包裹（技术）",
+    "TraditionalChinese": "可疑包裹 (科技)"
+  },
+  "NameLower": {
+    "English": "Suspicious Packet (Tech)",
+    "SimplifiedChinese": "可疑的包裹（技术）",
+    "TraditionalChinese": "可疑包裹 (科技)"
+  },
+  "Subtitle": {
+    "English": "Contraband",
+    "SimplifiedChinese": "违禁品",
+    "TraditionalChinese": "禁運品"
+  },
+  "Description": {
+    "English": "A suspicious looking parcel, acquired via an unusual transaction. The seller indicated it contained some sort of high-value or interesting item.<br><br>Select in the Inventory (<span class=\"name name-img\">INVENTORY</span>) and use <span class=\"name name-img\">FE_ALT1</span> to examine the contents. No refunds.",
+    "SimplifiedChinese": "通过不寻常的交易获得的可疑包裹。卖家表示它内含某种高价值或有趣的物品。<br><br>在库存（<span class=\"name name-img\">INVENTORY</span>）中选择它并用<span class=\"name name-img\">FE_ALT1</span>检查内容。恕不退款。",
+    "TraditionalChinese": "看來可疑的包裹，透過不尋常的交易取得。賣家表示裡面是某種高價值或是會引起興趣的物品。<br><br>在道具欄（<span class=\"name name-img\">INVENTORY</span>）中選擇，再用<span class=\"name name-img\">FE_ALT1</span>檢視內容物。不得退貨。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.scrap.tech.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 300,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.05,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Suspicious Packet (Tech)",
+    "SimplifiedChinese": "寻找可疑的包裹（技术）",
+    "TencentChinese": "寻找可疑的包裹（技术）",
+    "TraditionalChinese": "找出可疑包裹 (科技)"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

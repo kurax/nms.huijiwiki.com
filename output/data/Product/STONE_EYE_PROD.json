@@ -1,0 +1,89 @@
+{
+  "ID": "STONE_EYE_PROD",
+  "Name": {
+    "English": "VIGILANT STONE",
+    "SimplifiedChinese": "警觉的石头",
+    "TraditionalChinese": "機警之石"
+  },
+  "NameLower": {
+    "English": "Vigilant Stone",
+    "SimplifiedChinese": "警觉的石头",
+    "TraditionalChinese": "機警之石"
+  },
+  "Subtitle": {
+    "English": "Unblinking Eye",
+    "SimplifiedChinese": "永远睁开的眼睛",
+    "TraditionalChinese": "不眨之眼"
+  },
+  "Description": {
+    "English": "An eye of living stone: waiting, watching. A relic left by a slumbering guardian, keeping sentry over ancient creature burial grounds.<br><br><span class=\"name name-fuel\">Warning</span>: Disturbing the eye may disturb the slumber of <span class=\"name name-special\">living stone guardians</span>. Ensure re-animated guardians are defeated before storing this relic in the home.",
+    "SimplifiedChinese": "活石的眼睛：永远在等待与监视。一位沉睡的守护者留下的遗物，这个眼睛永远守护着远古生物的埋葬地。<br><br><span class=\"name name-fuel\">警告</span>：惊动眼睛有可能会唤醒沉睡的<span class=\"name name-special\">活石守护者</span>。将这件遗物放入家中之前，请确保你已经打败所有复苏的守护者。",
+    "TraditionalChinese": "活石頭之眼：持續等待、持續觀察。這是沉睡的守護者留下的遺物，它持續警戒著古老生物的埋葬地。<br><br><span class=\"name name-fuel\">警告</span>：擾亂眼睛的視線可能會打擾到<span class=\"name name-special\">活石頭守護者</span>的沉睡。在把這個遺物帶回家之前，請務必先擊敗回復活動的守護者。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 102000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.stoneeye.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00653839763,
+  "NormalisedValueOffWorld": 0.00653839763,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Vigilant Stone",
+    "SimplifiedChinese": "寻找警觉的石头",
+    "TencentChinese": "寻找警觉的石头",
+    "TraditionalChinese": "找出機警之石"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

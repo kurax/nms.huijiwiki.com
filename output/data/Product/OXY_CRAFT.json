@@ -1,0 +1,98 @@
+{
+  "ID": "OXY_CRAFT",
+  "Name": {
+    "English": "OXYGEN FILTER",
+    "SimplifiedChinese": "氧气过滤器",
+    "TencentChinese": "氧气过滤器",
+    "TraditionalChinese": "氧氣過濾器"
+  },
+  "NameLower": {
+    "English": "Oxygen Filter",
+    "SimplifiedChinese": "氧气过滤器",
+    "TencentChinese": "氧气过滤器",
+    "TraditionalChinese": "氧氣過濾器"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A specialist technology component.<br><br>This small device can rapidly change the gaseous environment within a device, handling conditions from total vacuum to pure oxygen atmospheres.",
+    "SimplifiedChinese": "专用的技术部件。<br><br>这种小型装置可以快速改变某设备内的气体环境，应对从全真空到纯氧大气的各种状况。",
+    "TencentChinese": "专用的技术部件。<br><br>这种小型装置可以快速改变某设备内的气体环境，应对从全真空到纯氧大气的各种状况。",
+    "TraditionalChinese": "一個專家級科技元件。<br><br>這具小型裝置可以迅速改變裝置內的氣體環境，並可處理包括完全真空到純氧的狀況。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 615,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.oxycraft.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000393589762,
+  "NormalisedValueOffWorld": 0.0000393589762,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Oxygen Filter",
+    "SimplifiedChinese": "制作或购买氧气过滤器",
+    "TencentChinese": "制作或购买氧气过滤器",
+    "TraditionalChinese": "製造或購買氧氣過濾器"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft <span class=\"name name-commodity\">Oxygen Filters</span> from <span class=\"name name-fuel\">Oxygen</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br><span class=\"name name-fuel\">Oxygen</span> can be harvested from red plants found on all planets. Locate oxygen-rich plants with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>).",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">氧</span>制作<span class=\"name name-commodity\">氧过滤器</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br><span class=\"name name-fuel\">氧</span>可以从所有行星上都有的红色植物中采集。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富氧植物。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">氧</span>制作<span class=\"name name-commodity\">氧过滤器</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br><span class=\"name name-fuel\">氧</span>可以从所有行星上都有的红色植物中采集。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富氧植物。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">氧</span>製作<span class=\"name name-commodity\">氧過濾器</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。<br><span class=\"name name-fuel\">氧</span>可以從所有行星上都有的紅色植物中採收。使用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）定位富氧植物。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

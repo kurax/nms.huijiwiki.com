@@ -1,0 +1,104 @@
+{
+  "ID": "FARMPROD6",
+  "Name": {
+    "English": "UNSTABLE GEL",
+    "SimplifiedChinese": "不稳定的凝胶",
+    "TencentChinese": "不稳定的凝胶",
+    "TraditionalChinese": "不穩定凝膠"
+  },
+  "NameLower": {
+    "English": "Unstable Gel",
+    "SimplifiedChinese": "不稳定的凝胶",
+    "TencentChinese": "不稳定的凝胶",
+    "TraditionalChinese": "不穩定凝膠"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "A highly reactive gel, this substance is both energy-rich and dangerous to touch.<br><br>Crafted from <span class=\"name name-tradeable\">Cactus Flesh</span>.",
+    "SimplifiedChinese": "高反应性凝胶，这种物质不仅高能，而且具有危险性。<br><br>由<span class=\"name name-tradeable\">仙人掌肉</span>制作。",
+    "TencentChinese": "高反应性凝胶，这种物质不仅高能，而且具有危险性。<br><br>由<span class=\"name name-tradeable\">仙人掌肉</span>制作。",
+    "TraditionalChinese": "活性極高的凝膠物質，富含能量且不能觸摸。<br><br>可使用<span class=\"name name-tradeable\">仙人掌肉</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.6.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "PLANT_DUST": {
+      "ID": "PLANT_DUST",
+      "Type": "Substance",
+      "Amount": 200
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.02240224,
+  "NormalisedValueOffWorld": 0.02240224,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Unstable Gel",
+    "SimplifiedChinese": "制作不稳定的凝胶",
+    "TencentChinese": "制作不稳定的凝胶",
+    "TraditionalChinese": "製作不穩定凝膠"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-tradeable\">Cactus Flesh</span>. Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.<br>Cactus Flesh can be farmed, or found wild on <span class=\"name name-stellar\">barren planets</span>.",
+    "SimplifiedChinese": "由<span class=\"name name-tradeable\">仙人掌肉</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>仙人掌肉可以通过种植获得，也能在<span class=\"name name-stellar\">贫瘠星球</span>上找到。",
+    "TencentChinese": "由<span class=\"name name-tradeable\">仙人掌肉</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>仙人掌肉可以通过种植获得，也能在<span class=\"name name-stellar\">贫瘠星球</span>上找到。",
+    "TraditionalChinese": "以<span class=\"name name-tradeable\">仙人掌肉</span>製作。在基地裡借助<span class=\"name name-technology\">科學專家</span>來了解設計圖。<br>仙人掌肉可以在<span class=\"name name-stellar\">荒蕪星球</span>上栽種或於野外採集。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

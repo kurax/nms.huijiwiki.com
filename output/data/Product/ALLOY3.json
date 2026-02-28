@@ -1,0 +1,109 @@
+{
+  "ID": "ALLOY3",
+  "Name": {
+    "English": "HEROX",
+    "SimplifiedChinese": "赫罗克斯",
+    "TencentChinese": "赫罗克斯",
+    "TraditionalChinese": "赫羅克斯"
+  },
+  "NameLower": {
+    "English": "Herox",
+    "SimplifiedChinese": "赫罗克斯",
+    "TencentChinese": "赫罗克斯",
+    "TraditionalChinese": "赫羅克斯"
+  },
+  "Subtitle": {
+    "English": "Alloy Metal",
+    "SimplifiedChinese": "合金金属",
+    "TencentChinese": "合金金属",
+    "TraditionalChinese": "合金"
+  },
+  "Description": {
+    "English": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from <span class=\"name name-earth\">Ionized Cobalt</span> and <span class=\"name name-earth\">Ammonia</span>.<br><br>Forms the backbone of galactic alloy trading.",
+    "SimplifiedChinese": "用途极其广泛的中性合金，从医药到重工业都有它的用武之地。由<span class=\"name name-earth\">离子钴</span>和<span class=\"name name-earth\">氨</span>制作而成。<br><br>它是星系合金贸易的核心组成部分。",
+    "TencentChinese": "用途极其广泛的中性合金，从医药到重工业都有它的用武之地。由<span class=\"name name-earth\">氯</span>和<span class=\"name name-earth\">氨</span>制作而成。<br><br>它是星系合金贸易的核心组成部分。",
+    "TraditionalChinese": "混合而成的中性合金，用途極廣；從製藥到重工業等產業均會使用。以<span class=\"name name-earth\">離子化鈷</span>和<span class=\"name name-earth\">氨</span>製作而成。<br><br>是銀河系合金貿易的基石。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 25000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.metallic.3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "TOXIC1": {
+      "ID": "TOXIC1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0.5
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0016025001,
+  "NormalisedValueOffWorld": 0.0016025001,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Herox",
+    "SimplifiedChinese": "制作或精炼赫罗克斯",
+    "TencentChinese": "制作或精炼赫罗克斯",
+    "TraditionalChinese": "製作或精製赫羅克斯"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Herox from <span class=\"name name-earth\">Ammonia</span> and <span class=\"name name-earth\">Chlorine</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Ammonia is found in large deposits on <span class=\"name name-tradeable\">toxic planets</span> with an <span class=\"name name-technology\">Analysis Visor</span>.<br>Refine Chlorine from <span class=\"name name-tradeable\">Salt</span>, which is harvested from <span class=\"name name-technology\">underwater mineral deposits</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-earth\">氨</span>和<span class=\"name name-earth\">氯</span>制作或精炼出赫罗克斯。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>氨能在<span class=\"name name-tradeable\">有毒星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-tradeable\">盐</span>中精炼出氯，盐能从<span class=\"name name-technology\">水下矿藏</span>中采集到。",
+    "TencentChinese": "使用<span class=\"name name-earth\">氨</span>和<span class=\"name name-earth\">氯</span>制作或精炼出赫罗克斯。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>氨能在<span class=\"name name-tradeable\">有毒星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-tradeable\">盐</span>中精炼出氯，盐能从<span class=\"name name-technology\">水下矿藏</span>中采集到。",
+    "TraditionalChinese": "將<span class=\"name name-earth\">氨</span>及<span class=\"name name-earth\">氯</span>製作或精製成赫羅克斯。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>氨可在<span class=\"name name-tradeable\">毒性星球</span>的大型資源產地，用<span class=\"name name-technology\">分析護目鏡</span>找到。<br>將<span class=\"name name-technology\">水底礦資源產地</span>所採收的<span class=\"name name-tradeable\">鹽</span>精製成氯。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "F_RAD_LEG_L1",
+  "Name": {
+    "English": "GAMMA SQUID",
+    "SimplifiedChinese": "伽玛鱿鱼",
+    "TraditionalChinese": "伽瑪魷魚"
+  },
+  "NameLower": {
+    "English": "Gamma Squid",
+    "SimplifiedChinese": "伽玛鱿鱼",
+    "TraditionalChinese": "伽瑪魷魚"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"A pale blue glow surrounds it as it drifts through the water - a warning to all those who would come too close...\"",
+    "SimplifiedChinese": "“淡蓝色的光芒包裹着穿梭于水下的躯体，这是在警告着所有人不要靠近自己......“",
+    "TraditionalChinese": "「牠在水中漂流，全身發出淡藍色的光暈，警告任何太過靠近的生物......」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 150000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product4.fish.squid.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Gamma Squid",
+    "SimplifiedChinese": "寻找伽玛鱿鱼",
+    "TencentChinese": "寻找伽玛鱿鱼",
+    "TraditionalChinese": "找出伽瑪魷魚"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.39,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

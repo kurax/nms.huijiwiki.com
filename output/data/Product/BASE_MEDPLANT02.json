@@ -1,0 +1,94 @@
+{
+  "ID": "BASE_MEDPLANT02",
+  "Name": {
+    "English": "DWARF PALM",
+    "SimplifiedChinese": "矮棕榈树",
+    "TencentChinese": "矮棕榈树",
+    "TraditionalChinese": "矮棕櫚"
+  },
+  "NameLower": {
+    "English": "Dwarf Palm",
+    "SimplifiedChinese": "矮棕榈树",
+    "TencentChinese": "矮棕榈树",
+    "TraditionalChinese": "矮棕櫚"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A squat, easily-managed form of the larger palm species.<br><br>Place outdoors to attract wildlife and to purify the air.",
+    "SimplifiedChinese": "大型棕榈的亚种，矮胖而易于管理。<br><br>置于户外，能引来野生动物和清洁空气。",
+    "TencentChinese": "大型棕榈的亚种，矮胖而易于管理。<br><br>置于户外，能引来野生动物和清洁空气。",
+    "TraditionalChinese": "外型較為矮胖的大型棕櫚種，易於栽植。<br><br>放置於室外可吸引野生動物並淨化空氣。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.medplant02.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.medplant02.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

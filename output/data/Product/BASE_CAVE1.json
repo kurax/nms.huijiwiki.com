@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_CAVE1",
+  "Name": {
+    "English": "SAUCER FUNGUS",
+    "SimplifiedChinese": "托盘真菌",
+    "TraditionalChinese": "碟狀真菌"
+  },
+  "NameLower": {
+    "English": "Saucer Fungus",
+    "SimplifiedChinese": "托盘真菌",
+    "TraditionalChinese": "碟狀真菌"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "This fungal growth, identifiable by its wide, smooth cap and luminescent pores, is native to a variety of cave biomes. Saucer Fungi enjoy a symbiotic relationship with many species of burrowing creatures.",
+    "SimplifiedChinese": "这种真菌可以通过宽大而光滑的伞盖和荧光色的孔洞来识别，原生于各种洞穴生物群系。托盘真菌与多种穴居生物具有共生关系。",
+    "TraditionalChinese": "這種真菌是多種洞穴生物群的原生植物，可透過又寬又平滑的菌蓋和發光的氣孔來辨別。碟狀真菌與許多穴居生物享有共生的關係。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.caveplant01.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.caveplant01.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

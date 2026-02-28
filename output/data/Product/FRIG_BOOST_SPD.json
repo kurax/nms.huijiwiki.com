@@ -1,0 +1,104 @@
+{
+  "ID": "FRIG_BOOST_SPD",
+  "Name": {
+    "English": "FUEL OXIDISER",
+    "SimplifiedChinese": "燃料氧化剂",
+    "TencentChinese": "燃料氧化剂",
+    "TraditionalChinese": "燃料氧化器"
+  },
+  "NameLower": {
+    "English": "Fuel Oxidizer",
+    "SimplifiedChinese": "燃料氧化剂",
+    "TencentChinese": "燃料氧化剂",
+    "TraditionalChinese": "燃料氧化器"
+  },
+  "Subtitle": {
+    "English": "Consumable Frigate Upgrade",
+    "SimplifiedChinese": "可消耗巡航舰升级",
+    "TencentChinese": "可消耗巡航舰升级",
+    "TraditionalChinese": "消耗型巡防艦升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">temporary frigate upgrade</span> that lasts for one expedition.<br><br>This powerful fuel upgrade overloads frigate engines, allowing for faster-than-usual travel.",
+    "SimplifiedChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>这种强大的燃料升级能超载巡航舰引擎，允许比平常更快的旅行。",
+    "TencentChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>这种强大的燃料升级能超载巡航舰引擎，允许比平常更快的旅行。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">臨時性巡防艦升級</span>，僅能維持一次的探險。<br><br>這強大的燃料升級能強化巡防艦引擎，比平常更快速移動。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 75000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.frigboost.speed.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "QUAD_PROD": {
+      "ID": "QUAD_PROD",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00480762869,
+  "NormalisedValueOffWorld": 0.00480762869,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Fuel Oxidizer",
+    "SimplifiedChinese": "制作或购买燃料氧化剂",
+    "TencentChinese": "制作或购买燃料氧化剂",
+    "TraditionalChinese": "製造或購買燃料氧化器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

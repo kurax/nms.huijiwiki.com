@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_RADPLANT03",
+  "Name": {
+    "English": "ENTWINING TREE",
+    "SimplifiedChinese": "缠绕树",
+    "TraditionalChinese": "纏木樹"
+  },
+  "NameLower": {
+    "English": "Entwining Tree",
+    "SimplifiedChinese": "缠绕树",
+    "TraditionalChinese": "纏木樹"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "This beautiful statement tree thrives in the heat of intense gamma radiation. To ensure survival in non-native environments, a chunk of high-energy material has been embedded in the trunk.<br><br>Provides decorative landscaping opportunities for bases.",
+    "SimplifiedChinese": "这种漂亮的景观树木能在伽马强辐射的炽烈照耀下茁壮成长。为了确保能在非原生环境下生存，树干中嵌入了大量的高能量物质。<br><br>可以作为基地的装饰景观。",
+    "TraditionalChinese": "這顆美麗且具象徵性的樹木在伽瑪輻射中茁壯生長，為了確保能在非原生環境中生存，它的樹幹被注入了大量的高能量素材。<br><br>可為基地提供景觀美化的機會。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.radplant03.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.radplant03.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

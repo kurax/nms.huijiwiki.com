@@ -1,0 +1,105 @@
+{
+  "ID": "S10_ROBO_BODY",
+  "Name": {
+    "English": "CONSTRUCT SHELL",
+    "SimplifiedChinese": "构造体外壳",
+    "TraditionalChinese": "構造殼體"
+  },
+  "NameLower": {
+    "English": "Construct Shell",
+    "SimplifiedChinese": "构造体外壳",
+    "TraditionalChinese": "構造殼體"
+  },
+  "Subtitle": {
+    "English": "Salvaged Autophage Component",
+    "SimplifiedChinese": "已回收的自噬体构件",
+    "TraditionalChinese": "已回收自噬元件"
+  },
+  "Description": {
+    "English": "The principal metallic carapace for a <span class=\"name name-technology\">primitive automaton</span>.<br><br>Plans for this unit were extracted from an <span class=\"name name-stellar\">autophage</span> left at an abandoned junker's camp.",
+    "SimplifiedChinese": "为<span class=\"name name-technology\">基础自动装置</span>准备的金属外壳。<br><br>该单元的制作图提取自废弃拾荒者营地中的一个<span class=\"name name-stellar\">自噬体</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">原始機械生物</span>的主要金屬甲殼。<br><br>此單位的設計圖來自被棄置在廢棄拾荒者營地的<span class=\"name name-stellar\">自噬</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 17000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.s10.robotbody.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 210
+    },
+    "VENTGEM": {
+      "ID": "VENTGEM",
+      "Type": "Product",
+      "Amount": 3
+    },
+    "PRODFUEL2": {
+      "ID": "PRODFUEL2",
+      "Type": "Product",
+      "Amount": 2
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00108967954,
+  "NormalisedValueOffWorld": 0.00108967954,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.05,
+  "PinObjective": {
+    "English": "Purchase Construct Shell from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买构造体外壳",
+    "TencentChinese": "从空间站的交易终端购买构造体外壳",
+    "TraditionalChinese": "從太空站交易終端站購買構造殼體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

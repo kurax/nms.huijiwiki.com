@@ -1,0 +1,98 @@
+{
+  "ID": "FISHCORE",
+  "Name": {
+    "English": "HADAL CORE",
+    "SimplifiedChinese": "超深渊核心",
+    "TencentChinese": "超深渊核心",
+    "TraditionalChinese": "海溝核心"
+  },
+  "NameLower": {
+    "English": "Hadal Core",
+    "SimplifiedChinese": "超深渊核心",
+    "TencentChinese": "超深渊核心",
+    "TraditionalChinese": "海溝核心"
+  },
+  "Subtitle": {
+    "English": "Horrific Sample",
+    "SimplifiedChinese": "恐怖的样本",
+    "TencentChinese": "可怕的样本",
+    "TraditionalChinese": "恐怖樣本"
+  },
+  "Description": {
+    "English": "A highly-pressurized fleshy orb.<br><br>One can feel it push back when touched, a flash of bioluminescence stirring in the inky black core of this mysterious object.",
+    "SimplifiedChinese": "高压而成的肉球。<br><br>触摸时可以感觉到它在往回推。在这个神秘物体的墨黑色核心里，搅动着一丝生物荧光。",
+    "TencentChinese": "高压而成的有机体。<br><br>触摸时可以感觉到它在往回推。在这个神秘物体的墨黑色核心里，搅动着一丝生物荧光。",
+    "TraditionalChinese": "高度受壓、充滿肉感的圓球。<br><br>觸碰時可以感受到回彈的力量，這神秘物體的墨黑色核心中，隱隱透出生物性的微光。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 97500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.fishcore.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00593743613,
+  "NormalisedValueOffWorld": 0.00593743613,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Gather Hadal Core",
+    "SimplifiedChinese": "收集超深渊核心",
+    "TencentChinese": "收集超深渊核心",
+    "TraditionalChinese": "收集海溝核心"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-special\">Hadal Cores</span> are found around <span class=\"name name-commodity\">alluring plant specimens</span> on the sea bed. Use the Galaxy Map to locate systems with ocean planets.<br><span class=\"name name-fuel\">CAUTION</span>: Hadal cores attract biological anomalies.<br>While swimming, identify <span class=\"name name-stellar\">Alluring Specimens</span> with the <span class=\"name name-technology\">Analysis Visor</span>.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span>, refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>, or travelling in a <span class=\"name name-stellar\">Nautilon Submarine</span>.",
+    "SimplifiedChinese": "<span class=\"name name-special\">超深渊核心</span>常见于海床上<span class=\"name name-commodity\">诱人的植物样本</span>附近。使用星系图定位有海洋行星的恒星系。<br><span class=\"name name-fuel\">警告</span>：超深渊核心会吸引生物异象。<br>游泳时，用<span class=\"name name-technology\">分析面甲</span>识别<span class=\"name name-stellar\">诱人样本</span>。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
+    "TencentChinese": "<span class=\"name name-special\">超深渊核心</span>常见于海床上的<span class=\"name name-commodity\">诱人的植物样本</span>附近。使用星系图定位有海洋行星的恒星系。<br><span class=\"name name-fuel\">警告</span>：超深渊核心会吸引生物异象。<br>游泳时，用<span class=\"name name-technology\">分析面甲</span>识别<span class=\"name name-stellar\">诱人样本</span>。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
+    "TraditionalChinese": "<span class=\"name name-special\">海溝核心</span>可於海底的<span class=\"name name-commodity\">誘人植物樣本</span>附近找到。利用銀河系地圖尋找含有海洋星球的星系。<br><span class=\"name name-fuel\">注意</span>：海溝核心會吸引生物異常。<br>游泳時，利用<span class=\"name name-technology\">分析護目鏡</span>來偵測<span class=\"name name-stellar\">誘人植物樣本</span>。<br>升級強化套裝的<span class=\"name name-technology\">曝氣黏膜</span>、從<span class=\"name name-tradeable\">巨藻囊</span>補充氧氣補給，或搭乘<span class=\"name name-stellar\">巡洋龍潛艇</span>前進，以提高海洋行動的效率。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Suit_Protection_WaterDrain",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

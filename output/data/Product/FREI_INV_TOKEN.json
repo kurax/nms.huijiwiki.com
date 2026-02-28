@@ -1,0 +1,89 @@
+{
+  "ID": "FREI_INV_TOKEN",
+  "Name": {
+    "English": "CARGO BULKHEAD",
+    "SimplifiedChinese": "货物舱壁",
+    "TraditionalChinese": "貨艙隔板"
+  },
+  "NameLower": {
+    "English": "Cargo Bulkhead",
+    "SimplifiedChinese": "货物舱壁",
+    "TraditionalChinese": "貨艙隔板"
+  },
+  "Subtitle": {
+    "English": "Auto-Expanding Freighter Module",
+    "SimplifiedChinese": "自动扩展货船模块",
+    "TraditionalChinese": "自動擴充貨船模組"
+  },
+  "Description": {
+    "English": "A technology module harvested from the remains of an <span class=\"name name-stellar\">abandoned freighter</span> found floating in space. May also be salvaged during <span class=\"name name-stellar\">frigate expeditions</span>.<br><br>Pre-packed nano-expanders fill out this portable unit and graft it to an existing freighter, increasing its <span class=\"name name-stellar\">inventory capacity</span>. Apply at your freighter's <span class=\"name name-technology\">Upgrade Terminal</span>.",
+    "SimplifiedChinese": "从飘浮在太空中的<span class=\"name name-stellar\">废弃货船</span>残骸里采集出来的技术模块。还可在<span class=\"name name-stellar\">护卫舰远征</span>过程中回收。<br><br>预装的纳米扩张器充斥着这个便携单位，将其移植到现有货船上后，即可增加其<span class=\"name name-stellar\">库存容量</span>。在货船的<span class=\"name name-technology\">升级终端</span>上应用。",
+    "TraditionalChinese": "從太空中漂浮的<span class=\"name name-stellar\">廢棄貨船</span>殘骸採收的科技模組，也可以在進行<span class=\"name name-stellar\">巡防艦探險</span>時回收獲得。<br><br>內含奈米擴充填料，平時體積小便利攜帶，使用時擴大至正常大小，即可接合在現有貨船上，提升貨船的<span class=\"name name-stellar\">道具欄容量</span>。可在貨船的<span class=\"name name-technology\">升級終端站</span>套用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 105000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.cargotoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0067307055,
+  "NormalisedValueOffWorld": 0.0067307055,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Cargo Bulkhead",
+    "SimplifiedChinese": "寻找货物舱壁",
+    "TencentChinese": "寻找货物舱壁",
+    "TraditionalChinese": "找出貨艙隔板"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

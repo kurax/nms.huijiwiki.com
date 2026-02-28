@@ -1,0 +1,89 @@
+{
+  "ID": "SALVAGE_TECH10",
+  "Name": {
+    "English": "STARSHIP AI VALVES",
+    "SimplifiedChinese": "飞船AI阀门",
+    "TraditionalChinese": "太空船 AI 閥"
+  },
+  "NameLower": {
+    "English": "Starship AI Valves",
+    "SimplifiedChinese": "飞船AI阀门",
+    "TraditionalChinese": "太空船 AI 閥"
+  },
+  "Subtitle": {
+    "English": "Starship Subcomponent",
+    "SimplifiedChinese": "飞船子部件",
+    "TraditionalChinese": "太空船子元件"
+  },
+  "Description": {
+    "English": "A valuable piece of broken down starship, created by a <span class=\"name name-technology\">Starship Outfitting Terminal</span> at a <span class=\"name name-tradeable\">Space Station</span>.<br><br>Component is useful only as scrap to be sold at a <VAL_ON>Trade Terminal<>.",
+    "SimplifiedChinese": "毁损飞船的一部分，还有使用价值，由<span class=\"name name-tradeable\">空间站</span>的一个<span class=\"name name-technology\">飞船装备站</span>打造。<br><br>部件只能作为废品在<VAL_ON>交易终端<>出售。",
+    "TraditionalChinese": "拆解太空船取得的珍貴元件，由<span class=\"name name-tradeable\">太空站</span>的<span class=\"name name-technology\">太空船改造終端站</span>製造。<br><br>元件只適合當作廢料在<VAL_ON>交易終端站<>出售。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 12000000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.exotics5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.769230783,
+  "NormalisedValueOffWorld": 0.769230783,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.05,
+  "PinObjective": {
+    "English": "Purchase Starship AI Valves from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买飞船AI阀门",
+    "TencentChinese": "从空间站的交易终端购买飞船AI阀门",
+    "TraditionalChinese": "從太空站交易終端站購買太空船 AI 閥"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

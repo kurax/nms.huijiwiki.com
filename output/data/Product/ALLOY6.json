@@ -1,0 +1,109 @@
+{
+  "ID": "ALLOY6",
+  "Name": {
+    "English": "GRANTINE",
+    "SimplifiedChinese": "格兰丁",
+    "TencentChinese": "格兰丁",
+    "TraditionalChinese": "大鋰"
+  },
+  "NameLower": {
+    "English": "Grantine",
+    "SimplifiedChinese": "格兰丁",
+    "TencentChinese": "格兰丁",
+    "TraditionalChinese": "大鋰"
+  },
+  "Subtitle": {
+    "English": "Alloy Metal",
+    "SimplifiedChinese": "合金金属",
+    "TencentChinese": "合金金属",
+    "TraditionalChinese": "合金"
+  },
+  "Description": {
+    "English": "Soft workable alloy favored by artisans throughout the known galaxy. Crafted from <span class=\"name name-earth\">Ionized Cobalt</span> and <span class=\"name name-earth\">Dioxite</span>.<br><br>A popular trading good, with many galactic shipping paths devoted to its sale and transport.",
+    "SimplifiedChinese": "易于加工的柔软合金，深受星系中工匠的喜爱。由<span class=\"name name-earth\">离子钴</span>和<span class=\"name name-earth\">二氧化物</span>制作。<br><br>它是很有销路的商品，星系里很多航路专门用来运输出售这种合金。",
+    "TencentChinese": "易于加工的柔软合金，深受星系中工匠的喜爱。由<span class=\"name name-earth\">离子钴</span>和<span class=\"name name-earth\">二氧化物</span>制作。<br><br>它是很有销路的商品，星系里很多航路专门用来运输出售这种合金。",
+    "TraditionalChinese": "柔軟、可塑的合金，深受全銀河系的工匠喜愛。可使用<span class=\"name name-earth\">離子化鈷</span>與<span class=\"name name-earth\">二氧化物</span>製造。<br><br>受歡迎的貿易商品，銀河系中許多貿易路線都是專門運送與銷售這種材料。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 25000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.metallic.6.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "COLD1": {
+      "ID": "COLD1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "CAVE2": {
+      "ID": "CAVE2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0.5
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0016025001,
+  "NormalisedValueOffWorld": 0.0016025001,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Grantine",
+    "SimplifiedChinese": "制作或精炼格兰丁",
+    "TencentChinese": "制作或精炼格兰丁",
+    "TraditionalChinese": "製作或精製大鋰"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Grantine from <span class=\"name name-earth\">Dioxite</span> and <span class=\"name name-technology\">Ionized Cobalt</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Dioxite is found in large deposits on <span class=\"name name-technology\">frozen planets</span> with an <span class=\"name name-technology\">Analysis Visor</span>.<br>Refine Ionized Cobalt from <span class=\"name name-technology\">Cobalt</span>, which is harvested from <span class=\"name name-technology\">subterranean mineral deposits</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-earth\">二氧化物</span>和<span class=\"name name-technology\">离子钴</span>制作或精炼格兰丁。精炼高级产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>二氧化物能在<span class=\"name name-fuel\">冻土星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-technology\">钴</span>中精炼出离子钴，钴能从<span class=\"name name-technology\">地下矿床</span>中采集到。",
+    "TencentChinese": "使用<span class=\"name name-earth\">二氧化物</span>和<span class=\"name name-technology\">离子钴</span>制作或精炼格兰丁。精炼高级产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>二氧化物能在<span class=\"name name-fuel\">冻土星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>从<span class=\"name name-technology\">钴</span>中精炼出离子钴，钴能从<span class=\"name name-technology\">地下矿床</span>中采集到。",
+    "TraditionalChinese": "使用<span class=\"name name-earth\">二氧化物</span>和<span class=\"name name-technology\">離子化鈷</span>製作或精製大鋰。精製高級產品需要<span class=\"name name-technology\">大型精製機</span>。<br>二氧化物能在<span class=\"name name-technology\">冰寒星球</span>上使用<span class=\"name name-technology\">分析護目鏡</span>在大型礦床中找到。<br>從<span class=\"name name-technology\">鈷</span>中精製出離子化鈷，鈷能從<span class=\"name name-technology\">水下礦物沉積</span>中採收到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

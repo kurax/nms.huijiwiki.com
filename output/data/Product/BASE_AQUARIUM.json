@@ -1,0 +1,99 @@
+{
+  "ID": "BASE_AQUARIUM",
+  "Name": {
+    "English": "SMALL AQUARIUM",
+    "SimplifiedChinese": "小型水族箱",
+    "TencentChinese": "小型水族箱",
+    "TraditionalChinese": "小型水族箱"
+  },
+  "NameLower": {
+    "English": "Small Aquarium",
+    "SimplifiedChinese": "小型水族箱",
+    "TencentChinese": "小型水族箱",
+    "TraditionalChinese": "小型水族箱"
+  },
+  "Subtitle": {
+    "English": "Aquatic Observation Module",
+    "SimplifiedChinese": "水栖观察模块",
+    "TencentChinese": "水栖观察模块",
+    "TraditionalChinese": "水族觀察模組"
+  },
+  "Description": {
+    "English": "A small observatory unit for studying aquatic behaviors.<br><br>Completely self-contained, with its own renewable energy source, pump array, and self-cleaning filtration systems.",
+    "SimplifiedChinese": "用于研究水栖行为的小型观察装置。<br><br>设备齐全，拥有自己的可再生能量来源、泵阵列和自清洁过滤系统。",
+    "TencentChinese": "用于研究水栖行为的小型观察装置。<br><br>设备齐全，拥有自己的可再生能量来源、泵阵列和自清洁过滤系统。",
+    "TraditionalChinese": "小型觀察單位，用以研究水族行為。<br><br>完全的生態系統，包含自己的可再生能量來源、泵陣列，以及自我清潔的過濾系統。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.aquarium.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.aquarium.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD3": {
+      "ID": "FARMPROD3",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "CLAMPEARL": {
+      "ID": "CLAMPEARL",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

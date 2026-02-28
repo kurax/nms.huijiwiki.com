@@ -1,0 +1,105 @@
+{
+  "ID": "ROGUE_BEACON",
+  "Name": {
+    "English": "WHALESONG FLUTE",
+    "SimplifiedChinese": "鲸鱼之歌长笛",
+    "TraditionalChinese": "鯨歌長笛"
+  },
+  "NameLower": {
+    "English": "Whalesong Flute",
+    "SimplifiedChinese": "鲸鱼之歌长笛",
+    "TraditionalChinese": "鯨歌長笛"
+  },
+  "Subtitle": {
+    "English": "Cosmic Melody Instrument",
+    "SimplifiedChinese": "宇宙旋律乐器",
+    "TraditionalChinese": "宇宙旋律樂器"
+  },
+  "Description": {
+    "English": "A powerful but mellow <span class=\"name name-technology\">musical instrument</span>, capable of relaying song through space via gently undulating electromagnetic waves.<br><br>Use Relay Song (<span class=\"name name-img\">FE_ALT1</span>) while in <span class=\"name name-special\">deep space</span> to broadcast the flute's melody...",
+    "SimplifiedChinese": "一个强大但是声音柔和的<span class=\"name name-technology\">乐器</span>，可以通过轻轻起伏的电磁波向太空中播放音乐。<br><br>在<span class=\"name name-special\">深空中</span>使用中继音乐播放器（<span class=\"name name-img\">FE_ALT1</span>）广播长笛的旋律......",
+    "TraditionalChinese": "強大但聲調柔和的<span class=\"name name-technology\">樂器</span>，能夠透過起伏平緩的電磁波，在太空中傳遞歌曲。<br><br>身處<span class=\"name name-special\">深空</span>時使用傳遞歌曲 (<span class=\"name name-img\">FE_ALT1</span>)，播送長笛的旋律......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguebeacon.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "SUNGOLD": {
+      "ID": "SUNGOLD",
+      "Type": "Substance",
+      "Amount": 32
+    },
+    "TIMEMILK": {
+      "ID": "TIMEMILK",
+      "Type": "Substance",
+      "Amount": 32
+    },
+    "TIMEDUST": {
+      "ID": "TIMEDUST",
+      "Type": "Substance",
+      "Amount": 32
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Whalesong Flute",
+    "SimplifiedChinese": "制作鲸鱼之歌长笛",
+    "TencentChinese": "制作鲸鱼之歌长笛",
+    "TraditionalChinese": "製作鯨歌長笛"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

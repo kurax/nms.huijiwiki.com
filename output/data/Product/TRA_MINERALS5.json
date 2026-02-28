@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_MINERALS5",
+  "Name": {
+    "English": "RE-LATTICED ARC CRYSTAL",
+    "SimplifiedChinese": "再结晶弧形水晶",
+    "TencentChinese": "再结晶弧形水晶",
+    "TraditionalChinese": "再結晶弧形水晶"
+  },
+  "NameLower": {
+    "English": "Re-latticed Arc Crystal",
+    "SimplifiedChinese": "再结晶弧形水晶",
+    "TencentChinese": "再结晶弧形水晶",
+    "TraditionalChinese": "再結晶弧形水晶"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Minerals)",
+    "SimplifiedChinese": "交易货物（矿物）",
+    "TencentChinese": "可交易材料",
+    "TraditionalChinese": "貿易商品 (礦物)"
+  },
+  "Description": {
+    "English": "A neatly wrapped parcel of re-latticed arc crystals.<br><br>Extremely rare mineral formations, arc crystals are in high demand in <span class=\"name name-special\">manufacturing</span> economies, where their hardness and conductivity is vital to several industrial processes. They also make alluring (if dangerous) jewellery.",
+    "SimplifiedChinese": "包装精美的再结晶弧形水晶。<br><br>相当罕见的矿物形态，<span class=\"name name-special\">制造业</span>经济体中需要大量的弧形水晶，这些水晶的硬度与导电性对于众多工业加工至关重要。它们也能做成迷人（也很危险）的珠宝。",
+    "TencentChinese": "包装精美的再结晶弧形水晶。<br><br>相当罕见的矿物形态，<span class=\"name name-special\">制造业</span>经济体中需要大量的弧形水晶，这些水晶的硬度与导电性对于众多工业加工至关重要。它们也能做成迷人（也很危险）的珠宝。",
+    "TraditionalChinese": "包裝工整的再結晶弧形水晶。<br><br>弧形水晶的礦物組成非常罕見，<span class=\"name name-special\">製造業</span>經濟體有大量需求。高硬度和高導電的特性能在許多工序中派上用場，也能作成迷人（帶點危險）的首飾。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 50000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.minerals5.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00320506422,
+  "NormalisedValueOffWorld": 0.00320506422,
+  "TradeCategory": "Mineral",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.4,
+  "PinObjective": {
+    "English": "Purchase Re-latticed Arc Crystal from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买再结晶弧形水晶",
+    "TencentChinese": "从空间站的交易终端购买再结晶弧形水晶",
+    "TraditionalChinese": "從太空站交易終端站購買再結晶弧形水晶"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

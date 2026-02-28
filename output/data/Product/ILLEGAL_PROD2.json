@@ -1,0 +1,92 @@
+{
+  "ID": "ILLEGAL_PROD2",
+  "Name": {
+    "English": "STOLEN DNA SAMPLES",
+    "SimplifiedChinese": "失窃的DNA样本",
+    "TraditionalChinese": "偷來的 DNA 樣本"
+  },
+  "NameLower": {
+    "English": "Stolen DNA Samples",
+    "SimplifiedChinese": "失窃的DNA样本",
+    "TraditionalChinese": "偷來的 DNA 樣本"
+  },
+  "Subtitle": {
+    "English": "Smuggled Goods",
+    "SimplifiedChinese": "走私货物",
+    "TraditionalChinese": "走私物品"
+  },
+  "Description": {
+    "English": "Sealed vials of unregistered DNA samples, free of the standard biosecurity mechanisms that prevent unlawful genetic tampering.<br><br>Purchase is <span class=\"name name-special\">illegal</span> at nearly all galactic trade terminals. Regular supply is only available within <span class=\"name name-fuel\">outlaw systems</span>.<br><br>Selling banned goods into commercially-regulated space may be <span class=\"name name-tradeable\">highly profitable</span>.",
+    "SimplifiedChinese": "密封的小瓶未登记DNA样本，缺乏防止非法篡改基因的标准生物安全机制。<br><br>在几乎所有的星系贸易终端购买此产品都是<span class=\"name name-special\">非法的</span>。只有在<span class=\"name name-fuel\">亡命之徒恒星系</span>内才有正常供应。<br><br>将违禁品倒卖到受管制的宇宙空间可能会产生<span class=\"name name-tradeable\">高额利润</span>。",
+    "TraditionalChinese": "裝有未註冊 DNA 樣本的密封小瓶，沒有防止非法基因竄改的標準生物安全機制。<br><br>在幾乎所有銀河交易終端站購買此物品，皆為<span class=\"name name-special\">違法</span>。僅可在<span class=\"name name-fuel\">亡命之徒星系</span>中取得穩定供貨。<br><br>將違禁物品販售到受商業管制的太空，有機會獲得<span class=\"name name-tradeable\">極高利潤</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 9000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.smuggling2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.219607845,
+    "G": 0.219607845,
+    "B": 0.219607845,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Illegal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000576858991,
+  "NormalisedValueOffWorld": 0.000576858991,
+  "TradeCategory": "None",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Smuggle Stolen DNA Samples",
+    "SimplifiedChinese": "走私失窃的DNA样本",
+    "TraditionalChinese": "走私偷來的 DNA 樣本"
+  },
+  "PinObjectiveTip": {
+    "English": "The sale of Stolen DNA Samples is highly regulated. Purchase is <span class=\"name name-special\">illegal</span> at most trade terminals.<br>Acquisition may be possible from <span class=\"name name-fuel\">Outlaw</span> systems.<br>Extreme caution must be used while transporting banned goods within regulated space.",
+    "SimplifiedChinese": "失窃的DNA样本的销售处于严格的管控之下。在大部分终端中购买这种产品都是<span class=\"name name-special\">非法</span>的。<br>有一定可能可以从<span class=\"name name-fuel\">亡命之徒</span>的恒星系中获得。<br>在受管制的宇宙空间内运输违禁品时必须极其小心。",
+    "TraditionalChinese": "偷來的 DNA 樣本的銷售受到高度管控。在大多數交易終端站購買此物品，皆為<span class=\"name name-special\">違法</span>。<br>可能在<span class=\"name name-fuel\">亡命之徒</span>星系獲得。<br>在受管制的太空內運輸違禁物品時，必須格外小心。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

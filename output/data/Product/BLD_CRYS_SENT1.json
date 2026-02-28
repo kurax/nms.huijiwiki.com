@@ -1,0 +1,91 @@
+{
+  "ID": "BLD_CRYS_SENT1",
+  "Name": {
+    "English": "LIVING FRAGMENT B",
+    "SimplifiedChinese": "活体碎片B",
+    "TraditionalChinese": "活體碎片 B"
+  },
+  "NameLower": {
+    "English": "Living Fragment B",
+    "SimplifiedChinese": "活体碎片B",
+    "TraditionalChinese": "活體碎片 B"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive buildable base ornament.<br><br>This is a detailed replica of the Living Fragments that litter discordant worlds, the prismatic grains that thrust from the earth in a struggle for freedom from their geological prison.",
+    "SimplifiedChinese": "一件专属的可建造基地装饰。<br><br>遍布不谐世界的活体碎片的逼真复制品，钻出地面的绚丽颗粒正在努力挣脱着地质牢笼的束缚。",
+    "TraditionalChinese": "獨特的可建造基地裝飾。<br><br>這是活體碎片的精細複製品，在不和諧世界中到處可見。突破地面的七彩稜光顆粒，在地質監牢裡掙扎渴求著自由。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.crystalsentinel1.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.crystalsentinel1.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ROBOT2": {
+      "ID": "ROBOT2",
+      "Type": "Substance",
+      "Amount": 15
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

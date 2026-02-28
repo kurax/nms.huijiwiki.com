@@ -1,0 +1,92 @@
+{
+  "ID": "U_HOTPROT1",
+  "Name": {
+    "English": "THERMAL PROTECTION MODULE",
+    "SimplifiedChinese": "热能防护模块",
+    "TencentChinese": "热能防护模块（初级）",
+    "TraditionalChinese": "熱能防護模組"
+  },
+  "NameLower": {
+    "English": "Thermal Protection Module",
+    "SimplifiedChinese": "热能防护模块",
+    "TencentChinese": "热能防护模块（初级）",
+    "TraditionalChinese": "熱能防護模組"
+  },
+  "Subtitle": {
+    "English": "Significant Thermal Protection Upgrade",
+    "SimplifiedChinese": "显著的热能防护升级",
+    "TraditionalChinese": "顯著的熱能防護升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Exosuit Thermal Protection System</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Significantly improves survival times in <span class=\"name name-fuel\">high-temperature environments</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">套装热能防护系统</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>显著提升<span class=\"name name-fuel\">高温环境</span>中的生存时间。",
+    "TencentChinese": "对<span class=\"name name-technology\">套装热能防护系统</span>的<span class=\"name name-technology\">显著</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>显著地提升<span class=\"name name-technology\">高温环境</span>中的生存时间。",
+    "TraditionalChinese": "<span class=\"name name-technology\">強化套裝熱能防護系統</span>的<span class=\"name name-technology\">重大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>顯著提升<span class=\"name name-fuel\">高溫環境</span>生存時間。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 140,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.b.heat.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00000891025684,
+  "NormalisedValueOffWorld": 0.00000891025684,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_HOT1",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Thermal Protection Module from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买热能防护模块",
+    "TencentChinese": "从空间站的交易终端购买热能防护模块（初级）",
+    "TraditionalChinese": "從太空站交易終端站購買熱能防護模組"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

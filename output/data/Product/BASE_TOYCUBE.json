@@ -1,0 +1,99 @@
+{
+  "ID": "BASE_TOYCUBE",
+  "Name": {
+    "English": "EXPANDING CUBE GADGET",
+    "SimplifiedChinese": "膨胀立方体小配件",
+    "TencentChinese": "膨胀立方体小配件",
+    "TraditionalChinese": "膨脹立方體道具"
+  },
+  "NameLower": {
+    "English": "Expanding Cube Gadget",
+    "SimplifiedChinese": "膨胀立方体小配件",
+    "TencentChinese": "膨胀立方体小配件",
+    "TraditionalChinese": "膨脹立方體道具"
+  },
+  "Subtitle": {
+    "English": "Unlockable Decoration",
+    "SimplifiedChinese": "可解锁装饰",
+    "TencentChinese": "可解锁装饰",
+    "TraditionalChinese": "可解鎖的裝飾"
+  },
+  "Description": {
+    "English": "An exclusive decorative curiosity.<br><br>This precisely crafted gadget utilizes a localized gravitational field, delighting and fascinating base visitors.",
+    "SimplifiedChinese": "专属的装饰性稀有物。<br><br>这个精雕细琢的小配件能利用局部引力场取悦基地访客。",
+    "TencentChinese": "专属的装饰性稀有物。<br><br>这个精雕细琢的小配件能利用局部引力场取悦基地访客。",
+    "TraditionalChinese": "特殊奇異的裝飾。<br><br>此作工精密的小道具會運用當地重力場，取悅並迷倒基地訪客。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.toycube.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.toycube.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "ASTEROID3": {
+      "ID": "ASTEROID3",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000512179504,
+  "NormalisedValueOffWorld": 0.0000512179504,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

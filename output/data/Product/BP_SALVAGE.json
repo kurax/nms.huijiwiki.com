@@ -1,0 +1,93 @@
+{
+  "ID": "BP_SALVAGE",
+  "Name": {
+    "English": "SALVAGED DATA",
+    "SimplifiedChinese": "已回收的数据",
+    "TencentChinese": "已回收的数据",
+    "TraditionalChinese": "回收資料"
+  },
+  "NameLower": {
+    "English": "Salvaged Data",
+    "SimplifiedChinese": "已回收的数据",
+    "TencentChinese": "已回收的数据",
+    "TraditionalChinese": "回收資料"
+  },
+  "Subtitle": {
+    "English": "Salvaged Technology",
+    "SimplifiedChinese": "已回收的技术",
+    "TencentChinese": "已回收的技术",
+    "TraditionalChinese": "回收科技"
+  },
+  "Description": {
+    "English": "The salvageable heart of some ancient technology. Unreadable in its current form.<br><br>These databanks can be spent at a <span class=\"name name-technology\">Construction Research Unit</span> and used to research new <span class=\"name name-stellar\">Construction Blueprints</span>.",
+    "SimplifiedChinese": "某种古代科技的核心，可以回收，但在其当前形式下无法读取。<br><br>这种数据库可以在<span class=\"name name-technology\">建筑研究单位</span>处使用，以用来研究新的<span class=\"name name-stellar\">建筑设计图</span>。",
+    "TencentChinese": "某种古代科技的核心，可以回收，但在其当前形式下无法读取。<br><br>这种数据库可以在<span class=\"name name-technology\">建筑研究单位</span>处使用，以用来研究新的<span class=\"name name-stellar\">建筑设计图</span>。",
+    "TraditionalChinese": "某種古老科技的可回收核心。目前無法讀取。<br><br>這些資料庫能夠在<span class=\"name name-technology\">建設研究單位</span>花費使用，研究新的<span class=\"name name-stellar\">建設設計圖</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 52000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.salvage.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00333326939,
+  "NormalisedValueOffWorld": 0.00333326939,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Salvaged Data",
+    "SimplifiedChinese": "寻找已回收的数据",
+    "TencentChinese": "寻找已回收的数据",
+    "TraditionalChinese": "找出回收資料"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "BuriedTech",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

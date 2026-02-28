@@ -1,0 +1,93 @@
+{
+  "ID": "FRIG_TOKEN",
+  "Name": {
+    "English": "SALVAGED FRIGATE MODULE",
+    "SimplifiedChinese": "已回收的护卫舰模块",
+    "TencentChinese": "已回收的护卫舰模块",
+    "TraditionalChinese": "回收巡防艦模組"
+  },
+  "NameLower": {
+    "English": "Salvaged Frigate Module",
+    "SimplifiedChinese": "回收的护卫舰模块",
+    "TencentChinese": "已回收的护卫舰模块",
+    "TraditionalChinese": "回收巡防艦模組"
+  },
+  "Subtitle": {
+    "English": "Capital Ship Wiring Platform",
+    "SimplifiedChinese": "主力飞船接线平台",
+    "TencentChinese": "主力飞船接线平台",
+    "TraditionalChinese": "主力太空船電纜平台"
+  },
+  "Description": {
+    "English": "A technology module harvested from the remains of a large interstellar starship. May be collected from <span class=\"name name-stellar\">freighter crashsites</span> or salvaged during <span class=\"name name-stellar\">frigate expeditions</span>.<br><br>Useless in its current form, a <span class=\"name name-technology\">Research Station</span> aboard your freighter may be able to convert it into useable technology.",
+    "SimplifiedChinese": "取自大型飞船残骸的一种技术模块。可以从<span class=\"name name-stellar\">货船坠毁地点</span>收集，或在<span class=\"name name-stellar\">护卫舰远征</span>期间回收。<br><br>当前状态下毫无用处，你货船上的<span class=\"name name-technology\">研究站</span>也许能把它转化成可用的技术。",
+    "TencentChinese": "取自大型飞船残骸的一种技术模块。可以从<span class=\"name name-stellar\">货船坠毁地点</span>收集，或在<span class=\"name name-stellar\">护卫舰远征</span>期间回收。<br><br>当前状态下毫无用处，你货船上的<span class=\"name name-technology\">研究站</span>也许能把它转化成可用的技术。",
+    "TraditionalChinese": "從一艘大型星際太空船收集的科技模組。可以從<span class=\"name name-stellar\">貨船失事地點</span>收集，也可以在<span class=\"name name-stellar\">巡防艦探勘</span>中回收。<br><br>目前形式無法使用，但貨船上的<span class=\"name name-technology\">研究站</span>或許可以將其轉換成有用的科技。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 95000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.frigatetoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0060896799,
+  "NormalisedValueOffWorld": 0.0060896799,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Salvaged Frigate Module",
+    "SimplifiedChinese": "寻找回收的护卫舰模块",
+    "TencentChinese": "寻找已回收的护卫舰模块",
+    "TraditionalChinese": "找出回收巡防艦模組"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

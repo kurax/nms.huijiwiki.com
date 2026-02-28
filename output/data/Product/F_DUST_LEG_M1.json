@@ -1,0 +1,89 @@
+{
+  "ID": "F_DUST_LEG_M1",
+  "Name": {
+    "English": "TITANWORM LARVA",
+    "SimplifiedChinese": "泰坦蠕虫幼虫",
+    "TraditionalChinese": "泰坦巨蟲幼蟲"
+  },
+  "NameLower": {
+    "English": "Titanworm Larva",
+    "SimplifiedChinese": "泰坦蠕虫幼虫",
+    "TraditionalChinese": "泰坦巨蟲幼蟲"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"The many-mouths arise from the darkness of the ocean; the many-mouths hunger for their home in the sand...\"",
+    "SimplifiedChinese": "“崛起于深不见底的海面之下，万众之口渴望着回归沙海之中的家园......”",
+    "TraditionalChinese": "「無數張嘴從海洋的黑暗中崛起；牠們渴望著沙漠中的家園......」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 100000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product.fish.xl.3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Titanworm Larva",
+    "SimplifiedChinese": "寻找泰坦蠕虫幼虫",
+    "TencentChinese": "寻找泰坦蠕虫幼虫",
+    "TraditionalChinese": "找出泰坦巨蟲幼蟲"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.35,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "CHART_BUI_SETTL",
+  "Name": {
+    "English": "AUTOPHAGE SETTLEMENT CHART",
+    "SimplifiedChinese": "自噬体定居点图表",
+    "TraditionalChinese": "自噬體聚居地圖"
+  },
+  "NameLower": {
+    "English": "Autophage Settlement Chart",
+    "SimplifiedChinese": "自噬体定居点图表",
+    "TraditionalChinese": "自噬體聚居地圖"
+  },
+  "Subtitle": {
+    "English": "Harmonic Planetary Chart",
+    "SimplifiedChinese": "和谐星图",
+    "TraditionalChinese": "諧波星系圖"
+  },
+  "Description": {
+    "English": "A map showing the location of a nearby Autophage planetary settlement, acquired from an <span class=\"name name-special\">Autophage Synthesis Terminal</span>.<br><br>Select the map and use <VAL_ON>Plot Route (<span class=\"name name-img\">FE_ALT1</span>)<> to pin the location in your Exosuit display.",
+    "SimplifiedChinese": "显示附近自噬体行星定居点的地图，可在<span class=\"name name-special\">自噬体合成终端</span>获取。<br><br>选择地图并使用<VAL_ON>规划路线（<span class=\"name name-img\">FE_ALT1</span>）<>以在你的套装屏幕中标记该地点。",
+    "TraditionalChinese": "顯示附近自噬體星球聚居地位置的地圖，從<span class=\"name name-special\">自噬合成終端站</span>取得。<br><br>選取地圖，並使用<VAL_ON>規劃路線功能 (<span class=\"name name-img\">FE_ALT1</span>)<>，即可在你的強化套裝顯示器中釘選該地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1499,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.settlementbuilders.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1499,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Autophage Settlement Chart",
+    "SimplifiedChinese": "寻找自噬体定居点图表",
+    "TencentChinese": "寻找自噬体定居点图表",
+    "TraditionalChinese": "找出自噬體聚居地圖"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

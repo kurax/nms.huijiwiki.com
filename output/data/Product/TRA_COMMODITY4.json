@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMMODITY4",
+  "Name": {
+    "English": "ION SPHERE",
+    "SimplifiedChinese": "离子球体",
+    "TencentChinese": "离子球体",
+    "TraditionalChinese": "離子球"
+  },
+  "NameLower": {
+    "English": "Ion Sphere",
+    "SimplifiedChinese": "离子球体",
+    "TencentChinese": "离子球体",
+    "TraditionalChinese": "離子球"
+  },
+  "Subtitle": {
+    "English": "Trade Goods",
+    "SimplifiedChinese": "交易货物",
+    "TencentChinese": "贸易商品",
+    "TraditionalChinese": "貿易商品"
+  },
+  "Description": {
+    "English": "A packed crate of ion spheres.<br><br>These delicate glass spheres house a small-scale replica of the upper atmosphere. Sparkly and hypnotic to look at, these baubles are also of importance in the manufacture of <span class=\"name name-special\">advanced material</span> alloys.",
+    "SimplifiedChinese": "一箱离子球。<br><br>这些精美玻璃球中包含着高空大气的微缩复制品。这些闪烁迷幻的珠子对于制造<span class=\"name name-special\">改进材料</span>合金有着重要意义。",
+    "TencentChinese": "一箱离子球。<br><br>这些精美玻璃球中包含着高空大气的微缩复制品。这些闪烁迷幻的珠子对于制造<span class=\"name name-special\">改进材料</span>合金有着重要意义。",
+    "TraditionalChinese": "一整箱的離子球。<br><br>精巧的玻璃球內裝有迷你版的高層大氣，閃閃發亮讓人看得頭昏眼花。這些玻璃球在製作<span class=\"name name-special\">先進素材</span>合金時能派上用場，"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.commodity4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0019230129,
+  "NormalisedValueOffWorld": 0.0019230129,
+  "TradeCategory": "Commodity",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.5,
+  "PinObjective": {
+    "English": "Purchase Ion Sphere from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买离子球体",
+    "TencentChinese": "从空间站的交易终端购买离子球体",
+    "TraditionalChinese": "從太空站交易終端站購買離子球"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

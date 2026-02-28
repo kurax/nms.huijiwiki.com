@@ -1,0 +1,109 @@
+{
+  "ID": "MEGAPROD1",
+  "Name": {
+    "English": "PORTABLE REACTOR",
+    "SimplifiedChinese": "便携式反应器",
+    "TencentChinese": "便携式反应器",
+    "TraditionalChinese": "可攜式反應器"
+  },
+  "NameLower": {
+    "English": "Portable Reactor",
+    "SimplifiedChinese": "便携式反应器",
+    "TencentChinese": "便携式反应器",
+    "TraditionalChinese": "可攜式反應器"
+  },
+  "Subtitle": {
+    "English": "Advanced Crafted Product",
+    "SimplifiedChinese": "先进铸造物",
+    "TencentChinese": "先进铸造物",
+    "TraditionalChinese": "精工改良產品"
+  },
+  "Description": {
+    "English": "A miniature self-controlled nuclear reactor. Generates sub-stellar levels of energy in a hassle-free, widely compatible fuel module.<br><br>Crafted from <span class=\"name name-technology\">Liquid Explosives</span> and <span class=\"name name-fuel\">Fusion Accelerant</span>.",
+    "SimplifiedChinese": "一种微型自控核反应器。可在无障碍且兼容性强的燃料模块中生成次星球级能量。<br><br>由<span class=\"name name-technology\">液体炸弹</span>和<span class=\"name name-fuel\">熔合触媒</span>制作。",
+    "TencentChinese": "一种微型自控核反应器。可在无障碍且兼容性强的燃料模块中生成次星球级能量。<br><br>由<span class=\"name name-technology\">液体迸裂弹</span>和<span class=\"name name-fuel\">熔合触媒</span>制作。",
+    "TraditionalChinese": "迷你版自動控制核反應器。可於不受干擾、廣泛相容的燃料模組製造出次恆星等級的能量。<br><br>可使用<span class=\"name name-technology\">液體炸彈</span>與<span class=\"name name-fuel\">融合加速器</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 4200000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/megaprod.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FARMPROD7": {
+      "ID": "FARMPROD7",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "COMPOUND4": {
+      "ID": "COMPOUND4",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.269230723,
+  "NormalisedValueOffWorld": 0.269230723,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Portable Reactor",
+    "SimplifiedChinese": "制作便携式反应器",
+    "TencentChinese": "制作便携式反应器",
+    "TraditionalChinese": "製作可攜式反應器"
+  },
+  "PinObjectiveTip": {
+    "English": "Highly advanced crafting product. Learn the relevant blueprints by raiding <span class=\"name name-technology\">planetary factories</span> or from the <span class=\"name name-stellar\">Synthesis Lab</span> on the <span class=\"name name-special\">Space Anomaly</span>.<br>Craft from <span class=\"name name-commodity\">Liquid Explosive</span> and <span class=\"name name-commodity\">Fusion Accelerant</span>.",
+    "SimplifiedChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>或在<span class=\"name name-special\">太空异象</span>上的<span class=\"name name-stellar\">合成实验室</span>学习相关设计图。<br>由<span class=\"name name-commodity\">液体炸弹</span>和<span class=\"name name-commodity\">熔合触媒</span>制作而成。",
+    "TencentChinese": "非常先进的制作产品。通过突袭<span class=\"name name-technology\">行星工厂</span>学习相关设计图。<br>由<span class=\"name name-commodity\">液体迸裂弹</span>和<span class=\"name name-commodity\">聚变催化剂</span>制作而成。",
+    "TraditionalChinese": "非常先進的製作產品。襲擊<span class=\"name name-technology\">星球工廠</span>或從<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-stellar\">合成實驗室</span>來了解相關設計圖。<br>由<span class=\"name name-commodity\">液體炸彈</span>和<span class=\"name name-commodity\">融合加速器</span>製作而成。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

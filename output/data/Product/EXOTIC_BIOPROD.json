@@ -1,0 +1,89 @@
+{
+  "ID": "EXOTIC_BIOPROD",
+  "Name": {
+    "English": "LIVING WATER",
+    "SimplifiedChinese": "活体水",
+    "TraditionalChinese": "活水"
+  },
+  "NameLower": {
+    "English": "Living Water",
+    "SimplifiedChinese": "活体水",
+    "TraditionalChinese": "活水"
+  },
+  "Subtitle": {
+    "English": "Glassy Indeterminance",
+    "SimplifiedChinese": "光亮透明的不确定物",
+    "TraditionalChinese": "光透不定"
+  },
+  "Description": {
+    "English": "Unusual surface interactions cause this liquid to quickly split into small, perfect, spheres. Light refracted through one such sphere splits into colors beyond description.<br><br>Of <span class=\"name name-technology\">unknown origin</span>.",
+    "SimplifiedChinese": "不寻常的表面相互作用导致液体迅速分裂成小而完美的球体。被这种球体折射的光线会分裂成无法描述的颜色。<br><br><span class=\"name name-technology\">起源不明</span>。",
+    "TraditionalChinese": "不尋常的表面接觸造成液體表面分割成小型的完美球型。通過球型折射的光線會分散成難以形容的色彩。<br><br><span class=\"name name-technology\">來源不明</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.bioexotic.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 30,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Living Water",
+    "SimplifiedChinese": "寻找活体水",
+    "TencentChinese": "寻找活体水",
+    "TraditionalChinese": "找出活水"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

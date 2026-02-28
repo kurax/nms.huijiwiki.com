@@ -1,0 +1,110 @@
+{
+  "ID": "MIRROR",
+  "Name": {
+    "English": "SOLAR MIRROR",
+    "SimplifiedChinese": "太阳能镜",
+    "TraditionalChinese": "日鏡"
+  },
+  "NameLower": {
+    "English": "Solar Mirror",
+    "SimplifiedChinese": "太阳能镜",
+    "TraditionalChinese": "日鏡"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A specialist optical component. Employing an impossibly polished surface, this mirror is able to selectively filter different wavelengths of light, changing its reflective pattern based on nearby magnetic fields.<br><br>Used in the creation of a wide range of <span class=\"name name-technology\">advanced technologies</span>.",
+    "SimplifiedChinese": "一种专业的光学部件。该镜采用极端抛光的表面，能够选择性地过滤不同波长的光，并根据附近的磁场改变反射模式。<br><br>可用于创造各种<span class=\"name name-technology\">高级技术</span>。",
+    "TraditionalChinese": "專家級光學元件。表面光滑毫無瑕疵，這面鏡子能夠選擇性的過濾不同波長的光線，並根據週遭的磁場而改變反射規則。<br><br>能用來製造各式<span class=\"name name-technology\">先進科技</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6150,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.mirror.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "ASTEROID1": {
+      "ID": "ASTEROID1",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 25
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 1.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00039416668,
+  "NormalisedValueOffWorld": 0.00039416668,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Solar Mirror",
+    "SimplifiedChinese": "制作太阳能镜",
+    "TencentChinese": "制作太阳能镜",
+    "TraditionalChinese": "製作日鏡"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Solar Mirror from <span class=\"name name-earth\">Gold</span>, <span class=\"name name-earth\">Silver</span> and <span class=\"name name-special\">Chromatic Metal</span>.<br><br><span class=\"name name-earth\">Gold</span> and <span class=\"name name-earth\">Silver</span> are valuable interstellar trading minerals, most commonly <span class=\"name name-commodity\">mined from asteroids</span>. They are occasionally found in underground planetary deposits.<br><span class=\"name name-special\">Chromatic Metal</span> is created in a <span class=\"name name-technology\">Refiner</span> from the <span class=\"name name-stellar\">stellar metals</span>: <span class=\"name name-commodity\">Copper</span>, <span class=\"name name-fuel\">Cadmium</span>, <span class=\"name name-tradeable\">Emeril</span> and <span class=\"name name-technology\">Indium</span>.",
+    "SimplifiedChinese": "用<span class=\"name name-earth\">金</span>、<span class=\"name name-earth\">银</span>和<span class=\"name name-special\">有色金属</span>制作太阳能镜。<br><br><span class=\"name name-earth\">金</span>和<span class=\"name name-earth\">银</span>是珍贵的星际交易矿物，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。<br><span class=\"name name-special\">有色金属</span>可采用<span class=\"name name-technology\">精炼机</span>从<span class=\"name name-stellar\">恒星金属</span>中制得：<span class=\"name name-commodity\">铜</span>、<span class=\"name name-fuel\">镉</span>、<span class=\"name name-tradeable\">艾梅里尔</span>和<span class=\"name name-technology\">铟</span>。",
+    "TraditionalChinese": "以<span class=\"name name-earth\">金</span>、<span class=\"name name-earth\">銀</span>和<span class=\"name name-special\">有色金屬</span>製作日鏡。<br><br><span class=\"name name-earth\">金</span>和<span class=\"name name-earth\">銀</span>是非常珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。<br><span class=\"name name-special\">有色金屬</span>是以<span class=\"name name-technology\">精製機</span>加工以下<span class=\"name name-stellar\">星體金屬</span>而成：<span class=\"name name-commodity\">銅</span>、<span class=\"name name-fuel\">鎘</span>、<span class=\"name name-tradeable\">砪</span>、<span class=\"name name-technology\">銦</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

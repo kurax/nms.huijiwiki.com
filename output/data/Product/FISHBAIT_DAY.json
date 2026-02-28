@@ -1,0 +1,105 @@
+{
+  "ID": "FISHBAIT_DAY",
+  "Name": {
+    "English": "DANGLING ORB",
+    "SimplifiedChinese": "悬垂球体",
+    "TraditionalChinese": "懸垂球"
+  },
+  "NameLower": {
+    "English": "Dangling Orb",
+    "SimplifiedChinese": "悬垂球体",
+    "TraditionalChinese": "懸垂球"
+  },
+  "Subtitle": {
+    "English": "Fishing Bait",
+    "SimplifiedChinese": "鱼饵",
+    "TraditionalChinese": "魚餌"
+  },
+  "Description": {
+    "English": "A specialist <span class=\"name name-stellar\">lure</span>, designed to attract <span class=\"name name-commodity\">diurnal</span> fish.<br><br>Locate your <span class=\"name name-technology\">Fishing Rig</span> and begin bait application with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "一份专业<span class=\"name name-stellar\">诱饵</span>，用于吸引<span class=\"name name-commodity\">昼行</span>鱼类。<br><br>定位你的<span class=\"name name-technology\">渔具</span>并按<span class=\"name name-img\">FE_ALT1</span>开始使用诱饵。",
+    "TraditionalChinese": "專用的<span class=\"name name-stellar\">假餌</span>，可用來吸引<span class=\"name name-commodity\">日行性</span>魚類。<br><br>找出你的<span class=\"name name-technology\">釣具</span>，然後使用 <span class=\"name name-img\">FE_ALT1</span> 上餌。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 550,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.fishbait.day.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 50,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 30,
+  "Requirements": {
+    "MIRROR": {
+      "ID": "MIRROR",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CASING": {
+      "ID": "CASING",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "CATALYST2": {
+      "ID": "CATALYST2",
+      "Type": "Substance",
+      "Amount": 65
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000351923081,
+  "NormalisedValueOffWorld": 0.0000351923081,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Craft Dangling Orb",
+    "SimplifiedChinese": "制作悬垂球体",
+    "TencentChinese": "制作悬垂球体",
+    "TraditionalChinese": "製作懸垂球"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

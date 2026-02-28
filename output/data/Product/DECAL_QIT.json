@@ -1,0 +1,91 @@
+{
+  "ID": "DECAL_QIT",
+  "Name": {
+    "English": "QITANIAN EMPIRE DECAL",
+    "SimplifiedChinese": "基坦尼亚帝国贴花",
+    "TraditionalChinese": "奇譚帝國貼花"
+  },
+  "NameLower": {
+    "English": "Qitanian Empire Decal",
+    "SimplifiedChinese": "基坦尼亚帝国贴花",
+    "TraditionalChinese": "奇譚帝國貼花"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive placeable decal, to add flair and decoration to bases.<br>This decal represents the Qitanian Empire, and the spirit of charity, kindness, peace and reason.",
+    "SimplifiedChinese": "专属的可放置贴花，可以为你的基地增添风格和美观。<br>此贴花代表着基坦尼亚帝国，以及仁慈、善良、和平和理性的精神。",
+    "TraditionalChinese": "特殊的可放置貼花，可以裝飾基地，增添個人風格。<br>這片貼花代表奇譚帝國，以及慈善、仁慈、和平與理性的精神。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.decal13.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.decal13.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255769246,
+  "NormalisedValueOffWorld": 0.0000255769246,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

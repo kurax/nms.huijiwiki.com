@@ -1,0 +1,89 @@
+{
+  "ID": "ANY_FISH_COOKED",
+  "Name": {
+    "English": "ANY COOKED SEAFOOD",
+    "SimplifiedChinese": "任何烹饪过的海鲜",
+    "TraditionalChinese": "任何熟海鮮"
+  },
+  "NameLower": {
+    "English": "Any Cooked Seafood",
+    "SimplifiedChinese": "任何烹饪过的海鲜",
+    "TraditionalChinese": "任何熟海鮮"
+  },
+  "Subtitle": {
+    "English": "Ingredient Category",
+    "SimplifiedChinese": "原料类别",
+    "TraditionalChinese": "原料類別"
+  },
+  "Description": {
+    "English": "A piece of seafood, created in the <span class=\"name name-technology\">Nutrient Processor</span>. Food such as this can be <span class=\"name name-stellar\">highly valuable</span>.<br><br>Can be consumed as it stands or subjected to further processing.",
+    "SimplifiedChinese": "在<span class=\"name name-technology\">营养处理器</span>中创造的一份海鲜。此类食物拥有<span class=\"name name-stellar\">极高的价值</span>。<br><br>能够直接食用或者进一步加工。",
+    "TraditionalChinese": "使用<span class=\"name name-technology\">營養處理器</span>製成的小片海鮮。這種食物可能具有<span class=\"name name-stellar\">高度價值</span>。<br><br>可直接食用或進一步加工。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product.fish.default.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Any Cooked Seafood",
+    "SimplifiedChinese": "制作任何烹饪过的海鲜",
+    "TencentChinese": "制作任何烹饪过的海鲜",
+    "TraditionalChinese": "製作任何熟海鮮"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

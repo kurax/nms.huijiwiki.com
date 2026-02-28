@@ -1,0 +1,105 @@
+{
+  "ID": "BIOSHIP_COMP1",
+  "Name": {
+    "English": "CONSCIOUSNESS BRIDGE",
+    "SimplifiedChinese": "意识桥",
+    "TraditionalChinese": "意識橋"
+  },
+  "NameLower": {
+    "English": "Consciousness Bridge",
+    "SimplifiedChinese": "意识桥",
+    "TraditionalChinese": "意識橋"
+  },
+  "Subtitle": {
+    "English": "Reactivated Neural Ladder",
+    "SimplifiedChinese": "重新激活的神经梯",
+    "TraditionalChinese": "重新活化神經梯"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-stellar\">biomechanical construct</span>, created to the design of an anonymous host.<br><br>This device appears to offer an interface between an individual entity and a greater shared consciousness. It appears derived from, but not attuned to, Korvax technology.",
+    "SimplifiedChinese": "一个<span class=\"name name-stellar\">生物力学结构</span>，根据匿名宿主的设计创造出来。<br><br>这个设备似乎提供了单独实体与更大共享意识之间的接口。它似乎源自科尔瓦克斯技术，但是与科尔瓦克斯技术并不调和。",
+    "TraditionalChinese": "根據匿名宿主設計所打造的<span class=\"name name-stellar\">生物力學裝置</span>。<br><br>能作為個人存在體與龐大共同意識之間的分界，雖然像是來自科瓦族科技，卻對科瓦族科技毫無反應。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.biocomp1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "SPECIAL_POOP": {
+      "ID": "SPECIAL_POOP",
+      "Type": "Substance",
+      "Amount": 250
+    },
+    "ROBOT1": {
+      "ID": "ROBOT1",
+      "Type": "Substance",
+      "Amount": 80
+    },
+    "EXP_CURIO1": {
+      "ID": "EXP_CURIO1",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Consciousness Bridge",
+    "SimplifiedChinese": "寻找意识桥",
+    "TencentChinese": "寻找意识桥",
+    "TraditionalChinese": "找出意識橋"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

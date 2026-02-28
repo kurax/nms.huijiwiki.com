@@ -1,0 +1,95 @@
+{
+  "ID": "PIRATE_MAPPROD0",
+  "Name": {
+    "English": "PIRATE MAP FRAGMENT 1 OF 3",
+    "SimplifiedChinese": "海盗地图碎片3片中的第1片",
+    "TraditionalChinese": "海盜地圖碎片 1/3"
+  },
+  "NameLower": {
+    "English": "Pirate Map Fragment 1 of 3",
+    "SimplifiedChinese": "海盗地图碎片3片中的第1片",
+    "TraditionalChinese": "海盜地圖碎片 1/3"
+  },
+  "Subtitle": {
+    "English": "Scrambled Geographic Data",
+    "SimplifiedChinese": "被毁坏的地理数据",
+    "TraditionalChinese": "受干擾的地理資料"
+  },
+  "Description": {
+    "English": "Partial coordinate data, acquired from a troubled <span class=\"name name-stellar\">freighter captain</span>. The chart is signed with a snippet of pirate manifesto:<br><br>\"We Blight this new galaxy, as we did the last, as we will the next!\"<br><br>The data is of value to pirate faction <span class=\"name name-special\">The Blight</span>, who attempted to retrieve it by violent means.",
+    "SimplifiedChinese": "部分坐标数据，从一个备受困扰的<span class=\"name name-stellar\">货船船长</span>处获得。图表上书写着一句海盗宣言：<br><br>“我们给新星系带来瘟疫，一如之前所为，亦如今后将为！”<br><br>这些数据对海盗派系<span class=\"name name-special\">瘟疫</span>来说非常有价值，他们试图通过暴力手段夺回这些数据。",
+    "TraditionalChinese": "部分座標資料，從不堪海盜騷擾的<span class=\"name name-stellar\">貨船船長</span>身上取得。該圖表上簽署了一段海盜宣言：<br><br>「我們會毀滅這個新銀河系，就像我們毀滅上一個一樣，我們也會毀滅下一個！」<br><br>這份資料對海盜陣營<span class=\"name name-special\">「毀滅」</span>很有價值，他們曾試圖用暴力手段取回。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 88,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/piratemap0.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 88
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Pirate Map Fragment 1 of 3",
+    "SimplifiedChinese": "制作海盗地图碎片3片中的第1片",
+    "TencentChinese": "制作海盗地图碎片3片中的第1片",
+    "TraditionalChinese": "製作海盜地圖碎片 1/3"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

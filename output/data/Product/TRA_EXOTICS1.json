@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_EXOTICS1",
+  "Name": {
+    "English": "DE-SCENTED BOTTLES",
+    "SimplifiedChinese": "去味瓶",
+    "TencentChinese": "去味费洛蒙瓶",
+    "TraditionalChinese": "去味瓶"
+  },
+  "NameLower": {
+    "English": "De-Scented Bottles",
+    "SimplifiedChinese": "去味瓶",
+    "TencentChinese": "去味费洛蒙瓶",
+    "TraditionalChinese": "去味瓶"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Scientific)",
+    "SimplifiedChinese": "交易货物（科学）",
+    "TencentChinese": "科研原件",
+    "TraditionalChinese": "貿易商品 (科學)"
+  },
+  "Description": {
+    "English": "A loose collection of recycled pheromone bottles.<br><br>Vast quantities of pheromones are produced and distributed every day. This has spawned a lucrative <span class=\"name name-special\">trading</span> opportunity for those willing to deal with the waste products. These glass jars have been thoroughly scrubbed and should pose no threat to the carrier.",
+    "SimplifiedChinese": "一捆回收费洛蒙瓶。<br><br>费洛蒙每天都在被大批量制造分销。这一点给那些愿意处理废品的人来说是利润丰厚的<span class=\"name name-special\">贸易</span>良机。这些玻璃罐子都已经被彻底清刷过，应该对携带者没有任何威胁。",
+    "TencentChinese": "一捆回收费洛蒙瓶。<br><br>费洛蒙每天都在被大批量制造分销。这一点给那些愿意处理废品的人来说是利润丰厚的<span class=\"name name-special\">贸易</span>良机。这些玻璃罐子都已经被彻底清刷过，应该对携带者没有任何威胁。",
+    "TraditionalChinese": "一批散亂的回收費洛蒙罐。<br><br>每天都有大量的費洛蒙被生產分送，也衍生出處理產品廢棄物的<span class=\"name name-special\">商業</span>營利機會。這些玻璃罐已徹底清洗乾淨，不會在運送途中造成危險。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.exotics1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "Exotic",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1.2,
+  "PinObjective": {
+    "English": "Purchase De-Scented Bottles from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买去味瓶",
+    "TencentChinese": "从空间站的交易终端购买去味费洛蒙瓶",
+    "TraditionalChinese": "從太空站交易終端站購買去味瓶"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

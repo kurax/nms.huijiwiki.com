@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_STEM3",
+  "Name": {
+    "English": "FRAGILE SHELL",
+    "SimplifiedChinese": "脆弱的外壳",
+    "TraditionalChinese": "脆弱殼體"
+  },
+  "NameLower": {
+    "English": "Fragile Shell",
+    "SimplifiedChinese": "脆弱的外壳",
+    "TraditionalChinese": "脆弱殼體"
+  },
+  "Subtitle": {
+    "English": "Fragment of Life",
+    "SimplifiedChinese": "生命的碎片",
+    "TraditionalChinese": "生命碎片"
+  },
+  "Description": {
+    "English": "Translucent and impossibly thin, this shell is no more than the merest breath of glass. And yet the potential is clear, a relentless multiplicative hardening adding constantly to its strength.<br><br>It requires careful attendance while it matures.",
+    "SimplifiedChinese": "这个半透明的外壳薄得不可思议，好似吹出的玻璃。但倍增硬化正在持续提升其强度，其潜力显而易见。<br><br>它在成熟期间需细心照料。",
+    "TraditionalChinese": "殼體呈半透明且非常薄，厚度就像是薄玻片一樣。但是持續堆疊硬化後就能增加強度。<br><br>成長過程需要仔細照顧。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/product.stem3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.137254909,
+    "B": 0.156862751,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Fragile Shell",
+    "SimplifiedChinese": "寻找脆弱的外壳",
+    "TencentChinese": "寻找脆弱的外壳",
+    "TraditionalChinese": "找出脆弱殼體"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

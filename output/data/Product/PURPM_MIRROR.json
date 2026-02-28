@@ -1,0 +1,100 @@
+{
+  "ID": "PURPM_MIRROR",
+  "Name": {
+    "English": "ANOMALOUS SCAFFOLD",
+    "SimplifiedChinese": "异常支架",
+    "TraditionalChinese": "異常支架"
+  },
+  "NameLower": {
+    "English": "Anomalous Scaffold",
+    "SimplifiedChinese": "异常支架",
+    "TraditionalChinese": "異常支架"
+  },
+  "Subtitle": {
+    "English": "Crystalline Breach",
+    "SimplifiedChinese": "结晶裂隙",
+    "TraditionalChinese": "水晶裂隙"
+  },
+  "Description": {
+    "English": "To bridge between realities requires a scaffold and a seed.<br><br>This crystalline propagation matrix will allow the breach to become the bridge, the seed by which a new reality can bloom.",
+    "SimplifiedChinese": "为了连接不同的现实，你需要一个支架与一枚种子。<br><br>这个结晶培育矩阵将使诞生的裂隙成为桥梁，而新的现实则从种子中诞生。",
+    "TraditionalChinese": "要在現實之間搭起橋樑，會需要一個支架和種子。<br><br>這種水晶傳播矩陣將使裂隙成為橋樑和種子，讓新現實得以綻放。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1919,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.2024.purplemirror.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "DRONE_SALVAGE": {
+      "ID": "DRONE_SALVAGE",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 250
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000122948724,
+  "NormalisedValueOffWorld": 0.000184455144,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Anomalous Scaffold",
+    "SimplifiedChinese": "制作异常支架",
+    "TencentChinese": "制作异常支架",
+    "TraditionalChinese": "製作異常支架"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": false
+}

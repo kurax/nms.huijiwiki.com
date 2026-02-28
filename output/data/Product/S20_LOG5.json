@@ -1,0 +1,89 @@
+{
+  "ID": "S20_LOG5",
+  "Name": {
+    "English": "LOG OF THE FIRESHIP ARCADIA",
+    "SimplifiedChinese": "火船阿卡迪亚号日志",
+    "TraditionalChinese": "火之船阿卡迪亞的日誌"
+  },
+  "NameLower": {
+    "English": "Log of the Fireship Arcadia",
+    "SimplifiedChinese": "火船阿卡迪亚号日志",
+    "TraditionalChinese": "火之船阿卡迪亞的日誌"
+  },
+  "Subtitle": {
+    "English": ":: Datestamp 22512.64 ::",
+    "SimplifiedChinese": ":: 日期22512.64 ::",
+    "TraditionalChinese": ":: 日期戳記 22512.64 ::"
+  },
+  "Description": {
+    "English": "<span class=\"name name-img\">SLASH</span>LOG CORRUPT <span class=\"name name-img\">CLOCK</span> RECOVERING DAMAGED SECTORS<span class=\"name name-img\">SLASH</span><br><br><VAL_ON>\"they all followed ::: the music<br>one by one ::: the lights called them<br>alone now<br>i hear the song now too, even when i ::: sleep<br>i'm so lonely ::: when will ::: when<br>help\"<>",
+    "SimplifiedChinese": ":: 日志损坏 //--// 正在恢复损坏扇区::<br><br><VAL_ON>“他们都跟着:::那音乐走了<br>一个接一个:::那些光把他们召唤走了<br>现在只剩我一个人了<br>我现在也能听到那个歌声了，即使是:::睡着的时候也能听到<br>我好孤单:::什么时候:::什么时候<br>救救我”<>",
+    "TraditionalChinese": ":: 日誌損毀 //--// 正在復原受損區塊 ::<br><br><VAL_ON>「他們都:::跟著音樂走了<br>一個接一個:::光芒在呼喚他們<br>現在獨自一人<br>我也聽到這首歌了，就算睡覺的時候:::也能聽見<br>我好孤獨:::到底何時:::何時<br>救救我」<>"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.logkey.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Log of the Fireship Arcadia",
+    "SimplifiedChinese": "制作火船阿卡迪亚号日志",
+    "TencentChinese": "制作火船阿卡迪亚号日志",
+    "TraditionalChinese": "製作火之船阿卡迪亞的日誌"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "QUEEN_PROD",
+  "Name": {
+    "English": "VILE CORTEX",
+    "SimplifiedChinese": "邪恶皮质",
+    "TraditionalChinese": "邪惡皮質"
+  },
+  "NameLower": {
+    "English": "Vile Cortex",
+    "SimplifiedChinese": "邪恶皮质",
+    "TraditionalChinese": "邪惡皮質"
+  },
+  "Subtitle": {
+    "English": "Glorious Trophy",
+    "SimplifiedChinese": "光荣战利品",
+    "TraditionalChinese": "光榮獎盃"
+  },
+  "Description": {
+    "English": "The brain stem of a <span class=\"name name-tradeable\">brood mother</span>, pulled from its malignant corpse.<br><br>This is a valuable trophy, signifying victory in the quest to purge the infestations of the vile brood. Turn it over to an envoy of the <span class=\"name name-technology\">Mercenaries Guild</span> to mark your triumph.",
+    "SimplifiedChinese": "从<span class=\"name name-tradeable\">巢母</span>的丑恶尸体中拔出的脑干。<br><br>这是一份宝贵的战利品，它象征着在净化邪恶虫群侵染的任务中获得的伟大胜利。交给<span class=\"name name-technology\">雇佣兵公会</span>的使者以标记你的凯旋进展。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">蟲后</span>的腦幹，取自其含恨而終的屍體。<br><br>這是珍貴的戰利品，象徵著肅清邪惡蟲巢任務的勝利。將其交給<span class=\"name name-technology\">傭兵公會</span>的使節，即可獲得表揚。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 122000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.specbughat4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00782044884,
+  "NormalisedValueOffWorld": 0.00782044884,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Vile Cortex",
+    "SimplifiedChinese": "寻找邪恶皮质",
+    "TencentChinese": "寻找邪恶皮质",
+    "TraditionalChinese": "找出邪惡皮質"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

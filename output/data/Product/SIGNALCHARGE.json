@@ -1,0 +1,105 @@
+{
+  "ID": "SIGNALCHARGE",
+  "Name": {
+    "English": "SURGE BATTERY",
+    "SimplifiedChinese": "涌动电池",
+    "TraditionalChinese": "突波電池"
+  },
+  "NameLower": {
+    "English": "Surge Battery",
+    "SimplifiedChinese": "涌动电池",
+    "TraditionalChinese": "突波電池"
+  },
+  "Subtitle": {
+    "English": "High Voltage Energy Pack",
+    "SimplifiedChinese": "高功率电池组",
+    "TraditionalChinese": "高伏特能量包"
+  },
+  "Description": {
+    "English": "A high-powered <span class=\"name name-commodity\">battery pack</span>, designed to release a significant charge in a short space of time.<br><br>Used to power the high energy needs of <span class=\"name name-technology\">Signal Boosters</span> as they survey planets for distant buildings.",
+    "SimplifiedChinese": "高功率<span class=\"name name-commodity\">电池组</span>，能够在极短的时间内释放非比寻常的巨量电荷。<br><br>用于在星球表面探测远距离建筑的<span class=\"name name-technology\">信号增强器</span>耗电量极大，因此需要使用这种装置来供电。",
+    "TraditionalChinese": "高功率<span class=\"name name-commodity\">電池組</span>，短時間可釋放大量能量。<br><br>在使用<span class=\"name name-technology\">訊號強化器</span>調查星球遠處的建築時，可用來滿足強化器的高能源需求。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 750,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.powercell2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Consumable",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 100,
+  "StackMultiplier": 10,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "CATALYST2": {
+      "ID": "CATALYST2",
+      "Type": "Substance",
+      "Amount": 15
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 20
+    },
+    "LAND3": {
+      "ID": "LAND3",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.0000480128219,
+  "NormalisedValueOffWorld": 0.0000480128219,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Surge Battery",
+    "SimplifiedChinese": "制作涌动电池",
+    "TencentChinese": "制作涌动电池",
+    "TraditionalChinese": "製作突波電池"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

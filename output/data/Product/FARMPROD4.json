@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD4",
+  "Name": {
+    "English": "HEAT CAPACITOR",
+    "SimplifiedChinese": "热电容",
+    "TencentChinese": "热电容",
+    "TraditionalChinese": "熱能電容器"
+  },
+  "NameLower": {
+    "English": "Heat Capacitor",
+    "SimplifiedChinese": "热电容",
+    "TencentChinese": "热电容",
+    "TraditionalChinese": "熱能電容器"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "A thermal regulator produced from refined organic material. It is unique in its ability to produce, dissipate and distribute heat as required.<br><br>Crafted from <span class=\"name name-special\">Solanium</span> and <span class=\"name name-technology\">Frost Crystals</span>.",
+    "SimplifiedChinese": "一种由精制有机材料生产的热量调节器。其具有独特的生产力，驱散和分配所需的热量。<br><br>由<span class=\"name name-special\">日光茄</span>和<span class=\"name name-technology\">冰霜水晶</span>制作。",
+    "TencentChinese": "一种由精制有机材料生产的热量调节器。其具有独特的生产力，驱散和分配所需的热量。<br><br>由<span class=\"name name-special\">日光茄</span>和<span class=\"name name-technology\">冰霜水晶</span>制作。",
+    "TraditionalChinese": "以精製有機物質生產的熱能調節器，具有獨特功能，可按要求製造、發散和分配熱能。<br><br>可使用<span class=\"name name-special\">日艸</span>和<span class=\"name name-technology\">霜晶</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 180000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "PLANT_SNOW": {
+      "ID": "PLANT_SNOW",
+      "Type": "Substance",
+      "Amount": 100
+    },
+    "PLANT_HOT": {
+      "ID": "PLANT_HOT",
+      "Type": "Substance",
+      "Amount": 200
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0115383985,
+  "NormalisedValueOffWorld": 0.0115383985,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Heat Capacitor",
+    "SimplifiedChinese": "制作热电容",
+    "TencentChinese": "制作热电容",
+    "TraditionalChinese": "製作熱能電容器"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-tradeable\">Frost Crystals</span> and <span class=\"name name-tradeable\">Solanium</span>. Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.<br>Frost Crystals can be farmed, or found wild on <span class=\"name name-technology\">frozen planets</span>.<br>Solanium can be farmed, or found wild on <span class=\"name name-fuel\">scorched planets</span>.",
+    "SimplifiedChinese": "由<span class=\"name name-technology\">冰霜结晶</span>和<span class=\"name name-tradeable\">日光茄</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>冰霜结晶可以通过种植获得，也能在<span class=\"name name-technology\">冻土星球</span>上找到。<br>日光茄可以通过种植获得，也能在<span class=\"name name-fuel\">烧灼星球</span>上找到。",
+    "TencentChinese": "由<span class=\"name name-technology\">冰霜结晶</span>和<span class=\"name name-tradeable\">日光茄</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>冰霜结晶可以通过种植获得，也能在<span class=\"name name-technology\">冻土星球</span>上找到。<br>日光茄可以通过种植获得，也能在<span class=\"name name-fuel\">灼热星球</span>上找到。",
+    "TraditionalChinese": "以<span class=\"name name-technology\">霜晶</span>及<span class=\"name name-tradeable\">日光茄</span>製作。在基地裡借助<span class=\"name name-technology\">科學專家</span>來了解設計圖。<br>霜晶可以在<span class=\"name name-technology\">冰寒星球</span>上栽種或於野外採集。<br>日光茄則可以於<span class=\"name name-fuel\">焦土星球</span>上栽種或於野外採集。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

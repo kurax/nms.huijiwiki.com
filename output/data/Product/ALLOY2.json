@@ -1,0 +1,109 @@
+{
+  "ID": "ALLOY2",
+  "Name": {
+    "English": "DIRTY BRONZE",
+    "SimplifiedChinese": "肮脏青铜",
+    "TencentChinese": "肮脏青铜",
+    "TraditionalChinese": "汙銅"
+  },
+  "NameLower": {
+    "English": "Dirty Bronze",
+    "SimplifiedChinese": "肮脏青铜",
+    "TencentChinese": "肮脏青铜",
+    "TraditionalChinese": "汙銅"
+  },
+  "Subtitle": {
+    "English": "Alloy Metal",
+    "SimplifiedChinese": "合金金属",
+    "TencentChinese": "合金金属",
+    "TraditionalChinese": "合金"
+  },
+  "Description": {
+    "English": "A popular metal alloy with a wide variety of uses. 'Dirty Bronze' has shed its scientific name in favor of the popular term for its color.<br><br>Crafted from <span class=\"name name-earth\">Pure Ferrite</span> and <span class=\"name name-earth\">Pyrite</span>.",
+    "SimplifiedChinese": "一种常用的金属合金，具有多种用途。由于其颜色特点，“肮脏青铜”比它的学名更流行。<br><br>由<span class=\"name name-earth\">纯铁氧体</span>和<span class=\"name name-earth\">黄铁矿</span>制作。",
+    "TencentChinese": "一种常用的金属合金，具有多种用途。由于其颜色特点，“肮脏青铜”比它的学名更流行。<br><br>由<span class=\"name name-earth\">纯铁氧体</span>和<span class=\"name name-earth\">黄铁矿</span>制作。",
+    "TraditionalChinese": "功能多樣的熱門金屬合金。由於其顏色，大多人皆不使用其學名，而直接稱其為「汙銅」。<br><br>可使用<span class=\"name name-earth\">純鐵氧體</span>與<span class=\"name name-earth\">黃鐵礦</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 25000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.metallic.2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "DUSTY1": {
+      "ID": "DUSTY1",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "LAND2": {
+      "ID": "LAND2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0.5
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0016025001,
+  "NormalisedValueOffWorld": 0.0016025001,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Dirty Bronze",
+    "SimplifiedChinese": "制作或精炼肮脏青铜",
+    "TencentChinese": "制作或精炼肮脏青铜",
+    "TraditionalChinese": "製作或精製汙銅"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Dirty Bronze from <span class=\"name name-earth\">Pyrite</span> and <span class=\"name name-earth\">Pure Ferrite</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Pyrite is found in large deposits on <span class=\"name name-stellar\">barren planets</span> with an <span class=\"name name-technology\">Analysis Visor</span>.<br>Refine Pure Ferrite from ferrite dust, found in common minerals.",
+    "SimplifiedChinese": "使用<span class=\"name name-earth\">黄铁矿</span>和<span class=\"name name-earth\">纯铁氧体</span>制作或精炼出肮脏青铜。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>黄铁矿能在<span class=\"name name-stellar\">贫瘠星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>使用寻常矿藏里找到的铁氧体粉末精炼出纯铁氧体。",
+    "TencentChinese": "使用<span class=\"name name-earth\">黄铁矿</span>和<span class=\"name name-earth\">纯铁氧体</span>制作或精炼出肮脏青铜。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>黄铁矿能在<span class=\"name name-stellar\">贫瘠星球</span>上使用<span class=\"name name-technology\">分析面甲</span>在大型矿床中找到。<br>使用寻常矿藏里找到的铁氧体粉末精炼出纯铁氧体。",
+    "TraditionalChinese": "將<span class=\"name name-earth\">黃鐵礦</span>及<span class=\"name name-earth\">純鐵氧體</span>製作或精製成汙銅。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>黃鐵礦可在<span class=\"name name-stellar\">荒蕪星球</span>的大型資源產地，用<span class=\"name name-technology\">分析護目鏡</span>找到。<br>將常見礦物中所找到的鐵氧體粉塵精製成純鐵氧體。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

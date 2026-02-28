@@ -1,0 +1,93 @@
+{
+  "ID": "LOG_KEY",
+  "Name": {
+    "English": "LOG ENCRYPTION KEY",
+    "SimplifiedChinese": "登录加密钥",
+    "TencentChinese": "登录加密钥",
+    "TraditionalChinese": "日誌加密金鑰"
+  },
+  "NameLower": {
+    "English": "Log Encryption Key",
+    "SimplifiedChinese": "登录加密钥",
+    "TencentChinese": "登录加密钥",
+    "TraditionalChinese": "日誌加密金鑰"
+  },
+  "Subtitle": {
+    "English": "Incomplete Data Sequence",
+    "SimplifiedChinese": "不完整的数据序列",
+    "TencentChinese": "不完整的数据序列",
+    "TraditionalChinese": "未完成的資料程序"
+  },
+  "Description": {
+    "English": "A fragment of the encryption override sequence for a <span class=\"name name-technology\">freighter's emergency log</span>.<br><br>Several parts of the sequence may be required to gain full access to recorded data.",
+    "SimplifiedChinese": "<span class=\"name name-technology\">货船紧急登录日志</span>上某块加密超驰程序的碎片。<br><br>可能需要数块程序碎片才能完全访问记录的信息。",
+    "TencentChinese": "<span class=\"name name-technology\">货船紧急登录日志</span>上某块加密超驰程序的碎片。<br><br>可能需要数块程序碎片才能完全访问记录的信息。",
+    "TraditionalChinese": "<span class=\"name name-technology\">貨船緊急日誌</span>的加密覆寫程序片段。<br><br>若要取得紀錄資料的完整存取權限可能需要此程序中的許多部份。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.logkey.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000960897523,
+  "NormalisedValueOffWorld": 0.000144166683,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Log Encryption Key",
+    "SimplifiedChinese": "寻找登录加密钥",
+    "TencentChinese": "寻找登录加密钥",
+    "TraditionalChinese": "找出日誌加密金鑰"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

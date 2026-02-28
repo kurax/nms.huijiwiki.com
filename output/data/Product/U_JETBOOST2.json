@@ -1,0 +1,93 @@
+{
+  "ID": "U_JETBOOST2",
+  "Name": {
+    "English": "MOVEMENT MODULE",
+    "SimplifiedChinese": "运动系统模块",
+    "TencentChinese": "运动系统模块（初级）",
+    "TraditionalChinese": "動作模組"
+  },
+  "NameLower": {
+    "English": "Movement Module",
+    "SimplifiedChinese": "运动系统模块",
+    "TencentChinese": "运动系统模块（初级）",
+    "TraditionalChinese": "動作模組"
+  },
+  "Subtitle": {
+    "English": "Significant Movement System Upgrade",
+    "SimplifiedChinese": "显著的运动系统升级",
+    "TencentChinese": "显著的运动系统升级",
+    "TraditionalChinese": "顯著的移動系統升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the <span class=\"name name-technology\">Exosuit Movement Systems</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">jetpack tank capacity</span>, <span class=\"name name-stellar\">jetpack fuel efficiency</span> and Exosuit <span class=\"name name-stellar\">speed boost duration</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">套装移动系统</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升：<span class=\"name name-stellar\">喷气背包燃料容量</span>、<span class=\"name name-stellar\">喷气背包燃料效率</span>和套装<span class=\"name name-stellar\">加速持续时间</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">套装运动系统</span>的<span class=\"name name-technology\">显著</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>显著地提升喷气背包<span class=\"name name-stellar\">燃料容量</span>和优化<span class=\"name name-stellar\">维生系统能量消耗速率</span>，同时也提升套装<span class=\"name name-stellar\">速度提升持续时间</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">強化套裝移動系統</span>的<span class=\"name name-technology\">重大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組靈活度高，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">噴射背包儲槽容量</span>、<span class=\"name name-stellar\">噴射背包燃料效率</span>和強化套裝<span class=\"name name-stellar\">加速持續時間</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 140,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.b.jetpack.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00000891025684,
+  "NormalisedValueOffWorld": 0.00000891025684,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_JET2",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Movement Module from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买运动系统模块",
+    "TencentChinese": "从空间站的交易终端购买运动系统模块（初级）",
+    "TraditionalChinese": "從太空站交易終端站購買動作模組"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

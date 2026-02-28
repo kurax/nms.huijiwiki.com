@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_EXOTICS4",
+  "Name": {
+    "English": "ORGANIC PIPING",
+    "SimplifiedChinese": "活体导管",
+    "TencentChinese": "活体导管",
+    "TraditionalChinese": "有機管"
+  },
+  "NameLower": {
+    "English": "Organic Piping",
+    "SimplifiedChinese": "活体导管",
+    "TencentChinese": "活体导管",
+    "TraditionalChinese": "有機管"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Scientific)",
+    "SimplifiedChinese": "交易货物（科学）",
+    "TencentChinese": "科研原件",
+    "TraditionalChinese": "貿易商品 (科學)"
+  },
+  "Description": {
+    "English": "A vat of preserved organic piping. Still warm.<br><br>To avoid difficult ethical problems, many labs grow their test subjects on a component level. The leftovers can be profitable in <span class=\"name name-special\">trading</span> economies with relaxed medical regulations.",
+    "SimplifiedChinese": "一大桶保存完好的活体导管。还有余温。<br><br>许多实验室为了避免棘手的道德问题会从零部件开始培育自己的实验对象。这些剩下来的东西可以在医疗规定松懈的<span class=\"name name-special\">贸易</span>型经济体中获利。",
+    "TencentChinese": "一大桶保存完好的活体导管。还有余温。<br><br>许多实验室为了避免棘手的道德问题会从零部件开始培育自己的实验对象。这些剩下来的东西可以在医疗规定松懈的<span class=\"name name-special\">贸易</span>型经济体中获利。",
+    "TraditionalChinese": "一大缸防腐有機管，還熱熱的。<br><br>為合乎道德標準，許多實驗室都自行製作元件生產受試者。過程中的殘留物能在醫療規範寬鬆的<span class=\"name name-special\">商業</span>經濟體販售獲利。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.exotics4.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0019230129,
+  "NormalisedValueOffWorld": 0.0019230129,
+  "TradeCategory": "Exotic",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.5,
+  "PinObjective": {
+    "English": "Purchase Organic Piping from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买活体导管",
+    "TencentChinese": "从空间站的交易终端购买活体导管",
+    "TraditionalChinese": "從太空站交易終端站購買有機管"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

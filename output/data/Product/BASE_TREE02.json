@@ -1,0 +1,94 @@
+{
+  "ID": "BASE_TREE02",
+  "Name": {
+    "English": "SPINDLE TREE",
+    "SimplifiedChinese": "纺锤树",
+    "TencentChinese": "纺锤树",
+    "TraditionalChinese": "紡錘樹"
+  },
+  "NameLower": {
+    "English": "Spindle Tree",
+    "SimplifiedChinese": "纺锤树",
+    "TencentChinese": "纺锤树",
+    "TraditionalChinese": "紡錘樹"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "A thin, non-fruiting tree. Root system is integrated with highly-adapted fungal symbiotes.<br><br>Supplied with its own mushrooms for ease of establishment. Fungus is non-toxic and non-spreading.",
+    "SimplifiedChinese": "纤细而不结果的树。根系与高度适应的真菌共生系统相整合。<br><br>能自行长出蘑菇，易于培育，真菌无毒且不会扩散。",
+    "TencentChinese": "纤细而不结果的树。根系与高度适应的真菌共生系统相整合。<br><br>能自行长出蘑菇，易于培育，真菌无毒且不会扩散。",
+    "TraditionalChinese": "不結果實的纖細樹種。根部系統結合了適應力強的共生菌類。<br><br>能自行長出菇類，易於栽植。菌類無毒也不會傳播。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.tree02.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.tree02.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 80
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

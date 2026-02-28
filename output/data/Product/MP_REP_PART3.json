@@ -1,0 +1,89 @@
+{
+  "ID": "MP_REP_PART3",
+  "Name": {
+    "English": "ENCRYPTED USER AUTHENTICATOR",
+    "SimplifiedChinese": "加密用户验证器",
+    "TraditionalChinese": "加密使用者鑑別器"
+  },
+  "NameLower": {
+    "English": "Encrypted User Authenticator",
+    "SimplifiedChinese": "加密用户验证器",
+    "TraditionalChinese": "加密使用者鑑別器"
+  },
+  "Subtitle": {
+    "English": "Starship Component",
+    "SimplifiedChinese": "飞船部件",
+    "TraditionalChinese": "太空船元件"
+  },
+  "Description": {
+    "English": "An advanced nanocomputer, performing processing tasks related to starship-to-Exosuit synchronisation and security.<br><br>This part could be in working order, but will require <span class=\"name name-special\">decryption</span> before it can be installed in a new ship. A paired <span class=\"name name-stellar\">decryption terminal</span> can be located via Exosuit analysis.",
+    "SimplifiedChinese": "一台先进的纳米电脑，可执行与飞船对套装同步和安全相关的处理任务。<br><br>该部件可能可以运作，但需要<span class=\"name name-special\">解密</span>才能安装至新的飞船。通过套装分析来定位匹配的<span class=\"name name-stellar\">解密终端</span>。",
+    "TraditionalChinese": "先進奈米電腦，能處理太空船及強化套裝同步與保全相關的任務。<br><br>此零件必須<span class=\"name name-special\">解密</span>後才能運作，並安裝到新的太空船上。可經由強化套裝分析找出對應的<span class=\"name name-stellar\">解密終端站</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.salvage.rare.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00020506412,
+  "NormalisedValueOffWorld": 0.00020506412,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Encrypted User Authenticator",
+    "SimplifiedChinese": "寻找加密用户验证器",
+    "TencentChinese": "寻找加密用户验证器",
+    "TraditionalChinese": "找出加密使用者鑑別器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

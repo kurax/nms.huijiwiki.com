@@ -1,0 +1,89 @@
+{
+  "ID": "S9_PACK1",
+  "Name": {
+    "English": "UTOPIA SUPPLY DROP BETA",
+    "SimplifiedChinese": "乌托邦补给投送B",
+    "TraditionalChinese": "烏托邦補給空投 Beta"
+  },
+  "NameLower": {
+    "English": "Utopia Supply Drop Beta",
+    "SimplifiedChinese": "乌托邦补给投送B",
+    "TraditionalChinese": "烏托邦補給空投 Beta"
+  },
+  "Subtitle": {
+    "English": "Utopia Foundation Supply Cache",
+    "SimplifiedChinese": "乌托邦基金会物资贮存箱",
+    "TraditionalChinese": "烏托邦基金會補給儲物箱"
+  },
+  "Description": {
+    "English": "To support the workers bravely terraforming the lava-filled wastes of planet Pehaelump, the Utopia Overseers are glad to supply this cache of vital goods.<br><br>Select the supply pack and use <VAL_ON>Open Package<> (<span class=\"name name-img\">FE_ALT1</span>) to collect your Utopia Foundation supplies, as well as details of your <span class=\"name name-stellar\">next assignment</span>.",
+    "SimplifiedChinese": "为支援肩负改造被熔岩废土覆盖的贝黑伦普星任务的勇敢建造者，乌托邦监督者很荣幸能够提供这份包含必要物资的贮存箱。<br><br>选择补给包并使用<VAL_ON>打开包裹（<>FE_ALT1<span class=\"name name-img\">）</span>领取你的乌托邦基金会补给，以及有关<span class=\"name name-stellar\">下一步任务</span>的细节信息。",
+    "TraditionalChinese": "為了支持工人們勇敢地對費海倫星球充滿熔岩的荒地進行地球化改造，烏托邦監督者十分樂意提供容納關鍵物品的儲物箱。<br><br>選擇補給包並使用<VAL_ON>打開包裹<> (<span class=\"name name-img\">FE_ALT1</span>) 即可領取烏托邦基金會補給，以及<span class=\"name name-stellar\">下個任務</span>的詳細資訊。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 2613,
+  "Level": 1,
+  "Icon": "ui/frontend/icons/products/holocomdevice.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000167435908,
+  "NormalisedValueOffWorld": 0.000167435908,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Utopia Supply Drop Beta",
+    "SimplifiedChinese": "制作乌托邦补给投送B",
+    "TencentChinese": "制作乌托邦补给投送B",
+    "TraditionalChinese": "製作烏托邦補給空投 Beta"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

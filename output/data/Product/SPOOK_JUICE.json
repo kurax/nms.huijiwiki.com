@@ -1,0 +1,100 @@
+{
+  "ID": "SPOOK_JUICE",
+  "Name": {
+    "English": "ELIXIR OF GLASS",
+    "SimplifiedChinese": "玻璃灵药",
+    "TraditionalChinese": "玻璃靈藥"
+  },
+  "NameLower": {
+    "English": "Elixir of Glass",
+    "SimplifiedChinese": "玻璃灵药",
+    "TraditionalChinese": "玻璃靈藥"
+  },
+  "Subtitle": {
+    "English": "Otherworldly Concoction",
+    "SimplifiedChinese": "异界混合物",
+    "TraditionalChinese": "超凡混合物"
+  },
+  "Description": {
+    "English": "A slight membrane has begun to form over this viscous purple liquid. Beneath its glassy surface it swirls slowly, forming syrupy currents of its own accord.<br><br>The elixir will maintain your local <span class=\"name name-stellar\">boundary integrity</span> and prevent the intrusion of <span class=\"name name-special\">the horrors beyond</span>.<br><br>Consume the elixir with <span class=\"name name-img\">FE_ALT1</span> or inject it directly into the <span class=\"name name-technology\">Anomaly Suppressor</span> from the Quick Menu (<span class=\"name name-img\">QUICK_MENU</span>).",
+    "SimplifiedChinese": "粘稠的紫色液体上逐渐形成了一层薄薄的膜。在玻璃般的外壳之下，里面的东西正在慢慢旋转并形成了一种糖浆的涡流。<br><br>灵药将能够维持本地的<span class=\"name name-stellar\">边界完整性</span>并避免<span class=\"name name-special\">边界之外的惧物</span>入侵。<br><br>使用<span class=\"name name-img\">FE_ALT1</span>服下灵药，或者通过快捷菜单（<span class=\"name name-img\">QUICK_MENU</span>）将其注入<span class=\"name name-technology\">异象抑制器</span>。",
+    "TraditionalChinese": "這種黏稠的紫色液體上已經形成了一層薄膜。玻璃般的外表下，裡面的濃稠液體緩緩旋轉，自動在薄膜中流動。<br><br>靈藥能維持局部<span class=\"name name-stellar\">邊界完整度</span>，並防止<span class=\"name name-special\">邊界外的懼獸</span>入侵。<br><br>使用 <span class=\"name name-img\">FE_ALT1</span> 服用靈藥，或從快捷選單 (<span class=\"name name-img\">QUICK_MENU</span>) 將其直接注入<span class=\"name name-technology\">異常抑制器</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.spookjuice.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 40,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAUNCHSUB": {
+      "ID": "LAUNCHSUB",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "SQUIDFRAG": {
+      "ID": "SQUIDFRAG",
+      "Type": "Substance",
+      "Amount": 10
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Elixir of Glass",
+    "SimplifiedChinese": "制作玻璃灵药",
+    "TencentChinese": "制作玻璃灵药",
+    "TraditionalChinese": "製作玻璃靈藥"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": false
+}

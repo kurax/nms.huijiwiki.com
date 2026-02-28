@@ -1,0 +1,89 @@
+{
+  "ID": "WORMSCROLL3",
+  "Name": {
+    "English": "WORMSKIN FOLIO: 3",
+    "SimplifiedChinese": "虫蜕经书：3",
+    "TraditionalChinese": "巨蟲皮片：3"
+  },
+  "NameLower": {
+    "English": "Wormskin Folio: 3",
+    "SimplifiedChinese": "虫蜕经书：3",
+    "TraditionalChinese": "巨蟲皮片：3"
+  },
+  "Subtitle": {
+    "English": "Fleshy Scroll",
+    "SimplifiedChinese": "肉质文卷",
+    "TraditionalChinese": "血肉卷軸"
+  },
+  "Description": {
+    "English": "Ancient words are carved into this <span class=\"name name-stellar\">living document</span>. They read:<br><br>'Now with every storm we beg to be chosen;<br>Arms to the sky, faces to the dirt, calling out with all we have!<br>When heavy raindrops hit the earth, the veins of Atlas answer.<br>The rapture of our consumption is beyond words.'",
+    "SimplifiedChinese": "这份<span class=\"name name-stellar\">活经文</span>上刻着古老的文字。上面写道：<br><br>“每当风暴声响起，吾等都乞求被选召；<br>手伸天空，脸面尘土，声嘶力竭！<br>待到磅礴大雨洗刷大地，阿特拉斯的血脉终于回应。<br>吾等消逝时的狂喜溢于言表。”",
+    "TraditionalChinese": "被刻進<span class=\"name name-stellar\">活體文件</span>的古老文字。上頭刻著：<br><br>「每當風暴降臨，我們便乞求成為天選之人；<br>手伸天空，臉面塵土，我們聲嘶力竭地呼喚！<br>當強雨擊打地面，寰宇血脈將會回應。<br>我們被吞噬時的狂歡難以言喻。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/wormscroll.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Wormskin Folio: 3",
+    "SimplifiedChinese": "寻找虫蜕经书：3",
+    "TencentChinese": "寻找虫蜕经书：3",
+    "TraditionalChinese": "找出巨蟲皮片：3"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

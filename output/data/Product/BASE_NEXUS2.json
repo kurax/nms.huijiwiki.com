@@ -1,0 +1,95 @@
+{
+  "ID": "BASE_NEXUS2",
+  "Name": {
+    "English": "SYNTHESIS CORE",
+    "SimplifiedChinese": "合成核心",
+    "TraditionalChinese": "合成核心"
+  },
+  "NameLower": {
+    "English": "Synthesis Core",
+    "SimplifiedChinese": "合成核心",
+    "TraditionalChinese": "合成核心"
+  },
+  "Subtitle": {
+    "English": "Space Anomaly Replica Part",
+    "SimplifiedChinese": "太空异象复制品部件",
+    "TraditionalChinese": "太空異常複製品部件"
+  },
+  "Description": {
+    "English": "A replica of the mysterious orb utilized by Polo's Quicksilver Synthesis Companion.<br><br>The physical properties of the orb are forever shifting in strangely rhythmic patterns: temperature, radioactivity and density all fluctuating to an unheard song.",
+    "SimplifiedChinese": "保罗的水银合成同伴所使用的神秘球体的复制品。<br><br>球体的物理属性一直以奇怪的节奏在改变：温度、放射性和密度像是随着一首无声的歌波动。",
+    "TraditionalChinese": "波羅的水銀合成夥伴在使用的神秘球體複製品。<br><br>這顆球體的物理特性，永遠以一種奇怪的節奏模式在轉換：溫度、放射性和密度像是隨著一首無聲的歌波動。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.nexusprop02.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.nexusprop02.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ANTIMATTER": {
+      "ID": "ANTIMATTER",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "YELLOW2": {
+      "ID": "YELLOW2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

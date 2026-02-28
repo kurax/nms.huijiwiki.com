@@ -1,0 +1,93 @@
+{
+  "ID": "SHIP_INV_TOKEN",
+  "Name": {
+    "English": "STORAGE AUGMENTATION",
+    "SimplifiedChinese": "储备扩充",
+    "TencentChinese": "已回收的护卫舰模块",
+    "TraditionalChinese": "倉儲擴充"
+  },
+  "NameLower": {
+    "English": "Storage Augmentation",
+    "SimplifiedChinese": "储备扩充",
+    "TencentChinese": "已回收的护卫舰模块",
+    "TraditionalChinese": "倉儲擴充"
+  },
+  "Subtitle": {
+    "English": "Starship Expansion Module",
+    "SimplifiedChinese": "飞船扩展模块",
+    "TencentChinese": "主力飞船接线平台",
+    "TraditionalChinese": "太空船擴充模組"
+  },
+  "Description": {
+    "English": "A technology module harvested from the remains of a salvaged starship. May also be collected from <span class=\"name name-stellar\">freighter crash sites</span> or salvaged during <span class=\"name name-stellar\">frigate expeditions</span>.<br><br>At the appropriate <span class=\"name name-technology\">Starship Outfitters</span>, may be used to expand starship storage capacity.",
+    "SimplifiedChinese": "从<span class=\"name name-stellar\">飞船残骸</span>里采集出来的技术模块。也可以从<span class=\"name name-stellar\">货船失事地点</span>获得，或在<span class=\"name name-stellar\">护卫舰远征</span>期间回收。<br><br>你可以前往空间站的<span class=\"name name-technology\">飞船装备装置</span>使用它来扩充飞船的仓储容量。",
+    "TencentChinese": "取自大型飞船残骸的一种技术模块。可以从<span class=\"name name-stellar\">货船坠毁地点</span>收集，或在<span class=\"name name-stellar\">护卫舰远征</span>期间回收。<br><br>当前状态下毫无用处，你货船上的<span class=\"name name-technology\">研究站</span>也许能把它转化成可用的技术。",
+    "TraditionalChinese": "從一艘<span class=\"name name-stellar\">回收的太空船</span>收集的科技模組。可以從<span class=\"name name-stellar\">貨船墜機地點</span>收集，或在<span class=\"name name-stellar\">巡防艦探勘</span>中回收。<br><br>可在太空站的<span class=\"name name-technology\">太空船改造站</span>中，將其用於擴充太空船倉儲空間。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 125000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.storagetoken.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 3,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00801275671,
+  "NormalisedValueOffWorld": 0.00801275671,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Storage Augmentation",
+    "SimplifiedChinese": "寻找储备扩充",
+    "TencentChinese": "寻找已回收的护卫舰模块",
+    "TraditionalChinese": "找出倉儲擴充"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

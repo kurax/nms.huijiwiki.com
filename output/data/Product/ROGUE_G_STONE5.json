@@ -1,0 +1,89 @@
+{
+  "ID": "ROGUE_G_STONE5",
+  "Name": {
+    "English": "MEMORY IMPRINT V",
+    "SimplifiedChinese": "铭记记忆 V",
+    "TraditionalChinese": "記憶銘刻 V"
+  },
+  "NameLower": {
+    "English": "Memory Imprint V",
+    "SimplifiedChinese": "铭记记忆 V",
+    "TraditionalChinese": "記憶銘刻 V"
+  },
+  "Subtitle": {
+    "English": "Loop Artifact",
+    "SimplifiedChinese": "循环遗物",
+    "TraditionalChinese": "迴圈器物"
+  },
+  "Description": {
+    "English": "A memory is <span class=\"name name-stellar\">burned</span> into this strange material, an echo of another lifetime...<br><br>\"I came face-to-face with a creature more beautiful and bizarre than anything I have ever seen.<br>Despite no discernible eyes, I do not believe it is blind.<br>It was huge, glorious, serene. But then - with a flick of its tentacles, it was gone.<br>I have thought of nothing else since. I can only think of the whale. whale. whale. <span class=\"name name-special\">wail</span>.\"",
+    "SimplifiedChinese": "记忆被<span class=\"name name-stellar\">烙进</span>了这种奇怪的材料，是另一个生命的回音......<br><br>“我面对面地遇到了一种我见过的最美丽且怪异的生物。<br>尽管不知道它们的眼睛在哪，可我认为它们肯定看得见。<br>它巨大、壮丽又安详，它的触手轻轻一抽，它便不见了。<br>从那以后，我再也无法思考其他事物。那头巨鲸在我的脑中萦绕不去。巨鲸，巨鲸......<span class=\"name name-special\">哀嚎</span>。“",
+    "TraditionalChinese": "一段記憶<span class=\"name name-stellar\">已燒錄</span>進此奇異材料內，一段另一世的回音......<br><br>「我與一隻比我看過的所有事物都還要奇怪的生物面對面。<br>儘管辨識不出眼睛，我不認為牠沒有視覺。<br>牠很巨大、華麗、安詳。隨後......觸手彈了一下，牠不見了。<br>至此以後我什麼都沒想，只能想著鯨魚。鯨魚。鯨魚。<span class=\"name name-special\">哀號</span>。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguegrave.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Memory Imprint V",
+    "SimplifiedChinese": "寻找铭记记忆 V",
+    "TencentChinese": "寻找铭记记忆 V",
+    "TraditionalChinese": "找出記憶銘刻 V"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

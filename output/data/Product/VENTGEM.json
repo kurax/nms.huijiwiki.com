@@ -1,0 +1,98 @@
+{
+  "ID": "VENTGEM",
+  "Name": {
+    "English": "CRYSTAL SULPHIDE",
+    "SimplifiedChinese": "硫化晶体",
+    "TencentChinese": "硫化晶体",
+    "TraditionalChinese": "水晶硫化物"
+  },
+  "NameLower": {
+    "English": "Crystal Sulphide",
+    "SimplifiedChinese": "硫化晶体",
+    "TencentChinese": "硫化晶体",
+    "TraditionalChinese": "水晶硫化物"
+  },
+  "Subtitle": {
+    "English": "Compressed Mineral",
+    "SimplifiedChinese": "压缩的矿物",
+    "TencentChinese": "压缩的矿物",
+    "TraditionalChinese": "壓縮礦藏"
+  },
+  "Description": {
+    "English": "Formed in the incredible, high-pressure furnace of planetary cores, these rich mineral deposits have an almost glass-like quality.<br><br>Has a wide variety of industrial uses, taking advantage of both its mineral content and its extreme strength under pressure.",
+    "SimplifiedChinese": "这种丰富的矿物沉积形成于行星核心那不可思议的高压熔炉，拥有几乎类似于玻璃的品质。<br><br>因其矿物含量和极高的承压强度而具有多种工业用途。",
+    "TencentChinese": "这种丰富的矿物沉积形成于行星核心那不可思议的高压熔炉，拥有几乎类似于玻璃的品质。<br><br>因其矿物含量和极高的承压强度而具有多种工业用途。",
+    "TraditionalChinese": "在星球核心的高壓高熱環境中產生，富含礦質含量，幾乎像是玻璃一般的質感。<br><br>擁有高度工業利用價值，可以同時利用其礦物含量與承受高壓的特性。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 7800,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.ventgem.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": -0.1,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0.2
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000474935921,
+  "NormalisedValueOffWorld": 0.000474935921,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Gather Crystal Sulphide from around sea vents",
+    "SimplifiedChinese": "在深海喷泉附近收集硫化晶体",
+    "TencentChinese": "在深海喷泉附近收集硫化晶体",
+    "TraditionalChinese": "自海底排出口附近蒐集水晶硫化物"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-commodity\">Crystal Sulphide</span> gems are found around <span class=\"name name-fuel\">hydrothermal vents</span> on the sea bed. Use the Galaxy Map to locate systems with ocean planets.<br>While swimming, look for glowing or bubbling <span class=\"name name-fuel\">hydrothermal vents</span> on the sea bed.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span>, refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>, or travelling in a <span class=\"name name-stellar\">Nautilon Submarine</span>.",
+    "SimplifiedChinese": "<span class=\"name name-commodity\">硫化晶体</span>宝石常见于海床上的<span class=\"name name-fuel\">深海热泉</span>。使用星系图定位有海洋行星的恒星系。<br>游泳时，留意海床上的亮光或冒泡的<span class=\"name name-fuel\">深海热泉</span>。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
+    "TencentChinese": "<span class=\"name name-commodity\">硫化晶体</span>宝石常见于海床上的<span class=\"name name-fuel\">深海热泉</span>。使用星系图定位有海洋行星的恒星系。<br>游泳时，留意海床上的亮光或冒泡的<span class=\"name name-fuel\">深海热泉</span>。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">水晶硫化物</span>寶石可於海底的<span class=\"name name-fuel\">熱液排出口</span>附近找到。利用銀河系地圖尋找含有海洋星球的星系。<br>游泳時，尋找發光或冒泡的海底<span class=\"name name-fuel\">熱液排出口</span>。<br>升級強化套裝的<span class=\"name name-technology\">曝氣黏膜</span>、從<span class=\"name name-tradeable\">巨藻囊</span>補充氧氣補給，或搭乘<span class=\"name name-stellar\">巡洋龍潛艇</span>前進，以提高海洋行動的效率。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "Mineral",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

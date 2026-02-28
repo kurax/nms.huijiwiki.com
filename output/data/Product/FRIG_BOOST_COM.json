@@ -1,0 +1,104 @@
+{
+  "ID": "FRIG_BOOST_COM",
+  "Name": {
+    "English": "EXPLOSIVE DRONES",
+    "SimplifiedChinese": "炸弹无人机",
+    "TencentChinese": "迸裂无人机",
+    "TraditionalChinese": "炸藥無人機"
+  },
+  "NameLower": {
+    "English": "Explosive Drones",
+    "SimplifiedChinese": "炸弹无人机",
+    "TencentChinese": "迸裂无人机",
+    "TraditionalChinese": "炸藥無人機"
+  },
+  "Subtitle": {
+    "English": "Consumable Frigate Upgrade",
+    "SimplifiedChinese": "可消耗巡航舰升级",
+    "TencentChinese": "可消耗巡航舰升级",
+    "TraditionalChinese": "消耗型巡防艦升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-commodity\">temporary frigate upgrade</span> that lasts for one expedition.<br><br>This pack of autonomous explosives have been programmed to launch from the fleet and pilot themselves directly towards hostile vessels. Extremely dangerous.",
+    "SimplifiedChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>这一组自动炸弹已编程从舰队发射，并直接导向敌方飞船。极度危险。",
+    "TencentChinese": "仅限一次远征的<span class=\"name name-commodity\">临时护卫舰升级</span>。<br><br>这一组自动迸裂弹已编程从舰队发射，并直接导向敌方飞船。极度危险。",
+    "TraditionalChinese": "<span class=\"name name-commodity\">臨時性巡防艦升級</span>，僅能維持一次的探險。<br><br>此包自動炸藥經過設計能從艦隊發射，自動導航直接炸向敵方船艦。極度危險。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 75000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.frigboost.combat.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0,
+    "G": 0.388235301,
+    "B": 0.717647076,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "WALKER_PROD": {
+      "ID": "WALKER_PROD",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00480762869,
+  "NormalisedValueOffWorld": 0.00480762869,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Explosive Drones",
+    "SimplifiedChinese": "制作或购买炸弹无人机",
+    "TencentChinese": "制作或购买迸裂无人机",
+    "TraditionalChinese": "製造或購買炸藥無人機"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

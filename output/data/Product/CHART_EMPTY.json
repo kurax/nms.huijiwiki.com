@@ -1,0 +1,93 @@
+{
+  "ID": "CHART_EMPTY",
+  "Name": {
+    "English": "PLANETARY CHART (EMPTY)",
+    "SimplifiedChinese": "星图（空）",
+    "TencentChinese": "星图（空）",
+    "TraditionalChinese": "星系圖 (空)"
+  },
+  "NameLower": {
+    "English": "Planetary Chart (Empty)",
+    "SimplifiedChinese": "星图（空）",
+    "TencentChinese": "星图（空）",
+    "TraditionalChinese": "星系圖（空）"
+  },
+  "Subtitle": {
+    "English": "Cartographic Data",
+    "SimplifiedChinese": "制图资料",
+    "TencentChinese": "制图资料",
+    "TraditionalChinese": "地圖資料"
+  },
+  "Description": {
+    "English": "A map of a nearby planet.<br><br>The chart is barren, devoid of any lifesigns or indications of settled territory.",
+    "SimplifiedChinese": "附近的一颗星球的地图。<br><br>星图上显示一片贫瘠，找不到任何生命迹象或者是聚居地的痕迹。",
+    "TencentChinese": "一张恒星系的地图，所有标记地点都已被拜访过了。<br><br>与当地生命体交换资料以找到<span class=\"name name-stellar\">新的有价值地点</span>。",
+    "TraditionalChinese": "附近行星的地圖。<br><br>該星圖一片荒蕪，沒有任何生命跡象或定居過的痕跡。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Planetary Chart (Empty)",
+    "SimplifiedChinese": "寻找星图（空）",
+    "TencentChinese": "寻找星图（空）",
+    "TraditionalChinese": "找出星系圖（空）"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

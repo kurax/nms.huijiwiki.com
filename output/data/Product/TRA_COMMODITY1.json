@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMMODITY1",
+  "Name": {
+    "English": "DECRYPTED USER DATA",
+    "SimplifiedChinese": "破译的用户资料",
+    "TencentChinese": "破译的用户资料",
+    "TraditionalChinese": "已解密使用者資料"
+  },
+  "NameLower": {
+    "English": "Decrypted User Data",
+    "SimplifiedChinese": "破译的用户资料",
+    "TencentChinese": "破译的用户资料",
+    "TraditionalChinese": "已解密使用者資料"
+  },
+  "Subtitle": {
+    "English": "Trade Goods",
+    "SimplifiedChinese": "交易货物",
+    "TencentChinese": "贸易商品",
+    "TraditionalChinese": "貿易商品"
+  },
+  "Description": {
+    "English": "A crate packed with hard drives, each of which contain vast amounts of decrypted user data.<br><br>Individually of low value, taken together these repositories can be processed and scanned for valuable data. This processing occurs in systems with <span class=\"name name-special\">advanced material</span> economies.",
+    "SimplifiedChinese": "装满了硬盘驱动器的箱子，每一块硬盘中都包含了大量破译好的用户数据。<br><br>单独一块没有什么价值的硬盘积聚起来就可以处理扫描出宝贵数据。<span class=\"name name-special\">改进材料</span>经济体中有这种处理方式。",
+    "TencentChinese": "装满了硬盘驱动器的箱子，每一块硬盘中都包含了大量破译好的用户数据。<br><br>单独一块没有什么价值的硬盘积聚起来就可以处理扫描出宝贵数据。<span class=\"name name-special\">改进材料</span>经济体中有这种处理方式。",
+    "TraditionalChinese": "一整箱硬碟，每顆硬碟都儲存了可觀的已解密使用者資料。<br><br>單顆硬碟沒什麼價值，但若全數加以處理掃描，可取出可用資料。資料處理得交給<span class=\"name name-special\">先進素材</span>經濟體的星系。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.commodity1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000640384678,
+  "TradeCategory": "Commodity",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1.2,
+  "PinObjective": {
+    "English": "Purchase Decrypted User Data from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买破译的用户资料",
+    "TencentChinese": "从空间站的交易终端购买破译的用户资料",
+    "TraditionalChinese": "從太空站交易終端站購買已解密使用者資料"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

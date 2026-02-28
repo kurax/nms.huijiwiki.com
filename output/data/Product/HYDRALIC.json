@@ -1,0 +1,110 @@
+{
+  "ID": "HYDRALIC",
+  "Name": {
+    "English": "HYDRAULIC WIRING",
+    "SimplifiedChinese": "水力线路",
+    "TraditionalChinese": "液壓線路"
+  },
+  "NameLower": {
+    "English": "Hydraulic Wiring",
+    "SimplifiedChinese": "水力线路",
+    "TraditionalChinese": "液壓線路"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "Specialist <span class=\"name name-technology\">wiring and control threads</span>, this flexible material allows the transmission of power and signals, as well as offering direct manipulation of remote components.<br><br>Used in the creation of a wide range of <span class=\"name name-technology\">advanced technologies</span>.",
+    "SimplifiedChinese": "一种专业的<span class=\"name name-technology\">线路和控制丝线</span>，这种可弯折的材料允许传输电力和信号，还能提供远程部件的直接操作。<br><br>可用于创造各种<span class=\"name name-technology\">高级技术</span>。",
+    "TraditionalChinese": "專家級<span class=\"name name-technology\">電路與控制線</span>，材質具有彈性，能夠傳輸電力與訊號，也能直接遠端操控元件。<br><br>能用來製造各式<span class=\"name name-technology\">先進科技</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.hydralic.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Component",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "NANOTUBES": {
+      "ID": "NANOTUBES",
+      "Type": "Product",
+      "Amount": 2
+    },
+    "WATER1": {
+      "ID": "WATER1",
+      "Type": "Substance",
+      "Amount": 20
+    },
+    "LAUNCHSUB": {
+      "ID": "LAUNCHSUB",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 1.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000230705147,
+  "NormalisedValueOffWorld": 0.000230705147,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Hydraulic Wiring",
+    "SimplifiedChinese": "制作水力线路",
+    "TencentChinese": "制作水力线路",
+    "TraditionalChinese": "製作液壓線路"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Hydraulic Wiring from <span class=\"name name-commodity\">Carbon Nanotubes</span>, <span class=\"name name-tradeable\">Salt</span> and <span class=\"name name-special\">Chromatic Metal</span>.<br><br>Craft <span class=\"name name-commodity\">Carbon Nanotubes</span> from <span class=\"name name-fuel\">Carbon</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br><span class=\"name name-tradeable\">Salt</span> is readily extracted from <span class=\"name name-earth\">underwater rock deposits</span>. Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span> or by refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>.<br><span class=\"name name-special\">Chromatic Metal</span> is created in a <span class=\"name name-technology\">Refiner</span> from the <span class=\"name name-stellar\">stellar metals</span>: <span class=\"name name-commodity\">Copper</span>, <span class=\"name name-fuel\">Cadmium</span>, <span class=\"name name-tradeable\">Emeril</span> and <span class=\"name name-technology\">Indium</span>.",
+    "SimplifiedChinese": "用<span class=\"name name-commodity\">碳纳米管</span>、<span class=\"name name-tradeable\">盐</span>和<span class=\"name name-special\">有色金属</span>制作水力线路。<br><br>用<span class=\"name name-fuel\">碳</span>制作<span class=\"name name-commodity\">碳纳米管</span>。用<span class=\"name name-img\">PRODMENU</span>在空的<span class=\"name name-technology\">库存栏位</span>中制作。<br><span class=\"name name-tradeable\">盐</span>很容易就能从<span class=\"name name-earth\">水下岩石矿床</span>中提取出来。升级套装<span class=\"name name-technology\">曝气膜</span>或从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，以提高在海洋中的效率。<br><span class=\"name name-special\">有色金属</span>可采用<span class=\"name name-technology\">精炼机</span>从<span class=\"name name-stellar\">恒星金属</span>中制得：<span class=\"name name-commodity\">铜</span>、<span class=\"name name-fuel\">镉</span>、<span class=\"name name-tradeable\">艾梅里尔</span>和<span class=\"name name-technology\">铟</span>。",
+    "TraditionalChinese": "以<span class=\"name name-commodity\">奈米碳管</span>、<span class=\"name name-tradeable\">鹽</span>和<span class=\"name name-special\">有色金屬</span>製作液壓線路。<br><br>以<span class=\"name name-fuel\">碳</span>製作<span class=\"name name-commodity\">奈米碳管</span>。用<span class=\"name name-img\">PRODMENU</span>製作空的<span class=\"name name-technology\">道具欄欄位</span>。<br>可從<span class=\"name name-earth\">水下岩石資源產地</span>萃取<span class=\"name name-tradeable\">鹽</span>。升級強化套裝<span class=\"name name-technology\">曝氣黏膜</span>或從<span class=\"name name-tradeable\">巨藻囊</span>補充氧氣補給，以提高海洋行動的效率。<br><span class=\"name name-special\">有色金屬</span>是以<span class=\"name name-technology\">精製機</span>加工以下<span class=\"name name-stellar\">星體金屬</span>而成：<span class=\"name name-commodity\">銅</span>、<span class=\"name name-fuel\">鎘</span>、<span class=\"name name-tradeable\">砪</span>、<span class=\"name name-technology\">銦</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

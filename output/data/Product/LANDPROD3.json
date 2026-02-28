@@ -1,0 +1,98 @@
+{
+  "ID": "LANDPROD3",
+  "Name": {
+    "English": "RARE METAL ELEMENT",
+    "SimplifiedChinese": "稀有金属元素",
+    "TencentChinese": "稀有金属元素",
+    "TraditionalChinese": "罕見金屬元素"
+  },
+  "NameLower": {
+    "English": "Rare Metal Element",
+    "SimplifiedChinese": "稀有金属元素",
+    "TencentChinese": "稀有金属元素",
+    "TraditionalChinese": "罕見金屬元素"
+  },
+  "Subtitle": {
+    "English": "Concentrated Metal Deposit",
+    "SimplifiedChinese": "浓缩金属沉积",
+    "TencentChinese": "浓缩金属沉积",
+    "TraditionalChinese": "濃縮金屬資源"
+  },
+  "Description": {
+    "English": "A highly-prized metal product, this rare element is used in the manufacture of several advanced technologies.<br><br>Metal is highly reactive and quickly bonds to exposed skin. User is advised to handle with extreme caution.<br><br>Synthesized from <span class=\"name name-earth\">Magnetized Ferrite</span>.",
+    "SimplifiedChinese": "非常珍贵的金属制品，这种稀有的元素被用于制造几种高级科技设备。<br><br>这种金属活性很高，与暴露的皮肤接触后会很快附着，建议使用者处理时应高度谨慎。<br><br>从<span class=\"name name-earth\">磁化铁氧体</span>中合成。",
+    "TencentChinese": "非常珍贵的金属制品，这种稀有的元素被用于制造几种高级科技设备。<br><br>这种金属活性很高，与暴露的皮肤接触后会很快附着，建议使用者处理时应高度谨慎。<br><br>从<span class=\"name name-earth\">磁化铁氧体</span>中合成。",
+    "TraditionalChinese": "非常珍貴的金屬產品，此罕見元素在製作先進科技時能派上用場。<br><br>金屬活性高，會很快附著於暴露在外的皮膚上。建議使用者處理時要極為小心。<br><br>由<span class=\"name name-earth\">磁化鐵氧體</span>合成而來。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 4200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.raremetalelement.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000269166689,
+  "NormalisedValueOffWorld": 0.000269166689,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Gather or refine Rare Metal Element",
+    "SimplifiedChinese": "收集或精炼稀有金属元素",
+    "TencentChinese": "收集或精炼稀有金属元素",
+    "TraditionalChinese": "收集或精製罕見金屬元素"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft or refine Rare Metal Element from <span class=\"name name-earth\">Pure Ferrite</span>. Refining advanced products requires a <span class=\"name name-technology\">Large Refiner</span>.<br>Supplies of Rare Metal Element are very occasionally found inside rare planetary crystals.",
+    "SimplifiedChinese": "使用<span class=\"name name-earth\">纯铁氧体</span>制作或精炼出稀有金属元素。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>稀有金属元素偶尔能在稀有的星球晶体中找到。",
+    "TencentChinese": "使用<span class=\"name name-earth\">纯铁氧体</span>制作或精炼出稀有金属元素。精炼先进的产品需要<span class=\"name name-technology\">大型精炼机</span>。<br>稀有金属元素偶尔能在稀有的星球晶体中找到。",
+    "TraditionalChinese": "將<span class=\"name name-earth\">純鐵氧體</span>製作或精製成罕見金屬元素。精製先進產品需使用<span class=\"name name-technology\">大型精製機</span>。<br>罕見金屬元素偶爾能在罕見星球結晶中找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

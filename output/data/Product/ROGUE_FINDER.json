@@ -1,0 +1,105 @@
+{
+  "ID": "ROGUE_FINDER",
+  "Name": {
+    "English": "MEMORY RESONATOR",
+    "SimplifiedChinese": "记忆共振器",
+    "TraditionalChinese": "記憶共振器"
+  },
+  "NameLower": {
+    "English": "Memory Resonator",
+    "SimplifiedChinese": "记忆共振器",
+    "TraditionalChinese": "記憶共振器"
+  },
+  "Subtitle": {
+    "English": "Loop Manifestation Technology",
+    "SimplifiedChinese": "循环显示技术",
+    "TraditionalChinese": "迴圈顯示科技"
+  },
+  "Description": {
+    "English": "A highly familar, entirely novel, piece of technology, designed by Specialist Polo as part of their <span class=\"name name-technology\">loop research</span> efforts. It synchronises its vibrations with the underlying song of the universe, allowing it to reveal <span class=\"name name-stellar\">memory hotspots</span> within the loop.<br><br>Begin the <span class=\"name name-technology\">resonance alignment</span> process with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "一项非常熟悉，却又完全新颖的技术，由保罗专家设计，作为其<span class=\"name name-technology\">循环研究</span>工作的一部分。它将其振动与宇宙的底层声音同步，使其能够揭示循环中的<span class=\"name name-stellar\">记忆热点</span>。<br><br>使用<span class=\"name name-img\">FE_ALT1</span>开始<span class=\"name name-technology\">共振校对</span>。",
+    "TraditionalChinese": "令人十分熟悉，卻完全創新的科技，由專家波羅所設計，用於<span class=\"name name-technology\">迴圈研究</span>。振動頻率和宇宙深處的歌聲同步，使其能夠在迴圈中發現<span class=\"name name-stellar\">記憶熱點</span>。<br><br>按下 <span class=\"name name-img\">FE_ALT1</span> 開始<span class=\"name name-technology\">共振校準</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguefinder.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "TIMEMILK": {
+      "ID": "TIMEMILK",
+      "Type": "Substance",
+      "Amount": 16
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 40
+    },
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 30
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Memory Resonator",
+    "SimplifiedChinese": "制作记忆共振器",
+    "TencentChinese": "制作记忆共振器",
+    "TraditionalChinese": "製作記憶共振器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

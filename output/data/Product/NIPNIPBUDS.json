@@ -1,0 +1,97 @@
+{
+  "ID": "NIPNIPBUDS",
+  "Name": {
+    "English": "NIPNIP BUDS",
+    "SimplifiedChinese": "吸吸幼芽",
+    "TencentChinese": "吸吸幼芽",
+    "TraditionalChinese": "酒韭芽"
+  },
+  "NameLower": {
+    "English": "NipNip Buds",
+    "SimplifiedChinese": "吸吸幼芽",
+    "TencentChinese": "吸吸幼芽",
+    "TraditionalChinese": "酒韭芽"
+  },
+  "Subtitle": {
+    "English": "Medicinal Substance",
+    "SimplifiedChinese": "药用物质",
+    "TencentChinese": "药用物质",
+    "TraditionalChinese": "藥用物質"
+  },
+  "Description": {
+    "English": "A pungent bud harvested from the NipNip plant, often used to produce Gek Nip.",
+    "SimplifiedChinese": "从吸吸植被中收获的刺激性幼芽，常被用于生产吉克小吸。",
+    "TencentChinese": "从吸吸植被中收获的刺激性幼芽，常被用于生产吉克小吸。",
+    "TraditionalChinese": "酒韭上採得的芽株，味道辛辣，常用於製造吉客餅。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 17776,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update1/product.nipbud.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.219607845,
+    "G": 0.219607845,
+    "B": 0.219607845,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Illegal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00113942311,
+  "NormalisedValueOffWorld": 0.00113942311,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase NipNip Buds",
+    "SimplifiedChinese": "寻找或购买吸吸幼芽",
+    "TencentChinese": "寻找或购买吸吸幼芽",
+    "TraditionalChinese": "找出或購買酒韭芽"
+  },
+  "PinObjectiveTip": {
+    "English": "<span class=\"name name-tradeable\">NipNip Buds</span> are available for purchase in <span class=\"name name-special\">outlaw systems</span>, or can harvested from the NipNip plant.<br><br>The host plant can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
+    "SimplifiedChinese": "可以在<span class=\"name name-tradeable\">亡命之徒恒星系</span>购买到<span class=\"name name-special\">吸吸幼芽</span>，或者可以从吸吸植物上采集。<br><br>这种植物可以在任何环境中通过<span class=\"name name-technology\">水培盘</span>养殖。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">酒韭芽</span>可在<span class=\"name name-special\">亡命之徒星系</span>中購買，或者從酒韭植物上採收。<br><br>宿主植物可借助<span class=\"name name-technology\">水耕盤</span>在任何環境中栽種。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": true,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

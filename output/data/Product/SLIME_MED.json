@@ -1,0 +1,90 @@
+{
+  "ID": "SLIME_MED",
+  "Name": {
+    "English": "DETOXIFIED SLIME",
+    "SimplifiedChinese": "去毒黏质",
+    "TraditionalChinese": "去毒性軟泥"
+  },
+  "NameLower": {
+    "English": "Detoxified Slime",
+    "SimplifiedChinese": "去毒黏质",
+    "TraditionalChinese": "去毒性軟泥"
+  },
+  "Subtitle": {
+    "English": "Placeable Sludge",
+    "SimplifiedChinese": "可放置的淤泥",
+    "TraditionalChinese": "可放置黏液"
+  },
+  "Description": {
+    "English": "Gelatinous and slowly pulsing, this puddle of living slime smells sweeter than would be imagined.<br><br>Though there is no evidence to suggest it would be unsafe to do so, avoid treading on the slime where possible.",
+    "SimplifiedChinese": "这一滩活体黏质呈凝胶状，会缓慢脉动，闻上去甜得出奇。<br><br>尽管没有证据表明这样做不安全，但还请尽量避免踩在黏质上。",
+    "TraditionalChinese": "一灘具有生命的軟泥，呈膠狀、緩慢搏動著，氣味比想像中甜。<br><br>雖然沒有證據顯示不該踩，但最好還是盡量避免踩到。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.slimemed.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.slimemed.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "PLANT_POOP": {
+      "ID": "PLANT_POOP",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

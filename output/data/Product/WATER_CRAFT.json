@@ -1,0 +1,98 @@
+{
+  "ID": "WATER_CRAFT",
+  "Name": {
+    "English": "SALT REFRACTOR",
+    "SimplifiedChinese": "盐晶折射镜",
+    "TencentChinese": "盐晶折射镜",
+    "TraditionalChinese": "鹽折射體"
+  },
+  "NameLower": {
+    "English": "Salt Refractor",
+    "SimplifiedChinese": "盐晶折射镜",
+    "TencentChinese": "盐晶折射镜",
+    "TraditionalChinese": "鹽折射體"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "A specialist technology component, vital to the complex internals of modern laser systems. <br><br>This light-scattering device takes advantage of the unique optical properties of stabilized and polished salt, to both slow and refract passing photons.",
+    "SimplifiedChinese": "专用的技术部件，对现代激光系统的复杂内构而言至关重要。 <br><br>这是一种利用稳定盐晶被抛光后的独特光学特性，来减缓和折射所通过光子的光散射装置。",
+    "TencentChinese": "专用的技术部件，对现代激光系统的复杂内构而言至关重要。 <br><br>这是一种利用稳定盐晶被抛光后的独特光学特性，来减缓和折射所通过光子的光散射装置。",
+    "TraditionalChinese": "一個專家級科技元件，對於現代雷射系統的複雜內部相當重要。 <br><br>這具散光裝置利用穩定與拋光鹽的獨特光學特性，將通過的光子減慢速度並改變折射方向。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 30500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.saltrefractor.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00195506425,
+  "NormalisedValueOffWorld": 0.00195506425,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Salt Refractor",
+    "SimplifiedChinese": "制作或购买盐晶折射镜",
+    "TencentChinese": "制作或购买盐晶折射镜",
+    "TraditionalChinese": "製造或購買鹽折射體"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft <span class=\"name name-commodity\">Salt Refractors</span> from <span class=\"name name-tradeable\">Salt</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br><span class=\"name name-tradeable\">Salt</span> is readily extracted from <span class=\"name name-earth\">underwater rock deposits</span>. Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span> or by refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-tradeable\">盐</span>制作<span class=\"name name-commodity\">盐折射器</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-tradeable\">盐</span>。升级套装<span class=\"name name-technology\">换气薄膜</span>或从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，以提高在海洋中的效率。",
+    "TencentChinese": "使用<span class=\"name name-tradeable\">盐</span>制作<span class=\"name name-commodity\">盐折射器</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-tradeable\">盐</span>。升级套装<span class=\"name name-technology\">换气薄膜</span>或从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，以提高在海洋中的效率。",
+    "TraditionalChinese": "使用<span class=\"name name-tradeable\">鹽</span>製作<span class=\"name name-commodity\">鹽折射體</span>。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。<br>從<span class=\"name name-earth\">地下岩石礦床</span>中容易提取出<span class=\"name name-tradeable\">鹽</span>。升級強化套裝<span class=\"name name-technology\">曝氣黏膜</span>或從<span class=\"name name-tradeable\">巨藻囊</span>中補充氧氣補給，以提高在海洋中的效率。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

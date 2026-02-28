@@ -1,0 +1,98 @@
+{
+  "ID": "POWERCELL2",
+  "Name": {
+    "English": "ADVANCED ION BATTERY",
+    "SimplifiedChinese": "高级离子电池",
+    "TencentChinese": "高级离子电池",
+    "TraditionalChinese": "先進離子電池"
+  },
+  "NameLower": {
+    "English": "Advanced Ion Battery",
+    "SimplifiedChinese": "高级离子电池",
+    "TencentChinese": "高级离子电池",
+    "TraditionalChinese": "先進離子電池"
+  },
+  "Subtitle": {
+    "English": "Portable Energy Storage",
+    "SimplifiedChinese": "便携式能量存储器",
+    "TencentChinese": "便携式能量存储器",
+    "TraditionalChinese": "可攜式能量儲存裝置"
+  },
+  "Description": {
+    "English": "Powerful energy storage unit. Used in a wide variety of <span class=\"name name-commodity\">defensive</span> and <span class=\"name name-commodity\">hazard protection</span> systems.<br><br>Constructed from <span class=\"name name-technology\">Ionized Cobalt</span> and <span class=\"name name-earth\">Pure Ferrite</span>, and occasionally found in cylindrical metal containers.",
+    "SimplifiedChinese": "强大的能量存储单元。在<span class=\"name name-commodity\">防御系统</span>和<span class=\"name name-commodity\">危险防护系统</span>中有广泛的应用。<br><br>从<span class=\"name name-technology\">电离钴</span>和<span class=\"name name-earth\">纯铁氧体</span>制作而成，有时可以在圆柱形金属容器中发现。",
+    "TencentChinese": "强大的能量存储单元。在<span class=\"name name-commodity\">防御系统</span>和<span class=\"name name-commodity\">危险防护系统</span>中有广泛的应用。<br><br>从<span class=\"name name-technology\">电离钴</span>和<span class=\"name name-earth\">纯铁氧体</span>制作而成，有时可以在圆柱形金属容器中发现。",
+    "TraditionalChinese": "強力能量儲存單元。廣泛用於<span class=\"name name-commodity\">防禦</span>與<span class=\"name name-commodity\">風險防護</span>系統。<br><br>能以<span class=\"name name-technology\">離子化鈷</span>與<span class=\"name name-earth\">純鐵氧體</span>製成，偶爾能見於圓筒形金屬容器中。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.powercell2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Consumable",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 80,
+  "StackMultiplier": 20,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft, find or purchase Advanced Ion Battery",
+    "SimplifiedChinese": "制作、寻找或购买高级离子电池",
+    "TencentChinese": "制作、寻找或购买高级离子电池",
+    "TraditionalChinese": "製造、找出或購買先進離子電池"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Advanced Ion Battery from <span class=\"name name-technology\">Ionized Cobalt</span> and <span class=\"name name-earth\">Pure Ferrite</span>. Use a <span class=\"name name-technology\">Refiner</span> to process advanced materials.<br>Cobalt is found underground. Locate natural cave entrances. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.<br>Supplies are occasionally found in <span class=\"name name-technology\">Supply Caches</span> left on planets.",
+    "SimplifiedChinese": "使用<span class=\"name name-technology\">离子钴</span>和<span class=\"name name-earth\">纯铁氧体</span>制作高级离子电池。使用<span class=\"name name-technology\">精炼机</span>加工出先进材料。<br>钴能在地下被找到。寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。<br>补给品偶尔能从留在行星上的<span class=\"name name-technology\">物资贮存箱</span>中找到。",
+    "TencentChinese": "使用<span class=\"name name-technology\">离子钴</span>和<span class=\"name name-earth\">纯铁氧体</span>制作高级离子电池。使用<span class=\"name name-technology\">精炼机</span>加工出先进材料。<br>钴能在地下被找到。寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。<br>补给品偶尔能从留在行星上的<span class=\"name name-technology\">物资贮存箱</span>中找到。",
+    "TraditionalChinese": "將<span class=\"name name-technology\">離子化鈷</span>和<span class=\"name name-earth\">純鐵氧體</span>製作成先進離子電池。使用<span class=\"name name-technology\">精製機</span>來處理先進材料。<br>鈷能在地底找到。找出天然洞穴入口。<span class=\"name name-red\">警告：</span>許多洞穴內有危險植物。<br>偶爾能在棄置於星球的<span class=\"name name-technology\">補給儲物箱</span>中找到補給品。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

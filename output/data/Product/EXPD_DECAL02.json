@@ -1,0 +1,91 @@
+{
+  "ID": "EXPD_DECAL02",
+  "Name": {
+    "English": "BEACHHEAD EXPEDITION DECAL",
+    "SimplifiedChinese": "抢滩远征贴花",
+    "TraditionalChinese": "灘頭探險轉印貼紙"
+  },
+  "NameLower": {
+    "English": "Beachhead Expedition Decal",
+    "SimplifiedChinese": "抢滩远征贴花",
+    "TraditionalChinese": "灘頭探險轉印貼紙"
+  },
+  "Subtitle": {
+    "English": "Decoration",
+    "SimplifiedChinese": "装饰",
+    "TencentChinese": "装饰",
+    "TraditionalChinese": "裝飾"
+  },
+  "Description": {
+    "English": "An exclusive placeable decal, to add flair and decoration to bases.<br><br>This decal commemorates the collective effort of the Travellers in mapping the <span class=\"name name-special\">Histiographical Flux</span> and tracking the renegade echo during the <span class=\"name name-stellar\">Beachhead</span> Expedition.",
+    "SimplifiedChinese": "专属的可放置贴花，为你的基地增添风格和美观。<br><br>此贴花纪念了在<span class=\"name name-stellar\">抢滩</span>远征期间，旅行者为绘制<span class=\"name name-special\">史学波动</span>地图和追踪反叛者的回音所付出的共同努力。",
+    "TraditionalChinese": "特殊的可放置貼花，可以裝飾基地，增添個人風格。<br><br>這片貼花紀念了旅行者在定位<span class=\"name name-special\">史學史通量</span>，及於<span class=\"name name-stellar\">灘頭</span>探險中追蹤叛離者回音的集體貢獻。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 400,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.expedition.decal02.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.expedition.decal02.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000255769246,
+  "NormalisedValueOffWorld": 0.0000255769246,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

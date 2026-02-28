@@ -1,0 +1,93 @@
+{
+  "ID": "GEODE_CRYSTAL",
+  "Name": {
+    "English": "CRYSTAL FRAGMENT",
+    "SimplifiedChinese": "水晶碎片",
+    "TencentChinese": "水晶碎片",
+    "TraditionalChinese": "水晶碎片"
+  },
+  "NameLower": {
+    "English": "Crystal Fragment",
+    "SimplifiedChinese": "水晶碎片",
+    "TencentChinese": "水晶碎片",
+    "TraditionalChinese": "水晶碎片"
+  },
+  "Subtitle": {
+    "English": "Concentrated Element Shard",
+    "SimplifiedChinese": "浓缩的元素碎片",
+    "TencentChinese": "浓缩的元素碎片",
+    "TraditionalChinese": "濃縮元素碎片"
+  },
+  "Description": {
+    "English": "A crystalline shard with an unusually dense structure. Potentially highly valuable.<br><br>Select in the Inventory (<span class=\"name name-img\">INVENTORY</span>) and crack open with <span class=\"name name-img\">FE_ALT1</span>.",
+    "SimplifiedChinese": "一块异常稠密且可能很宝贵的水晶碎片。<br><br>在库存（<span class=\"name name-img\">INVENTORY</span>）中选择它，通过<span class=\"name name-img\">FE_ALT1</span>将其打开。",
+    "TencentChinese": "一块异常稠密且可能很宝贵的水晶碎片。<br><br>在库存（<span class=\"name name-img\">INVENTORY</span>）中选择它，通过<span class=\"name name-img\">INTERACT</span>将其打开。",
+    "TraditionalChinese": "結構特別緊密的水晶碎片，可能極為珍貴。<br><br>在道具欄（<span class=\"name name-img\">INVENTORY</span>）中選取，再用 <span class=\"name name-img\">FE_ALT1</span> 敲開。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 3200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.geode.crystal.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0.05,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00827852823,
+  "NormalisedValueOffWorld": 0.00827852823,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Crystal Fragment",
+    "SimplifiedChinese": "寻找水晶碎片",
+    "TencentChinese": "寻找水晶碎片",
+    "TraditionalChinese": "找出水晶碎片"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

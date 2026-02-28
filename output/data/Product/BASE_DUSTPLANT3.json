@@ -1,0 +1,91 @@
+{
+  "ID": "BASE_DUSTPLANT3",
+  "Name": {
+    "English": "SUCCULENT TREE",
+    "SimplifiedChinese": "多肉树",
+    "TraditionalChinese": "多肉植物樹"
+  },
+  "NameLower": {
+    "English": "Succulent Tree",
+    "SimplifiedChinese": "多肉树",
+    "TraditionalChinese": "多肉植物樹"
+  },
+  "Subtitle": {
+    "English": "Organic Decoration",
+    "SimplifiedChinese": "有机装饰",
+    "TencentChinese": "有机装饰",
+    "TraditionalChinese": "有機裝飾"
+  },
+  "Description": {
+    "English": "The bark on this tree is misleading. Neither rough nor hard, its flesh is instead soft and moist to the touch. Wrinkles in the surface store extra water for times of hardship.<br><br>Provides decorative landscaping opportunities for bases.",
+    "SimplifiedChinese": "这种树的树皮很有迷惑性。它的内里既不粗糙也不坚硬，反而柔软湿润。表面上的褶皱可以储存额外的水分以应对缺水时期。<br><br>可以作为基地的装饰景观。",
+    "TraditionalChinese": "這種樹的樹皮會令人產生誤解。它的肉質既不粗糙也不硬，反而十分柔軟濕潤。表面的皺摺可在困難時期儲存額外的水分。<br><br>可為基地提供景觀美化的機會。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special.dustplant03.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero.dustplant03.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL1": {
+      "ID": "FUEL1",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

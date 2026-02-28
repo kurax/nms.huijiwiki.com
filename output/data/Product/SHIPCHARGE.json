@@ -1,0 +1,108 @@
+{
+  "ID": "SHIPCHARGE",
+  "Name": {
+    "English": "STARSHIELD BATTERY",
+    "SimplifiedChinese": "星盾电池",
+    "TencentChinese": "星盾电池",
+    "TraditionalChinese": "星盾電池"
+  },
+  "NameLower": {
+    "English": "Starshield Battery",
+    "SimplifiedChinese": "星盾电池",
+    "TencentChinese": "星盾电池",
+    "TraditionalChinese": "星盾電池"
+  },
+  "Subtitle": {
+    "English": "Portable Energy Storage",
+    "SimplifiedChinese": "便携式能量存储器",
+    "TencentChinese": "便携式能量存储器",
+    "TraditionalChinese": "可攜式能量儲存裝置"
+  },
+  "Description": {
+    "English": "A power storage unit optimized for use in <span class=\"name name-commodity\">starship defensive systems</span>.<br> <br><span class=\"name name-special\">Tritium</span>-fueled capacitors provide quick-release charge for the <span class=\"name name-technology\">Deflector Shield</span>, but would overload smaller-scale equipment.",
+    "SimplifiedChinese": "为<span class=\"name name-commodity\">飞船防御系统</span>而优化的能源储存器。以<br><br><span class=\"name name-special\">氚</span>为燃料的电容器为<span class=\"name name-technology\">偏导护盾</span>提供了快速释放的电荷，但小型装备用它会超载。",
+    "TencentChinese": "一种为<span class=\"name name-commodity\">飞船防御系统</span>使用而优化的储能装置。<br><br><span class=\"name name-special\">氚</span>燃料电容能为<span class=\"name name-technology\">偏转护盾</span>提供快速释放的电荷，但会使小型装备过载。",
+    "TraditionalChinese": "針對<span class=\"name name-commodity\">太空船防禦系統</span>最佳化設計的電力儲存單位。<br> <br>以<span class=\"name name-special\">氚</span>為能源的電容器，可快速放電為<span class=\"name name-technology\">反射防護罩</span>充能，但用在規模較小的配備就會過載。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.powercell2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Catalyst",
+  "Type": "Consumable",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 100,
+  "StackMultiplier": 10,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "ASTEROID2": {
+      "ID": "ASTEROID2",
+      "Type": "Substance",
+      "Amount": 20
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft, find or purchase Starshield Battery",
+    "SimplifiedChinese": "制作、寻找或购买星盾电池",
+    "TencentChinese": "制作、寻找或购买星盾电池",
+    "TraditionalChinese": "製造、找出或購買星盾電池"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Starshield Battery from <span class=\"name name-earth\">Gold</span> and <span class=\"name name-technology\">Tritium</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br><span class=\"name name-earth\">Gold</span> and <span class=\"name name-earth\">Tritium</span> are most commonly <span class=\"name name-commodity\">mined from asteroids</span>.",
+    "SimplifiedChinese": "用<span class=\"name name-earth\">金</span>和<span class=\"name name-technology\">氚</span>制作星盾电池。用<span class=\"name name-img\">PRODMENU</span>在空的<span class=\"name name-technology\">库存栏位</span>中制作。<br><span class=\"name name-earth\">金</span>和<span class=\"name name-earth\">氚</span>通常<span class=\"name name-commodity\">从小行星开采</span>得到。",
+    "TraditionalChinese": "以<span class=\"name name-earth\">金</span>和<span class=\"name name-technology\">氚</span>製作星盾電池。按下 <span class=\"name name-img\">PRODMENU</span> 在空的<span class=\"name name-technology\">道具欄欄位</span>中製作。<br><span class=\"name name-earth\">金</span>和<span class=\"name name-earth\">氚</span>通常<span class=\"name name-commodity\">從小行星開採而來</span>。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

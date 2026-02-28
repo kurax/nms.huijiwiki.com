@@ -1,0 +1,90 @@
+{
+  "ID": "BLD_MINI_BIOFRI",
+  "Name": {
+    "English": "ORGANIC FRIGATE CALF",
+    "SimplifiedChinese": "有机护卫舰幼崽",
+    "TraditionalChinese": "有機巡防艦幼崽"
+  },
+  "NameLower": {
+    "English": "Organic Frigate Calf",
+    "SimplifiedChinese": "有机护卫舰幼崽",
+    "TraditionalChinese": "有機巡防艦幼崽"
+  },
+  "Subtitle": {
+    "English": "Ornamental Base Companion",
+    "SimplifiedChinese": "同伴装饰基地",
+    "TraditionalChinese": "裝飾基地同伴"
+  },
+  "Description": {
+    "English": "A juvenile cosmic leviathan, suitable for rehoming in a habitable base.<br><br>This mysterious creature is enclosed in a chrono-preservation field to ensure it remains eternally young, playful, and a manageable size.",
+    "SimplifiedChinese": "一只少年期的宇宙巨兽，适合在豢养在宜居基地。<br><br>这只神秘的生物被封闭在一个时空保护区内，以确保它永远保持年轻，顽皮和易于管理的体型。",
+    "TraditionalChinese": "年幼的宇宙龐然大物，適合養在可居住的基地中。<br><br>這隻神祕的生物被關在時光凍結的力場中，確保牠能夠永遠保持年輕活力，並維持在方便管理的大小。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/specialshop/special1.expedition.minibiofrig.png",
+  "HeroIcon": "ui/frontend/icons/specialshop/hero1.expedition.minibiofrig.png",
+  "Colour": {
+    "R": 0.172549024,
+    "G": 0.486274511,
+    "B": 0.623529434,
+    "A": 1
+  },
+  "Category": "BuildingPart",
+  "Type": "BuildingPart",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "FUEL2": {
+      "ID": "FUEL2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "SpecialShop",
+  "WikiCategory": "Construction",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": "",
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

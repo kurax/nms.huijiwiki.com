@@ -1,0 +1,89 @@
+{
+  "ID": "F_HOT_LEG_M1",
+  "Name": {
+    "English": "MIRRORSCALE SKIPPER",
+    "SimplifiedChinese": "镜鳞鲤",
+    "TraditionalChinese": "鏡鱗鰹"
+  },
+  "NameLower": {
+    "English": "Mirrorscale Skipper",
+    "SimplifiedChinese": "镜鳞鲤",
+    "TraditionalChinese": "鏡鱗鰹"
+  },
+  "Subtitle": {
+    "English": "Legendary Fish",
+    "SimplifiedChinese": "传说鱼类",
+    "TraditionalChinese": "傳奇魚類"
+  },
+  "Description": {
+    "English": "\"Impossible to see with mortal eyes as it flashes through the water under boiling, cloudless skies.\"",
+    "SimplifiedChinese": "“在万里无云的沸腾天空下，寻常人根本无法看见它在水下若隐若现的闪光。“",
+    "TraditionalChinese": "「牠在沸騰的無雲天空下疾速穿梭於水中，一般人的肉眼難以捕捉。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 100000,
+  "Level": 4,
+  "Icon": "ui/frontend/icons/fish/product5.fish.small.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Fish",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Mirrorscale Skipper",
+    "SimplifiedChinese": "寻找镜鳞鲤",
+    "TencentChinese": "寻找镜鳞鲤",
+    "TraditionalChinese": "找出鏡鱗鰹"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": true,
+  "CookingValue": 0.35,
+  "FoodBonusStat": "Weapon_Scan_Discovery_Creature",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

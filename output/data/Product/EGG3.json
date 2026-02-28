@@ -1,0 +1,89 @@
+{
+  "ID": "EGG3",
+  "Name": {
+    "English": "COMPANION EGG",
+    "SimplifiedChinese": "同伴卵",
+    "TraditionalChinese": "同伴蛋"
+  },
+  "NameLower": {
+    "English": "Companion Egg",
+    "SimplifiedChinese": "同伴卵",
+    "TraditionalChinese": "同伴蛋"
+  },
+  "Subtitle": {
+    "English": "Companion Egg's Genetic Material",
+    "SimplifiedChinese": "同伴卵的遗传基因",
+    "TraditionalChinese": "同伴蛋的基因材料"
+  },
+  "Description": {
+    "English": "A living, fertile egg, %READY%%EXTRA%<br><br>%MODIFIED%<br><br>Scans indicate the being within has the genetic potential to be %SIZE% and %TRAIT%.",
+    "SimplifiedChinese": "一个有生命的、可生育的卵，%READY%%EXTRA%<br><br>%MODIFIED%<br><br>根据扫描结果显示，里面的生物拥有%SIZE%和%TRAIT%的基因潜质。",
+    "TraditionalChinese": "有生命、可孵化的蛋，%READY%%EXTRA%<br><br>%MODIFIED%<br><br>掃描結果顯示，該生物可能擁有以下形容的大小及特徵：%SIZE%、%TRAIT%。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 0,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.creatureegg.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.192156866,
+    "G": 0.101960786,
+    "B": 0.286274523,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "CreatureEgg",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": 0,
+    "HighPriceMod": 0,
+    "BuyBaseMarkup": 0,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 0,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Companion Egg",
+    "SimplifiedChinese": "寻找同伴卵",
+    "TencentChinese": "寻找同伴卵",
+    "TraditionalChinese": "找出同伴蛋"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

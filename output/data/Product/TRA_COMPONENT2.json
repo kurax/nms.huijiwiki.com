@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMPONENT2",
+  "Name": {
+    "English": "NON-STICK PISTON",
+    "SimplifiedChinese": "不粘活塞",
+    "TencentChinese": "不粘活塞",
+    "TraditionalChinese": "特滑活塞"
+  },
+  "NameLower": {
+    "English": "Non-Stick Piston",
+    "SimplifiedChinese": "不粘活塞",
+    "TencentChinese": "不粘活塞",
+    "TraditionalChinese": "特滑活塞"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Industrial)",
+    "SimplifiedChinese": "交易货物（工业）",
+    "TencentChinese": "工业原件",
+    "TraditionalChinese": "貿易商品 (工業)"
+  },
+  "Description": {
+    "English": "Wrapped and greased pistons, ready for shipping.<br><br><span class=\"name name-special\">High-tech</span> components frequently require rapidly moving parts, or high-endurance motors. Without specially coated pistons, the failure rate of such parts would be significantly higher.",
+    "SimplifiedChinese": "已经包装好，上好油，随时可以运走的活塞。<br><br><span class=\"name name-special\">高科技</span>部件经常需要能快速移动的部件或耐用马达。没有了这些特别镀膜过的活塞，此种部件的故障率将会难以忍受。",
+    "TencentChinese": "已经包装好，上好油，随时可以运走的活塞。<br><br><span class=\"name name-special\">高科技</span>部件经常需要能快速移动的部件或耐用马达。没有了这些特别镀膜过的活塞，此种部件的故障率将会难以忍受。",
+    "TraditionalChinese": "活塞已上油並包裝完畢，隨時可運送。<br><br>活塞為<span class=\"name name-special\">高科技</span>元件，常用於高速運轉的零件或耐久性強的馬達。這些零件如果不使用特殊潤滑的活塞，故障率將大幅提升。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.component2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000384551298,
+  "NormalisedValueOffWorld": 0.000384551298,
+  "TradeCategory": "Component",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 1,
+  "PinObjective": {
+    "English": "Purchase Non-Stick Piston from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买不粘活塞",
+    "TencentChinese": "从空间站的交易终端购买不粘活塞",
+    "TraditionalChinese": "從太空站交易終端站購買特滑活塞"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

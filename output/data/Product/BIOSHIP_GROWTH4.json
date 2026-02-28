@@ -1,0 +1,89 @@
+{
+  "ID": "BIOSHIP_GROWTH4",
+  "Name": {
+    "English": "SINGULARITY CORE",
+    "SimplifiedChinese": "奇点核心",
+    "TraditionalChinese": "奇異點核心"
+  },
+  "NameLower": {
+    "English": "Singularity Core",
+    "SimplifiedChinese": "奇点核心",
+    "TraditionalChinese": "奇異點核心"
+  },
+  "Subtitle": {
+    "English": "Living Starship Organ",
+    "SimplifiedChinese": "活体飞船的器官",
+    "TraditionalChinese": "活太空船器官"
+  },
+  "Description": {
+    "English": "A sensitive arrangement of neurons in a stable orbit around a miniature black hole. The mind at the heart of this bionic miracle is free from the constraints of linear time, its experience an impossible web of myriad collected lifeforms.<br><br>It awaits its host.",
+    "SimplifiedChinese": "微型黑洞周围的稳定轨道上灵敏排列的一组神经元。这个仿生奇迹核心的意识不受线性时间的限制，能体验由无数收集的生命体所组成的一张匪夷所思的网络。<br>它正在等待宿主。",
+    "TraditionalChinese": "在迷你黑洞周圍的穩定軌道上仔細排列的神經元。這個仿生奇蹟核心的意識不受線性時間限制，能感受無數生命體經驗形成的神奇網絡。<br><br>正在等待宿主。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/technology/bio/biotech.eyecluster.mod.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.117647059,
+    "G": 0.137254909,
+    "B": 0.156862751,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 3,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00010352565,
+  "NormalisedValueOffWorld": 0.00010352565,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0,
+  "PinObjective": {
+    "English": "Find Singularity Core",
+    "SimplifiedChinese": "寻找奇点核心",
+    "TencentChinese": "寻找奇点核心",
+    "TraditionalChinese": "找出奇異點核心"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

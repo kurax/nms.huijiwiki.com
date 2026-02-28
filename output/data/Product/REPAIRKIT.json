@@ -1,0 +1,89 @@
+{
+  "ID": "REPAIRKIT",
+  "Name": {
+    "English": "REPAIR KIT",
+    "SimplifiedChinese": "修复套件",
+    "TraditionalChinese": "維修工具"
+  },
+  "NameLower": {
+    "English": "Repair Kit",
+    "SimplifiedChinese": "修复套件",
+    "TraditionalChinese": "維修工具"
+  },
+  "Subtitle": {
+    "English": "Automatic Patching Unit",
+    "SimplifiedChinese": "自动修复单元",
+    "TraditionalChinese": "自動修補裝置"
+  },
+  "Description": {
+    "English": "A highly useful piece of <span class=\"name name-stellar\">survival technology</span>, the Repair Kit allows damaged equipment to be quickly and efficiently restored to working order.<br><br>While repairing a piece of techology, the Repair Kit can be applied to any damaged subcomponent in place of the usual requirements.",
+    "SimplifiedChinese": "修复套件是非常有用的<span class=\"name name-stellar\">生存技术</span>物品，可快速有效地让受损设备恢复工作。<br><br>修复任何科技设备时，修复套件都可以应用到受损的子组件上，替代常规的修复部件。",
+    "TraditionalChinese": "維修工具是非常實用的<span class=\"name name-stellar\">生存科技</span>，能將受損配備快速且有效地恢復到正常狀態。<br><br>修復科技零件時，可將維修工具運用在損壞的子元件上，取代平常需要的材料。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 450,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.repairkit.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 154,
+    "LowPriceMod": -0.043,
+    "HighPriceMod": 0.043,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 213,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000287820531,
+  "NormalisedValueOffWorld": 0.00447109016,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.1,
+  "PinObjective": {
+    "English": "Find Repair Kit",
+    "SimplifiedChinese": "寻找修复套件",
+    "TencentChinese": "寻找修复套件",
+    "TraditionalChinese": "找出維修工具"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

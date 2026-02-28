@@ -1,0 +1,104 @@
+{
+  "ID": "FRIGATE_FUEL_3",
+  "Name": {
+    "English": "FRIGATE FUEL (200 TONNES)",
+    "SimplifiedChinese": "护卫舰燃料（200 吨）",
+    "TencentChinese": "护卫舰燃料（200 吨）",
+    "TraditionalChinese": "巡防艦燃料（200噸）"
+  },
+  "NameLower": {
+    "English": "Frigate Fuel (200 Tonnes)",
+    "SimplifiedChinese": "护卫舰燃料（200 吨）",
+    "TencentChinese": "护卫舰燃料（200 吨）",
+    "TraditionalChinese": "巡防艦燃料（200噸）"
+  },
+  "Subtitle": {
+    "English": "Stabilized Di-hydrogen Fuel",
+    "SimplifiedChinese": "稳定二氢燃料",
+    "TencentChinese": "稳定二氢燃料",
+    "TraditionalChinese": "穩定的二氫燃料"
+  },
+  "Description": {
+    "English": "A huge barrel of frigate fuel.<br><br>This viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships.",
+    "SimplifiedChinese": "一巨大桶护卫舰燃料。<br><br>这种粘性凝胶具有高毒性。一种能为大型贸易货船的星际发动机充能的精炼燃料。",
+    "TencentChinese": "一巨大桶护卫舰燃料。<br><br>这种粘性凝胶具有高毒性。一种能为大型贸易货船的星际发动机充能的精炼燃料。",
+    "TraditionalChinese": "超大桶巡防艦燃料<br><br>這種黏稠的凝膠具有劇毒，不可觸碰。一種精製燃料，可為大型商船的星際引擎提供能源。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 80000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.frigfuel200.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.752941191,
+    "G": 0.0901960805,
+    "B": 0.274509817,
+    "A": 1
+  },
+  "Category": "Fuel",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "LAUNCHSUB": {
+      "ID": "LAUNCHSUB",
+      "Type": "Substance",
+      "Amount": 200
+    },
+    "ROCKETSUB": {
+      "ID": "ROCKETSUB",
+      "Type": "Substance",
+      "Amount": 200
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 1.5
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.00512814149,
+  "NormalisedValueOffWorld": 0.00512814149,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Frigate Fuel (200 Tonnes)",
+    "SimplifiedChinese": "制作或购买护卫舰燃料（200 吨）",
+    "TencentChinese": "制作或购买护卫舰燃料（200 吨）",
+    "TraditionalChinese": "製造或購買巡防艦燃料（200噸）"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

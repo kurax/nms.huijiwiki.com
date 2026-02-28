@@ -1,0 +1,94 @@
+{
+  "ID": "MECH_PROD",
+  "Name": {
+    "English": "HARDFRAME ENGINE",
+    "SimplifiedChinese": "强化外壳驱动器",
+    "TraditionalChinese": "硬體結構引擎"
+  },
+  "NameLower": {
+    "English": "Hardframe Engine",
+    "SimplifiedChinese": "强化外壳驱动器",
+    "TraditionalChinese": "硬體結構引擎"
+  },
+  "Subtitle": {
+    "English": "Anomalous Material",
+    "SimplifiedChinese": "异常材料",
+    "TencentChinese": "异常材料",
+    "TraditionalChinese": "異常材料"
+  },
+  "Description": {
+    "English": "This complex mechanical unit was once the central combustion chamber at the heart of a <span class=\"name name-special\">Sentinel Hardframe</span> unit.<br><br>Though now cool to the touch, it still glows with a sinister red heat...",
+    "SimplifiedChinese": "构造极其复杂的机械单元，曾经是一台<span class=\"name name-special\">护卫强化外壳</span>单元中央燃烧室的心脏。<br><br>尽管现在摸上去十分冰冷，但其中仍然闪烁着不详的炽热......",
+    "TraditionalChinese": "這個複雜的機械單元曾經是<span class=\"name name-special\">巡警硬體結構</span>單元核心中的中央壓縮艙。<br><br>雖然現在冷卻到可以觸碰，仍然散發著險惡的紅熱......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 28000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.mechcore.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 5,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00179480785,
+  "NormalisedValueOffWorld": 0.00179480785,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Hardframe Engine",
+    "SimplifiedChinese": "寻找强化外壳驱动器",
+    "TencentChinese": "寻找强化外壳驱动器",
+    "TraditionalChinese": "找出硬體結構引擎"
+  },
+  "PinObjectiveTip": {
+    "English": "Harvest <span class=\"name name-special\">Hardsuit Engines</span> from the remains of <span class=\"name name-special\">Sentinel Hardframe Units</span>, a combat exo-mech deployed at high alert levels.<br>Collect items from defeated Sentinels by destroying <VAL_ON>Combat Supply Barrels<>.",
+    "SimplifiedChinese": "从只会在高威胁等级部署的战斗用机甲<span class=\"name name-special\">护卫强化外壳单元</span>的残骸中获取的<span class=\"name name-special\">硬质驱动器</span>。<br>摧毁<VAL_ON>战斗补给桶<>以从击败的护卫身上收集战利品。",
+    "TraditionalChinese": "從高度警惕級別時所部署的高級戰鬥<span class=\"name name-special\">巡警硬體結構單位</span>的殘骸上收集<span class=\"name name-special\">硬體套裝引擎</span>。<br>透過摧毀<VAL_ON>戰鬥補給桶<>收集擊敗巡警身上的物品。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "WORMBOOK",
+  "Name": {
+    "English": "WRITHING MANUSCRIPT",
+    "SimplifiedChinese": "扭动的经文",
+    "TraditionalChinese": "扭曲手稿"
+  },
+  "NameLower": {
+    "English": "Writhing Manuscript",
+    "SimplifiedChinese": "扭动的经文",
+    "TraditionalChinese": "扭曲手稿"
+  },
+  "Subtitle": {
+    "English": "Cultist Document",
+    "SimplifiedChinese": "邪教文件",
+    "TraditionalChinese": "教派成員文件"
+  },
+  "Description": {
+    "English": "A translucent sheet of <span class=\"name name-stellar\">worm-vellum</span>, inscribed with a fanatical text. It writhes when touched.<br><br>'The children were the first to notice.<br>A thump thump thump, thundering deep below the sand.<br>The first worm split the sky like black lightning as it leapt overhead. <br>Worm by worm, they rose from the desert. Migrating.<br>Every storm season, we each hope to be chosen. We arrange ourselves in lines across the desert, arms lifted to the sky.<br>Anyone may enter the maw.<br>We are all equal under the great worms.'",
+    "SimplifiedChinese": "一卷半透明的<span class=\"name name-stellar\">虫经</span>，上面写着疯狂的文字。经书一被碰到就会扭动翻腾。<br><br>“孩子们是第一个意识到的。<br>就在沙土之下，什么东西在轰鸣着，咚、咚、咚。<br>一跃而出的蠕虫就像是一道撕裂天空的黑色闪电。<br>蠕虫们一只接一只地钻出地表，它们在迁徙。<br>每当风暴季来临，我们就会在荒漠中排起长队，大家一起张开双手拥抱天空。<br>所有人都可能会成为下一个进入那张巨口的祭品。<br>巨虫面前人人平等。”",
+    "TraditionalChinese": "一片晶瑩剔透的<span class=\"name name-stellar\">巨蟲皮紙</span>，上頭刻寫著狂熱無比的文字。受到觸碰時，紙張會變得扭曲。<br><br>「孩子是最先發現的。<br>轟隆轟隆轟隆地在沙土深處鳴響著。<br>第一隻巨蟲越過我們頭頂上空時，就如同黑色閃電般劈開天際。<br>一隻接著一隻，從沙漠中突起。遷徙著。<br>每次風暴季來臨，我們都希望被選中。我們在沙漠排成長長的列隊，雙手朝天乞求。<br>任何人都能獻身其胃袋之中。<br>我們眾生平等於巨蟲之下。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1616,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/wormbook.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Writhing Manuscript",
+    "SimplifiedChinese": "寻找扭动的经文",
+    "TencentChinese": "寻找扭动的经文",
+    "TraditionalChinese": "找出扭曲手稿"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

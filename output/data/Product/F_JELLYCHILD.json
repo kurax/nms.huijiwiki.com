@@ -1,0 +1,89 @@
+{
+  "ID": "F_JELLYCHILD",
+  "Name": {
+    "English": "CHILD OF AQUARIUS",
+    "SimplifiedChinese": "水瓶座的孩子",
+    "TraditionalChinese": "水瓶座之子"
+  },
+  "NameLower": {
+    "English": "Child of Aquarius",
+    "SimplifiedChinese": "水瓶座的孩子",
+    "TraditionalChinese": "水瓶座之子"
+  },
+  "Subtitle": {
+    "English": "Precious Spawn",
+    "SimplifiedChinese": "珍稀的子嗣",
+    "TraditionalChinese": "珍貴幼體"
+  },
+  "Description": {
+    "English": "An impossibly delicate jellyfish. Its tentacles are as fine as strands of hair, its entire being glassy, dancing on the edge of what is possible.<br><br>A gift from the sea, almost too precious to keep...",
+    "SimplifiedChinese": "梦幻般的珍贵水母。它的触须就像是一缕缕细腻的发丝，这种水母通体呈透明的玻璃状，是一种不可思议的物种。<br><br>来自海洋的瑰宝，让人几乎不忍心私自留下......",
+    "TraditionalChinese": "嬌弱無比的水母，觸手宛如髮絲，全身光亮透明，在無境之地翩翩起舞。<br><br>來自大海的贈禮，幾乎是碰不得的稀世珍寶......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/fish/product2.fish.jelly.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.129411772,
+    "G": 0.466666669,
+    "B": 0.784313738,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 1,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0,
+  "NormalisedValueOffWorld": 0,
+  "TradeCategory": "None",
+  "WikiCategory": "Curio",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Child of Aquarius",
+    "SimplifiedChinese": "寻找水瓶座的孩子",
+    "TencentChinese": "寻找水瓶座的孩子",
+    "TraditionalChinese": "找出水瓶座之子"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

@@ -1,0 +1,89 @@
+{
+  "ID": "ROGUE_STARTBOX",
+  "Name": {
+    "English": "MEMORY FRAGMENT (EXOSUIT)",
+    "SimplifiedChinese": "记忆碎片（套装）",
+    "TraditionalChinese": "記憶碎片 (強化套裝)"
+  },
+  "NameLower": {
+    "English": "Memory Fragment (Exosuit)",
+    "SimplifiedChinese": "记忆碎片（套装）",
+    "TraditionalChinese": "記憶碎片 (強化套裝)"
+  },
+  "Subtitle": {
+    "English": "Rogue Technology Echo",
+    "SimplifiedChinese": "反叛技术回音",
+    "TraditionalChinese": "失常科技回音"
+  },
+  "Description": {
+    "English": "The shattered remnants of a <span class=\"name name-stellar\">previous existence</span>. It whispers, an unknowable name deep within its fibres.<br><br>The memory will manifest as an <span class=\"name name-technology\">Exosuit technology upgrade</span> to aid you in this iteration. <span class=\"name name-stellar\">Absorb</span> this memory with <VAL_ON><span class=\"name name-img\">FE_ALT1</span><>.<br><br><span class=\"name name-special\">DEATH IS NOT THE END</span> <span class=\"name name-img\">SLASH</span> <span class=\"name name-stellar\">THE LOOP CONTINUES</span>",
+    "SimplifiedChinese": "一块 <span class=\"name name-stellar\">已故生命体</span>的记忆碎片残骸。在纤维的深处仿佛轻轻的低语着一个陌生的名字。<br><br>这些记忆将作为一个<span class=\"name name-technology\">套装技术升级组件</span>来帮助你进行此次迭代。按<VAL_ON><span class=\"name name-img\">FE_ALT1</span><><span class=\"name name-stellar\">吸收</span>这份记忆。<br><br><span class=\"name name-special\">死亡不是结束</span><span class=\"name name-img\">SLASH</span><span class=\"name name-stellar\">循环将会继续</span>",
+    "TraditionalChinese": "<span class=\"name name-stellar\">前世存在</span>的破碎殘片。不斷發出低語，其纖維中深藏著一個不可知的名字。<br><br>記憶將會以<span class=\"name name-technology\">強化套裝科技升級</span>的形式顯現，在這一個迭代中協助你。按下 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> <span class=\"name name-stellar\">吸收</span>這個記憶。<br><br><span class=\"name name-special\">死亡並非終結</span> <span class=\"name name-img\">SLASH</span> <span class=\"name name-stellar\">迴圈將會繼續</span>"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/roguetech.suit.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000319871833,
+  "NormalisedValueOffWorld": 0.0000319871833,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Memory Fragment (Exosuit)",
+    "SimplifiedChinese": "寻找记忆碎片（套装）",
+    "TencentChinese": "寻找记忆碎片（套装）",
+    "TraditionalChinese": "找出記憶碎片 (強化套裝)"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

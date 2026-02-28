@@ -1,0 +1,89 @@
+{
+  "ID": "ROGUE_G_STONE1",
+  "Name": {
+    "English": "MEMORY IMPRINT I",
+    "SimplifiedChinese": "铭记记忆 I",
+    "TraditionalChinese": "記憶銘刻 I"
+  },
+  "NameLower": {
+    "English": "Memory Imprint I",
+    "SimplifiedChinese": "铭记记忆 I",
+    "TraditionalChinese": "記憶銘刻 I"
+  },
+  "Subtitle": {
+    "English": "Loop Artifact",
+    "SimplifiedChinese": "循环遗物",
+    "TraditionalChinese": "迴圈器物"
+  },
+  "Description": {
+    "English": "A memory is <span class=\"name name-stellar\">burned</span> into this strange material, an echo of another lifetime...<br><br>\"The leviathan was like nothing I've ever seen.<br>So vast as to blot out the sun.<br>I wanted it. I deserve to have it! It will be mine.<br>But it resisted, would not come quietly.<br>It wailed and it wailed as the infra-knife carved into its meat.<br>It almost took me down with it. Perhaps it has. Perhaps...\"",
+    "SimplifiedChinese": "记忆被<span class=\"name name-stellar\">烙进</span>了这种奇怪的材料，是另一个生命的回音......<br><br>“我从来没见过这样的巨兽。<br>体型大得好似能遮住太阳的一角。<br>我想得到它。只有我才配得到它！它会是我的。<br>但是它在抵抗，不愿意乖乖就擒。<br>在红外切割机割入它肉体的同时，它不断地哀嚎。<br>我差点与它同归于尽。也许我已经......”",
+    "TraditionalChinese": "一段記憶<span class=\"name name-stellar\">已燒錄</span>進此奇異材料內，一段另一世的回音......<br><br>「像龐然大物這樣的事物，我前所未見。<br>大到能遮住太陽。<br>我想要牠。我有資格！那一定是專屬於我。<br>不過牠反抗了，不願意束手就擒。<br>當紅外線刀在牠的肉上切割時，牠哀嚎不斷。<br>幾乎把我給一起帶走了。也許真是如此。也許......」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguegrave.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Memory Imprint I",
+    "SimplifiedChinese": "寻找铭记记忆 I",
+    "TencentChinese": "寻找铭记记忆 I",
+    "TraditionalChinese": "找出記憶銘刻 I"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

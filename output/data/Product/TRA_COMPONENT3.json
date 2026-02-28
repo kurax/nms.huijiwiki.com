@@ -1,0 +1,93 @@
+{
+  "ID": "TRA_COMPONENT3",
+  "Name": {
+    "English": "MESH DECOUPLERS",
+    "SimplifiedChinese": "网孔去耦器",
+    "TencentChinese": "六臂网孔去耦器",
+    "TraditionalChinese": "網目解耦器"
+  },
+  "NameLower": {
+    "English": "Mesh Decouplers",
+    "SimplifiedChinese": "网孔去耦器",
+    "TencentChinese": "六臂网孔去耦器",
+    "TraditionalChinese": "網目解耦器"
+  },
+  "Subtitle": {
+    "English": "Trade Goods (Industrial)",
+    "SimplifiedChinese": "交易货物（工业）",
+    "TencentChinese": "工业原件",
+    "TraditionalChinese": "貿易商品 (工業)"
+  },
+  "Description": {
+    "English": "A crate of mesh decouplers.<br><br>The creation of <span class=\"name name-special\">high-tech</span> components often involves accidental mesh-coupling. These decouplers are particularly powerful, being able to deploy six prongs simultaneously.",
+    "SimplifiedChinese": "一箱网孔去耦器。<br><br>制造<span class=\"name name-special\">高科技</span>部件常常需要网孔耦合。这些去耦器相当好用，可以同时部署六个夹头。",
+    "TencentChinese": "一箱网孔去耦器。<br><br>制造<span class=\"name name-special\">高科技</span>部件常常需要网孔耦合。这些去耦器相当好用，可以同时部署六个夹头。",
+    "TraditionalChinese": "一箱網目解耦器。<br><br>製作<span class=\"name name-special\">高科技</span>元件常會有網目耦合的意外。這解耦器格外強大，可同時運用六個叉。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 15000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/tradeprod.component3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Exotic",
+  "Type": "Tradeable",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.02,
+    "HighPriceMod": 0.02,
+    "BuyBaseMarkup": 0.1,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000961474434,
+  "NormalisedValueOffWorld": 0.000961474434,
+  "TradeCategory": "Component",
+  "WikiCategory": "Trade",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.7,
+  "PinObjective": {
+    "English": "Purchase Mesh Decouplers from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买网孔去耦器",
+    "TencentChinese": "从空间站的交易终端购买六臂网孔去耦器",
+    "TraditionalChinese": "從太空站交易終端站購買網目解耦器"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": true,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

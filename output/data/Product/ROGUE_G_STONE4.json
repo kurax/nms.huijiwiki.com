@@ -1,0 +1,89 @@
+{
+  "ID": "ROGUE_G_STONE4",
+  "Name": {
+    "English": "MEMORY IMPRINT IV",
+    "SimplifiedChinese": "铭记记忆 IV",
+    "TraditionalChinese": "記憶銘刻 IV"
+  },
+  "NameLower": {
+    "English": "Memory Imprint IV",
+    "SimplifiedChinese": "铭记记忆 IV",
+    "TraditionalChinese": "記憶銘刻 IV"
+  },
+  "Subtitle": {
+    "English": "Loop Artifact",
+    "SimplifiedChinese": "循环遗物",
+    "TraditionalChinese": "迴圈器物"
+  },
+  "Description": {
+    "English": "A memory is <span class=\"name name-stellar\">burned</span> into this strange material, an echo of another lifetime...<br><br>\"The chase is over, and I have lost.<br>The giants will endure, and I will end.<br>As I plummeted from the sky, I saw another ship falling alongside mine. Then another, and another.<br>I may have imagined it. The misfiring of a dying mind...<br>Those creatures were so beautiful. But it is all ended now.<br>They will haunt my thoughts no longer.\"",
+    "SimplifiedChinese": "记忆被<span class=\"name name-stellar\">烙进了</span>这种奇怪的材料，是另一个生命的回音......“<br><br>这场追逐结束了，而我是输家。<br>巨兽会存活，我则迎来终结。<br>在我从空中坠落时，我看见了另一艘飞船与我同落，接着一艘又一艘。<br>我死前最后的想法是......<br>那些生物太美了，然而一切都结束了。<br>它们不会再在我脑中萦绕不去了。”",
+    "TraditionalChinese": "一段記憶<span class=\"name name-stellar\">已燒錄</span>進此奇異材料內，一段另一世的回音......<br><br>「追趕告一段落，我已落敗。<br>巨物永存，而我將終了。<br>當我從空中墜落，我看見其他船也隨我一同下墜。一艘又一艘。<br>或許是我幻想出來的。垂死之人的神智不清幻想......<br>那群生物如此美麗。但一切都已結束。<br>牠們將不再使我念念不忘。」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguegrave.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Memory Imprint IV",
+    "SimplifiedChinese": "寻找铭记记忆 IV",
+    "TencentChinese": "寻找铭记记忆 IV",
+    "TraditionalChinese": "找出記憶銘刻 IV"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

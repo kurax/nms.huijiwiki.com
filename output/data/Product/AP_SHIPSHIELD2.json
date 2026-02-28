@@ -1,0 +1,89 @@
+{
+  "ID": "AP_SHIPSHIELD2",
+  "Name": {
+    "English": "SCREAM SUPPRESSOR NODE",
+    "SimplifiedChinese": "尖叫抑制器节点",
+    "TraditionalChinese": "尖叫抑制器節點"
+  },
+  "NameLower": {
+    "English": "Scream Suppressor Node",
+    "SimplifiedChinese": "尖叫抑制器节点",
+    "TraditionalChinese": "尖叫抑制器節點"
+  },
+  "Subtitle": {
+    "English": "Significant Biological Upgrade",
+    "SimplifiedChinese": "显著的生物护罩升级",
+    "TraditionalChinese": "重要生物升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-technology\">significant</span> upgrade for the vessel's <span class=\"name name-technology\">pain suppression systems</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to trigger node growth and begin the <VAL_ON>grafting process<>.<br><br>Each node is genetically unique, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Significantly improves <span class=\"name name-stellar\">living ship strength</span> for increased combat endurance.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">疼痛抑制系统</span>的<span class=\"name name-technology\">显著</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>触发节点增长并开始<VAL_ON>嫁接过程<>。<br><br>每个节点在基因上都是独一无二的，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可大幅提升<span class=\"name name-stellar\">船体强度</span>来提升战斗时的耐久度。",
+    "TraditionalChinese": "太空船<span class=\"name name-technology\">疼痛抑制系統</span>的<span class=\"name name-technology\">重大</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 觸發節點生長，並開始<VAL_ON>移植程序<>。<br><br>每個節點的基因皆不相同，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>顯著提升<span class=\"name name-stellar\">活體太空船強度</span>以便增加戰鬥持久力。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 140,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctechalien.b.shield.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00000891025684,
+  "NormalisedValueOffWorld": 0.00000891025684,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UA_S_SHL2",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Scream Suppressor Node from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买尖叫抑制器节点",
+    "TencentChinese": "从空间站的交易终端购买尖叫抑制器节点",
+    "TraditionalChinese": "從太空站交易終端站購買尖叫抑制器節點"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

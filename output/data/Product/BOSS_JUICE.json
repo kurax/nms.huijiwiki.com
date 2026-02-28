@@ -1,0 +1,95 @@
+{
+  "ID": "BOSS_JUICE",
+  "Name": {
+    "English": "ELIXIR OF WATER",
+    "SimplifiedChinese": "水之灵药",
+    "TraditionalChinese": "水之靈藥"
+  },
+  "NameLower": {
+    "English": "Elixir of Water",
+    "SimplifiedChinese": "水之灵药",
+    "TraditionalChinese": "水之靈藥"
+  },
+  "Subtitle": {
+    "English": "Otherworldly Concoction",
+    "SimplifiedChinese": "异界混合物",
+    "TraditionalChinese": "超凡混合物"
+  },
+  "Description": {
+    "English": "The water in this vessel seems to stretch on forever, plunging down to dizzying depths, far beyond what the container could possibly hold.<br><br>Consume the elixir with <span class=\"name name-img\">FE_ALT1</span>. Beware what lurks in the deep water...",
+    "SimplifiedChinese": "容器中的水似乎无限延伸，坠入令人眩晕的深海，远远超出了容器承载能力。<br><br>使用<span class=\"name name-img\">FE_ALT1</span>服下灵药。小心徘徊在深水之中的存在......",
+    "TraditionalChinese": "容器中的水彷彿綿綿不絕、深不見底，水量已經遠遠超出了容器的容量。<br><br>使用 <span class=\"name name-img\">FE_ALT1</span> 服用靈藥。小心潛伏在深水域下的異物......"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.bossjuice.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Common",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 40,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "ROBOT2": {
+      "ID": "ROBOT2",
+      "Type": "Substance",
+      "Amount": 144
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": true,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Elixir of Water",
+    "SimplifiedChinese": "制作水之灵药",
+    "TencentChinese": "制作水之灵药",
+    "TraditionalChinese": "製作水之靈藥"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": false
+}

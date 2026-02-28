@@ -1,0 +1,89 @@
+{
+  "ID": "PIRATE_INVITE",
+  "Name": {
+    "English": "TICKET TO FREEDOM",
+    "SimplifiedChinese": "通向自由的门票",
+    "TraditionalChinese": "通往自由的門票"
+  },
+  "NameLower": {
+    "English": "Ticket to Freedom",
+    "SimplifiedChinese": "通向自由的门票",
+    "TraditionalChinese": "通往自由的門票"
+  },
+  "Subtitle": {
+    "English": "Secure System Pass",
+    "SimplifiedChinese": "安全系统通行证",
+    "TraditionalChinese": "安全星系通行證"
+  },
+  "Description": {
+    "English": "\"Glorious survivor! The <span class=\"name name-stellar\">promised star</span> will be yours!\"<br><br>A <span class=\"name name-technology\">Secure system pass</span> bearing the mark of the '<span class=\"name name-stellar\">Voice of Freedom'</span>. <br>Select the pass and use Accept Invitation (<span class=\"name name-img\">FE_ALT1</span>) to pin the location in your navigation systems.",
+    "SimplifiedChinese": "“光荣的幸存者！<span class=\"name name-stellar\">应许之星</span>将属于你！”<br><br>一张<span class=\"name name-technology\">安全系统通行证</span>上带着“<span class=\"name name-stellar\">自由之音</span>”的标志。<br>选择通行证并使用接受邀请（<span class=\"name name-img\">FE_ALT1</span>）以在导航系统中标记位置。",
+    "TraditionalChinese": "「光榮的倖存者！<span class=\"name name-stellar\">應許之星</span>將屬於你們！」<br><br>一個上面印有「<span class=\"name name-stellar\">自由之聲</span>」印記的<span class=\"name name-technology\">安全星系通行證</span>。<br>選擇通行證並使用接受邀請 (<span class=\"name name-img\">FE_ALT1</span>)，在你的導航系統中釘選該地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 888,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/products/product.pirateinvite.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Ticket to Freedom",
+    "SimplifiedChinese": "寻找通向自由的门票",
+    "TencentChinese": "寻找通向自由的门票",
+    "TraditionalChinese": "找出通往自由的門票"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

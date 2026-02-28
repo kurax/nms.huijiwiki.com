@@ -1,0 +1,89 @@
+{
+  "ID": "ROGUE_G_STONE2",
+  "Name": {
+    "English": "MEMORY IMPRINT II",
+    "SimplifiedChinese": "铭记记忆 II",
+    "TraditionalChinese": "記憶銘刻 II"
+  },
+  "NameLower": {
+    "English": "Memory Imprint II",
+    "SimplifiedChinese": "铭记记忆 II",
+    "TraditionalChinese": "記憶銘刻 II"
+  },
+  "Subtitle": {
+    "English": "Loop Artifact",
+    "SimplifiedChinese": "循环遗物",
+    "TraditionalChinese": "迴圈器物"
+  },
+  "Description": {
+    "English": "A memory is <span class=\"name name-stellar\">burned</span> into this strange material, an echo of another lifetime...<br><br>\"The same nightmare chases me: a wail fills my cockpit, the dashboard controls gummed with blood.<br>I have given up sleep. I pulse past blurred stars.<br>And then there it was: majestic, drifting in the ocean of space.<br>Something inside me burns for it. I must have it.<br>Its great fin flexed toward my ship, and my hull was gone...\"",
+    "SimplifiedChinese": "记忆被<span class=\"name name-stellar\">烙进</span>了这种奇怪的材料，是另一个生命的回音......<br><br>“我被同一个噩梦追逐着：哀嚎充斥着我的驾驶舱，控制面板上涂满了鲜血。<br>我放弃了睡眠。在群星睡眼朦胧时，我依然醒着。<br>然后我看见了它：在太空的海洋中漂浮着的雄伟生物。<br>我体内有什么东西正在为它而燃，我必须得到它。<br>它那巨大的鳍朝我的船挥来，接着我的船体便消失了......”",
+    "TraditionalChinese": "一段記憶<span class=\"name name-stellar\">已燒錄</span>進此奇異材料內，一段另一世的回音......<br><br>「同樣的噩夢糾纏著我：哀嚎聲充斥在我的駕駛艙中，儀表板上沾滿鮮血。<br>我無法入眠已久。我掠過點點繁星。<br>接著就是：浩瀚無垠，漂流在宇宙洪流之中。<br>我體內某種東西為此燃燒。我必須擁有牠。<br>其巨大魚鰭朝向我的太空船拍打著，船身便無影無蹤......」"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 16,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.roguegrave.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.301960796,
+    "G": 0.160784319,
+    "B": 0.34117648,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000640384678,
+  "NormalisedValueOffWorld": 0.0000960897523,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find Memory Imprint II",
+    "SimplifiedChinese": "寻找铭记记忆 II",
+    "TencentChinese": "寻找铭记记忆 II",
+    "TraditionalChinese": "找出記憶銘刻 II"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

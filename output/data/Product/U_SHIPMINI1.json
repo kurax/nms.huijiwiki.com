@@ -1,0 +1,93 @@
+{
+  "ID": "U_SHIPMINI1",
+  "Name": {
+    "English": "INFRA-KNIFE MODULE",
+    "SimplifiedChinese": "红外切割机模块",
+    "TencentChinese": "红外切割机模块（低级）",
+    "TraditionalChinese": "紅外線刀模組"
+  },
+  "NameLower": {
+    "English": "Infra-Knife Module",
+    "SimplifiedChinese": "红外切割机模块",
+    "TencentChinese": "红外切割机模块（低级）",
+    "TraditionalChinese": "紅外線刀模組"
+  },
+  "Subtitle": {
+    "English": "Starship Weapon Upgrade",
+    "SimplifiedChinese": "飞船武器升级",
+    "TencentChinese": "飞船武器升级",
+    "TraditionalChinese": "太空船武器升級"
+  },
+  "Description": {
+    "English": "A <span class=\"name name-tradeable\">moderate</span> upgrade for the <span class=\"name name-technology\">Infra-Knife Accelerator</span>. Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to begin upgrade <VAL_ON>installation process<>.<br><br>The module is flexible, and exact upgrade statistics are <span class=\"name name-special\">unknown</span> until installation is complete.<br><br>Potential improvements include: <span class=\"name name-stellar\">damage output</span>, <span class=\"name name-stellar\">fire rate</span> and <span class=\"name name-stellar\">overheat times</span>.",
+    "SimplifiedChinese": "对<span class=\"name name-technology\">红外切割加速器</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>开始<VAL_ON>安装升级<>。<br><br>该模块很灵活，具体升级信息在安装结束前<span class=\"name name-special\">未知</span>。<br><br>可能提升<span class=\"name name-stellar\">伤害输出</span>、<span class=\"name name-stellar\">射速</span>和<span class=\"name name-stellar\">过热前使用次数</span>。",
+    "TencentChinese": "对<span class=\"name name-technology\">红外切割加速器</span>的<span class=\"name name-tradeable\">普通</span>提升。使用<span class=\"name name-img\">FE_ALT1</span>开始安装升级。<br><br>提升<span class=\"name name-stellar\">伤害</span>、<span class=\"name name-stellar\">射速</span>和<span class=\"name name-stellar\">过热前使用次数</span>。",
+    "TraditionalChinese": "<span class=\"name name-technology\">紅外線刀加速器</span>的<span class=\"name name-tradeable\">一般</span>升級。用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 開始升級<VAL_ON>安裝程序<>。<br><br>此模組富有彈性，直到安裝完成前，確切的升級數據為<span class=\"name name-special\">未知</span>。<br><br>可能強化的項目包括：<span class=\"name name-stellar\">傷害輸出</span>、<span class=\"name name-stellar\">射擊速度</span>和<span class=\"name name-stellar\">過熱次數</span>。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 60,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/proctech/proctech.c.smg.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Consumable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00000378205164,
+  "NormalisedValueOffWorld": 0.00000378205164,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "UP_SMINI1",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Purchase Infra-Knife Module from Space Station Trade Terminals",
+    "SimplifiedChinese": "从空间站的交易终端购买红外切割机模块",
+    "TencentChinese": "从空间站的交易终端购买红外切割机模块（低级）",
+    "TraditionalChinese": "從太空站交易終端站購買紅外線刀模組"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

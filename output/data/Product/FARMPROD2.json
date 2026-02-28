@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD2",
+  "Name": {
+    "English": "LUBRICANT",
+    "SimplifiedChinese": "润滑剂",
+    "TencentChinese": "润滑剂",
+    "TraditionalChinese": "潤滑劑"
+  },
+  "NameLower": {
+    "English": "Lubricant",
+    "SimplifiedChinese": "润滑剂",
+    "TencentChinese": "润滑剂",
+    "TraditionalChinese": "潤滑劑"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "A synthetic lubricant that reduces wear and prolongs the lifespan of technologies with moving parts.<br><br>Crafted from <span class=\"name name-fuel\">Faecium</span> and <span class=\"name name-tradeable\">Gamma Root</span>.",
+    "SimplifiedChinese": "一种合成润滑剂，能够减少磨损并延长移动零件的技术寿命。<br><br>由<span class=\"name name-fuel\">屎球菌</span>和<span class=\"name name-tradeable\">伽马根</span>制作而成。",
+    "TencentChinese": "一种合成润滑剂，能够减少磨损并延长移动零件的技术寿命。<br><br>由<span class=\"name name-fuel\">屎球菌</span>和<span class=\"name name-tradeable\">伽马根</span>制作而成。",
+    "TraditionalChinese": "合成潤滑劑，能減少磨損，延長有可動零件的科技之使用壽命。<br><br>可使用<span class=\"name name-fuel\">屎菌</span>和<span class=\"name name-tradeable\">伽瑪根</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 110000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.2.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "PLANT_POOP": {
+      "ID": "PLANT_POOP",
+      "Type": "Substance",
+      "Amount": 50
+    },
+    "PLANT_RADIO": {
+      "ID": "PLANT_RADIO",
+      "Type": "Substance",
+      "Amount": 400
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0070512183,
+  "NormalisedValueOffWorld": 0.0070512183,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Lubricant",
+    "SimplifiedChinese": "制作润滑剂",
+    "TencentChinese": "制作润滑剂",
+    "TraditionalChinese": "製作潤滑劑"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-fuel\">Faecium</span> and <span class=\"name name-tradeable\">Gamma Root</span>. Learn the blueprint with the aid of a <span class=\"name name-technology\">Science Specialist</span> in a base.<br>Gamma Root can be farmed, or found wild on <span class=\"name name-commodity\">radioactive planets</span>.<br>Faecium is harvested from the excrement of wild animals. Feed wild animals to increase production.",
+    "SimplifiedChinese": "由<span class=\"name name-fuel\">屎球菌</span>和<span class=\"name name-tradeable\">伽马根</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>伽马根可以通过种植获得，也能在<span class=\"name name-commodity\">辐射星球</span>的野外找到。<br>屎球菌能从野生动物排泄物中采集到。喂养野生动物来提升产量。",
+    "TencentChinese": "由<span class=\"name name-fuel\">屎球菌</span>和<span class=\"name name-tradeable\">伽马根</span>制作而成。在基地中，在<span class=\"name name-technology\">科学专家</span>的帮助下学习设计图。<br>伽马根可以通过种植获得，也能在<span class=\"name name-commodity\">辐射星球</span>的野外找到。<br>屎球菌能从野生动物排泄物中采集到。喂养野生动物来提升产量。",
+    "TraditionalChinese": "以<span class=\"name name-fuel\">屎菌</span>和<span class=\"name name-tradeable\">伽瑪根</span>製造。在基地中可尋求<span class=\"name name-technology\">科學專家</span>協助，學習設計圖。<br>伽瑪根可栽種，亦可在<span class=\"name name-commodity\">輻射星球</span>野外採集。<br>屎菌則可從野生動物排遺物中採收，餵食野生動物可增加產量。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

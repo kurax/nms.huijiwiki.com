@@ -1,0 +1,109 @@
+{
+  "ID": "FARMPROD3",
+  "Name": {
+    "English": "GLASS",
+    "SimplifiedChinese": "玻璃",
+    "TencentChinese": "玻璃",
+    "TraditionalChinese": "玻璃"
+  },
+  "NameLower": {
+    "English": "Glass",
+    "SimplifiedChinese": "玻璃",
+    "TencentChinese": "玻璃",
+    "TraditionalChinese": "玻璃"
+  },
+  "Subtitle": {
+    "English": "Advanced Agricultural Product",
+    "SimplifiedChinese": "高级农产品",
+    "TencentChinese": "高级农产品",
+    "TraditionalChinese": "先進農業產品"
+  },
+  "Description": {
+    "English": "Shatter-proof, scratch-resistant glass with a self-cleaning, UV-cured coating, for general construction use.<br><br>Refined from <span class=\"name name-stellar\">Silicate</span> powder. Extract silicate from the earth with a <span class=\"name name-technology\">Terrain Manipulator</span>.<br><br>Can be crafted from <span class=\"name name-technology\">Frost Crystals</span> extracted from plants on <span class=\"name name-technology\">frozen</span> worlds.",
+    "SimplifiedChinese": "耐震且耐划的玻璃，具有自动清洗功能，采用紫外线光固化涂料，用于一般建造。<br><br>由<span class=\"name name-stellar\">硅酸盐</span>粉末精炼而成。用<span class=\"name name-technology\">地形操纵器</span>从土地上提取硅酸盐。<br><br>可用提取自<span class=\"name name-technology\">冰冻星球</span>上植物的<span class=\"name name-technology\">冰霜水晶</span>制作。",
+    "TencentChinese": "耐震且耐划的玻璃，具有自动清洗功能，采用紫外线光固化涂料，用于一般建造。<br><br>由<span class=\"name name-stellar\">硅酸盐</span>粉末精炼而成。用<span class=\"name name-technology\">地形操纵器</span>从土地上提取硅酸盐。<br><br>可用提取自<span class=\"name name-technology\">冰冻星球</span>上植物的<span class=\"name name-technology\">冰霜水晶</span>制作。",
+    "TraditionalChinese": "防刮安全玻璃，表面塗層能自動清潔、經紫外線固化，可用於一般建築工程。<br><br>利用<span class=\"name name-stellar\">矽酸</span>粉精製而成。矽酸則是以<span class=\"name name-technology\">地形改造器</span>自泥土萃取。<br><br>可使用自<span class=\"name name-technology\">冰雪</span>世界植物萃取出的<span class=\"name name-technology\">霜晶</span>製作。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 200,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/farmprod.3.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 5,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "PLANT_SNOW": {
+      "ID": "PLANT_SNOW",
+      "Type": "Substance",
+      "Amount": 40
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0000127564108,
+  "NormalisedValueOffWorld": 0.0000127564108,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or refine Glass",
+    "SimplifiedChinese": "制作或精炼玻璃",
+    "TencentChinese": "制作或精炼玻璃",
+    "TraditionalChinese": "製作或精製玻璃"
+  },
+  "PinObjectiveTip": {
+    "English": "Refine from <span class=\"name name-stellar\">Silicate Powder</span>. Extract silicate from the earth with a <span class=\"name name-technology\">Terrain Manipulator</span>.<br>Craft with <span class=\"name name-technology\">Frost Crystals</span> harvested from <span class=\"name name-technology\">frozen worlds</span>.  Learn the blueprint with the aid of a <span class=\"name name-technology\">Construction Overseer</span>.",
+    "SimplifiedChinese": "使用<span class=\"name name-stellar\">硅酸盐粉末</span>精炼而成。使用<span class=\"name name-technology\">地形操纵器</span>从土地提取硅酸盐。<br>用采自<span class=\"name name-technology\">冰冻世界</span>的<span class=\"name name-technology\">冰霜水晶</span>制作。在<span class=\"name name-technology\">建造监督者</span>的协助下学会设计图。",
+    "TencentChinese": "使用<span class=\"name name-stellar\">硅酸盐粉末</span>精炼而成。使用<span class=\"name name-technology\">地形操纵器</span>从土地提取硅酸盐。<br>用采自<span class=\"name name-technology\">冰冻世界</span>的<span class=\"name name-technology\">冰霜水晶</span>制作。在<span class=\"name name-technology\">建造监督者</span>的协助下学会设计图。",
+    "TraditionalChinese": "以<span class=\"name name-stellar\">矽酸粉</span>精製。矽酸可用<span class=\"name name-technology\">地形改造器</span>從土中萃取。<br>利用從<span class=\"name name-technology\">冰雪世界</span>採集的<span class=\"name name-technology\">霜晶</span>製作。借助<span class=\"name name-technology\">建築監督者</span>之力學習設計圖。"
+  },
+  "PinObjectiveMessage": {
+    "English": "Refine <span class=\"name name-technology\">Glass</span> from <span class=\"name name-stellar\">Silicate Powder</span>: %CURRENT%/%AMOUNT%<br>Extract silicate from the earth with a <span class=\"name name-technology\">Terrain Manipulator</span>",
+    "SimplifiedChinese": "使用<span class=\"name name-stellar\">硅酸盐粉末</span>精炼<span class=\"name name-technology\">玻璃</span>：%CURRENT%/%AMOUNT%<br>使用<span class=\"name name-technology\">地形操纵器</span>提取土壤中的硅酸盐",
+    "TencentChinese": "GoogleTranslated",
+    "TraditionalChinese": "以<span class=\"name name-stellar\">矽酸粉</span>精製<span class=\"name name-technology\">玻璃</span>：%CURRENT%/%AMOUNT%<br>使用<span class=\"name name-technology\">地形改造器</span>從土中萃取矽酸"
+  },
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": true,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

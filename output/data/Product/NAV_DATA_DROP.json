@@ -1,0 +1,93 @@
+{
+  "ID": "NAV_DATA_DROP",
+  "Name": {
+    "English": "EXOSUIT UPGRADE CHART",
+    "SimplifiedChinese": "套装升级图纸",
+    "TencentChinese": "空降舱坐标数据",
+    "TraditionalChinese": "強化套裝升級圖"
+  },
+  "NameLower": {
+    "English": "Exosuit Upgrade Chart",
+    "SimplifiedChinese": "套装升级图纸",
+    "TencentChinese": "空降舱坐标数据",
+    "TraditionalChinese": "強化套裝升級圖"
+  },
+  "Subtitle": {
+    "English": "Encrypted Navigation Data",
+    "SimplifiedChinese": "破译的导航数据",
+    "TencentChinese": "破译的导航数据",
+    "TraditionalChinese": "加密導航資料"
+  },
+  "Description": {
+    "English": "Encoded navigation data which, when properly decrypted, will reveal the location of a <span class=\"name name-technology\">Drop Pod</span> containing an Exosuit <span class=\"name name-stellar\">Inventory Upgrade</span>.<br><br>Select the coordinates in the inventory and use <span class=\"name name-technology\">Plot Route</span> (<span class=\"name name-img\">FE_ALT1</span>) to pin the location in your Exosuit display.",
+    "SimplifiedChinese": "加密导航数据，若成功破译，就能定位一个含有套装<span class=\"name name-stellar\">库存升级</span>的<span class=\"name name-technology\">空降舱</span>。<br><br>在库存中选择坐标并使用<span class=\"name name-technology\">规划路线</span>（<span class=\"name name-img\">FE_ALT1</span>）在你的套装显示屏上标记位置。",
+    "TencentChinese": "输入<span class=\"name name-technology\">信号增强器</span>即可编码导航数据。<br><br>正确解码后能揭示一处含有<span class=\"name name-special\">套装升级</span>的<span class=\"name name-technology\">空降舱</span>的位置。",
+    "TraditionalChinese": "加密導航資訊在正確解密後，會揭露內含強化套裝<span class=\"name name-stellar\">道具欄升級</span>的<span class=\"name name-technology\">空投艙</span>位置。<br><br>選擇道具欄中的座標，並使用<span class=\"name name-technology\">規劃路線</span> (<span class=\"name name-img\">FE_ALT1</span>)，即可在你的強化套裝顯示器中釘選該地點。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 85000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.starchart.droppod.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 4,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": null,
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 3,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00544865429,
+  "NormalisedValueOffWorld": 0.00817301311,
+  "TradeCategory": "None",
+  "WikiCategory": "Tech",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": false,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Find or purchase Exosuit Upgrade Chart",
+    "SimplifiedChinese": "寻找或购买套装升级图纸",
+    "TencentChinese": "寻找或购买空降舱坐标数据",
+    "TraditionalChinese": "找出或購買強化套裝升級圖"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

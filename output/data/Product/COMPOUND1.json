@@ -1,0 +1,109 @@
+{
+  "ID": "COMPOUND1",
+  "Name": {
+    "English": "ORGANIC CATALYST",
+    "SimplifiedChinese": "有机催化剂",
+    "TencentChinese": "有机催化剂",
+    "TraditionalChinese": "有機催化劑"
+  },
+  "NameLower": {
+    "English": "Organic Catalyst",
+    "SimplifiedChinese": "有机催化剂",
+    "TencentChinese": "有机催化剂",
+    "TraditionalChinese": "有機催化劑"
+  },
+  "Subtitle": {
+    "English": "Manufactured Gas Product",
+    "SimplifiedChinese": "气体铸造物",
+    "TencentChinese": "气体铸造物",
+    "TraditionalChinese": "氣體加工產品"
+  },
+  "Description": {
+    "English": "A catalytic material used in the creation of many organic fertilizers.<br><br>Crafted from <span class=\"name name-fuel\">Thermic Condensate</span> and <span class=\"name name-fuel\">Enriched Carbon</span>.",
+    "SimplifiedChinese": "一种催化材料，用于创造多种有机化肥。<br><br>由<span class=\"name name-fuel\">热凝物</span>和<span class=\"name name-fuel\">浓化碳</span>制作。",
+    "TencentChinese": "一种催化材料，用于创造多种有机化肥。<br><br>由<span class=\"name name-fuel\">热凝物</span>和<span class=\"name name-fuel\">浓化碳</span>制作。",
+    "TraditionalChinese": "製造許多有機肥料時會用上的催化材料。<br><br>可使用<span class=\"name name-fuel\">導熱凝液</span>與<span class=\"name name-fuel\">濃化碳</span>製造。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 320000,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/compound.1.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.8,
+    "G": 0.8,
+    "B": 0.8,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Tradeable",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 1,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "REACTION1": {
+      "ID": "REACTION1",
+      "Type": "Product",
+      "Amount": 1
+    },
+    "REACTION2": {
+      "ID": "REACTION2",
+      "Type": "Product",
+      "Amount": 1
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.0205127578,
+  "NormalisedValueOffWorld": 0.0205127578,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Organic Catalyst",
+    "SimplifiedChinese": "制作有机催化剂",
+    "TencentChinese": "制作有机催化剂",
+    "TraditionalChinese": "製作有機催化劑"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft from <span class=\"name name-tradeable\">gas-based</span> products, <span class=\"name name-commodity\">Thermic Condensate</span> and <span class=\"name name-commodity\">Enriched Carbon</span>.<br>Learn the relevant blueprints by raiding <span class=\"name name-technology\">planetary factories</span> or from the <span class=\"name name-stellar\">Synthesis Lab</span> on the <span class=\"name name-special\">Space Anomaly</span>.",
+    "SimplifiedChinese": "由<span class=\"name name-tradeable\">气体</span>产物、<span class=\"name name-commodity\">热凝物</span>和<span class=\"name name-commodity\">富碳</span>制作而成。<br>通过突袭<span class=\"name name-technology\">行星工厂</span>或在<span class=\"name name-special\">太空异象</span>上的<span class=\"name name-stellar\">合成实验室</span>学习相关设计图。",
+    "TencentChinese": "由<span class=\"name name-tradeable\">气体</span>产物、<span class=\"name name-commodity\">热凝物</span>和<span class=\"name name-commodity\">富碳</span>制作而成。<br>通过突袭<span class=\"name name-technology\">行星工厂</span>学习相关设计图。",
+    "TraditionalChinese": "由<span class=\"name name-tradeable\">氣體</span>產物、<span class=\"name name-commodity\">導熱凝液</span>和<span class=\"name name-commodity\">濃化碳</span>製作而成。<br>襲擊<span class=\"name name-technology\">星球工廠</span>或從<span class=\"name name-special\">太空異常</span>上的<span class=\"name name-stellar\">合成實驗室</span>來了解相關設計圖。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": true,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

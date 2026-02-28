@@ -1,0 +1,109 @@
+{
+  "ID": "AM_HOUSING",
+  "Name": {
+    "English": "ANTIMATTER HOUSING",
+    "SimplifiedChinese": "反物质外壳",
+    "TencentChinese": "反物质外壳",
+    "TraditionalChinese": "反物質容器"
+  },
+  "NameLower": {
+    "English": "Antimatter Housing",
+    "SimplifiedChinese": "反物质外壳",
+    "TencentChinese": "反物质外壳",
+    "TraditionalChinese": "反物質容器"
+  },
+  "Subtitle": {
+    "English": "Crafted Technology Component",
+    "SimplifiedChinese": "手工技术部件",
+    "TencentChinese": "手工技术部件",
+    "TraditionalChinese": "精工科技元件"
+  },
+  "Description": {
+    "English": "Secure antimatter containment device, required before <span class=\"name name-fuel\">Antimatter</span> can be safely secured as <span class=\"name name-fuel\">Warp Cells</span>.<br><br>Rebound <span class=\"name name-fuel\">Oxygen</span> forms a protective gas pocket, preventing the antimatter from reacting with the surrounding casing.",
+    "SimplifiedChinese": "安全的反物质抑制设备，将<span class=\"name name-fuel\">反物质</span>安全作为<span class=\"name name-fuel\">曲速电池</span>的必须设备。<br><br>反弹的<span class=\"name name-fuel\">氧</span>形成保护性气囊，阻止反物质与周围套管产生反应。",
+    "TencentChinese": "安全的反物质抑制设备，将<span class=\"name name-fuel\">反物质</span>安全作为<span class=\"name name-fuel\">曲速电池</span>的必须设备。<br><br>反弹的<span class=\"name name-fuel\">氧</span>形成保护性气囊，阻止反物质与周围套管产生反应。",
+    "TraditionalChinese": "安全的反物質包覆裝置，得靠它才能將<span class=\"name name-fuel\">反物質</span>安全穩定為<span class=\"name name-fuel\">空間跳躍能量包</span>。<br><br><span class=\"name name-fuel\">氧氣</span>反彈形成防護氣罩，防止反物質與包覆頭罩發生作用。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 6500,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/u4products/product.amhousing.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.952941179,
+    "G": 0.662745118,
+    "B": 0.137254909,
+    "A": 1
+  },
+  "Category": "Special",
+  "Type": "Component",
+  "Rarity": "Uncommon",
+  "Legality": "Legal",
+  "Consumable": false,
+  "ChargeValue": 0,
+  "StackMultiplier": 2,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "OXYGEN": {
+      "ID": "OXYGEN",
+      "Type": "Substance",
+      "Amount": 30
+    },
+    "LAND1": {
+      "ID": "LAND1",
+      "Type": "Substance",
+      "Amount": 50
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.00041660259,
+  "NormalisedValueOffWorld": 0.00041660259,
+  "TradeCategory": "None",
+  "WikiCategory": "Crafting",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft or purchase Antimatter Housing",
+    "SimplifiedChinese": "制作或购买反物质外壳",
+    "TencentChinese": "制作或购买反物质外壳",
+    "TraditionalChinese": "製造或購買反物質容器"
+  },
+  "PinObjectiveTip": {
+    "English": "Craft Antimatter Housing from <span class=\"name name-fuel\">Oxygen</span> and <span class=\"name name-earth\">Ferrite Dust</span>. Use <span class=\"name name-img\">PRODMENU</span> to craft in empty <span class=\"name name-technology\">Inventory Slots</span>.<br>Supplies are occasionally found in <span class=\"name name-technology\">Supply Caches</span> left on planets.",
+    "SimplifiedChinese": "使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">铁氧体粉末</span>制作反物质外壳。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>补给品偶尔能从被遗弃在星球上的<span class=\"name name-technology\">补给箱</span>中找到。",
+    "TencentChinese": "使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">铁氧体粉末</span>制作反物质外壳。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">栏位</span>中制作。<br>补给品偶尔能从被遗弃在星球上的<span class=\"name name-technology\">补给箱</span>中找到。",
+    "TraditionalChinese": "使用<span class=\"name name-fuel\">氧</span>和<span class=\"name name-earth\">鐵氧體粉塵</span>製作反物質容器。使用<span class=\"name name-img\">PRODMENU</span>在空置<span class=\"name name-technology\">欄位</span>中製作。<br>補給品偶爾能在被遺棄在星球上的<span class=\"name name-technology\">補給儲物箱</span>中被找到。"
+  },
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}

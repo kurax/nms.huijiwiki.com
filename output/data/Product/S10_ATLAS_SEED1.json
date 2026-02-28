@@ -1,0 +1,95 @@
+{
+  "ID": "S10_ATLAS_SEED1",
+  "Name": {
+    "English": "SEED OF DREAMS",
+    "SimplifiedChinese": "梦想之种",
+    "TraditionalChinese": "夢境種子"
+  },
+  "NameLower": {
+    "English": "Seed of Dreams",
+    "SimplifiedChinese": "梦想之种",
+    "TraditionalChinese": "夢境種子"
+  },
+  "Subtitle": {
+    "English": "Voice of the Wordless Atlas",
+    "SimplifiedChinese": "来自无言的阿特拉斯的声音",
+    "TraditionalChinese": "無聲的寰宇之語"
+  },
+  "Description": {
+    "English": "A seed of creation, a tiny drop of the infinity of the Atlas. This mere atom contains boundless noise, each tiny vibration the hopes and dreams of entire lifetimes.<br><br>Use <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> to <span class=\"name name-special\">resonate</span> the seed, converting its waveform into the audible range.",
+    "SimplifiedChinese": "一枚创造之种，源于阿特拉斯的无垠的渺小一隅。这枚小小的原子之中包含着无尽的声响，每一次细微的震动都代表着无数生命的希望与梦想。<br><br>使用<VAL_ON><span class=\"name name-img\">FE_ALT1</span><>使种子<span class=\"name name-special\">共鸣</span>，并将其中的波形转化为可以听见的频率。",
+    "TraditionalChinese": "創造的種子，一小滴寰宇的無限。這顆微小的原子中有無限的聲音，每次細微的震動都代表了一輩子的希望與夢想。<br><br>使用 <VAL_ON><span class=\"name name-img\">FE_ALT1</span><> 讓種子<span class=\"name name-special\">共振</span>，將其波形轉換為聽得到的頻率範圍。"
+  },
+  "AltDescription": "",
+  "Hint": "",
+  "BuildableShipTechID": "",
+  "GroupID": "",
+  "[IGNORED]DebrisFile": null,
+  "BaseValue": 1600,
+  "Level": 0,
+  "Icon": "ui/frontend/icons/update3/atlasseed.10.png",
+  "HeroIcon": null,
+  "Colour": {
+    "R": 0.101960786,
+    "G": 0.152941182,
+    "B": 0.2,
+    "A": 1
+  },
+  "Category": "Stellar",
+  "Type": "Curiosity",
+  "Rarity": "Rare",
+  "Legality": "Legal",
+  "Consumable": true,
+  "ChargeValue": 0,
+  "StackMultiplier": 0,
+  "DefaultCraftAmount": 1,
+  "CraftAmountStepSize": 1,
+  "CraftAmountMultiplier": 1,
+  "Requirements": {
+    "STELLAR2": {
+      "ID": "STELLAR2",
+      "Type": "Substance",
+      "Amount": 100
+    }
+  },
+  "AltRequirements": null,
+  "Cost": {
+    "SpaceStationMarkup": 0.5,
+    "LowPriceMod": -0.1,
+    "HighPriceMod": 0.1,
+    "BuyBaseMarkup": 0.2,
+    "BuyMarkupMod": 0
+  },
+  "RecipeCost": 1,
+  "SpecificChargeOnly": false,
+  "NormalisedValueOnWorld": 0.000102500009,
+  "NormalisedValueOffWorld": 0.000153782064,
+  "TradeCategory": "None",
+  "WikiCategory": "NotEnabled",
+  "FossilCategory": "None",
+  "CorvettePartCategory": "None",
+  "CorvetteRewardFrequency": 0,
+  "IsCraftable": true,
+  "DeploysInto": "",
+  "EconomyInfluenceMultiplier": 0.25,
+  "PinObjective": {
+    "English": "Craft Seed of Dreams",
+    "SimplifiedChinese": "制作梦想之种",
+    "TencentChinese": "制作梦想之种",
+    "TraditionalChinese": "製作夢境種子"
+  },
+  "PinObjectiveTip": "",
+  "PinObjectiveMessage": "",
+  "PinObjectiveScannableType": "None",
+  "PinObjectiveEasyToRefine": false,
+  "NeverPinnable": false,
+  "CookingIngredient": false,
+  "CookingValue": 0,
+  "FoodBonusStat": "Unspecified",
+  "FoodBonusStatAmount": 0,
+  "GoodForSelling": false,
+  "GiveRewardOnSpecialPurchase": "",
+  "EggModifierIngredient": false,
+  "IsTechbox": false,
+  "CanSendToOtherPlayers": true
+}
