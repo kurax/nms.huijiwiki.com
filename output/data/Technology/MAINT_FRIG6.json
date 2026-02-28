@@ -4,23 +4,26 @@
   "Name": {
     "English": "PRESSURE CHAMBER",
     "SimplifiedChinese": "压力舱",
+    "TencentChinese": "压力舱",
     "TraditionalChinese": "壓力室"
   },
   "NameLower": {
     "English": "Pressure Chamber",
     "SimplifiedChinese": "压力舱",
+    "TencentChinese": "压力舱",
     "TraditionalChinese": "壓力室"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
-    "English": "A small pressurised chamber, designed to create the compressed gas necessary for the device to function. Cracks have appeared in the chamber, causing it to leak.",
+    "English": "A small pressurized chamber, designed to create the compressed gas necessary for the device to function. Cracks have appeared in the chamber, causing it to leak.",
     "SimplifiedChinese": "一个小型加压舱，用于为设备运行提供必要的压缩气。室内已出现裂痕，使其泄露。",
-    "TraditionalChinese": "小型壓力腔，設計用來製造裝置運轉必需的壓縮氣體。腔體已出現裂縫，導致氣體外洩。",
-    "USEnglish": "A small pressurized chamber, designed to create the compressed gas necessary for the device to function. Cracks have appeared in the chamber, causing it to leak."
+    "TencentChinese": "一个小型加压舱，用于为设备运行提供必要的压缩气。室内已出现裂痕，使其泄露。",
+    "TraditionalChinese": "小型壓力腔，設計用來製造裝置運轉必需的壓縮氣體。腔體已出現裂縫，導致氣體外洩。"
   },
   "Teach": false,
   "HintStart": "",

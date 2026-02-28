@@ -4,21 +4,25 @@
   "Name": {
     "English": "OBSOLETE TECHNOLOGY",
     "SimplifiedChinese": "过时的技术",
+    "TencentChinese": "过时的技术",
     "TraditionalChinese": "過時的科技"
   },
   "NameLower": {
     "English": "Obsolete Technology",
     "SimplifiedChinese": "过时的技术",
+    "TencentChinese": "过时的技术",
     "TraditionalChinese": "過時的科技"
   },
   "Subtitle": {
     "English": "Old, unusable technology",
     "SimplifiedChinese": "陈旧且不稳定的技术",
+    "TencentChinese": "陈旧且不稳定的技术",
     "TraditionalChinese": "陳舊且不穩定的科技"
   },
   "Description": {
     "English": "A piece of <span class=\"name name-technology\">technology</span>, corrupted by interference from the Atlas.<br><br>Can be recycled for usable components.",
     "SimplifiedChinese": "因阿特拉斯的干扰而受损的一个<span class=\"name name-technology\">技术</span>。<br><br>能回收成为可用部件",
+    "TencentChinese": "因阿特拉斯的干扰而受损的一个<span class=\"name name-technology\">技术</span>。<br><br>能回收成为可用部件",
     "TraditionalChinese": "因寰宇的干擾而受損的<span class=\"name name-technology\">科技</span>。<br><br>能回收成可用元件。"
   },
   "Teach": true,

@@ -2,11 +2,13 @@
   "Name": {
     "English": "LIVING SLIME",
     "SimplifiedChinese": "活体黏质",
+    "TencentChinese": "活体黏质",
     "TraditionalChinese": "活軟泥"
   },
   "NameLower": {
     "English": "Living Slime",
     "SimplifiedChinese": "活体黏质",
+    "TencentChinese": "活体黏质",
     "TraditionalChinese": "活軟泥"
   },
   "ID": "SPACEGUNK4",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Junk",
     "SimplifiedChinese": "垃圾",
+    "TencentChinese": "垃圾",
     "TraditionalChinese": "垃圾"
   },
   "Description": {
     "English": "A heavy, oozing slime. It is moving gently, as if it has a heartbeat of its own.<br><br>Nutrient source: <span class=\"name name-fuel\">unknown</span>.",
     "SimplifiedChinese": "一种渗出的浓稠黏液。它缓慢地移动，仿佛里面有一颗跳动的心。<br><br>营养源：<span class=\"name name-fuel\">未知</span>。",
+    "TencentChinese": "一种渗出的浓稠黏液。它缓慢地移动，仿佛里面有一颗跳动的心。<br><br>营养源：<span class=\"name name-fuel\">未知</span>。",
     "TraditionalChinese": "一團笨重黏呼呼的軟泥。會緩慢移動，彷彿有自己的心跳。<br><br>養分來源：<span class=\"name name-fuel\">不明</span>。"
   },
   "Colour": {
@@ -61,6 +65,7 @@
   "PinObjective": {
     "English": "Gather or refine Living Slime",
     "SimplifiedChinese": "收集或精炼活体黏质",
+    "TencentChinese": "收集或精炼活体黏质",
     "TraditionalChinese": "收集或精製活軟泥"
   },
   "PinObjectiveTip": {

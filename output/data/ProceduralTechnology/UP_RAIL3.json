@@ -4,6 +4,7 @@
   "Group": {
     "English": "Blaze Javelin",
     "SimplifiedChinese": "火焰标枪",
+    "TencentChinese": "火焰标枪",
     "TraditionalChinese": "火焰標槍"
   },
   "Name": {
@@ -25,10 +26,31 @@
         "Magnets",
         "Generator Unit",
         "Capacitors",
-        "Stabiliser"
+        "Stabilizer"
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "艾梅里尔",
+        "等离子",
+        "平行",
+        "超导",
+        "极好"
+      ],
+      [
+        "加速器",
+        "质量舱",
+        "注射器",
+        "电镀",
+        "循环器",
+        "核心",
+        "磁铁",
+        "发电机单位",
+        "电容",
+        "稳定器"
+      ]
+    ],
+    "TencentChinese": [
       [
         "艾梅里尔",
         "等离子",
@@ -69,26 +91,12 @@
         "電容",
         "穩定器"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Stabilizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Blaze Javelin",
     "SimplifiedChinese": "火焰标枪",
+    "TencentChinese": "火焰标枪",
     "TraditionalChinese": "火焰標槍"
   },
   "Subtitle": {

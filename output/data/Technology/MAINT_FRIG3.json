@@ -4,21 +4,25 @@
   "Name": {
     "English": "THERMOREGULATOR",
     "SimplifiedChinese": "调温器",
+    "TencentChinese": "调温器",
     "TraditionalChinese": "溫度調節器"
   },
   "NameLower": {
     "English": "Thermoregulator",
     "SimplifiedChinese": "调温器",
+    "TencentChinese": "调温器",
     "TraditionalChinese": "溫度調節器"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A control unit designed to keep temperatures even across the device. The sensor unit is damaged, causing it to vent or generate heat at inappropriate times.",
     "SimplifiedChinese": "一个控制单元，用于使设备保持恒温。由于传感器单元受损，使其在不适当时间通风或聚热。",
+    "TencentChinese": "一个控制单元，用于使设备保持恒温。由于传感器单元受损，使其在不适当时间通风或聚热。",
     "TraditionalChinese": "控制元件，設計能讓裝置內各處溫度維持穩定。感應元件已毀損，導致元件在不當時機抽風或生熱。"
   },
   "Teach": false,

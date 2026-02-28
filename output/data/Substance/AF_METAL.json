@@ -23,10 +23,9 @@
     "TraditionalChinese": "回收的廢料"
   },
   "Description": {
-    "English": "Shredded fragments of a soft, grey metal. Its surface is porous, and when touched it oozes ever-so-slightly.<br><br>Found in the creaking wreck of a derelict freighter. The space station <span class=\"name name-stellar\">Scrap Dealer</span> may find this interesting...",
+    "English": "Shredded fragments of a soft, gray metal. Its surface is porous, and when touched it oozes ever-so-slightly.<br><br>Found in the creaking wreck of a derelict freighter. The space station <span class=\"name name-stellar\">Scrap Dealer</span> may find this interesting...",
     "SimplifiedChinese": "柔软的灰色金属碎片。表面多孔，触摸时会有物质微量渗出。<br><br>发现于一艘吱吱作响的荒废货船的残骸。空间站<span class=\"name name-stellar\">废品收购者</span>可能会觉得这东西很有意思......",
-    "TraditionalChinese": "某種偏軟灰色金屬的碎片，其表面多孔，碰觸時會滲出微量物質。<br><br>在遭遺棄貨船的陳舊殘骸中找到。太空站上的<span class=\"name name-stellar\">廢料商人</span>可能會感興趣......",
-    "USEnglish": "Shredded fragments of a soft, gray metal. Its surface is porous, and when touched it oozes ever-so-slightly.<br><br>Found in the creaking wreck of a derelict freighter. The space station <span class=\"name name-stellar\">Scrap Dealer</span> may find this interesting..."
+    "TraditionalChinese": "某種偏軟灰色金屬的碎片，其表面多孔，碰觸時會滲出微量物質。<br><br>在遭遺棄貨船的陳舊殘骸中找到。太空站上的<span class=\"name name-stellar\">廢料商人</span>可能會感興趣......"
   },
   "Colour": {
     "R": 0.870588243,
@@ -61,6 +60,7 @@
   "PinObjective": {
     "English": "Gather Tainted Metal",
     "SimplifiedChinese": "收集污染的金属",
+    "TencentChinese": "收集污染的金属",
     "TraditionalChinese": "收集遭汙染的金屬"
   },
   "PinObjectiveTip": {

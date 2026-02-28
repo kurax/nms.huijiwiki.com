@@ -4,23 +4,26 @@
   "Name": {
     "English": "PEARL OFFERING",
     "SimplifiedChinese": "珍珠供品",
+    "TencentChinese": "珍珠供品",
     "TraditionalChinese": "珍珠獻物"
   },
   "NameLower": {
     "English": "Pearl Offering",
     "SimplifiedChinese": "珍珠供品",
+    "TencentChinese": "珍珠供品",
     "TraditionalChinese": "珍珠獻物"
   },
   "Subtitle": {
     "English": "Offering to the Sea",
     "SimplifiedChinese": "供奉给大海",
+    "TencentChinese": "供奉给大海",
     "TraditionalChinese": "深海獻祭"
   },
   "Description": {
-    "English": "The chest requires a <span class=\"name name-special\">Living Pearl</span>, harvested from the giant mother-molluscs that grow on the ocean floor.",
+    "English": "The chest requires a <span class=\"name name-special\">Living Pearl</span>, harvested from the giant mother-mollusks that grow on the ocean floor.",
     "SimplifiedChinese": "打开此箱，需要一只<span class=\"name name-special\">活体珍珠</span>，海底生长的巨型母系软体动物身上可以收获到那样的东西。",
-    "TraditionalChinese": "寶箱需要<span class=\"name name-special\">活珍珠</span>方能開啟，活珍珠可於生長在海底的巨大蚌中取得。",
-    "USEnglish": "The chest requires a <span class=\"name name-special\">Living Pearl</span>, harvested from the giant mother-mollusks that grow on the ocean floor."
+    "TencentChinese": "打开此箱，需要一只<span class=\"name name-special\">活体珍珠</span>，海底生长的巨型母系软体动物身上可以收获到那样的东西。",
+    "TraditionalChinese": "寶箱需要<span class=\"name name-special\">活珍珠</span>方能開啟，活珍珠可於生長在海底的巨大蚌中取得。"
   },
   "Teach": false,
   "HintStart": "",

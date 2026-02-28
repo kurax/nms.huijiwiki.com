@@ -2,11 +2,13 @@
   "Name": {
     "English": "RESIDUAL GOOP",
     "SimplifiedChinese": "剩余粘稠物",
+    "TencentChinese": "剩余粘稠物",
     "TraditionalChinese": "殘餘黏液"
   },
   "NameLower": {
     "English": "Residual Goop",
     "SimplifiedChinese": "剩余粘稠物",
+    "TencentChinese": "剩余粘稠物",
     "TraditionalChinese": "殘餘黏液"
   },
   "ID": "SPACEGUNK1",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Junk",
     "SimplifiedChinese": "垃圾",
+    "TencentChinese": "垃圾",
     "TraditionalChinese": "垃圾"
   },
   "Description": {
     "English": "A pulsating, foul smelling goop that builds up in poorly-maintained machinery.<br><br>Skin contact is not advised.",
     "SimplifiedChinese": "一种在缺乏维护的机械装置中产生并积累的活跃、有腐烂气味的粘稠物。<br><br>不建议与皮肤直接接触。",
+    "TencentChinese": "一种在缺乏维护的机械装置中产生并积累的活跃、有腐烂气味的粘稠物。<br><br>不建议与皮肤直接接触。",
     "TraditionalChinese": "鮮少維護的機器會產生的噁心惡臭黏液。<br><br>不建議接觸皮膚。"
   },
   "Colour": {
@@ -61,6 +65,7 @@
   "PinObjective": {
     "English": "Find Residual Goop",
     "SimplifiedChinese": "寻找剩余粘稠物",
+    "TencentChinese": "寻找剩余粘稠物",
     "TraditionalChinese": "找出殘餘黏液"
   },
   "PinObjectiveTip": "",

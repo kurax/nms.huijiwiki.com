@@ -3,16 +3,19 @@
   "Group": {
     "English": "Aeration Membrane",
     "SimplifiedChinese": "曝气膜",
+    "TencentChinese": "曝气膜",
     "TraditionalChinese": "曝氣黏膜"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

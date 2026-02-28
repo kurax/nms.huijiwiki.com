@@ -2,10 +2,10 @@
   "ID": "UP_SHLD4",
   "Template": "T_SHIELD",
   "Group": {
-    "English": "Defence Systems",
+    "English": "Defense Systems",
     "SimplifiedChinese": "防御系统",
-    "TraditionalChinese": "防禦系統",
-    "USEnglish": "Defense Systems"
+    "TencentChinese": "防御系统",
+    "TraditionalChinese": "防禦系統"
   },
   "Name": {
     "English": [
@@ -19,12 +19,12 @@
       [
         "Lattice",
         "Shield",
-        "Armour",
+        "Armor",
         "Bulwark",
         "Grafts",
         "Padding",
         "Buffer",
-        "Polariser",
+        "Polarizer",
         "Battery",
         "Resonator"
       ]
@@ -36,6 +36,27 @@
         "谐波",
         "管腔",
         "Q 场"
+      ],
+      [
+        "栅格",
+        "护盾",
+        "盔甲",
+        "壁垒",
+        "嫁接",
+        "填补",
+        "缓冲",
+        "偏振器",
+        "电池",
+        "共振器"
+      ]
+    ],
+    "TencentChinese": [
+      [
+        "洛伦兹",
+        "纳米星团",
+        "谐波",
+        "管腔",
+        "量子场"
       ],
       [
         "栅格",
@@ -70,38 +91,16 @@
         "電池",
         "共振器"
       ]
-    ],
-    "TencentChinese": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "量子场"
-      ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        "Armor",
-        null,
-        null,
-        null,
-        null,
-        "Polarizer"
-      ]
     ]
   },
   "NameLower": {
-    "English": "Defence Systems",
+    "English": "Defense Systems",
     "SimplifiedChinese": "防御系统",
-    "TraditionalChinese": "防禦系統",
-    "USEnglish": "Defense Systems"
+    "TencentChinese": "防御系统",
+    "TraditionalChinese": "防禦系統"
   },
   "Subtitle": {
-    "English": "S-Class Defence Systems Upgrade",
+    "English": "S-Class Defense Systems Upgrade",
     "SimplifiedChinese": "S 级防御系统升级",
     "TencentChinese": "高级防御系统升级",
     "TraditionalChinese": "S 級防禦系統升級"

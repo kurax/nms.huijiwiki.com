@@ -3,16 +3,19 @@
   "Group": {
     "English": "Analysis Visor",
     "SimplifiedChinese": "分析面甲",
+    "TencentChinese": "分析面甲",
     "TraditionalChinese": "分析護目鏡"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

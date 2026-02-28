@@ -16,11 +16,13 @@
   "Subtitle": {
     "English": "Starship Launch System Upgrade",
     "SimplifiedChinese": "飞船发射系统升级",
+    "TencentChinese": "飞船发射系统升级",
     "TraditionalChinese": "太空船啟動系統升級"
   },
   "Description": {
     "English": "Photovoltaic panels fitted to the starship <span class=\"name name-technology\">Launch Thrusters</span> allow for a slow trickle charge while the ship is not in operation.<br><br>Harvested light is used to fuse di-hydrogen from the atmosphere and over time will <span class=\"name name-stellar\">refuel the Launch Thrusters automatically</span>.",
     "SimplifiedChinese": "安装在飞船<span class=\"name name-technology\">发射推进器</span>上的光伏板能够在飞船停止运作时进行缓慢的涓流充电。<br><br>收集的光用于融合大气中的氢，并随着时间的推移<span class=\"name name-stellar\">自动为发射推进器补充燃料</span>。",
+    "TencentChinese": "安装在飞船<span class=\"name name-technology\">发射推进器</span>上的光伏板能够在飞船停止运作时进行缓慢的涓流充电。<br><br>收集的光用于融合大气中的氢，并随着时间的推移<span class=\"name name-stellar\">自动为发射推进器补充燃料</span>。",
     "TraditionalChinese": "安裝在太空船<span class=\"name name-technology\">啟動推進器</span>上的光電板，讓太空船待命時，可以緩慢充能。<br><br>充能器收集光線，自大氣中融合生成二氫，即可<span class=\"name name-stellar\">自動補充啟動推進器所需能量</span>。"
   },
   "Teach": true,

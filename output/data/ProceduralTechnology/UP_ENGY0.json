@@ -4,6 +4,7 @@
   "Group": {
     "English": "Life Support",
     "SimplifiedChinese": "维生系统",
+    "TencentChinese": "维生系统",
     "TraditionalChinese": "維生系統"
   },
   "Name": {
@@ -13,7 +14,7 @@
         "Filter",
         "Generator Unit",
         "Recycler",
-        "Stabiliser",
+        "Stabilizer",
         "Purifier",
         "Drain",
         "Sieve",
@@ -23,6 +24,21 @@
       ]
     ],
     "SimplifiedChinese": [
+      null,
+      [
+        "筛选",
+        "发电机单位",
+        "循环器",
+        "稳定器",
+        "净化器",
+        "汲取",
+        "滤网",
+        "泵",
+        "罐",
+        "加工设备"
+      ]
+    ],
+    "TencentChinese": [
       null,
       [
         "筛选",
@@ -51,20 +67,12 @@
         "槽",
         "加工設備"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        "Stabilizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Life Support",
     "SimplifiedChinese": "维生系统",
+    "TencentChinese": "维生系统",
     "TraditionalChinese": "維生系統"
   },
   "Subtitle": {

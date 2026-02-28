@@ -2,11 +2,13 @@
   "Name": {
     "English": "TRITIUM",
     "SimplifiedChinese": "氚",
+    "TencentChinese": "氚",
     "TraditionalChinese": "氚"
   },
   "NameLower": {
     "English": "Tritium",
     "SimplifiedChinese": "氚",
+    "TencentChinese": "氚",
     "TraditionalChinese": "氚"
   },
   "ID": "ROCKETSUB",
@@ -21,6 +23,7 @@
   "Subtitle": {
     "English": "Neutron-Rich Fuel Element",
     "SimplifiedChinese": "富中子燃料元素",
+    "TencentChinese": "富中子燃料元素",
     "TraditionalChinese": "富中子燃料元素"
   },
   "Description": {
@@ -62,6 +65,7 @@
   "PinObjective": {
     "English": "Gather Tritium",
     "SimplifiedChinese": "收集氚",
+    "TencentChinese": "收集氚",
     "TraditionalChinese": "收集氚"
   },
   "PinObjectiveTip": {

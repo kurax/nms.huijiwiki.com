@@ -2,11 +2,13 @@
   "Name": {
     "English": "CONDENSED CARBON",
     "SimplifiedChinese": "浓缩碳",
+    "TencentChinese": "浓缩碳",
     "TraditionalChinese": "濃縮碳"
   },
   "NameLower": {
     "English": "Condensed Carbon",
     "SimplifiedChinese": "浓缩碳",
+    "TencentChinese": "浓缩碳",
     "TraditionalChinese": "濃縮碳"
   },
   "ID": "FUEL2",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Refined Organic Element",
     "SimplifiedChinese": "精炼有机元素",
+    "TencentChinese": "精炼有机元素",
     "TraditionalChinese": "精製有機元素"
   },
   "Description": {
     "English": "Advanced material, processed from regular <span class=\"name name-fuel\">carbon</span> in a <span class=\"name name-technology\">Refiner</span>.<br><br>The increased molecule density offers a substantially improved energy-per-gram ratio.<br><br>Occasionally found in crystalline form. Harvesting large crystals may require a <span class=\"name name-technology\">Advanced Mining Laser</span>.",
     "SimplifiedChinese": "使用<span class=\"name name-technology\">精炼机</span>将普通<span class=\"name name-fuel\">碳</span>加工后的高级材料。<br><br>强化后的分子密度能够极大提升每克能量比例。<br><br>有时呈现晶体形态。可能需要<span class=\"name name-technology\">先进的开采激光</span>来收获大量水晶。",
+    "TencentChinese": "使用<span class=\"name name-technology\">精炼机</span>将普通<span class=\"name name-fuel\">碳</span>加工后的高级材料。<br><br>强化后的分子密度能够极大提升每克能量比例。<br><br>有时呈现晶体形态。可能需要<span class=\"name name-technology\">先进的开采激光</span>来收获大量水晶。",
     "TraditionalChinese": "先進材料，以<span class=\"name name-technology\">精製機</span>加工一般的<span class=\"name name-fuel\">碳</span>而成。<br><br>分子濃度上升，大幅提升每單位重量可提供的能量。<br><br>有時呈結晶形態。可能需要<span class=\"name name-technology\">先進採礦雷射</span>才能採集大型結晶。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather or refine Condensed Carbon",
     "SimplifiedChinese": "收集或精炼浓缩碳",
+    "TencentChinese": "收集或精炼浓缩碳",
     "TraditionalChinese": "收集或精製濃縮碳"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-fuel\">Condensed Carbon</span> is found in crystal form on most planets. Locate carbon crystals with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>). Large deposits may require use of an <span class=\"name name-technology\">Advanced Mining Laser</span>.<br>Condensed Carbon can be created from Carbon in a <span class=\"name name-technology\">Refiner</span>.",
     "SimplifiedChinese": "<span class=\"name name-fuel\">浓缩碳</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位碳晶体。大形矿床可能需要采用<span class=\"name name-technology\">高级开采光束</span>开采。<br>可在<span class=\"name name-technology\">精炼机</span>中用碳制得浓缩碳。",
+    "TencentChinese": "<span class=\"name name-fuel\">浓缩碳</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位碳晶体。大形矿床可能需要采用<span class=\"name name-technology\">高级开采光束</span>开采。<br>可在<span class=\"name name-technology\">精炼机</span>中用碳制得浓缩碳。",
     "TraditionalChinese": "<span class=\"name name-fuel\">濃縮碳</span>在多數的星球上是以結晶形式出現。使用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）找出碳結晶。大型資源產地可能需要用<span class=\"name name-technology\">改良採礦雷射</span>。<br>用<span class=\"name name-technology\">精製機</span>可將碳製造成濃縮碳。"
   },
   "PinObjectiveMessage": {

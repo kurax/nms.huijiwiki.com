@@ -4,23 +4,26 @@
   "Name": {
     "English": "AUTO-PROPAGATOR",
     "SimplifiedChinese": "自动增殖器",
+    "TencentChinese": "自动增殖器",
     "TraditionalChinese": "自動插枝機"
   },
   "NameLower": {
     "English": "Auto-Propagator",
     "SimplifiedChinese": "自动增殖器",
+    "TencentChinese": "自动增殖器",
     "TraditionalChinese": "自動插枝機"
   },
   "Subtitle": {
     "English": "Autonomous Agriculture Unit",
     "SimplifiedChinese": "自动化农业单元",
+    "TencentChinese": "自动化农业单元",
     "TraditionalChinese": "自動農耕機"
   },
   "Description": {
-    "English": "This advanced bank of lasers prunes and propagates plants as required, the cauterising light offering unequaled precision.",
+    "English": "This advanced bank of lasers prunes and propagates plants as required, the cauterizing light offering unequaled precision.",
     "SimplifiedChinese": "先进的激光射线群，用来修剪并繁殖所需的植物，灼热的光线提供绝妙的精度。",
-    "TraditionalChinese": "此機器裝有整排先進的雷射光束，可以按照需求替植物進行修剪與插枝，準度無人能敵。",
-    "USEnglish": "This advanced bank of lasers prunes and propagates plants as required, the cauterizing light offering unequaled precision."
+    "TencentChinese": "先进的激光射线群，用来修剪并繁殖所需的植物，灼热的光线提供绝妙的精度。",
+    "TraditionalChinese": "此機器裝有整排先進的雷射光束，可以按照需求替植物進行修剪與插枝，準度無人能敵。"
   },
   "Teach": false,
   "HintStart": "",

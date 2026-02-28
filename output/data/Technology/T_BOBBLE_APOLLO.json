@@ -17,10 +17,9 @@
     "TraditionalChinese": "太空船室內裝飾品"
   },
   "Description": {
-    "English": "A synthetic polymer companion for your starship's cockpit, fashioned in the likeness of the Traveller Apollo.<br><br>Install to an <span class=\"name name-technology\">Inventory Slot</span> to decorate your ship's interior.",
+    "English": "A synthetic polymer companion for your starship's cockpit, fashioned in the likeness of the Traveler Apollo.<br><br>Install to an <span class=\"name name-technology\">Inventory Slot</span> to decorate your ship's interior.",
     "SimplifiedChinese": "飞船驾驶舱的合成高分子玩具摆件，原型是旅行者阿波罗。<br><br>安装到<span class=\"name name-technology\">库存栏位</span>中来装饰你的飞船内部。",
-    "TraditionalChinese": "放置於太空船駕駛艙中的一種合成聚合物同伴，其樣式類似於旅行者阿波羅。<br><br>安裝於<span class=\"name name-technology\">道具欄的欄位</span>來裝飾你的太空船室內。",
-    "USEnglish": "A synthetic polymer companion for your starship's cockpit, fashioned in the likeness of the Traveler Apollo.<br><br>Install to an <span class=\"name name-technology\">Inventory Slot</span> to decorate your ship's interior."
+    "TraditionalChinese": "放置於太空船駕駛艙中的一種合成聚合物同伴，其樣式類似於旅行者阿波羅。<br><br>安裝於<span class=\"name name-technology\">道具欄的欄位</span>來裝飾你的太空船室內。"
   },
   "Teach": false,
   "HintStart": "",

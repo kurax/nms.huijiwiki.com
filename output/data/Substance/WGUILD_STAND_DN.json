@@ -2,17 +2,20 @@
   "Name": {
     "English": "MERCENARIES",
     "SimplifiedChinese": "雇佣兵",
+    "TencentChinese": "雇佣兵",
     "TraditionalChinese": "傭兵"
   },
   "NameLower": {
     "English": "MERCENARIES",
     "SimplifiedChinese": "雇佣兵",
+    "TencentChinese": "雇佣兵",
     "TraditionalChinese": "傭兵"
   },
   "ID": "WGUILD_STAND_DN",
   "Symbol": {
     "English": "-",
     "SimplifiedChinese": "-",
+    "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
   "Icon": "ui/frontend/icons/rank/factions.warriorguild.on.png",
@@ -20,11 +23,13 @@
   "Subtitle": {
     "English": "Reward Item",
     "SimplifiedChinese": "奖励物品",
+    "TencentChinese": "奖励物品",
     "TraditionalChinese": "獎勵道具"
   },
   "Description": {
     "English": "Currency or faction standing, given as a reward.",
     "SimplifiedChinese": "作为奖励给予的货币或派别声望。",
+    "TencentChinese": "作为奖励给予的货币或派别声望。",
     "TraditionalChinese": "貨幣或陣營聲望獎勵。"
   },
   "Colour": {
@@ -60,6 +65,7 @@
   "PinObjective": {
     "English": "Find MERCENARIES",
     "SimplifiedChinese": "寻找雇佣兵",
+    "TencentChinese": "寻找雇佣兵",
     "TraditionalChinese": "找出傭兵"
   },
   "PinObjectiveTip": "",

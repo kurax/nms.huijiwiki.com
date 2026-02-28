@@ -4,23 +4,26 @@
   "Name": {
     "English": "COMBAT SCOPE",
     "SimplifiedChinese": "战斗瞄准镜",
+    "TencentChinese": "战斗瞄准镜",
     "TraditionalChinese": "戰鬥瞄準鏡"
   },
   "NameLower": {
     "English": "Combat Scope",
     "SimplifiedChinese": "战斗瞄准镜",
+    "TencentChinese": "战斗瞄准镜",
     "TraditionalChinese": "戰鬥瞄準鏡"
   },
   "Subtitle": {
     "English": "Weapon Precision Enhancement",
     "SimplifiedChinese": "武器精准强化",
+    "TencentChinese": "武器精准强化",
     "TraditionalChinese": "武器精準度強化"
   },
   "Description": {
-    "English": "A recoil-stabilising weapon scope for precise combat.",
+    "English": "A recoil-stabilizing weapon scope for precise combat.",
     "SimplifiedChinese": "用于精准战斗的抗后坐力武器瞄准镜。",
-    "TraditionalChinese": "一款後座力穩定的武器所用的瞄準鏡，以利發揮精準戰鬥。",
-    "USEnglish": "A recoil-stabilizing weapon scope for precise combat."
+    "TencentChinese": "用于精准战斗的抗后坐力武器瞄准镜。",
+    "TraditionalChinese": "一款後座力穩定的武器所用的瞄準鏡，以利發揮精準戰鬥。"
   },
   "Teach": true,
   "HintStart": "",

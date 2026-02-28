@@ -4,21 +4,25 @@
   "Name": {
     "English": "TETHYS BEAM",
     "SimplifiedChinese": "特提斯光束",
+    "TencentChinese": "特提斯光束",
     "TraditionalChinese": "忒堤斯光束"
   },
   "NameLower": {
     "English": "Tethys Beam",
     "SimplifiedChinese": "特提斯光束",
+    "TencentChinese": "特提斯光束",
     "TraditionalChinese": "忒堤斯光束"
   },
   "Subtitle": {
     "English": "Submarine Mining Laser",
     "SimplifiedChinese": "潜水艇开采激光",
+    "TencentChinese": "潜水艇开采激光",
     "TraditionalChinese": "潛艇採礦雷射"
   },
   "Description": {
     "English": "A mounted laser system specifically designed for the <span class=\"name name-stellar\">Nautilon Submarine</span>.<br><br>Fires a concentrated plasma beam towards the intended target, which is then ignited. Such a trigger mechanism allows the use of high-energy optical mining systems in a liquid medium.",
     "SimplifiedChinese": "专为<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>设计的机载激光系统。<br><br>能向预定目标发射浓缩的等离子体束，随后将其点燃。得益于这样的触发机制，用户可以在液体介质中使用高能光学开采系统。",
+    "TencentChinese": "专为<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>设计的机载激光系统。<br><br>能向预定目标发射浓缩的等离子体束，随后将其点燃。得益于这样的触发机制，用户可以在液体介质中使用高能光学开采系统。",
     "TraditionalChinese": "特別針對<span class=\"name name-stellar\">巡洋龍</span>設計的含基座雷射系統。<br><br>針對目標發射高度濃縮的電漿光束，然後加以點燃。這樣的啟動機制可以在液體媒介中使用高能量光學採礦系統。"
   },
   "Teach": false,

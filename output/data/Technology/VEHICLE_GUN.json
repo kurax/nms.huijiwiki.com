@@ -16,11 +16,13 @@
   "Subtitle": {
     "English": "Exocraft Weapon Attachment",
     "SimplifiedChinese": "强化艇武器配件",
+    "TencentChinese": "强化艇武器配件",
     "TraditionalChinese": "強化艇武器附加裝置"
   },
   "Description": {
     "English": "Due to the energy requirements of this powerful weapon, they can only be fired from an Exocraft mount.",
     "SimplifiedChinese": "由于此强力武器的能量要求，必须安装于强化艇进行射击。",
+    "TencentChinese": "由于此强力武器的能量要求，必须安装于强化艇进行射击。",
     "TraditionalChinese": "這款強大的武器非常耗能，只能裝設於強化艇上射擊。"
   },
   "Teach": false,

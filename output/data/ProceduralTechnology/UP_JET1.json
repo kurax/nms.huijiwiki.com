@@ -4,6 +4,7 @@
   "Group": {
     "English": "Movement System",
     "SimplifiedChinese": "运动系统",
+    "TencentChinese": "运动系统",
     "TraditionalChinese": "移動系統"
   },
   "Name": {
@@ -13,7 +14,7 @@
         "Augmented",
         "Upgraded",
         "Specialist",
-        "Synchronised"
+        "Synchronized"
       ],
       [
         "Tanks",
@@ -29,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "不稳定",
+        "增强",
+        "已升级",
+        "专业",
+        "已同步"
+      ],
+      [
+        "罐",
+        "泵",
+        "排气管",
+        "点火器",
+        "喷射器",
+        "发电机",
+        "涡轮",
+        "燃烧装置",
+        "扩散器",
+        "喷嘴"
+      ]
+    ],
+    "TencentChinese": [
       [
         "不稳定",
         "增强",
@@ -69,20 +91,12 @@
         "擴散器",
         "噴嘴"
       ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "Synchronized"
-      ]
     ]
   },
   "NameLower": {
     "English": "Movement System",
     "SimplifiedChinese": "运动系统",
+    "TencentChinese": "运动系统",
     "TraditionalChinese": "移動系統"
   },
   "Subtitle": {

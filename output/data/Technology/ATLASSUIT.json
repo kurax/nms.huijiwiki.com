@@ -4,21 +4,25 @@
   "Name": {
     "English": "REMEMBRANCE",
     "SimplifiedChinese": "纪念物",
+    "TencentChinese": "纪念物",
     "TraditionalChinese": "記憶"
   },
   "NameLower": {
     "English": "Remembrance",
     "SimplifiedChinese": "纪念物",
+    "TencentChinese": "纪念物",
     "TraditionalChinese": "記憶"
   },
   "Subtitle": {
     "English": "A relic of another place",
     "SimplifiedChinese": "别处的遗物",
+    "TencentChinese": "别处的遗物",
     "TraditionalChinese": "另一個地方的遺物"
   },
   "Description": {
     "English": "Everything you ever knew is within.",
     "SimplifiedChinese": "其中包含你所知的一切。",
+    "TencentChinese": "其中包含你所知的一切。",
     "TraditionalChinese": "你知道的所有東西都在裡頭。"
   },
   "Teach": true,

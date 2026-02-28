@@ -4,16 +4,19 @@
   "Name": {
     "English": "CONTAINMENT FAILURE",
     "SimplifiedChinese": "隔离失效",
+    "TencentChinese": "隔离失效",
     "TraditionalChinese": "防護故障"
   },
   "NameLower": {
     "English": "Containment Failure",
     "SimplifiedChinese": "隔离失效",
+    "TencentChinese": "隔离失效",
     "TraditionalChinese": "防護故障"
   },
   "Subtitle": {
     "English": "Damaged Starship Component",
     "SimplifiedChinese": "受损的飞船部件",
+    "TencentChinese": "受损的飞船部件",
     "TraditionalChinese": "受損太空船元件"
   },
   "Description": {

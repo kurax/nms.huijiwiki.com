@@ -2,11 +2,13 @@
   "Name": {
     "English": "SOLANIUM",
     "SimplifiedChinese": "日光茄",
+    "TencentChinese": "日光茄",
     "TraditionalChinese": "日光茄"
   },
   "NameLower": {
     "English": "Solanium",
     "SimplifiedChinese": "日光茄",
+    "TencentChinese": "日光茄",
     "TraditionalChinese": "日光茄"
   },
   "ID": "PLANT_HOT",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "A powerful chemical that has resisted attempts at synthesis. It can be harvested from the bark of the <span class=\"name name-tradeable\">Solar Vine</span>.<br><br>The vine requires a <span class=\"name name-fuel\">hot climate</span> to thrive in the wild, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "一种强大的化学物质，具有合成抗性。它可以从<span class=\"name name-tradeable\">日光藤</span>的藤皮中收获。<br><br>日光藤需要在<span class=\"name name-fuel\">炎热气候</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，可以在任何环境中生存。",
+    "TencentChinese": "一种强大的化学物质，具有合成抗性。它可以从<span class=\"name name-tradeable\">日光藤</span>的藤皮中收获。<br><br>日光藤需要在<span class=\"name name-fuel\">炎热气候</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，可以在任何环境中生存。",
     "TraditionalChinese": "一種會抗拒合成反應的強大化學物質。可從<span class=\"name name-tradeable\">日藤</span>的樹皮上採收而得。<br><br>日藤需要<span class=\"name name-fuel\">高溫氣候</span>才能在野外生長，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Solanium",
     "SimplifiedChinese": "收集日光茄",
+    "TencentChinese": "收集日光茄",
     "TraditionalChinese": "收集日光茄"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Solanium</span> is harvested from the bark of the <span class=\"name name-tradeable\">Solar Vine</span>.<br>The host plant grows wild in a <span class=\"name name-fuel\">scorched climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">日光茄</span>能从<span class=\"name name-tradeable\">日光藤</span>上的树皮中采集到。<br>其宿主植物需要在<span class=\"name name-fuel\">炎热气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "<span class=\"name name-tradeable\">日光茄</span>能从<span class=\"name name-tradeable\">日光藤</span>上的树皮中采集到。<br>其宿主植物需要在<span class=\"name name-fuel\">炎热气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">日光茄</span>是從<span class=\"name name-tradeable\">日藤</span>的樹皮採收而來。<br>宿主植物野生生長於<span class=\"name name-fuel\">焦熱氣候</span>中，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "PinObjectiveMessage": {

@@ -4,21 +4,25 @@
   "Name": {
     "English": "ALTERNATOR",
     "SimplifiedChinese": "交流发电机",
+    "TencentChinese": "交流发电机",
     "TraditionalChinese": "交流發電機"
   },
   "NameLower": {
     "English": "Alternator",
     "SimplifiedChinese": "交流发电机",
+    "TencentChinese": "交流发电机",
     "TraditionalChinese": "交流發電機"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "The alternator generates and regulates power for the device. A strange corrosion seeps through it, preventing it from working.",
     "SimplifiedChinese": "产生和调节设备电力的交流发电机。由于奇怪的腐蚀物渗漏，阻止了其正常运行。",
+    "TencentChinese": "产生和调节设备电力的交流发电机。由于奇怪的腐蚀物渗漏，阻止了其正常运行。",
     "TraditionalChinese": "交流發電機為裝置發電並調節電力。發電機出現腐蝕，無法正常運轉。"
   },
   "Teach": false,

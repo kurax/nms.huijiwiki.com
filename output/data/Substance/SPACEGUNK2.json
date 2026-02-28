@@ -1,15 +1,15 @@
 {
   "Name": {
-    "English": "RUNAWAY MOULD",
+    "English": "RUNAWAY MOLD",
     "SimplifiedChinese": "失控的模具",
-    "TraditionalChinese": "狂生黴菌",
-    "USEnglish": "RUNAWAY MOLD"
+    "TencentChinese": "失控的模具",
+    "TraditionalChinese": "狂生黴菌"
   },
   "NameLower": {
-    "English": "Runaway Mould",
+    "English": "Runaway Mold",
     "SimplifiedChinese": "失控的模具",
-    "TraditionalChinese": "狂生黴菌",
-    "USEnglish": "Runaway Mold"
+    "TencentChinese": "失控的模具",
+    "TraditionalChinese": "狂生黴菌"
   },
   "ID": "SPACEGUNK2",
   "Symbol": {
@@ -23,11 +23,13 @@
   "Subtitle": {
     "English": "Junk",
     "SimplifiedChinese": "垃圾",
+    "TencentChinese": "垃圾",
     "TraditionalChinese": "垃圾"
   },
   "Description": {
     "English": "An out of control mould growth that builds up in poorly-maintained machinery.<br><br>Likely to be several different species of mould, merged together into one super-colony.",
     "SimplifiedChinese": "一种在缺乏维护的机械装置中产生并积累的生长失控的霉菌。<br><br>很可能是几种不同种类的霉菌合并成的一个超级菌落。",
+    "TencentChinese": "一种在缺乏维护的机械装置中产生并积累的生长失控的霉菌。<br><br>很可能是几种不同种类的霉菌合并成的一个超级菌落。",
     "TraditionalChinese": "生長速度失控的黴菌，會在鮮少維護的機器中找到。<br><br>可能是由數種不同黴菌結合而成的超大菌落。"
   },
   "Colour": {
@@ -61,8 +63,9 @@
   "WikiEnabled": true,
   "EconomyInfluenceMultiplier": 0.25,
   "PinObjective": {
-    "English": "Gather or refine Runaway Mould",
+    "English": "Gather or refine Runaway Mold",
     "SimplifiedChinese": "收集或精炼失控的模具",
+    "TencentChinese": "收集或精炼失控的模具",
     "TraditionalChinese": "收集或精製狂生黴菌"
   },
   "PinObjectiveTip": {

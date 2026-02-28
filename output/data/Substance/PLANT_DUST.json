@@ -2,11 +2,13 @@
   "Name": {
     "English": "CACTUS FLESH",
     "SimplifiedChinese": "仙人掌肉",
+    "TencentChinese": "仙人掌肉",
     "TraditionalChinese": "仙人掌肉"
   },
   "NameLower": {
     "English": "Cactus Flesh",
     "SimplifiedChinese": "仙人掌肉",
+    "TencentChinese": "仙人掌肉",
     "TraditionalChinese": "仙人掌肉"
   },
   "ID": "PLANT_DUST",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "Succulent, edible cactus flesh from the <span class=\"name name-tradeable\">Echinocactus plant</span>. As well as being juicy on the tongue, the flesh has many industrial uses.<br><br>The Echinocactus thrives only on <span class=\"name name-fuel\">desert planets</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>..",
     "SimplifiedChinese": "来自<span class=\"name name-tradeable\">金琥植物</span>的多汁、可食用的仙人掌肉。仙人掌肉不仅多汁鲜美，还具有许多工业用途。<br><br>金琥只能在<span class=\"name name-fuel\">沙漠星球</span>上生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "来自<span class=\"name name-tradeable\">金琥植物</span>的多汁、可食用的仙人掌肉。仙人掌肉不仅多汁鲜美，还具有许多工业用途。<br><br>金琥只能在<span class=\"name name-fuel\">沙漠星球</span>上生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "多汁、可食用的多肉植物果肉，取自<span class=\"name name-tradeable\">仙人球植物</span>。除了汁多味美之外，果肉也有多種工業用途。<br><br>仙人球僅能生長於<span class=\"name name-fuel\">沙漠環境</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Cactus Flesh",
     "SimplifiedChinese": "收集仙人掌肉",
+    "TencentChinese": "收集仙人掌肉",
     "TraditionalChinese": "收集仙人掌肉"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Cactus Flesh</span> is harvested from the flesh of the <span class=\"name name-tradeable\">Echinocactus plant</span><br>The host plant grows wild in a <span class=\"name name-stellar\">barren climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">仙人掌肉</span>能从<span class=\"name name-tradeable\">金琥植物</span>上的叶肉中采集到。<br>其宿主植物需要在<span class=\"name name-stellar\">贫瘠气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "<span class=\"name name-tradeable\">仙人掌肉</span>能从<span class=\"name name-tradeable\">金琥植物</span>上的叶肉中采集到。<br>其宿主植物需要在<span class=\"name name-stellar\">贫瘠气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">仙人掌肉</span>是從<span class=\"name name-tradeable\">仙人球植物</span>果肉採收而來。<br>宿主植物野生生長於<span class=\"name name-stellar\">荒蕪氣候</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "PinObjectiveMessage": {

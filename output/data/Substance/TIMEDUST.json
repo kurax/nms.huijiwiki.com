@@ -23,10 +23,9 @@
     "TraditionalChinese": "腐朽的時空殘留物"
   },
   "Description": {
-    "English": "Grey, dead, sparkling with life and colour, singing as it shimmers. This impossibly fine dust is the accumulated decay of time and memories.<br><br>Collected from the fine layers it forms around hotspots in the loop. Of great value to <span class=\"name name-special\">Specialist Polo</span> as they <span class=\"name name-stellar\">research the loop</span>.",
+    "English": "Gray, dead, sparkling with life and color, singing as it shimmers. This impossibly fine dust is the accumulated decay of time and memories.<br><br>Collected from the fine layers it forms around hotspots in the loop. Of great value to <span class=\"name name-special\">Specialist Polo</span> as they <span class=\"name name-stellar\">research the loop</span>.",
     "SimplifiedChinese": "灰色，死亡，闪耀着生命的颜色，一边发光一边歌唱。这颗不可思议的灰尘是时间和记忆衰落后的沉淀物<br><br>从循环中热点周围形成的分层中收集而来。对<span class=\"name name-special\">保罗专家</span>来说有极高的价值因为它们正在<span class=\"name name-stellar\">研究循环</span>。",
-    "TraditionalChinese": "灰色、凋零、閃爍著生命和色彩、在光芒流轉之際歌唱著。精細到難以置信的粉塵，是時間和記憶的腐朽積累物。<br><br>從迴圈熱點周遭形成的細密粉層裡收集而來。對正在<span class=\"name name-stellar\">研究迴圈</span>的<span class=\"name name-special\">專家波羅</span>有莫大的價值。",
-    "USEnglish": "Gray, dead, sparkling with life and color, singing as it shimmers. This impossibly fine dust is the accumulated decay of time and memories.<br><br>Collected from the fine layers it forms around hotspots in the loop. Of great value to <span class=\"name name-special\">Specialist Polo</span> as they <span class=\"name name-stellar\">research the loop</span>."
+    "TraditionalChinese": "灰色、凋零、閃爍著生命和色彩、在光芒流轉之際歌唱著。精細到難以置信的粉塵，是時間和記憶的腐朽積累物。<br><br>從迴圈熱點周遭形成的細密粉層裡收集而來。對正在<span class=\"name name-stellar\">研究迴圈</span>的<span class=\"name name-special\">專家波羅</span>有莫大的價值。"
   },
   "Colour": {
     "R": 0.31764707,
@@ -61,6 +60,7 @@
   "PinObjective": {
     "English": "Gather Somnal Dust",
     "SimplifiedChinese": "收集索姆纳尔灰尘",
+    "TencentChinese": "收集索姆纳尔灰尘",
     "TraditionalChinese": "收集睡眠塵"
   },
   "PinObjectiveTip": {

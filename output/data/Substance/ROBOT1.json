@@ -2,11 +2,13 @@
   "Name": {
     "English": "PUGNEUM",
     "SimplifiedChinese": "普茵",
+    "TencentChinese": "普茵",
     "TraditionalChinese": "搏"
   },
   "NameLower": {
     "English": "Pugneum",
     "SimplifiedChinese": "普茵",
+    "TencentChinese": "普茵",
     "TraditionalChinese": "搏"
   },
   "ID": "ROBOT1",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Anomalous Material",
     "SimplifiedChinese": "异常材料",
+    "TencentChinese": "异常材料",
     "TraditionalChinese": "異常材料"
   },
   "Description": {
     "English": "This oily, unsettling liquid leaks from the circuitry of <span class=\"name name-special\">Sentinels</span>.<br><br>Prized by the <span class=\"name name-fuel\">Vy'keen</span>, Pugneum is thought to share some essential properties with <span class=\"name name-technology\">Nanites</span>. It hums in a sinister fashion upon contact with organic matter.",
     "SimplifiedChinese": "这种油腻、令人不安的液体从<span class=\"name name-special\">护卫</span>的电路中渗漏出来。<br><br>受<span class=\"name name-fuel\">维吉恩</span>广泛称赞的普茵与<span class=\"name name-technology\">纳米星团</span>在一些本质上有异曲同工之妙。它与有机物接触时会发出诡异的嗡嗡声。",
+    "TencentChinese": "这种油腻、令人不安的液体从<span class=\"name name-special\">护卫</span>的电路中渗漏出来。<br><br>受<span class=\"name name-fuel\">维吉恩</span>广泛称赞的普茵与<span class=\"name name-technology\">纳米星团</span>在一些本质上有异曲同工之妙。它与有机物接触时会发出诡异的嗡嗡声。",
     "TraditionalChinese": "這種不穩定的油性液體，是從<span class=\"name name-special\">巡警</span>電路滲出的物質。<br><br>被<span class=\"name name-fuel\">維金族</span>視為珍寶的搏元素，一般認為本質與<span class=\"name name-technology\">奈米機群</span>相似。與有機物質接觸時，會發出邪惡的低吟。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Pugneum",
     "SimplifiedChinese": "收集普茵",
+    "TencentChinese": "收集普茵",
     "TraditionalChinese": "收集搏"
   },
   "PinObjectiveTip": {
     "English": "A dark, liquid glass, <span class=\"name name-special\">Pugneum</span> is extracted from the remains of <span class=\"name name-special\">Sentinels</span>. Engage Sentinel forces in combat to release Pugneum from their shells.",
     "SimplifiedChinese": "<span class=\"name name-special\">普茵</span>是一种深色的液态玻璃体，是从<span class=\"name name-special\">护卫</span>的遗体上提取出来的。与护卫战斗，将普茵从他们的外壳中释放出来。",
+    "TencentChinese": "<span class=\"name name-special\">普茵</span>是一种深色的液态玻璃体，是从<span class=\"name name-special\">护卫</span>的遗体上提取出来的。与护卫战斗，将普茵从他们的外壳中释放出来。",
     "TraditionalChinese": "深色的液體玻璃<span class=\"name name-special\">搏</span>萃取自<span class=\"name name-special\">巡警</span>的殘骸。 與巡警方展開戰鬥將其殼體中搏釋放出來。"
   },
   "PinObjectiveMessage": {

@@ -3,16 +3,19 @@
   "Group": {
     "English": "Nautilon Cannon",
     "SimplifiedChinese": "大鹦鹉螺大炮",
+    "TencentChinese": "大鹦鹉螺大炮",
     "TraditionalChinese": "巡洋龍砲"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

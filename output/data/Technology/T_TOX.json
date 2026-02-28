@@ -3,16 +3,19 @@
   "Group": {
     "English": "Toxic Protection",
     "SimplifiedChinese": "毒性防护",
+    "TencentChinese": "毒性防护",
     "TraditionalChinese": "毒性防護"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",
@@ -35,6 +38,7 @@
     {
       "English": "Toxic %PLANETCLASS%",
       "SimplifiedChinese": "剧毒%PLANETCLASS%",
+      "TencentChinese": "剧毒%PLANETCLASS%",
       "TraditionalChinese": "劇毒%PLANETCLASS%"
     },
     "POWERCELL"

@@ -4,21 +4,25 @@
   "Name": {
     "English": "TRIDENT KEY",
     "SimplifiedChinese": "三叉戟钥匙",
+    "TencentChinese": "三叉戟钥匙",
     "TraditionalChinese": "三叉鑰匙"
   },
   "NameLower": {
     "English": "Trident Key",
     "SimplifiedChinese": "三叉戟钥匙",
+    "TencentChinese": "三叉戟钥匙",
     "TraditionalChinese": "三叉鑰匙"
   },
   "Subtitle": {
     "English": "Offering to the Sea",
     "SimplifiedChinese": "供奉给大海",
+    "TencentChinese": "供奉给大海",
     "TraditionalChinese": "深海獻祭"
   },
   "Description": {
     "English": "The chest requires a <span class=\"name name-technology\">Trident Key</span>, given to those who study the mysterious sites in the deep ocean.",
     "SimplifiedChinese": "打开此箱，需要一把<span class=\"name name-technology\">三叉戟钥匙</span>，深海神秘场所研究者通常能获得那样的礼物。",
+    "TencentChinese": "打开此箱，需要一把<span class=\"name name-technology\">三叉戟钥匙</span>，深海神秘场所研究者通常能获得那样的礼物。",
     "TraditionalChinese": "寶箱需要<span class=\"name name-technology\">三叉鑰匙</span>方能開啟。研究深海中的神祕遺址方可獲得鑰匙。"
   },
   "Teach": false,

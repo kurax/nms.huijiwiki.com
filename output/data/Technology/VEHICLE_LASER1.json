@@ -16,11 +16,13 @@
   "Subtitle": {
     "English": "Exocraft Mining Upgrade",
     "SimplifiedChinese": "强化艇开采升级",
+    "TencentChinese": "强化艇开采升级",
     "TraditionalChinese": "強化艇採礦雷射"
   },
   "Description": {
     "English": "Increases power of the Exocraft Mining Laser.",
     "SimplifiedChinese": "提升强化艇开采激光的力量。",
+    "TencentChinese": "提升强化艇开采激光的力量。",
     "TraditionalChinese": "提昇強化艇採礦雷射的力量。"
   },
   "Teach": false,

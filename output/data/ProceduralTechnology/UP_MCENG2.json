@@ -13,7 +13,7 @@
         "Heated",
         "Upgraded",
         "Rewired",
-        "Stabilised"
+        "Stabilized"
       ],
       [
         "Propulsion Unit",
@@ -68,15 +68,6 @@
         "燃料管",
         "微中子注射器",
         "電子套管"
-      ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "Stabilized"
       ]
     ]
   },

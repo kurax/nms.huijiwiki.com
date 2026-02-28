@@ -4,21 +4,25 @@
   "Name": {
     "English": "OSMOTIC GENERATOR",
     "SimplifiedChinese": "渗压发电机",
+    "TencentChinese": "渗压发电机",
     "TraditionalChinese": "滲透發電機"
   },
   "NameLower": {
     "English": "Osmotic Generator",
     "SimplifiedChinese": "渗压发电机",
+    "TencentChinese": "渗压发电机",
     "TraditionalChinese": "滲透發電機"
   },
   "Subtitle": {
     "English": "Humboldt Drive Upgrade",
     "SimplifiedChinese": "洪堡驱动器升级",
+    "TencentChinese": "洪堡驱动器升级",
     "TraditionalChinese": "洪保德驅動器升級"
   },
   "Description": {
     "English": "Installed into the drive system aboard the <span class=\"name name-stellar\">Nautilon Submarine</span>.<br><br>Captures energy by exploiting the saline gradient in deep water environments, allowing a slow recharge of the <span class=\"name name-technology\">Humboldt Drive</span> in the event of fuel emergencies.",
     "SimplifiedChinese": "安装在<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>搭载的驱动系统当中。<br><br>能在燃料稀缺时，利用深水环境中的盐水梯度获取能量，为<span class=\"name name-technology\">洪堡驱动器</span>缓慢充能。",
+    "TencentChinese": "安装在<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>搭载的驱动系统当中。<br><br>能在燃料稀缺时，利用深水环境中的盐水梯度获取能量，为<span class=\"name name-technology\">洪堡驱动器</span>缓慢充能。",
     "TraditionalChinese": "安裝於<span class=\"name name-stellar\">巡洋龍潛艇</span>的驅動器系統中。<br><br>利用深海環境的鹽份差異擷取能量，在燃料緊急情況下可以緩慢為<span class=\"name name-technology\">洪保德驅動器</span>充電。"
   },
   "Teach": false,

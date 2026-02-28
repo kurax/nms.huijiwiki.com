@@ -4,6 +4,7 @@
   "Group": {
     "English": "Pulse Engine",
     "SimplifiedChinese": "脉冲驱动器",
+    "TencentChinese": "脉冲驱动器",
     "TraditionalChinese": "脈衝驅動器"
   },
   "Name": {
@@ -37,6 +38,21 @@
         "电子套管"
       ]
     ],
+    "TencentChinese": [
+      null,
+      [
+        "推进装置",
+        "推进控制器",
+        "冲动喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
     "TraditionalChinese": [
       null,
       [
@@ -56,6 +72,7 @@
   "NameLower": {
     "English": "Pulse Engine",
     "SimplifiedChinese": "脉冲驱动器",
+    "TencentChinese": "脉冲驱动器",
     "TraditionalChinese": "脈衝驅動器"
   },
   "Subtitle": {

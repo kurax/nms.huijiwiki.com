@@ -4,21 +4,25 @@
   "Name": {
     "English": "TELEPORT RECEIVER",
     "SimplifiedChinese": "传送接收器",
+    "TencentChinese": "传送接收器",
     "TraditionalChinese": "瞬間傳送接收器"
   },
   "NameLower": {
     "English": "Teleport Receiver",
     "SimplifiedChinese": "传送接收器",
+    "TencentChinese": "传送接收器",
     "TraditionalChinese": "瞬間傳送接收器"
   },
   "Subtitle": {
     "English": "Ship-Mounted Teleportation Device",
     "SimplifiedChinese": "飞船内置传送设备",
+    "TencentChinese": "飞船内置传送设备",
     "TraditionalChinese": "配備於太空船的瞬間傳送裝置"
   },
   "Description": {
     "English": "A device that modulates standard starship communication signals to <span class=\"name name-technology\">enable the transport of matter</span> as well as data.<br><br>Starships fitted with such a device can send and receive products and substances to a user's exosuit over a <VAL_ON>long distance<>.",
     "SimplifiedChinese": "一种可以调节飞船通讯信号的设备，用于<span class=\"name name-technology\">启动物质传输</span>，也可以用于传输数据。<br><br>装有此类设备的飞船能够让使用者的套装<VAL_ON>远距离<>发送并接收产品和物质。",
+    "TencentChinese": "一种可以调节飞船通讯信号的设备，用于<span class=\"name name-technology\">启动物质传输</span>，也可以用于传输数据。<br><br>装有此类设备的飞船能够让使用者的套装<VAL_ON>远距离<>发送并接收产品和物质。",
     "TraditionalChinese": "將標準太空傳通訊訊號模組化、以<span class=\"name name-technology\">啟用物質及資料傳輸</span>的裝置。<br><br>配備了這種裝置的太空船可以<VAL_ON>遠端<>傳送並接收使用者強化套裝的產品與物質。"
   },
   "Teach": true,

@@ -4,21 +4,25 @@
   "Name": {
     "English": "DEFLECTOR SHIELD",
     "SimplifiedChinese": "偏导护盾",
+    "TencentChinese": "偏导护盾",
     "TraditionalChinese": "反射防護罩"
   },
   "NameLower": {
     "English": "Deflector Shield",
     "SimplifiedChinese": "偏导护盾",
+    "TencentChinese": "偏导护盾",
     "TraditionalChinese": "反射防護罩"
   },
   "Subtitle": {
     "English": "Spacecraft Hull Protection",
     "SimplifiedChinese": "飞船船体保护",
+    "TencentChinese": "飞船船体保护",
     "TraditionalChinese": "太空船機身防護"
   },
   "Description": {
     "English": "Energy shield that protects spacecraft from laser fire, in-flight projectiles and accidental space debris interaction.<br><br>User is advised that <span class=\"name name-catalyst\">catalytic elements</span> are required to recharge device.<br><br>Operates automatically once constructed within user's starship inventory.",
     "SimplifiedChinese": "本能量护盾可为太空船抵挡激光、射弹和太空中残骸的伤害。<br><br>使用者请注意，必须用<span class=\"name name-catalyst\">催化元素</span>给本设备充能。<br><br>本设备在使用者的飞船库存中制造完毕后自动生效。",
+    "TencentChinese": "本能量护盾可为太空船抵挡激光、射弹和太空中残骸的伤害。<br><br>使用者请注意，必须用<span class=\"name name-catalyst\">催化元素</span>给本设备充能。<br><br>本设备在使用者的飞船库存中制造完毕后自动生效。",
     "TraditionalChinese": "保護太空船不受雷射火焰、飛行中射彈武器與偶然擦撞的太空垃圾傷害的能量防護罩。<br><br>建議使用<span class=\"name name-catalyst\">催化元素</span>補充裝置。<br><br>在使用者的太空船道具欄建造後便會自動啟用。"
   },
   "Teach": true,

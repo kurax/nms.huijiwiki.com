@@ -3,16 +3,19 @@
   "Group": {
     "English": "Hyperdrive",
     "SimplifiedChinese": "超光速推进",
+    "TencentChinese": "超光速推进",
     "TraditionalChinese": "超空間驅動器"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

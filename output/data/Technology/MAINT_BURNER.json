@@ -4,21 +4,25 @@
   "Name": {
     "English": "FURNACE TANK",
     "SimplifiedChinese": "熔炉罐",
+    "TencentChinese": "熔炉罐",
     "TraditionalChinese": "燃燒槽"
   },
   "NameLower": {
     "English": "Furnace Tank",
     "SimplifiedChinese": "熔炉罐",
+    "TencentChinese": "熔炉罐",
     "TraditionalChinese": "燃燒槽"
   },
   "Subtitle": {
     "English": "Fuel Incineration Device",
     "SimplifiedChinese": "燃料焚化装置",
+    "TencentChinese": "燃料焚化装置",
     "TraditionalChinese": "燃料焚燒裝置"
   },
   "Description": {
     "English": "High-temperature burn unit, designed to consume a wide range of biological material. Insert materials to initiate burn.<br><br>When active, drives an internal turbine to generate <span class=\"name name-stellar\">power</span>.",
     "SimplifiedChinese": "一种高温燃烧装置，设计用于消耗多种生物材料。置入材料开始燃烧。<br><br>启用时，驱动内部涡轮机产生<span class=\"name name-stellar\">能量</span>。",
+    "TencentChinese": "一种高温燃烧装置，设计用于消耗多种生物材料。置入材料开始燃烧。<br><br>启用时，驱动内部涡轮机产生<span class=\"name name-stellar\">能量</span>。",
     "TraditionalChinese": "高溫燃燒單位，為焚燒各類生物材料而設計。放入材料，即會開始燃燒。<br><br>運作時會推動內部渦輪，發出<span class=\"name name-stellar\">電力</span>。"
   },
   "Teach": false,

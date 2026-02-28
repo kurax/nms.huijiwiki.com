@@ -4,21 +4,25 @@
   "Name": {
     "English": "PHOTOVOLTAIC PANEL",
     "SimplifiedChinese": "光伏板",
+    "TencentChinese": "光伏板",
     "TraditionalChinese": "光電面板"
   },
   "NameLower": {
     "English": "Photovoltaic Panel",
     "SimplifiedChinese": "光伏板",
+    "TencentChinese": "光伏板",
     "TraditionalChinese": "光電面板"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A small but efficient panel, designed to harvest light and convert it to power. However, the panel is now cracked and dusty, and can no longer be relied on.",
     "SimplifiedChinese": "小型但高效的面板，用于获取光线并将其转化为电能。然而，面板现已破灭，布满灰尘，无法继续使用。",
+    "TencentChinese": "小型但高效的面板，用于获取光线并将其转化为电能。然而，面板现已破灭，布满灰尘，无法继续使用。",
     "TraditionalChinese": "小型但高效能的面板，設計用來採集光線，再轉換成電力。不過面板出現裂縫又滿是灰塵，已不堪用。"
   },
   "Teach": false,

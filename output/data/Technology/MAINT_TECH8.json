@@ -4,21 +4,25 @@
   "Name": {
     "English": "COOLING SYSTEM",
     "SimplifiedChinese": "冷却系统",
+    "TencentChinese": "冷却系统",
     "TraditionalChinese": "冷卻系統"
   },
   "NameLower": {
     "English": "Cooling system",
     "SimplifiedChinese": "冷却系统",
+    "TencentChinese": "冷却系统",
     "TraditionalChinese": "冷卻系統"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A pump and heat exchange system designed to keep the device from overheating. It has itself overheated, and is no longer functional.",
     "SimplifiedChinese": "泵和热交换系统，用于防止设备过热。由于自身过热，已无法继续运行。",
+    "TencentChinese": "泵和热交换系统，用于防止设备过热。由于自身过热，已无法继续运行。",
     "TraditionalChinese": "泵和熱能交換系統，設計用來防止裝置過熱。系統本身已過熱，無法正常運轉。"
   },
   "Teach": false,

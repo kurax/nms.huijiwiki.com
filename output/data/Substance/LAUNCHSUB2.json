@@ -2,11 +2,13 @@
   "Name": {
     "English": "DEUTERIUM",
     "SimplifiedChinese": "氘",
+    "TencentChinese": "氘",
     "TraditionalChinese": "氘"
   },
   "NameLower": {
     "English": "Deuterium",
     "SimplifiedChinese": "氘",
+    "TencentChinese": "氘",
     "TraditionalChinese": "氘"
   },
   "ID": "LAUNCHSUB2",
@@ -21,6 +23,7 @@
   "Subtitle": {
     "English": "High Energy Substance",
     "SimplifiedChinese": "高能物质",
+    "TencentChinese": "高能物质",
     "TraditionalChinese": "高能量物質"
   },
   "Description": {
@@ -62,6 +65,7 @@
   "PinObjective": {
     "English": "Refine Deuterium",
     "SimplifiedChinese": "精炼氘",
+    "TencentChinese": "精炼氘",
     "TraditionalChinese": "精製氘"
   },
   "PinObjectiveTip": {

@@ -4,21 +4,25 @@
   "Name": {
     "English": "DAMAGED ELECTRODE",
     "SimplifiedChinese": "受损的电极",
+    "TencentChinese": "受损的电极",
     "TraditionalChinese": "受損電極體"
   },
   "NameLower": {
     "English": "Damaged Electrode",
     "SimplifiedChinese": "受损的电极",
+    "TencentChinese": "受损的电极",
     "TraditionalChinese": "受損電極體"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "受損元件"
   },
   "Description": {
     "English": "This <span class=\"name name-technology\">Exosuit Upgrade Module</span> is critically damaged. Repair systems to restore upgrade functionality.<br><br>If repaired, User <span class=\"name name-stellar\">will not be charged</span> for any Exosuit Upgrades.",
     "SimplifiedChinese": "该<span class=\"name name-technology\">套装升级模块</span>严重受损。修复系统以恢复升级功能。<br><br>一旦修复，使用者便<span class=\"name name-stellar\">无需支付</span>任何套装升级费用。",
+    "TencentChinese": "该<span class=\"name name-technology\">套装升级模块</span>严重受损。修复系统以恢复升级功能。<br><br>一旦修复，使用者便<span class=\"name name-stellar\">无需支付</span>任何套装升级费用。",
     "TraditionalChinese": "此<span class=\"name name-technology\">強化套裝升級模組</span>嚴重受損。修復系統以恢復升級功能。<br><br>如果修復完成，使用者的任何強化套裝升級都<span class=\"name name-stellar\">不需付費</span>。"
   },
   "Teach": false,

@@ -4,21 +4,25 @@
   "Name": {
     "English": "NONLINEAR OPTICS",
     "SimplifiedChinese": "非线性光学",
+    "TencentChinese": "非线性光学",
     "TraditionalChinese": "非線性光學"
   },
   "NameLower": {
     "English": "Nonlinear Optics",
     "SimplifiedChinese": "非线性光学",
+    "TencentChinese": "非线性光学",
     "TraditionalChinese": "非線性光學"
   },
   "Subtitle": {
     "English": "Photon Cannon Upgrade",
     "SimplifiedChinese": "光子大炮升级",
+    "TencentChinese": "光子大炮升级",
     "TraditionalChinese": "光子砲升級"
   },
   "Description": {
     "English": "Replaces the conventional <span class=\"name name-technology\">Photon Cannon</span> optics with an experimental glass array, boosting combat performance.<br><br>Significantly improves <span class=\"name name-stellar\">heat sink capacity</span>.",
     "SimplifiedChinese": "用实验性玻璃阵列取代常规的<span class=\"name name-technology\">光子大炮</span>光学系统，提升战斗性能。<br><br>显著提升<span class=\"name name-stellar\">散热能力</span>。",
+    "TencentChinese": "用实验性玻璃阵列取代常规的<span class=\"name name-technology\">光子大炮</span>光学系统，提升战斗性能。<br><br>显著提升<span class=\"name name-stellar\">散热能力</span>。",
     "TraditionalChinese": "用實驗性玻璃陣列取代常規的<span class=\"name name-technology\">光子砲</span>光學系統，提升戰鬥性能。<br><br>顯著提升<span class=\"name name-stellar\">散熱能力</span>。"
   },
   "Teach": true,

@@ -4,21 +4,25 @@
   "Name": {
     "English": "LIGHT BALANCER",
     "SimplifiedChinese": "光线平衡器",
+    "TencentChinese": "光线平衡器",
     "TraditionalChinese": "光線平衡器"
   },
   "NameLower": {
     "English": "Light Balancer",
     "SimplifiedChinese": "光线平衡器",
+    "TencentChinese": "光线平衡器",
     "TraditionalChinese": "光線平衡器"
   },
   "Subtitle": {
     "English": "Autonomous Agriculture Unit",
     "SimplifiedChinese": "自动化农业单元",
+    "TencentChinese": "自动化农业单元",
     "TraditionalChinese": "自動農耕機"
   },
   "Description": {
     "English": "A bank of LEDs controlled by a photosensitive processing unit, designed to carefully deliver exactly the mix of red, green or blue light that the plant requires.",
     "SimplifiedChinese": "由光敏处理单元控制的一系列发光二极管，带来精确混合的红、绿或蓝光，满足植物的需求。",
+    "TencentChinese": "由光敏处理单元控制的一系列发光二极管，带来精确混合的红、绿或蓝光，满足植物的需求。",
     "TraditionalChinese": "由感光性處理器所控制的一整排LED燈，可以依據植物的確切需求調整紅光、綠光和藍光的比例。"
   },
   "Teach": false,

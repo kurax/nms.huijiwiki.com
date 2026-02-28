@@ -2,13 +2,14 @@
   "Name": {
     "English": "FUNGAL MOULD",
     "SimplifiedChinese": "真菌霉",
+    "TencentChinese": "真菌霉",
     "TraditionalChinese": "蕈模"
   },
   "NameLower": {
-    "English": "Fungal Mould",
+    "English": "Fungal Mold",
     "SimplifiedChinese": "真菌霉",
-    "TraditionalChinese": "蕈模",
-    "USEnglish": "Fungal Mold"
+    "TencentChinese": "真菌霉",
+    "TraditionalChinese": "蕈模"
   },
   "ID": "PLANT_TOXIC",
   "Symbol": {
@@ -22,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "An oddly-glowing substance, harvested from the gills of <span class=\"name name-tradeable\">Fungal Clusters</span>.<br><br>The host plant requires a <span class=\"name name-tradeable\">toxic climate</span> to thrive in the wild, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "一种奇怪的发光物质，可从<span class=\"name name-tradeable\">真菌团</span>菌褶中收获。<br><br>宿主植物需要在<span class=\"name name-tradeable\">毒性气候</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "一种奇怪的发光物质，可从<span class=\"name name-tradeable\">真菌团</span>菌褶中收获。<br><br>宿主植物需要在<span class=\"name name-tradeable\">毒性气候</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "散發出古怪光芒的物質，從<span class=\"name name-tradeable\">蕈群</span>菌褶上採收而來。<br><br>這種寄主植物需要<span class=\"name name-tradeable\">劇毒氣候</span>才能在野外生長，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "Colour": {
@@ -60,13 +63,15 @@
   "WikiEnabled": true,
   "EconomyInfluenceMultiplier": 0.25,
   "PinObjective": {
-    "English": "Gather Fungal Mould",
+    "English": "Gather Fungal Mold",
     "SimplifiedChinese": "收集真菌霉",
+    "TencentChinese": "收集真菌霉",
     "TraditionalChinese": "收集蕈模"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Fungal Mould</span> is harvested from the gills of <span class=\"name name-tradeable\">Fungal Clusters</span>.<br>The host plant grows wild in a <span class=\"name name-tradeable\">toxic climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">真菌霉</span>能从<span class=\"name name-tradeable\">真菌团</span>的菌褶中采集到。<br>其宿主植物需要在<span class=\"name name-tradeable\">毒性气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "<span class=\"name name-tradeable\">真菌霉</span>能从<span class=\"name name-tradeable\">真菌团</span>的菌褶中采集到。<br>其宿主植物需要在<span class=\"name name-tradeable\">毒性气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">蕈模</span>是從<span class=\"name name-tradeable\">蕈群</span>菌褶上採收而來。<br>宿主植物野生生長於<span class=\"name name-tradeable\">有毒氣候</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "PinObjectiveMessage": {

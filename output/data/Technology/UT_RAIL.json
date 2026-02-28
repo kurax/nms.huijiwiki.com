@@ -4,21 +4,25 @@
   "Name": {
     "English": "MASS ACCELERATOR",
     "SimplifiedChinese": "质量加速器",
+    "TencentChinese": "质量加速器",
     "TraditionalChinese": "質量加速器"
   },
   "NameLower": {
     "English": "Mass Accelerator",
     "SimplifiedChinese": "质量加速器",
+    "TencentChinese": "质量加速器",
     "TraditionalChinese": "質量加速器"
   },
   "Subtitle": {
     "English": "Blaze Javelin Upgrade",
     "SimplifiedChinese": "火焰标枪升级",
+    "TencentChinese": "火焰标枪升级",
     "TraditionalChinese": "火焰標槍升級"
   },
   "Description": {
     "English": "Extends the firing chamber of the <span class=\"name name-technology\">Blaze Javelin</span>, allowing the internal particle accelerators to reach both greater mass and speed.<br><br>Significantly improves <span class=\"name name-stellar\">weapon damage</span>.",
     "SimplifiedChinese": "扩大<span class=\"name name-technology\">火焰标枪</span>的燃烧室，允许内部的粒子加速器达到更大的质量和更高的速度。<br><br>显著提升<span class=\"name name-stellar\">武器伤害</span>。",
+    "TencentChinese": "扩大<span class=\"name name-technology\">火焰标枪</span>的燃烧室，允许内部的粒子加速器达到更大的质量和更高的速度。<br><br>显著提升<span class=\"name name-stellar\">武器伤害</span>。",
     "TraditionalChinese": "擴大<span class=\"name name-technology\">火焰標槍</span>的燃燒室，允許內部的粒子加速器達到更大的質量和更高的速度。<br><br>顯著提升<span class=\"name name-stellar\">武器傷害</span>。"
   },
   "Teach": true,

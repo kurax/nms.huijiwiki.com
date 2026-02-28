@@ -18,10 +18,10 @@
   "Icon": "ui/frontend/icons/u4substances/substance.biome.lava.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
-    "English": "Localised Earth Element",
+    "English": "Localized Earth Element",
     "SimplifiedChinese": "地方性土元素",
-    "TraditionalChinese": "區域性大地元素",
-    "USEnglish": "Localized Earth Element"
+    "TencentChinese": "地方性土元素",
+    "TraditionalChinese": "區域性大地元素"
   },
   "Description": {
     "English": "Local mineral extract, typically found in large deposits or extracted from common minerals after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Typically found on planets with a <span class=\"name name-fuel\">volcanic environment</span>.",
@@ -61,13 +61,13 @@
   "PinObjective": {
     "English": "Gather or refine Basalt",
     "SimplifiedChinese": "收集或精炼玄武岩",
+    "TencentChinese": "收集或精炼玄武岩",
     "TraditionalChinese": "收集或精製玄武岩"
   },
   "PinObjectiveTip": {
-    "English": "<span class=\"name name-earth\">Basalt</span> is found primarily on worlds with a <span class=\"name name-fuel\">volcanic environment</span>. Typically found in large deposits and located with the <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Common ferrite rocks may yield Basalt after inspection with an <span class=\"name name-technology\">Analysis Visor</span>. Basalt may be refined from <span class=\"name name-earth\">Magnetised Ferrite</span> and terrain metals from other <span class=\"name name-fuel\">high-temperature</span> worlds.",
+    "English": "<span class=\"name name-earth\">Basalt</span> is found primarily on worlds with a <span class=\"name name-fuel\">volcanic environment</span>. Typically found in large deposits and located with the <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Common ferrite rocks may yield Basalt after inspection with an <span class=\"name name-technology\">Analysis Visor</span>. Basalt may be refined from <span class=\"name name-earth\">Magnetized Ferrite</span> and terrain metals from other <span class=\"name name-fuel\">high-temperature</span> worlds.",
     "SimplifiedChinese": "<span class=\"name name-earth\">玄武岩</span>主要出现在具有<span class=\"name name-fuel\">火山环境</span>的世界里。通常可在大型矿床中找到，可使用<span class=\"name name-technology\">分析面甲</span>来定位。<br><br>使用<span class=\"name name-technology\">分析面甲</span>检查常见铁氧体岩石，就有可能发现玄武岩。玄武岩也可以通过其他<span class=\"name name-fuel\">高温</span>世界的地表金属和<span class=\"name name-earth\">磁化铁氧体</span>精炼获得。",
-    "TraditionalChinese": "<span class=\"name name-earth\">玄武岩</span>主要可見於<span class=\"name name-fuel\">火山環境</span>的世界。常見於大型資源產地，並可用<span class=\"name name-technology\">分析護目鏡</span>找到。<br><br>常見的鐵氧體岩石在使用<span class=\"name name-technology\">分析護目鏡</span>檢驗後可能會產出玄武岩。玄武岩可從<span class=\"name name-earth\">磁化鐵氧體</span>及來自其他<span class=\"name name-fuel\">高溫</span>世界的地形金屬精製而成。",
-    "USEnglish": "<span class=\"name name-earth\">Basalt</span> is found primarily on worlds with a <span class=\"name name-fuel\">volcanic environment</span>. Typically found in large deposits and located with the <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Common ferrite rocks may yield Basalt after inspection with an <span class=\"name name-technology\">Analysis Visor</span>. Basalt may be refined from <span class=\"name name-earth\">Magnetized Ferrite</span> and terrain metals from other <span class=\"name name-fuel\">high-temperature</span> worlds."
+    "TraditionalChinese": "<span class=\"name name-earth\">玄武岩</span>主要可見於<span class=\"name name-fuel\">火山環境</span>的世界。常見於大型資源產地，並可用<span class=\"name name-technology\">分析護目鏡</span>找到。<br><br>常見的鐵氧體岩石在使用<span class=\"name name-technology\">分析護目鏡</span>檢驗後可能會產出玄武岩。玄武岩可從<span class=\"name name-earth\">磁化鐵氧體</span>及來自其他<span class=\"name name-fuel\">高溫</span>世界的地形金屬精製而成。"
   },
   "PinObjectiveMessage": {
     "English": "Use the <span class=\"name name-technology\">Analysis Visor</span> to locate <span class=\"name name-earth\">Basalt</span> deposits<br>Basalt is found on worlds with <span class=\"name name-fuel\">volcanic environment</span>",

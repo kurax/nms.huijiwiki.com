@@ -4,23 +4,26 @@
   "Name": {
     "English": "NUTRIENT DISTRIBUTOR",
     "SimplifiedChinese": "营养分配器",
+    "TencentChinese": "营养分配器",
     "TraditionalChinese": "營養配送機"
   },
   "NameLower": {
     "English": "Nutrient Distributor",
     "SimplifiedChinese": "营养分配器",
+    "TencentChinese": "营养分配器",
     "TraditionalChinese": "營養配送機"
   },
   "Subtitle": {
     "English": "Autonomous Agriculture Unit",
     "SimplifiedChinese": "自动化农业单元",
+    "TencentChinese": "自动化农业单元",
     "TraditionalChinese": "自動農耕機"
   },
   "Description": {
-    "English": "A hybrid fabricator/distributor that tests the soil for missing nutrients, so that it can create and spray the perfect fertiliser.",
+    "English": "A hybrid fabricator/distributor that tests the soil for missing nutrients, so that it can create and spray the perfect fertilizer.",
     "SimplifiedChinese": "一种混合物制造器/分配器，可测试土壤所缺失的营养，并创造喷射完美的化肥。",
-    "TraditionalChinese": "具有生產及配送雙重功能的機器，可以檢驗土壤中缺乏何種營養素，以便製造出最適合的肥料並加以噴灑。",
-    "USEnglish": "A hybrid fabricator/distributor that tests the soil for missing nutrients, so that it can create and spray the perfect fertilizer."
+    "TencentChinese": "一种混合物制造器/分配器，可测试土壤所缺失的营养，并创造喷射完美的化肥。",
+    "TraditionalChinese": "具有生產及配送雙重功能的機器，可以檢驗土壤中缺乏何種營養素，以便製造出最適合的肥料並加以噴灑。"
   },
   "Teach": false,
   "HintStart": "",

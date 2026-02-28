@@ -17,10 +17,9 @@
     "TraditionalChinese": "太空船排氣管覆寫"
   },
   "Description": {
-    "English": "An exclusive <span class=\"name name-stellar\">Starship Exhaust Modifier</span>.<br><br>Precisely calibrated multi-chromatic injectors alter the Pulse Engine's output, turning the exhaust trail into a vibrant display of colour.<br><br>Install this <span class=\"name name-technology\">technology</span> in your starship inventory to change the appearance of the engine exhaust trails.",
+    "English": "An exclusive <span class=\"name name-stellar\">Starship Exhaust Modifier</span>.<br><br>Precisely calibrated multi-chromatic injectors alter the Pulse Engine's output, turning the exhaust trail into a vibrant display of color.<br><br>Install this <span class=\"name name-technology\">technology</span> in your starship inventory to change the appearance of the engine exhaust trails.",
     "SimplifiedChinese": "专属的<span class=\"name name-stellar\">飞船排气管修改物品</span>。<br><br>精确校准的多色喷射器改变了脉冲驱动器的产出物，将排气尾迹变成多彩的颜色。<br><br>在你的飞船库存中安装这个<span class=\"name name-technology\">技术</span>以改变驱动器排气管尾迹的外观。",
-    "TraditionalChinese": "特殊的<span class=\"name name-stellar\">太空船排氣管改造器</span>。<br><br>藉由精準的多色噴油器調整脈衝引擎的輸出，使其排放出的尾跡轉變為鮮豔的色彩。<br><br>安裝此<span class=\"name name-technology\">科技</span>到你的太空船道具欄，改變引擎廢氣尾跡的外觀。",
-    "USEnglish": "An exclusive <span class=\"name name-stellar\">Starship Exhaust Modifier</span>.<br><br>Precisely calibrated multi-chromatic injectors alter the Pulse Engine's output, turning the exhaust trail into a vibrant display of color.<br><br>Install this <span class=\"name name-technology\">technology</span> in your starship inventory to change the appearance of the engine exhaust trails."
+    "TraditionalChinese": "特殊的<span class=\"name name-stellar\">太空船排氣管改造器</span>。<br><br>藉由精準的多色噴油器調整脈衝引擎的輸出，使其排放出的尾跡轉變為鮮豔的色彩。<br><br>安裝此<span class=\"name name-technology\">科技</span>到你的太空船道具欄，改變引擎廢氣尾跡的外觀。"
   },
   "Teach": false,
   "HintStart": "",

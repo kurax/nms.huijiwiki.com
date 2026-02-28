@@ -3,16 +3,19 @@
   "Group": {
     "English": "Cyclotron Ballista",
     "SimplifiedChinese": "回旋加速弩炮",
+    "TencentChinese": "回旋加速弩炮",
     "TraditionalChinese": "迴旋加速弩砲"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

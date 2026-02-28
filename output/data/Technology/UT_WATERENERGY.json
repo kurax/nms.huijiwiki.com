@@ -4,21 +4,25 @@
   "Name": {
     "English": "OXYGEN REROUTER",
     "SimplifiedChinese": "氧气变线器",
+    "TencentChinese": "氧气变线器",
     "TraditionalChinese": "氧氣繞道裝備"
   },
   "NameLower": {
     "English": "Oxygen Rerouter",
     "SimplifiedChinese": "氧气变线器",
+    "TencentChinese": "氧气变线器",
     "TraditionalChinese": "氧氣繞道裝備"
   },
   "Subtitle": {
     "English": "Emergency Life Support System",
     "SimplifiedChinese": "紧急维生系统",
+    "TencentChinese": "紧急维生系统",
     "TraditionalChinese": "緊急維生系統"
   },
   "Description": {
     "English": "Upgrades the <span class=\"name name-technology\">Aeration Membrane</span> of the Exosuit to harvest oxygen from the Life Support system in the event of a breathing emergency, allowing the user to resurface and seek conventional fuel supplies.<br><br>Note: Long-term conversion of life support energy to breathable gas is not recommended, and may result in life no longer being supported.",
     "SimplifiedChinese": "升级套装的<span class=\"name name-technology\">曝气膜</span>，以便在呼吸困难时从维生系统汲取氧气，让使用者有机会浮出水面和寻找常规燃料供给。<br><br>注意：不建议长期将维生系统能量转换为可呼吸气体，那将可能导致失去维生功能。",
+    "TencentChinese": "升级套装的<span class=\"name name-technology\">曝气膜</span>，以便在呼吸困难时从维生系统汲取氧气，让使用者有机会浮出水面和寻找常规燃料供给。<br><br>注意：不建议长期将维生系统能量转换为可呼吸气体，那将可能导致失去维生功能。",
     "TraditionalChinese": "可升級強化套裝的<span class=\"name name-technology\">曝氣黏膜</span>，在呼吸緊急狀況下採用維生系統的氧氣，讓使用者可以浮上水面並尋找傳統燃料補給品。<br><br>注意：不建議將維生系統能量長期改為可呼吸氣體，可能導致維生系統功能無法持續。"
   },
   "Teach": true,

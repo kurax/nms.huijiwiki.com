@@ -4,24 +4,26 @@
   "Name": {
     "English": "TAMPER PREVENTION DEVICE",
     "SimplifiedChinese": "预防干扰设备",
+    "TencentChinese": "预防干扰设备",
     "TraditionalChinese": "惡意破壞防止裝置"
   },
   "NameLower": {
     "English": "Tamper Prevention Device",
     "SimplifiedChinese": "预防干扰设备",
+    "TencentChinese": "预防干扰设备",
     "TraditionalChinese": "惡意破壞防止裝置"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
-    "English": "A unit designed to destroy vital systems in the event that the device is tampered with by an unauthorised party. Unfortunately, it has itself malfunctioned and will continue to damage other systems until repaired.",
+    "English": "A unit designed to destroy vital systems in the event that the device is tampered with by an unauthorized party. Unfortunately, it has itself malfunctioned and will continue to damage other systems until repaired.",
     "SimplifiedChinese": "当设备受到未经授权方篡改时，摧毁关键性系统的单元。可惜，其本身发生故障，在修复前将持续对其他系统造成破坏。",
     "TencentChinese": "当设备受到未经授权方篡改时，破坏关键性系统的单元。可惜，其本身发生故障，在修复前将持续对其他系统造成破坏。",
-    "TraditionalChinese": "倘若裝置遭不明人士入侵，元件的設計會摧毀重要系統。可惜此元件已出現異常，在修復前，會不斷毀損其他系統。",
-    "USEnglish": "A unit designed to destroy vital systems in the event that the device is tampered with by an unauthorized party. Unfortunately, it has itself malfunctioned and will continue to damage other systems until repaired."
+    "TraditionalChinese": "倘若裝置遭不明人士入侵，元件的設計會摧毀重要系統。可惜此元件已出現異常，在修復前，會不斷毀損其他系統。"
   },
   "Teach": false,
   "HintStart": "",

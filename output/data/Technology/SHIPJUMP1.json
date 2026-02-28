@@ -4,16 +4,19 @@
   "Name": {
     "English": "PULSE ENGINE",
     "SimplifiedChinese": "脉冲驱动器",
+    "TencentChinese": "脉冲驱动器",
     "TraditionalChinese": "脈衝驅動器"
   },
   "NameLower": {
     "English": "Pulse Engine",
     "SimplifiedChinese": "脉冲驱动器",
+    "TencentChinese": "脉冲驱动器",
     "TraditionalChinese": "脈衝驅動器"
   },
   "Subtitle": {
     "English": "Starship Flight Booster",
     "SimplifiedChinese": "飞船飞行推进器",
+    "TencentChinese": "飞船飞行推进器",
     "TraditionalChinese": "太空船飛行加速器"
   },
   "Description": {
@@ -131,6 +134,7 @@
   "DamagedDescription": {
     "English": "Provides space and atmospheric flight propulsion.<br><br>System is highly damaged and requires <span class=\"name name-commodity\">Metal Plating</span> and a <span class=\"name name-commodity\">Hermetic Seal</span> to repair.",
     "SimplifiedChinese": "提供太空和大气层内飞行推进。<br><br>系统高度受损，需要<span class=\"name name-commodity\">金属电镀</span>和<span class=\"name name-commodity\">密封剂</span>修复。",
+    "TencentChinese": "提供太空和大气层内飞行推进。<br><br>系统高度受损，需要<span class=\"name name-commodity\">金属电镀</span>和<span class=\"name name-commodity\">密封剂</span>修复。",
     "TraditionalChinese": "為太空與大氣飛行提供推進動力。<br><br>系統嚴重毀損，需要<span class=\"name name-commodity\">金屬電鍍</span>與<span class=\"name name-commodity\">密封劑</span>才能修復。"
   },
   "ParentTechId": "",

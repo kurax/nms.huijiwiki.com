@@ -4,16 +4,19 @@
   "Name": {
     "English": "POWER DISTRIBUTOR",
     "SimplifiedChinese": "电力分配器",
+    "TencentChinese": "电力分配器",
     "TraditionalChinese": "配電器"
   },
   "NameLower": {
     "English": "Power Distributor",
     "SimplifiedChinese": "电力分配器",
+    "TencentChinese": "电力分配器",
     "TraditionalChinese": "配電器"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {

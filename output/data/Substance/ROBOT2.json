@@ -13,6 +13,7 @@
   "Symbol": {
     "English": "∞",
     "SimplifiedChinese": "∞",
+    "TencentChinese": "∞",
     "TraditionalChinese": "∞"
   },
   "Icon": "ui/frontend/icons/u4substances/substance.robot.2.png",
@@ -60,6 +61,7 @@
   "PinObjective": {
     "English": "Gather Atlantideum",
     "SimplifiedChinese": "收集亚特拉迪姆",
+    "TencentChinese": "收集亚特拉迪姆",
     "TraditionalChinese": "收集亞特蘭提德鋼"
   },
   "PinObjectiveTip": {

@@ -2,11 +2,13 @@
   "Name": {
     "English": "PURE FERRITE",
     "SimplifiedChinese": "纯铁氧体",
+    "TencentChinese": "纯铁氧体",
     "TraditionalChinese": "純鐵氧體"
   },
   "NameLower": {
     "English": "Pure Ferrite",
     "SimplifiedChinese": "纯铁氧体",
+    "TencentChinese": "纯铁氧体",
     "TraditionalChinese": "純鐵氧體"
   },
   "ID": "LAND2",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Processed Metallic Minerals",
     "SimplifiedChinese": "加工后的金属矿物",
+    "TencentChinese": "加工后的金属矿物",
     "TraditionalChinese": "已加工的金屬礦物"
   },
   "Description": {
     "English": "Processed metal, free of dust and pebbles. Used to construct a wide variety of <span class=\"name name-earth\">structures</span> and <span class=\"name name-technology\">technologies</span>.<br><br>Typically purified from Ferrite dust using a <span class=\"name name-technology\">Refiner</span>, but can occasionally be found in large deposits. Collection may require an <span class=\"name name-technology\">Advanced Mining Laser</span>.",
     "SimplifiedChinese": "加工后的金属，不含灰尘和卵石。用于建造各种<span class=\"name name-earth\">建筑</span> 和<span class=\"name name-technology\">科技设备</span>。<br> <br>通常使用<span class=\"name name-technology\">精炼机</span>从铁氧体粉末中提纯, 但有时可以在大型矿床中找到。可能需要 <span class=\"name name-technology\">高级采矿激光</span>来进行采集。",
+    "TencentChinese": "加工后的金属，不含灰尘和卵石。用于建造各种<span class=\"name name-earth\">建筑</span> 和<span class=\"name name-technology\">科技设备</span>。<br> <br>通常使用<span class=\"name name-technology\">精炼机</span>从铁氧体粉末中提纯, 但有时可以在大型矿床中找到。可能需要 <span class=\"name name-technology\">高级采矿激光</span>来进行采集。",
     "TraditionalChinese": "經加工的金屬，剔除了灰塵與碎石。能用來製造多項<span class=\"name name-earth\">結構</span>與<span class=\"name name-technology\">科技</span>。<br><br>通常是以<span class=\"name name-technology\">精製機</span>淨化鐵氧體粉塵而得，但偶爾可見於大型資源產地。可能需要<span class=\"name name-technology\">先進採礦雷射</span>才能採集。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather or refine Pure Ferrite",
     "SimplifiedChinese": "收集或精炼纯铁氧体",
+    "TencentChinese": "收集或精炼纯铁氧体",
     "TraditionalChinese": "收集或精製純鐵氧體"
   },
   "PinObjectiveTip": {
     "English": "Create <span class=\"name name-earth\">Pure Ferrite</span> in a <span class=\"name name-technology\">Refiner</span> by processing ferrite dust.<br>Some large rocks can be mined for Pure Ferrite directly with an <span class=\"name name-technology\">Advanced Mining Laser</span>.",
     "SimplifiedChinese": "在<span class=\"name name-technology\">精炼机</span>中处理铁氧体粉末以制作<span class=\"name name-earth\">纯铁氧体</span><br>可使用<span class=\"name name-technology\">高级开采光束</span>从一些大型岩石中直接开采纯铁氧体。",
+    "TencentChinese": "在<span class=\"name name-technology\">精炼机</span>中处理铁氧体粉末以制作<span class=\"name name-earth\">纯铁氧体</span><br>可使用<span class=\"name name-technology\">高级开采光束</span>从一些大型岩石中直接开采纯铁氧体。",
     "TraditionalChinese": "使用<span class=\"name name-technology\">精製機</span>將鐵氧體粉塵加工製造成<span class=\"name name-earth\">純鐵氧體</span>。<br>透過使用<span class=\"name name-technology\">改良採礦雷射</span>可直接從一些大岩石開採純鐵氧體。"
   },
   "PinObjectiveMessage": {

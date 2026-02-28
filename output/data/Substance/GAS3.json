@@ -2,11 +2,13 @@
   "Name": {
     "English": "NITROGEN",
     "SimplifiedChinese": "氮",
+    "TencentChinese": "氮",
     "TraditionalChinese": "氮"
   },
   "NameLower": {
     "English": "Nitrogen",
     "SimplifiedChinese": "氮",
+    "TencentChinese": "氮",
     "TraditionalChinese": "氮"
   },
   "ID": "GAS3",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Compressed Atmospheric Gas",
     "SimplifiedChinese": "压缩大气气体",
+    "TencentChinese": "压缩大气气体",
     "TraditionalChinese": "大氣壓縮氣體"
   },
   "Description": {
     "English": "A reactive atmospheric <span class=\"name name-tradeable\">gas</span> found wherever there is organic life.<br><br>Nitrogen is readily harvested from the atmospheres of <span class=\"name name-tradeable\">Lush</span> and <span class=\"name name-tradeable\">Toxic</span> planets.",
     "SimplifiedChinese": "一种在只要有有机生命的任何地方都能找到的活性大气<span class=\"name name-tradeable\">气体</span>。<br><br>氮很容易从<span class=\"name name-tradeable\">茂盛</span>和<span class=\"name name-tradeable\">有毒</span>星球的大气中收获。",
+    "TencentChinese": "一种在只要有有机生命的任何地方都能找到的活性大气<span class=\"name name-tradeable\">气体</span>。<br><br>氮很容易从<span class=\"name name-tradeable\">茂盛</span>和<span class=\"name name-tradeable\">有毒</span>星球的大气中收获。",
     "TraditionalChinese": "有機生命居住之處必可找到的活性大氣<span class=\"name name-tradeable\">氣體</span>。<br><br>氮可從<span class=\"name name-tradeable\">茂盛</span>與<span class=\"name name-tradeable\">劇毒</span>的星球大氣中直接採收獲得。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Process Nitrogen",
     "SimplifiedChinese": "处理氮",
+    "TencentChinese": "处理氮",
     "TraditionalChinese": "加工氮"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Nitrogen</span> is a reactive atmospheric <span class=\"name name-tradeable\">gas</span> found wherever there is organic life.<br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the atmospheres of <span class=\"name name-tradeable\">Lush</span> and <span class=\"name name-tradeable\">Toxic</span> planets.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">氮</span>是一种在只要有有机生命的任何地方都能找到的活性大气<span class=\"name name-tradeable\">气体</span>。<br>可以使用<span class=\"name name-technology\">大气采集器</span>，从<span class=\"name name-tradeable\">茂盛</span>和<span class=\"name name-tradeable\">有毒</span>球上的大气中将气体提取出来。",
+    "TencentChinese": "<span class=\"name name-tradeable\">氮</span>是一种在只要有有机生命的任何地方都能找到的活性大气<span class=\"name name-tradeable\">气体</span>。<br>可以使用<span class=\"name name-technology\">大气采集器</span>，从<span class=\"name name-tradeable\">茂盛</span>和<span class=\"name name-tradeable\">有毒</span>球上的大气中将气体提取出来。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">氮</span>是只要有有機生命之處就可見活性大氣<span class=\"name name-tradeable\">氣體</span>。<br>若借助<span class=\"name name-technology\">大氣採集器</span>，可從<span class=\"name name-tradeable\">茂盛</span>和<span class=\"name name-tradeable\">劇毒</span>星球的大氣層中萃取到。"
   },
   "PinObjectiveMessage": {

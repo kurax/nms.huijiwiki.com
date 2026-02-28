@@ -4,6 +4,7 @@
   "Group": {
     "English": "Humboldt Drive",
     "SimplifiedChinese": "洪堡驱动器",
+    "TencentChinese": "洪堡驱动器",
     "TraditionalChinese": "洪保德驅動器"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "涡轮通风口"
       ]
     ],
+    "TencentChinese": [
+      [
+        "无暇的",
+        "热液的",
+        "高速的",
+        "高压的",
+        "增压的"
+      ],
+      [
+        "深海电池",
+        "反应堆外壳",
+        "马里亚纳板",
+        "水下喷射器",
+        "排气口",
+        "涡轮控制器",
+        "压载装置",
+        "半深海发电机",
+        "深渊护盾",
+        "涡轮通风口"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "毫無瑕疵的",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Humboldt Drive",
     "SimplifiedChinese": "洪堡驱动器",
+    "TencentChinese": "洪堡驱动器",
     "TraditionalChinese": "洪保德驅動器"
   },
   "Subtitle": {

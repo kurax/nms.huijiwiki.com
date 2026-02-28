@@ -2,11 +2,13 @@
   "Name": {
     "English": "GAMMA ROOT",
     "SimplifiedChinese": "伽马根",
+    "TencentChinese": "伽马根",
     "TraditionalChinese": "伽瑪根"
   },
   "NameLower": {
     "English": "Gamma Root",
     "SimplifiedChinese": "伽马根",
+    "TencentChinese": "伽马根",
     "TraditionalChinese": "伽瑪根"
   },
   "ID": "PLANT_RADIO",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "A strange substance that seems to slowly shift the air around it. It is found in the roots of the <span class=\"name name-tradeable\">Gamma Weed plant</span>.<br><br>Gamma Weed requires <span class=\"name name-commodity\">high background radiation</span> to thrive in the wild, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "一种奇怪的物质，似乎能够缓慢改变四周空气。它生长在<span class=\"name name-tradeable\">伽马草</span>的根部。<br><br>伽马草需要在<span class=\"name name-commodity\">高本底辐射</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "一种奇怪的物质，似乎能够缓慢改变四周空气。它生长在<span class=\"name name-tradeable\">伽马草</span>的根部。<br><br>伽马草需要在<span class=\"name name-commodity\">高本底辐射</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "一種古怪物質，似乎會緩慢改變四周的氣流。可於<span class=\"name name-tradeable\">伽瑪草植物</span>的根部找到。<br><br>伽瑪草需要<span class=\"name name-commodity\">高背景輻射</span>才能在野外生長，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Gamma Root",
     "SimplifiedChinese": "收集伽马根",
+    "TencentChinese": "收集伽马根",
     "TraditionalChinese": "收集伽瑪根"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Gamma Root</span> is harvested from the roots of the <span class=\"name name-tradeable\">Gamma Weed plant</span>.<br>The host plant grows wild in a <span class=\"name name-commodity\">radioactive climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">伽马根</span>能从<span class=\"name name-tradeable\">伽马杂草植物</span>上的根部中采集到。<br>其宿主植物需要在<span class=\"name name-commodity\">辐射气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "<span class=\"name name-tradeable\">伽马根</span>能从<span class=\"name name-tradeable\">伽马杂草植物</span>上的根部中采集到。<br>其宿主植物需要在<span class=\"name name-commodity\">辐射气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">伽瑪根</span>是從<span class=\"name name-tradeable\">伽瑪草植物</span>的根部採收而來。<br>宿主植物野生生長於<span class=\"name name-commodity\">輻射氣候</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "PinObjectiveMessage": {

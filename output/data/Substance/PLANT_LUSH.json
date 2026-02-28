@@ -2,11 +2,13 @@
   "Name": {
     "English": "STAR BULB",
     "SimplifiedChinese": "星辰朵",
+    "TencentChinese": "星辰朵",
     "TraditionalChinese": "星球莖"
   },
   "NameLower": {
     "English": "Star Bulb",
     "SimplifiedChinese": "星辰朵",
+    "TencentChinese": "星辰朵",
     "TraditionalChinese": "星球莖"
   },
   "ID": "PLANT_LUSH",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "A beautiful gemstone, this prized product is the engorged, luminescent berry of the <span class=\"name name-tradeable\">Star Bramble</span>.<br><br>The host plant requires <span class=\"name name-tradeable\">lush conditions</span> to thrive in the wild, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "一颗美丽的宝石，它是<span class=\"name name-tradeable\">星辰灌木</span>珍贵又发光的果实。<br><br>宿主植物需要在<span class=\"name name-tradeable\">繁茂条件</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境生存。",
+    "TencentChinese": "一颗美丽的宝石，它是<span class=\"name name-tradeable\">星辰灌木</span>珍贵又发光的果实。<br><br>宿主植物需要在<span class=\"name name-tradeable\">繁茂条件</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境生存。",
     "TraditionalChinese": "這種價格高昂的漂亮寶石，是<span class=\"name name-tradeable\">星刺灌木</span>飽滿發光的果實。<br><br>這種寄主植物需要<span class=\"name name-tradeable\">茂盛環境</span>才能在野外生長，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Star Bulb",
     "SimplifiedChinese": "收集星辰朵",
+    "TencentChinese": "收集星辰朵",
     "TraditionalChinese": "收集星球莖"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Star Bulbs</span> are harvested from the engorged, luminescent berry of the <span class=\"name name-tradeable\">Star Bramble</span>.<br>The host plant grows wild in a <span class=\"name name-tradeable\">lush climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">星辰朵</span>能从<span class=\"name name-tradeable\">星辰灌木</span>上的饱满发光的浆果中采集到。<br>其宿主植物需要在<span class=\"name name-tradeable\">茂盛条件</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "<span class=\"name name-tradeable\">星辰朵</span>能从<span class=\"name name-tradeable\">星辰灌木</span>上的饱满发光的浆果中采集到。<br>其宿主植物需要在<span class=\"name name-tradeable\">茂盛条件</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">星球莖</span>是從<span class=\"name name-tradeable\">星刺灌木</span>飽滿發光的果實採收而來。<br>宿主植物野生生長於<span class=\"name name-tradeable\">茂盛氣候</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "PinObjectiveMessage": {

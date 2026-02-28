@@ -4,21 +4,25 @@
   "Name": {
     "English": "MAGNETIC LOCK",
     "SimplifiedChinese": "磁性锁",
+    "TencentChinese": "磁性锁",
     "TraditionalChinese": "磁力鎖"
   },
   "NameLower": {
     "English": "Magnetic Lock",
     "SimplifiedChinese": "磁性锁",
+    "TencentChinese": "磁性锁",
     "TraditionalChinese": "磁力鎖"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "An advanced locking device. A polarity incident has caused it to seal shut permanently.",
     "SimplifiedChinese": "高级锁闭设备。一次极性时间导致它永久封死了。",
+    "TencentChinese": "高级锁闭设备。一次极性时间导致它永久封死了。",
     "TraditionalChinese": "先進的鎖鑰裝置。極性意外導致裝置再也無法開啟。"
   },
   "Teach": false,

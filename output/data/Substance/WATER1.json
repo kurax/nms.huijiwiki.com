@@ -2,11 +2,13 @@
   "Name": {
     "English": "SALT",
     "SimplifiedChinese": "盐",
+    "TencentChinese": "盐",
     "TraditionalChinese": "鹽"
   },
   "NameLower": {
     "English": "Salt",
     "SimplifiedChinese": "盐",
+    "TencentChinese": "盐",
     "TraditionalChinese": "鹽"
   },
   "ID": "WATER1",
@@ -21,13 +23,14 @@
   "Subtitle": {
     "English": "Aquatic Mineral Extract",
     "SimplifiedChinese": "水生矿物提取物",
+    "TencentChinese": "水生矿物提取物",
     "TraditionalChinese": "水中礦物萃取物"
   },
   "Description": {
-    "English": "A naturally occuring salt, found in abundance in <span class=\"name name-technology\">underwater minerals</span>.<br><br>Can be processed in a <span class=\"name name-technology\">Refiner</span> to create <span class=\"name name-tradeable\">Chlorine</span>. This refined form is used in the manufacture of advanced products and technologies.",
+    "English": "A naturally occurring salt, found in abundance in <span class=\"name name-technology\">underwater minerals</span>.<br><br>Can be processed in a <span class=\"name name-technology\">Refiner</span> to create <span class=\"name name-tradeable\">Chlorine</span>. This refined form is used in the manufacture of advanced products and technologies.",
     "SimplifiedChinese": "一种天然盐，大量存在于<span class=\"name name-technology\">地下水矿产</span>中。<br><br>可以使用<span class=\"name name-technology\">精炼机</span>加工制成<span class=\"name name-tradeable\">氯</span>。这种精炼形式可用于制造高级产品和技术。",
-    "TraditionalChinese": "自然生成的鹽，<span class=\"name name-technology\">水中礦物</span>裡含量豐富。<br><br>可用<span class=\"name name-technology\">精製機</span>加工製造<span class=\"name name-tradeable\">氯</span>。這種精製形態能用來製作先進產品和科技。",
-    "USEnglish": "A naturally occurring salt, found in abundance in <span class=\"name name-technology\">underwater minerals</span>.<br><br>Can be processed in a <span class=\"name name-technology\">Refiner</span> to create <span class=\"name name-tradeable\">Chlorine</span>. This refined form is used in the manufacture of advanced products and technologies."
+    "TencentChinese": "一种天然盐，大量存在于<span class=\"name name-technology\">地下水矿产</span>中。<br><br>可以使用<span class=\"name name-technology\">精炼机</span>加工制成<span class=\"name name-tradeable\">氯</span>。这种精炼形式可用于制造高级产品和技术。",
+    "TraditionalChinese": "自然生成的鹽，<span class=\"name name-technology\">水中礦物</span>裡含量豐富。<br><br>可用<span class=\"name name-technology\">精製機</span>加工製造<span class=\"name name-tradeable\">氯</span>。這種精製形態能用來製作先進產品和科技。"
   },
   "Colour": {
     "R": 0.117647059,
@@ -62,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Salt",
     "SimplifiedChinese": "收集盐",
+    "TencentChinese": "收集盐",
     "TraditionalChinese": "收集鹽"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Salt</span> is readily extracted from <span class=\"name name-earth\">underwater rock deposits</span>.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span> or by refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>.",
     "SimplifiedChinese": "从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-tradeable\">盐</span>。<br>升级套装<span class=\"name name-technology\">换气薄膜</span>或从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，以提高在海洋中的效率。",
+    "TencentChinese": "从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-tradeable\">盐</span>。<br>升级套装<span class=\"name name-technology\">换气薄膜</span>或从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，以提高在海洋中的效率。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">鹽</span>可直接從<span class=\"name name-earth\">水底岩石資源產地</span>取得。<br>透過強化套裝升級<span class=\"name name-technology\">曝氣黏膜</span>或從<span class=\"name name-tradeable\">巨藻囊</span>補充氧氣來源以提升海洋效能。"
   },
   "PinObjectiveMessage": {

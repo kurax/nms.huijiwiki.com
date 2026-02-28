@@ -4,6 +4,7 @@
   "Group": {
     "English": "Pulse Spitter",
     "SimplifiedChinese": "脉冲喷射器",
+    "TencentChinese": "脉冲喷射器",
     "TraditionalChinese": "脈衝槍"
   },
   "Name": {
@@ -17,12 +18,27 @@
         "Solidifier",
         "Resonator",
         "Battery",
-        "Energiser",
+        "Energizer",
         "Capture Cell",
         "Projector"
       ]
     ],
     "SimplifiedChinese": [
+      null,
+      [
+        "激发器",
+        "放大器",
+        "加速器",
+        "注射器",
+        "固化器",
+        "共振器",
+        "电池",
+        "活化器",
+        "捕获电池",
+        "投影仪"
+      ]
+    ],
+    "TencentChinese": [
       null,
       [
         "激发器",
@@ -51,24 +67,12 @@
         "捕獲單元",
         "投影儀"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Energizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Pulse Spitter",
     "SimplifiedChinese": "脉冲喷射器",
+    "TencentChinese": "脉冲喷射器",
     "TraditionalChinese": "脈衝槍"
   },
   "Subtitle": {

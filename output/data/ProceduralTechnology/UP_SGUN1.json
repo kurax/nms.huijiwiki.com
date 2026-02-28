@@ -4,6 +4,7 @@
   "Group": {
     "English": "Photon Cannon",
     "SimplifiedChinese": "光子大炮",
+    "TencentChinese": "光子大炮",
     "TraditionalChinese": "光子砲"
   },
   "Name": {
@@ -11,9 +12,9 @@
       [
         "Retuned",
         "Laser",
-        "Fibre Optic",
+        "Fiber Optic",
         "Polished",
-        "Ionised"
+        "Ionized"
       ],
       [
         "Amplifier",
@@ -21,7 +22,7 @@
         "Oscillator",
         "Resonator",
         "Accelerator",
-        "Polariser",
+        "Polarizer",
         "Filament",
         "Refractor",
         "Mirror",
@@ -29,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "已重调",
+        "激光",
+        "光导纤维",
+        "已抛光",
+        "电离"
+      ],
+      [
+        "放大器",
+        "分离器",
+        "振荡器",
+        "共振器",
+        "加速器",
+        "偏振器",
+        "单纤维",
+        "折射镜",
+        "镜子",
+        "解限器"
+      ]
+    ],
+    "TencentChinese": [
       [
         "已重调",
         "激光",
@@ -69,28 +91,12 @@
         "鏡子",
         "解限器"
       ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        "Fiber Optic",
-        null,
-        "Ionized"
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Polarizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Photon Cannon",
     "SimplifiedChinese": "光子大炮",
+    "TencentChinese": "光子大炮",
     "TraditionalChinese": "光子砲"
   },
   "Subtitle": {

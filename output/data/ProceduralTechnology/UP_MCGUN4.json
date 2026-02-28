@@ -11,7 +11,7 @@
       [
         "Indium",
         "Antimatter",
-        "Vectorised",
+        "Vectorized",
         "Faultless",
         "Quantum"
       ],
@@ -25,7 +25,7 @@
         "Magnets",
         "Generator Unit",
         "Capacitors",
-        "Stabiliser"
+        "Stabilizer"
       ]
     ],
     "SimplifiedChinese": [
@@ -68,25 +68,6 @@
         "發電機元件",
         "電容器",
         "固定器"
-      ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        "Vectorized"
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Stabilizer"
       ]
     ]
   },

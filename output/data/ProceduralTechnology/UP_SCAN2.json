@@ -4,6 +4,7 @@
   "Group": {
     "English": "Analysis Visor",
     "SimplifiedChinese": "分析面甲",
+    "TencentChinese": "分析面甲",
     "TraditionalChinese": "分析護目鏡"
   },
   "Name": {
@@ -22,13 +23,34 @@
         "Processor",
         "Detector",
         "Scope",
-        "Visualiser",
+        "Visualizer",
         "Prediction Unit",
         "Probe",
         "Sweep Ray"
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "已校正",
+        "纳米供能",
+        "平行",
+        "频率",
+        "已重新接线"
+      ],
+      [
+        "虹吸",
+        "分析单位",
+        "电脑",
+        "处理器",
+        "检测器",
+        "瞄准镜",
+        "视效器",
+        "预测货币",
+        "探针",
+        "扫描射线"
+      ]
+    ],
+    "TencentChinese": [
       [
         "已校正",
         "纳米供能",
@@ -69,23 +91,12 @@
         "探針",
         "掃描射線"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Visualizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Analysis Visor",
     "SimplifiedChinese": "分析面甲",
+    "TencentChinese": "分析面甲",
     "TraditionalChinese": "分析護目鏡"
   },
   "Subtitle": {

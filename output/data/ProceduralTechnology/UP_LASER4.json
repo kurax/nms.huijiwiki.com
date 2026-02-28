@@ -4,6 +4,7 @@
   "Group": {
     "English": "Mining Beam",
     "SimplifiedChinese": "开采光束",
+    "TencentChinese": "开采光束",
     "TraditionalChinese": "採礦光束"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "输出耦合器"
       ]
     ],
+    "TencentChinese": [
+      [
+        "超导",
+        "明亮",
+        "耀眼",
+        "至强",
+        "无比"
+      ],
+      [
+        "光束放大器",
+        "光束电容",
+        "镜头光学",
+        "放射舱",
+        "光子镜",
+        "冷却系统",
+        "二极管电池",
+        "滤光器",
+        "偏导玻璃",
+        "输出耦合器"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "超導的",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Mining Beam",
     "SimplifiedChinese": "开采光束",
+    "TencentChinese": "开采光束",
     "TraditionalChinese": "採礦光束"
   },
   "Subtitle": {

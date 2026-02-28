@@ -2,11 +2,13 @@
   "Name": {
     "English": "CHLORINE",
     "SimplifiedChinese": "氯",
+    "TencentChinese": "氯",
     "TraditionalChinese": "氯"
   },
   "NameLower": {
     "English": "Chlorine",
     "SimplifiedChinese": "氯",
+    "TencentChinese": "氯",
     "TraditionalChinese": "氯"
   },
   "ID": "WATER2",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Processed Aquatic Mineral",
     "SimplifiedChinese": "加工后的水生矿物",
+    "TencentChinese": "加工后的水生矿物",
     "TraditionalChinese": "已加工的水中礦物"
   },
   "Description": {
     "English": "A reactive element most easily harvested by processing the salt-infused minerals found in <span class=\"name name-technology\">oceans</span>.<br><br>Used in the manufacture of advanced technologies.",
     "SimplifiedChinese": "一种反应性元素，加工<span class=\"name name-technology\">海洋</span>中的盐类矿物即可轻易收获。<br><br>用于制造先进技术。",
+    "TencentChinese": "一种反应性元素，加工<span class=\"name name-technology\">海洋</span>中的盐类矿物即可轻易收获。<br><br>用于制造先进技术。",
     "TraditionalChinese": "活性元素，最簡單的收集方法就是加工處理<span class=\"name name-technology\">海洋</span>中蘊含鹽分的礦物。<br><br>製作先進科技時能派上用場。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Refine Chlorine",
     "SimplifiedChinese": "精炼氯",
+    "TencentChinese": "精炼氯",
     "TraditionalChinese": "精製氯"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Chlorine</span> is created from Salt in a <span class=\"name name-technology\">Refiner</span>.<br>Chlorine can be mined directly from large underwater deposits. Mining requires use of an <span class=\"name name-technology\">Advanced Mining Laser</span>.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">氯</span>可采用<span class=\"name name-technology\">精炼机</span>从盐中制得。<br>氯可以直接从大型水下矿床中开采。开采需要使用<span class=\"name name-technology\">高级开采光束</span>。",
+    "TencentChinese": "<span class=\"name name-tradeable\">氯</span>可采用<span class=\"name name-technology\">精炼机</span>从盐中制得。<br>氯可以直接从大型水下矿床中开采。开采需要使用<span class=\"name name-technology\">高级开采光束</span>。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">氯</span>是以<span class=\"name name-technology\">精製機</span>從鹽萃取出來的。<br>氯可從大型水底資源產地開採出來。開採時需要用到<span class=\"name name-technology\">改良採礦雷射</span>。"
   },
   "PinObjectiveMessage": {

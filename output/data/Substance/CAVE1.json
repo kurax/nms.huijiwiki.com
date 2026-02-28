@@ -2,11 +2,13 @@
   "Name": {
     "English": "COBALT",
     "SimplifiedChinese": "钴",
+    "TencentChinese": "钴",
     "TraditionalChinese": "鈷"
   },
   "NameLower": {
     "English": "Cobalt",
     "SimplifiedChinese": "钴",
+    "TencentChinese": "钴",
     "TraditionalChinese": "鈷"
   },
   "ID": "CAVE1",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Subterranean Mineral",
     "SimplifiedChinese": "地下矿物",
+    "TencentChinese": "地下矿物",
     "TraditionalChinese": "地底礦物"
   },
   "Description": {
     "English": "Mined from <span class=\"name name-technology\">underground minerals</span>, cobalt is found in plentiful supply in caves and caverns. Useful in the manufacture of <span class=\"name name-commodity\">Ion Batteries</span>.<br><br>It is used in the creation of several technologies and structures, and can be processed in a <span class=\"name name-technology\">Refiner</span> to make the most of its inherent charge.",
     "SimplifiedChinese": "钴大量存在于洞穴和山洞中，并可从<span class=\"name name-technology\">地下矿产</span>中开采。用于制造<span class=\"name name-commodity\">离子电池</span>。<br><br>用于创造几种技术和建筑，可在精炼机中加工使其内在电荷发挥最大效用。",
+    "TencentChinese": "钴大量存在于洞穴和山洞中，并可从<span class=\"name name-technology\">地下矿产</span>中开采。用于制造<span class=\"name name-commodity\">离子电池</span>。<br><br>用于创造几种技术和建筑，可在精炼机中加工使其内在电荷发挥最大效用。",
     "TraditionalChinese": "鈷是由<span class=\"name name-technology\">地底礦物</span>中採出，洞穴或其他地下洞窟中含量豐富。能用來製作<span class=\"name name-commodity\">離子電池</span>。<br><br>製造某些科技和結構時能派上用場，並能以<span class=\"name name-technology\">精製機</span>加工，充分利用內含能量。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Cobalt",
     "SimplifiedChinese": "收集钴",
+    "TencentChinese": "收集钴",
     "TraditionalChinese": "收集鈷"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-technology\">Cobalt</span> is readily extracted from <span class=\"name name-earth\">subterranean rock deposits</span>.<br>Locate natural cave entrances. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.",
     "SimplifiedChinese": "从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-technology\">钴</span>。<br>寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。",
+    "TencentChinese": "从<span class=\"name name-earth\">地下岩石矿床</span>中容易提取出<span class=\"name name-technology\">钴</span>。<br>寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。",
     "TraditionalChinese": "<span class=\"name name-technology\">鈷</span>可從<span class=\"name name-earth\">地下岩石資源產地</span>輕易萃取出來。<br>找出天然洞穴入口。<span class=\"name name-red\">警告：</span>許多洞穴內有危險植物。"
   },
   "PinObjectiveMessage": {

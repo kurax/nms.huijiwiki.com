@@ -2,11 +2,13 @@
   "Name": {
     "English": "PLATINUM",
     "SimplifiedChinese": "铂",
+    "TencentChinese": "铂",
     "TraditionalChinese": "鉑"
   },
   "NameLower": {
     "English": "Platinum",
     "SimplifiedChinese": "铂",
+    "TencentChinese": "铂",
     "TraditionalChinese": "鉑"
   },
   "ID": "ASTEROID3",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Valuable Asteroid Mineral",
     "SimplifiedChinese": "宝贵的小行星矿物",
+    "TencentChinese": "宝贵的小行星矿物",
     "TraditionalChinese": "珍貴小行星礦物"
   },
   "Description": {
     "English": "Extremely valuable interstellar trading mineral, typically <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.<br><br>Universally prized for its hardiness and versatility.",
     "SimplifiedChinese": "极其珍贵的星际交易矿物，通常<span class=\"name name-commodity\">采掘自小行星</span>。有时可在地下行星沉积物中发现。<br><br>因其抗性和通用性而广受赞誉。",
+    "TencentChinese": "极其珍贵的星际交易矿物，通常<span class=\"name name-commodity\">采掘自小行星</span>。有时可在地下行星沉积物中发现。<br><br>因其抗性和通用性而广受赞誉。",
     "TraditionalChinese": "極度珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。<br><br>硬度高而用途廣，因而廣受珍視。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather or refine Platinum",
     "SimplifiedChinese": "收集或精炼铂",
+    "TencentChinese": "收集或精炼铂",
     "TraditionalChinese": "收集或精製鉑"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-earth\">Platinum</span> is a rare interstellar trading mineral, <span class=\"name name-commodity\">mined from asteroids</span>. Very occasionally found in underground planetary deposits.",
     "SimplifiedChinese": "<span class=\"name name-earth\">铂</span>是一种宝贵的星际贸易矿物质，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。",
+    "TencentChinese": "<span class=\"name name-earth\">铂</span>是一种宝贵的星际贸易矿物质，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。",
     "TraditionalChinese": "<span class=\"name name-earth\">鉑</span>是罕見的星際交易礦物，<span class=\"name name-commodity\">從小行星開採而來</span>。偶爾才會在星球地底資源產地找到。"
   },
   "PinObjectiveMessage": {

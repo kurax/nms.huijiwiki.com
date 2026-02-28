@@ -4,21 +4,25 @@
   "Name": {
     "English": "SAFETY PANEL",
     "SimplifiedChinese": "安全护板",
+    "TencentChinese": "安全护板",
     "TraditionalChinese": "安全護板"
   },
   "NameLower": {
     "English": "Safety Panel",
     "SimplifiedChinese": "安全护板",
+    "TencentChinese": "安全护板",
     "TraditionalChinese": "安全護板"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "The safety panel seals off potentially dangerous components in the event of a malfunction. An over sensitive trigger has caused it to activate, preventing the device from operating.",
     "SimplifiedChinese": "在出现故障时，封锁潜在危险组件的安全面板。触发器灵敏性过高，使其激活，阻止了设备的运行。",
+    "TencentChinese": "在出现故障时，封锁潜在危险组件的安全面板。触发器灵敏性过高，使其激活，阻止了设备的运行。",
     "TraditionalChinese": "安全面板在運作異常時能封鎖可能造成危險的部件。啟動裝置過度靈敏導致面板發動，使裝置無法運作。"
   },
   "Teach": false,

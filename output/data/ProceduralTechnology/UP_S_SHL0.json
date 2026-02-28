@@ -4,6 +4,7 @@
   "Group": {
     "English": "Deflector Shield",
     "SimplifiedChinese": "偏导护盾",
+    "TencentChinese": "偏导护盾",
     "TraditionalChinese": "反射防護罩"
   },
   "Name": {
@@ -12,17 +13,32 @@
       [
         "Lattice",
         "Shield",
-        "Armour",
+        "Armor",
         "Bulwark",
         "Grafts",
         "Padding",
         "Buffer",
-        "Polariser",
+        "Polarizer",
         "Battery",
         "Resonator"
       ]
     ],
     "SimplifiedChinese": [
+      null,
+      [
+        "栅格",
+        "护盾",
+        "盔甲",
+        "壁垒",
+        "嫁接",
+        "填补",
+        "缓冲",
+        "偏振器",
+        "电池",
+        "共振器"
+      ]
+    ],
+    "TencentChinese": [
       null,
       [
         "栅格",
@@ -51,24 +67,12 @@
         "電池",
         "共振器"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        "Armor",
-        null,
-        null,
-        null,
-        null,
-        "Polarizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Deflector Shield",
     "SimplifiedChinese": "偏导护盾",
+    "TencentChinese": "偏导护盾",
     "TraditionalChinese": "反射防護罩"
   },
   "Subtitle": {

@@ -4,24 +4,26 @@
   "Name": {
     "English": "LOCKING MECHANISM",
     "SimplifiedChinese": "锁定机制",
+    "TencentChinese": "锁定机制",
     "TraditionalChinese": "上鎖機制"
   },
   "NameLower": {
     "English": "Locking mechanism",
     "SimplifiedChinese": "锁定机制",
+    "TencentChinese": "锁定机制",
     "TraditionalChinese": "上鎖機制"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
-    "English": "A simple locking device, designed to keep out unauthorised pilferers. Damage has locked it permanently.",
+    "English": "A simple locking device, designed to keep out unauthorized pilferers. Damage has locked it permanently.",
     "SimplifiedChinese": "一个简单的锁闭设备，用于阻止未经授权的盗窃者。由于受到损坏，已永久锁定。",
     "TencentChinese": "一个简单的锁闭设备，用于阻止未经授权的闯入者。由于受到损坏，已永久锁定。",
-    "TraditionalChinese": "簡單的鎖鑰裝置，設計用來擋下越界的小偷。裝置遭到破壞，再也打不開。",
-    "USEnglish": "A simple locking device, designed to keep out unauthorized pilferers. Damage has locked it permanently."
+    "TraditionalChinese": "簡單的鎖鑰裝置，設計用來擋下越界的小偷。裝置遭到破壞，再也打不開。"
   },
   "Teach": false,
   "HintStart": "",

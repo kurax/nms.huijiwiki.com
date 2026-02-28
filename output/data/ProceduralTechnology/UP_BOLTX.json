@@ -4,13 +4,14 @@
   "Group": {
     "English": "Boltcaster",
     "SimplifiedChinese": "离子闪电发射器",
+    "TencentChinese": "离子闪电发射器",
     "TraditionalChinese": "雷霆砲"
   },
   "Name": {
     "English": [
       null,
       [
-        "Ioniser",
+        "Ionizer",
         "Supercharger",
         "Beam Accelerator",
         "Ion Cycler",
@@ -23,6 +24,21 @@
       ]
     ],
     "SimplifiedChinese": [
+      null,
+      [
+        "电离器",
+        "增压器",
+        "光束加速器",
+        "离子循环器",
+        "能量网格",
+        "炮弹网",
+        "压缩机",
+        "散热器",
+        "电介质",
+        "超电容"
+      ]
+    ],
+    "TencentChinese": [
       null,
       [
         "电离器",
@@ -51,17 +67,12 @@
         "電介質",
         "超電容"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        "Ionizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Boltcaster",
     "SimplifiedChinese": "离子闪电发射器",
+    "TencentChinese": "离子闪电发射器",
     "TraditionalChinese": "雷霆砲"
   },
   "Subtitle": {

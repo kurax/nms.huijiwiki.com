@@ -2,11 +2,13 @@
   "Name": {
     "English": "CHROMATIC METAL",
     "SimplifiedChinese": "有色金属",
+    "TencentChinese": "有色金属",
     "TraditionalChinese": "有色金屬"
   },
   "NameLower": {
     "English": "Chromatic Metal",
     "SimplifiedChinese": "有色金属",
+    "TencentChinese": "有色金属",
     "TraditionalChinese": "有色金屬"
   },
   "ID": "STELLAR2",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Highly Refined Stellar Metal",
     "SimplifiedChinese": "高精炼星球金属",
+    "TencentChinese": "高精炼星球金属",
     "TraditionalChinese": "高度精製星體金屬"
   },
   "Description": {
     "English": "A processed metal alloy, created in a <span class=\"name name-technology\">Refiner</span> from the <span class=\"name name-stellar\">stellar metals</span>: <span class=\"name name-commodity\">Copper</span>, <span class=\"name name-fuel\">Cadmium</span>, <span class=\"name name-tradeable\">Emeril</span> and <span class=\"name name-technology\">Indium</span>.<br><br>The <span class=\"name name-special\">rarer</span> the stellar metal, the more Chromatic Metal it will produce.<br><br>This valuable metal is used in the creation of many <span class=\"name name-technology\">advanced technologies</span>.",
     "SimplifiedChinese": "一种处理过的合金，在<span class=\"name name-technology\">精炼机</span>中使用<span class=\"name name-stellar\">星球金属</span>制作：<span class=\"name name-commodity\">铜</span>、<span class=\"name name-fuel\">镉</span>、<span class=\"name name-tradeable\">艾梅里尔</span>和<span class=\"name name-technology\">铟</span>。<br><br>恒星上的金属越<span class=\"name name-special\">稀有</span>，它产出的彩色金属就越多。<br><br>这珍贵的金属可用于创建许多<span class=\"name name-technology\">高级技术</span>。",
+    "TencentChinese": "一种处理过的合金，在<span class=\"name name-technology\">精炼机</span>中使用<span class=\"name name-stellar\">星球金属</span>制作：<span class=\"name name-commodity\">铜</span>、<span class=\"name name-fuel\">镉</span>、<span class=\"name name-tradeable\">艾梅里尔</span>和<span class=\"name name-technology\">铟</span>。<br><br>恒星上的金属越<span class=\"name name-special\">稀有</span>，它产出的彩色金属就越多。<br><br>这珍贵的金属可用于创建许多<span class=\"name name-technology\">高级技术</span>。",
     "TraditionalChinese": "一種加工金屬合金，以<span class=\"name name-technology\">精製機</span>加工以下<span class=\"name name-stellar\">星體金屬</span>而成：<span class=\"name name-commodity\">銅</span>、<span class=\"name name-fuel\">鎘</span>、<span class=\"name name-tradeable\">砪</span>、<span class=\"name name-technology\">銦</span>。<br><br>星體金屬<span class=\"name name-special\">越稀有</span>，能生產的有色金屬也越多。<br><br>這種珍貴金屬能用來製作許多<span class=\"name name-technology\">先進科技</span>。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Refine Chromatic Metal",
     "SimplifiedChinese": "精炼有色金属",
+    "TencentChinese": "精炼有色金属",
     "TraditionalChinese": "精製有色金屬"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-special\">Chromatic Metal</span> is created in a <span class=\"name name-technology\">Refiner</span> from the <span class=\"name name-stellar\">stellar metals</span>: <span class=\"name name-commodity\">Copper</span>, <span class=\"name name-fuel\">Cadmium</span>, <span class=\"name name-tradeable\">Emeril</span> and <span class=\"name name-technology\">Indium</span>.<br>The <span class=\"name name-special\">rarer</span> the stellar metal, the more Chromatic Metal it will produce. Find stellar metal deposits on planets using the <span class=\"name name-technology\">Analysis Visor</span>.",
     "SimplifiedChinese": "<span class=\"name name-special\">有色金属</span>可采用<span class=\"name name-technology\">精炼机</span>从<span class=\"name name-stellar\">恒星金属</span>中制得：<span class=\"name name-commodity\">铜</span>、<span class=\"name name-fuel\">镉</span>、<span class=\"name name-tradeable\">艾梅里尔</span>和<span class=\"name name-technology\">铟</span>。<br>恒星金属越<span class=\"name name-special\">稀有</span>，产出的有色金属量越多。使用<span class=\"name name-technology\">分析面甲</span>寻找行星上的恒星金属矿床。",
+    "TencentChinese": "<span class=\"name name-special\">有色金属</span>可采用<span class=\"name name-technology\">精炼机</span>从<span class=\"name name-stellar\">恒星金属</span>中制得：<span class=\"name name-commodity\">铜</span>、<span class=\"name name-fuel\">镉</span>、<span class=\"name name-tradeable\">艾梅里尔</span>和<span class=\"name name-technology\">铟</span>。<br>恒星金属越<span class=\"name name-special\">稀有</span>，产出的有色金属量越多。使用<span class=\"name name-technology\">分析面甲</span>寻找行星上的恒星金属矿床。",
     "TraditionalChinese": "<span class=\"name name-special\">有色金屬</span>是以<span class=\"name name-technology\">精製機</span>加工以下<span class=\"name name-stellar\">星體金屬</span>而成：<span class=\"name name-commodity\">銅</span>、<span class=\"name name-fuel\">鎘</span>、<span class=\"name name-tradeable\">砪</span>、<span class=\"name name-technology\">銦</span>。<br>星體金屬<span class=\"name name-special\">越罕見</span>，能生產的有色金屬也越多。使用<span class=\"name name-technology\">分析護目鏡</span>尋找星球上的星體金屬資源礦床。"
   },
   "PinObjectiveMessage": {

@@ -4,6 +4,7 @@
   "Group": {
     "English": "Launch Thruster",
     "SimplifiedChinese": "发射推进器",
+    "TencentChinese": "发射推进器",
     "TraditionalChinese": "啟動推進器"
   },
   "Name": {
@@ -53,6 +54,27 @@
         "升空机制"
       ]
     ],
+    "TencentChinese": [
+      [
+        "无暇的",
+        "高超音速",
+        "谐波",
+        "光荣的",
+        "增压的"
+      ],
+      [
+        "推进装置",
+        "推进控制器",
+        "冲动喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "無瑕",
@@ -75,31 +97,12 @@
         "加速計",
         "升降機制"
       ]
-    ],
-    "TencentChinese": [
-      [
-        null,
-        "高超音速",
-        "谐波",
-        "光荣的"
-      ],
-      [
-        "推进装置",
-        "推进控制器",
-        "冲动喷嘴",
-        "冲击波护盾",
-        "磁性风扇",
-        "氢发电机",
-        "等离子排气管",
-        "燃料管",
-        "微中子注射器",
-        "电子套管"
-      ]
     ]
   },
   "NameLower": {
     "English": "Launch Thruster",
     "SimplifiedChinese": "发射推进器",
+    "TencentChinese": "发射推进器",
     "TraditionalChinese": "啟動推進器"
   },
   "Subtitle": {

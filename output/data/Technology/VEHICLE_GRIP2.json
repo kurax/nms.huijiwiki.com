@@ -4,21 +4,25 @@
   "Name": {
     "English": "GRIP BOOST SUSPENSION",
     "SimplifiedChinese": "控制推进悬挂",
+    "TencentChinese": "控制推进悬挂",
     "TraditionalChinese": "抓地推進懸吊"
   },
   "NameLower": {
     "English": "Grip Boost Suspension",
     "SimplifiedChinese": "控制推进悬挂",
+    "TencentChinese": "控制推进悬挂",
     "TraditionalChinese": "抓地推進懸吊"
   },
   "Subtitle": {
     "English": "Exocraft Handling Modification",
     "SimplifiedChinese": "强化艇操控改装",
+    "TencentChinese": "强化艇操控改装",
     "TraditionalChinese": "強化艇操縱改造"
   },
   "Description": {
     "English": "Overhauls Exocraft handling values through a combination of software tweaks, pressure adjustments and the insertion of microgravity wells into key suspension components.<br><br>Specifically tuned to increase the ability of the Exocraft to <span class=\"name name-stellar\">turn sharply</span>.",
     "SimplifiedChinese": "通过软件微调、压力调整和将微重力井插入关键悬挂部件的组合，彻底改变强化艇的操控数值。<br><br>专门调试以增加强化艇的<span class=\"name name-stellar\">急转</span>能力。",
+    "TencentChinese": "通过软件微调、压力调整和将微重力井插入关键悬挂部件的组合，彻底改变强化艇的操控数值。<br><br>专门调试以增加强化艇的<span class=\"name name-stellar\">急转</span>能力。",
     "TraditionalChinese": "結合軟體微調、壓力調整，並將微重力穴插入重要懸吊元件，來改良強化艇操縱值。<br><br>特別經過校正，以提高強化艇的功能，以利<span class=\"name name-stellar\">過急彎</span>。"
   },
   "Teach": false,

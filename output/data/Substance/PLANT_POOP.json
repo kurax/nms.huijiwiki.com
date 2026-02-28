@@ -2,11 +2,13 @@
   "Name": {
     "English": "FAECIUM",
     "SimplifiedChinese": "屎球菌",
+    "TencentChinese": "屎球菌",
     "TraditionalChinese": "屎菌"
   },
   "NameLower": {
     "English": "Faecium",
     "SimplifiedChinese": "屎球菌",
+    "TencentChinese": "屎球菌",
     "TraditionalChinese": "屎菌"
   },
   "ID": "PLANT_POOP",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "A foul-smelling compound that can be harvested from the <span class=\"name name-tradeable\">Gutrot Flower</span>, or less desirably from the faecal matter of some species.<br><br>Creatures can be fed to encourage the formation and deposition of faecium crystals.",
     "SimplifiedChinese": "一种发臭的化合物，可从<span class=\"name name-tradeable\">烂肠花</span>中或从某些物种的粪便中收获。<br><br>可喂养生物来促进它们排泄屎球菌晶体。",
+    "TencentChinese": "一种发臭的化合物，可从<span class=\"name name-tradeable\">烂肠花</span>中或从某些物种的粪便中收获。<br><br>可喂养生物来促进它们排泄屎球菌晶体。",
     "TraditionalChinese": "散發惡臭的化合物，可從<span class=\"name name-tradeable\">爛腸花</span>上採集；另一種比較倒胃口的方式，是從某些物種的糞便中取得。<br><br>餵食生物可促使其生成屎菌水晶。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Faecium",
     "SimplifiedChinese": "收集屎球菌",
+    "TencentChinese": "收集屎球菌",
     "TraditionalChinese": "收集屎菌"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-fuel\">Faecium</span> is a nitrogen-rich organic material harvested from the dung of many large animals. Feed animals to increase faecium production.<br>It is possible to grow faecium given the right environment and correct host plant. Seek advice from an <span class=\"name name-tradeable\">Agricultural Specialist</span>.",
     "SimplifiedChinese": "<span class=\"name name-fuel\">屎球菌</span>是一种富含氮元素的有机材料，能从许多大型动物的粪便中采集到。饲养动物来提升屎球菌的产量。<br>可以通过在适当的环境下种植恰当的寄主植物来培养出屎球菌。具体建议可咨询<span class=\"name name-tradeable\">农业专家</span>。",
+    "TencentChinese": "<span class=\"name name-fuel\">屎球菌</span>是一种富含氮元素的有机材料，能从许多大型动物的粪便中采集到。饲养动物来提升屎球菌的产量。<br>可以通过在适当的环境下种植恰当的寄主植物来培养出屎球菌。具体建议可咨询<span class=\"name name-tradeable\">农业专家</span>。",
     "TraditionalChinese": "<span class=\"name name-fuel\">屎菌</span>是一種從大型動物的排泄物所採收的有機材料，氮含量高。餵食動物即可提升屎菌產量。<br>有合適的環境與宿主植物，也可種植屎菌。尋求<span class=\"name name-tradeable\">農業專家</span>的建議。"
   },
   "PinObjectiveMessage": {

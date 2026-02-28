@@ -13,7 +13,7 @@
         "Gold-Plated",
         "Copper",
         "Reinforced",
-        "Pressurised",
+        "Pressurized",
         "Enhanced"
       ],
       [
@@ -30,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "镀金",
+        "铜",
+        "已强化",
+        "已加压",
+        "已强化"
+      ],
+      [
+        "桶",
+        "贝壳",
+        "扳机",
+        "枪口",
+        "线路",
+        "发电机",
+        "内部",
+        "热力泵",
+        "发射系统",
+        "压缩装置"
+      ]
+    ],
+    "TencentChinese": [
       [
         "镀金",
         "铜",
@@ -69,14 +90,6 @@
         "熱力泵",
         "發射系統",
         "壓縮裝置"
-      ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        "Pressurized"
       ]
     ]
   },

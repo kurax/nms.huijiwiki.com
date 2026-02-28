@@ -4,6 +4,7 @@
   "Group": {
     "English": "Thermal Protection",
     "SimplifiedChinese": "热能防护",
+    "TencentChinese": "热能防护",
     "TraditionalChinese": "熱能防護"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "热量泵"
       ]
     ],
+    "TencentChinese": [
+      [
+        "碳碳",
+        "烧蚀的",
+        "红外线",
+        "负能量",
+        "碳键的"
+      ],
+      [
+        "散热器",
+        "调温器",
+        "热量屏障",
+        "日光反射器",
+        "火焰循环器",
+        "大气调节器",
+        "升华泵",
+        "红外线偏导器",
+        "太阳能调节器",
+        "热量泵"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "碳碳",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Thermal Protection",
     "SimplifiedChinese": "热能防护",
+    "TencentChinese": "热能防护",
     "TraditionalChinese": "熱能防護"
   },
   "Subtitle": {

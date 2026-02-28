@@ -4,24 +4,26 @@
   "Name": {
     "English": "BARREL IONISER",
     "SimplifiedChinese": "枪管电离器",
+    "TencentChinese": "枪管电离器",
     "TraditionalChinese": "槍管離化器"
   },
   "NameLower": {
-    "English": "Barrel Ioniser",
+    "English": "Barrel Ionizer",
     "SimplifiedChinese": "枪管电离器",
-    "TraditionalChinese": "槍管離化器",
-    "USEnglish": "Barrel Ionizer"
+    "TencentChinese": "枪管电离器",
+    "TraditionalChinese": "槍管離化器"
   },
   "Subtitle": {
     "English": "Boltcaster Upgrade",
     "SimplifiedChinese": "离子闪电发射器升级",
+    "TencentChinese": "离子闪电发射器升级",
     "TraditionalChinese": "雷霆砲升級"
   },
   "Description": {
-    "English": "Inserts a powerful field ionisation device into the barrel of the <span class=\"name name-technology\">Boltcaster</span>, increasing projectile stability through the air.<br><br>Improves <span class=\"name name-stellar\">device accuracy</span> and allows the user to fire for longer periods without degrading combat performance.",
+    "English": "Inserts a powerful field ionization device into the barrel of the <span class=\"name name-technology\">Boltcaster</span>, increasing projectile stability through the air.<br><br>Improves <span class=\"name name-stellar\">device accuracy</span> and allows the user to fire for longer periods without degrading combat performance.",
     "SimplifiedChinese": "在<span class=\"name name-technology\">离子闪电发射器</span>的枪管中嵌入一个强大的场电离装置，增加炮弹在空中的稳定性。<br><br>提高<span class=\"name name-stellar\">装置精度</span>并允许用户进行更长时间的射击而不降低战斗性能。",
-    "TraditionalChinese": "在<span class=\"name name-technology\">雷霆砲</span>的槍管中嵌入一個強大的場電離裝置，增加射彈在空中的穩定性。<br><br>提高<span class=\"name name-stellar\">裝置準確度</span>並允許用戶進行更長時間的射擊而不降低戰鬥性能。",
-    "USEnglish": "Inserts a powerful field ionization device into the barrel of the <span class=\"name name-technology\">Boltcaster</span>, increasing projectile stability through the air.<br><br>Improves <span class=\"name name-stellar\">device accuracy</span> and allows the user to fire for longer periods without degrading combat performance."
+    "TencentChinese": "在<span class=\"name name-technology\">离子闪电发射器</span>的枪管中嵌入一个强大的场电离装置，增加炮弹在空中的稳定性。<br><br>提高<span class=\"name name-stellar\">装置精度</span>并允许用户进行更长时间的射击而不降低战斗性能。",
+    "TraditionalChinese": "在<span class=\"name name-technology\">雷霆砲</span>的槍管中嵌入一個強大的場電離裝置，增加射彈在空中的穩定性。<br><br>提高<span class=\"name name-stellar\">裝置準確度</span>並允許用戶進行更長時間的射擊而不降低戰鬥性能。"
   },
   "Teach": true,
   "HintStart": "",

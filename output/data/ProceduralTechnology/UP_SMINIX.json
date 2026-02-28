@@ -4,6 +4,7 @@
   "Group": {
     "English": "Infra-Knife Accelerator",
     "SimplifiedChinese": "红外切割加速器",
+    "TencentChinese": "红外切割加速器",
     "TraditionalChinese": "紅外線刀加速器"
   },
   "Name": {
@@ -15,7 +16,7 @@
         "Oscillator",
         "Resonator",
         "Accelerator",
-        "Polariser",
+        "Polarizer",
         "Filament",
         "Refractor",
         "Mirror",
@@ -23,6 +24,21 @@
       ]
     ],
     "SimplifiedChinese": [
+      null,
+      [
+        "放大器",
+        "分离器",
+        "振荡器",
+        "共振器",
+        "加速器",
+        "偏振器",
+        "单纤维",
+        "折射镜",
+        "镜子",
+        "解限器"
+      ]
+    ],
+    "TencentChinese": [
       null,
       [
         "放大器",
@@ -51,22 +67,12 @@
         "鏡子",
         "除限器"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Polarizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Infra-Knife Accelerator",
     "SimplifiedChinese": "红外切割加速器",
+    "TencentChinese": "红外切割加速器",
     "TraditionalChinese": "紅外線刀加速器"
   },
   "Subtitle": {

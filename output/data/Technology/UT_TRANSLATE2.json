@@ -4,21 +4,25 @@
   "Name": {
     "English": "SUPERIOR TRANSLATOR",
     "SimplifiedChinese": "优质翻译器",
+    "TencentChinese": "优质翻译器",
     "TraditionalChinese": "高級通譯"
   },
   "NameLower": {
     "English": "Superior Translator",
     "SimplifiedChinese": "优质翻译器",
+    "TencentChinese": "优质翻译器",
     "TraditionalChinese": "高級通譯"
   },
   "Subtitle": {
     "English": "Automatic Language Parser",
     "SimplifiedChinese": "自动语言剖析器",
+    "TencentChinese": "自动语言剖析器",
     "TraditionalChinese": "自動語言分析器"
   },
   "Description": {
     "English": "An automatic translation device. It records and parses nearby conversations before running the data through a contextual learning system to determine intended meaning.<br><br>Parallel language processors enable a greater proportion of recorded speech to be translated.",
     "SimplifiedChinese": "一种自动翻译装置。能记录并分析附近的对话，然后通过上下文学习系统运行数据，以确定预期的含义。<br><br>具有并行语言处理器，能够翻译更大比例的录音对话。",
+    "TencentChinese": "一种自动翻译装置。能记录并分析附近的对话，然后通过上下文学习系统运行数据，以确定预期的含义。<br><br>具有并行语言处理器，能够翻译更大比例的录音对话。",
     "TraditionalChinese": "自動翻譯裝置，可記錄、分析附近的談話，再將資料輸入情境式學習系統，判斷其意涵。<br><br>具備平行語言處理器，可翻譯更高比例的記錄談話內容。"
   },
   "Teach": true,

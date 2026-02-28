@@ -4,16 +4,19 @@
   "Name": {
     "English": "LOOM DAMAGE",
     "SimplifiedChinese": "套管损坏",
+    "TencentChinese": "套管损坏",
     "TraditionalChinese": "線組傷害"
   },
   "NameLower": {
     "English": "Loom Damage",
     "SimplifiedChinese": "套管损坏",
+    "TencentChinese": "套管损坏",
     "TraditionalChinese": "線組傷害"
   },
   "Subtitle": {
     "English": "Damaged Multi-Tool Component",
     "SimplifiedChinese": "受损的多用途工具部件",
+    "TencentChinese": "受损的多用途工具部件",
     "TraditionalChinese": "受損工具組元件"
   },
   "Description": {

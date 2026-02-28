@@ -4,21 +4,25 @@
   "Name": {
     "English": "OXYGEN RECYCLER",
     "SimplifiedChinese": "氧气循环器",
+    "TencentChinese": "氧气循环器",
     "TraditionalChinese": "氧氣回收器"
   },
   "NameLower": {
     "English": "Oxygen Recycler",
     "SimplifiedChinese": "氧气循环器",
+    "TencentChinese": "氧气循环器",
     "TraditionalChinese": "氧氣回收器"
   },
   "Subtitle": {
     "English": "Life Support Upgrade",
     "SimplifiedChinese": "维生系统升级",
+    "TencentChinese": "维生系统升级",
     "TraditionalChinese": "維生系統升級"
   },
   "Description": {
     "English": "Increases the base capacity of the <span class=\"name name-fuel\">Life Support</span> system, allowing the user to go longer between charges.",
     "SimplifiedChinese": "增加<span class=\"name name-commodity\">维生</span>系统的基本容量，允许用户在再次充能前存活更长时间。",
+    "TencentChinese": "增加<span class=\"name name-commodity\">维生</span>系统的基本容量，允许用户在再次充能前存活更长时间。",
     "TraditionalChinese": "增加<span class=\"name name-commodity\">維生</span>系統的基本容量，允許用戶在再次充能前存活更長時間。"
   },
   "Teach": true,

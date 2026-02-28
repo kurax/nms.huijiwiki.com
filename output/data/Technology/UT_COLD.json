@@ -4,21 +4,25 @@
   "Name": {
     "English": "THERMIC LAYER",
     "SimplifiedChinese": "隔热层",
+    "TencentChinese": "隔热层",
     "TraditionalChinese": "導熱夾層"
   },
   "NameLower": {
     "English": "Thermic Layer",
     "SimplifiedChinese": "隔热层",
+    "TencentChinese": "隔热层",
     "TraditionalChinese": "導熱夾層"
   },
   "Subtitle": {
     "English": "Hazard Protection Unit",
     "SimplifiedChinese": "危险防护单元",
+    "TencentChinese": "危险防护单元",
     "TraditionalChinese": "風險防護單位"
   },
   "Description": {
     "English": "User is guarded from extreme cold damage on frozen worlds.<br><br>Heat capillaries threaded through a user's suit that evenly distributes liquid calidium to maintain a comfortable body temperature.<br><br>Device is charged by <span class=\"name name-earth\">mineral extracts</span> found in frozen environments. Operates automatically once constructed within user's exosuit inventory.",
     "SimplifiedChinese": "使用者在寒冷星球探索时可免受低温冻伤。<br><br>使用者套装中内衬的热量毛细管网将液态凯利丢姆均匀地流经全身，为使用者维持舒适的体温。<br><br>冰冻环境中的<span class=\"name name-earth\">矿产提取物</span>可为本设备充能。本设备在使用者的套装库存中制造完毕后自动生效。",
+    "TencentChinese": "使用者在寒冷星球探索时可免受低温冻伤。<br><br>使用者套装中内衬的热量毛细管网将液态凯利丢姆均匀地流经全身，为使用者维持舒适的体温。<br><br>冰冻环境中的<span class=\"name name-earth\">矿产提取物</span>可为本设备充能。本设备在使用者的套装库存中制造完毕后自动生效。",
     "TraditionalChinese": "可保護使用者在冰凍世界不受極寒傷害。<br><br>交織在使用者套裝中的導熱管網路，會將加熱液均勻分配，維持舒適的體溫。<br><br>裝置需使用可在冰凍環境中取得的<span class=\"name name-earth\">礦物萃取物</span>補充。建造於使用者的強化套裝道具欄後便會自動啟用。"
   },
   "Teach": true,

@@ -3,16 +3,19 @@
   "Group": {
     "English": "Movement System",
     "SimplifiedChinese": "运动系统",
+    "TencentChinese": "运动系统",
     "TraditionalChinese": "移動系統"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

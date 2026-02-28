@@ -4,21 +4,25 @@
   "Name": {
     "English": "LOAD BALANCER",
     "SimplifiedChinese": "负载平衡器",
+    "TencentChinese": "负载平衡器",
     "TraditionalChinese": "負荷平衡器"
   },
   "NameLower": {
     "English": "Load Balancer",
     "SimplifiedChinese": "负载平衡器",
+    "TencentChinese": "负载平衡器",
     "TraditionalChinese": "負荷平衡器"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A small unit designed to regulate the flow of power across the device. A malfunction is causing it to short, damaging other components.",
     "SimplifiedChinese": "小型单元，用于调节设备中的功率流。由于发生故障，使其短路，损坏了其他部件。",
+    "TencentChinese": "小型单元，用于调节设备中的功率流。由于发生故障，使其短路，损坏了其他部件。",
     "TraditionalChinese": "小型元件，設計用來調節裝置內電流。運轉異常導致裝置短路，毀損其他部件。"
   },
   "Teach": false,

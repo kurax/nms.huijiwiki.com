@@ -2,11 +2,13 @@
   "Name": {
     "English": "CYTO-PHOSPHATE",
     "SimplifiedChinese": "磷酸细胞",
+    "TencentChinese": "磷酸细胞",
     "TraditionalChinese": "細胞磷酸鹽"
   },
   "NameLower": {
     "English": "Cyto-Phosphate",
     "SimplifiedChinese": "磷酸细胞",
+    "TencentChinese": "磷酸细胞",
     "TraditionalChinese": "細胞磷酸鹽"
   },
   "ID": "WATERPLANT",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Organic Compound",
     "SimplifiedChinese": "有机化合物",
+    "TencentChinese": "有机化合物",
     "TraditionalChinese": "有機合成物"
   },
   "Description": {
     "English": "A blue-green organic compound produced during the metabolic cycle of deep-sea plantlife. Rich in soluble energy, cyto-phosphates are crucial in many submarine technologies.<br> <br>The <span class=\"name name-technology\">Mining Laser</span> will harvest cyto-phosphate compounds from <span class=\"name name-technology\">underwater flora</span>.",
     "SimplifiedChinese": "深海植物生命代谢周期产生的一种蓝绿色有机化合物。富含可溶性能量的磷酸细胞，在很多潜水艇技术中举足轻重。<br><br>可用<span class=\"name name-technology\">采矿激光</span>从<span class=\"name name-technology\">水下植物群系</span>收获磷酸细胞化合物。",
+    "TencentChinese": "深海植物生命代谢周期产生的一种蓝绿色有机化合物。富含可溶性能量的磷酸细胞，在很多潜水艇技术中举足轻重。<br><br>可用<span class=\"name name-technology\">采矿激光</span>从<span class=\"name name-technology\">水下植物群系</span>收获磷酸细胞化合物。",
     "TraditionalChinese": "深海植物新陳代謝週期中所產生的藍綠色有機合成物。富含可溶性能量的細胞磷酸鹽對於諸多潛艇技術來說不可或缺。<br><br><span class=\"name name-technology\">採礦雷射</span>將會自<span class=\"name name-technology\">海底植物</span>採收細胞磷酸鹽合成物。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Refine Cyto-Phosphate",
     "SimplifiedChinese": "精炼磷酸细胞",
+    "TencentChinese": "精炼磷酸细胞",
     "TraditionalChinese": "精製細胞磷酸鹽"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Cyto-Phosphates</span> are readily extracted from <span class=\"name name-earth\">underwater plants</span>.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span>, refilling oxygen supplies from <span class=\"name name-tradeable\">Kelp Sacs</span>, or travelling in a <span class=\"name name-stellar\">Nautilon Submarine</span>.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">磷酸细胞</span>能从<span class=\"name name-earth\">水下植物</span>中轻易提取而得。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
+    "TencentChinese": "<span class=\"name name-tradeable\">磷酸细胞</span>能从<span class=\"name name-earth\">水下植物</span>中轻易提取而得。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>，从<span class=\"name name-tradeable\">海藻袋</span>中补充氧气补给，或搭乘<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>出行，以提高在海洋中的效率。",
     "TraditionalChinese": "穩定地從<span class=\"name name-earth\">海底植物</span>萃取<span class=\"name name-tradeable\">細胞磷酸鹽</span>。<br>升級強化套裝的<span class=\"name name-technology\">曝氣黏膜</span>以增加海中效率，從<span class=\"name name-tradeable\">巨藻囊</span>補充氧氣補給品，或搭乘<span class=\"name name-stellar\">巡洋龍潛艇</span>前進。"
   },
   "PinObjectiveMessage": {

@@ -4,21 +4,25 @@
   "Name": {
     "English": "FUEL INVERTER",
     "SimplifiedChinese": "燃料反相器",
+    "TencentChinese": "燃料反相器",
     "TraditionalChinese": "燃料換流器"
   },
   "NameLower": {
     "English": "Fuel Inverter",
     "SimplifiedChinese": "燃料反相器",
+    "TencentChinese": "燃料反相器",
     "TraditionalChinese": "燃料換流器"
   },
   "Subtitle": {
     "English": "Chargeable Power Unit",
     "SimplifiedChinese": "可充电能源单位",
+    "TencentChinese": "可充电能源单位",
     "TraditionalChinese": "可充填能量裝置"
   },
   "Description": {
     "English": "A piece of rechargeable power technology. The fuel inverter ensures an even flow of power to autonomous machines.",
     "SimplifiedChinese": "可充电能量技术的一部分。燃料反相器确保自动机器中能量流的平衡。",
+    "TencentChinese": "可充电能量技术的一部分。燃料反相器确保自动机器中能量流的平衡。",
     "TraditionalChinese": "可充能式能源科技的其中一個零件，可以確保供給自動機器的電力保持穩定。"
   },
   "Teach": false,

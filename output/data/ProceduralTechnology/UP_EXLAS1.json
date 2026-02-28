@@ -4,6 +4,7 @@
   "Group": {
     "English": "Exocraft Mining Laser",
     "SimplifiedChinese": "强化艇开采激光",
+    "TencentChinese": "强化艇开采激光",
     "TraditionalChinese": "強化艇採礦雷射"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "输出耦合器"
       ]
     ],
+    "TencentChinese": [
+      [
+        "重新调整",
+        "强化的",
+        "增强的",
+        "高效的",
+        "额外的"
+      ],
+      [
+        "光束放大器",
+        "光束电容",
+        "镜头光学",
+        "放射舱",
+        "光子镜",
+        "冷却系统",
+        "二极管电池",
+        "滤光器",
+        "偏导玻璃",
+        "输出耦合器"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "協調",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Exocraft Mining Laser",
     "SimplifiedChinese": "强化艇开采激光",
+    "TencentChinese": "强化艇开采激光",
     "TraditionalChinese": "強化艇採礦雷射"
   },
   "Subtitle": {

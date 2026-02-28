@@ -4,6 +4,7 @@
   "Group": {
     "English": "Nautilon Cannon",
     "SimplifiedChinese": "大鹦鹉螺大炮",
+    "TencentChinese": "大鹦鹉螺大炮",
     "TraditionalChinese": "巡洋龍砲"
   },
   "Name": {
@@ -25,10 +26,31 @@
         "Pressure Nozzle",
         "Hyperthermal Pump",
         "Power Array",
-        "Lux Stabiliser"
+        "Lux Stabilizer"
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "未腐蚀的",
+        "强化的",
+        "重密封的",
+        "高效的",
+        "精造的"
+      ],
+      [
+        "声纳阵列",
+        "音波电池",
+        "离子线圈",
+        "盐光束",
+        "液体起爆机",
+        "净化装置",
+        "压力喷嘴",
+        "高温泵",
+        "能量阵列",
+        "勒克斯稳定器"
+      ]
+    ],
+    "TencentChinese": [
       [
         "未腐蚀的",
         "强化的",
@@ -69,26 +91,12 @@
         "能量陣列",
         "路克斯穩定器"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Lux Stabilizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Nautilon Cannon",
     "SimplifiedChinese": "大鹦鹉螺大炮",
+    "TencentChinese": "大鹦鹉螺大炮",
     "TraditionalChinese": "巡洋龍砲"
   },
   "Subtitle": {

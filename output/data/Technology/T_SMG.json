@@ -3,16 +3,19 @@
   "Group": {
     "English": "Pulse Spitter",
     "SimplifiedChinese": "脉冲喷射器",
+    "TencentChinese": "脉冲喷射器",
     "TraditionalChinese": "脈衝槍"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

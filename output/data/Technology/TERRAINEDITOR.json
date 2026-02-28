@@ -4,21 +4,25 @@
   "Name": {
     "English": "TERRAIN MANIPULATOR",
     "SimplifiedChinese": "地形操纵器",
+    "TencentChinese": "地形操纵器",
     "TraditionalChinese": "地形改造器"
   },
   "NameLower": {
     "English": "Terrain Manipulator",
     "SimplifiedChinese": "地形操纵器",
+    "TencentChinese": "地形操纵器",
     "TraditionalChinese": "地形改造器"
   },
   "Subtitle": {
     "English": "Landscape Shaping Tool",
     "SimplifiedChinese": "地貌重塑工具",
+    "TencentChinese": "地貌重塑工具",
     "TraditionalChinese": "地景塑形工具"
   },
   "Description": {
     "English": "Advanced terraforming device. This module overloads existing multi-tool systems, allowing the user to reshape regions as they wish.<br><br>Charged with <span class=\"name name-earth\">metallic elements</span>.",
     "SimplifiedChinese": "先进的土地改造设备。此模块负载着已有的多用途工具系统，使用户可以随意重新塑造领域。<br><br>使用<span class=\"name name-earth\">金属元素</span>充能。",
+    "TencentChinese": "先进的土地改造设备。此模块负载着已有的多用途工具系统，使用户可以随意重新塑造领域。<br><br>使用<span class=\"name name-earth\">金属元素</span>充能。",
     "TraditionalChinese": "先進環境改造裝置。此模組裝載了大量現有的工具組系統，可讓使用者隨心所欲替地區重新塑形。<br><br>以<span class=\"name name-earth\">金屬元素</span>充能。"
   },
   "Teach": true,

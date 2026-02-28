@@ -4,21 +4,25 @@
   "Name": {
     "English": "LARGE ROCKET TUBES",
     "SimplifiedChinese": "大型火箭管",
+    "TencentChinese": "大型火箭管",
     "TraditionalChinese": "大型火箭管"
   },
   "NameLower": {
     "English": "Large Rocket Tubes",
     "SimplifiedChinese": "大型火箭管",
+    "TencentChinese": "大型火箭管",
     "TraditionalChinese": "大型火箭管"
   },
   "Subtitle": {
     "English": "Starship Rockets Upgrade",
     "SimplifiedChinese": "飞船火箭升级",
+    "TencentChinese": "飞船火箭升级",
     "TraditionalChinese": "太空船火箭升級"
   },
   "Description": {
     "English": "Expands the loading chamber of the starship <span class=\"name name-technology\">Rocket Launcher</span>, improving exhaust performance and allowing for significantly faster <span class=\"name name-stellar\">heat recovery</span>.",
     "SimplifiedChinese": "扩大飞船的<span class=\"name name-technology\">火箭发射器</span>装载室，改善排气性能并显著提升<span class=\"name name-stellar\">过热恢复</span>速度。",
+    "TencentChinese": "扩大飞船的<span class=\"name name-technology\">火箭发射器</span>装载室，改善排气性能并显著提升<span class=\"name name-stellar\">过热恢复</span>速度。",
     "TraditionalChinese": "擴大太空船的<span class=\"name name-technology\">火箭發射器</span>裝載室，改善排氣性能並顯著提升<span class=\"name name-stellar\">過熱恢復</span>速度。"
   },
   "Teach": true,

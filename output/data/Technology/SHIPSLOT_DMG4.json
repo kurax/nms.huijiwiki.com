@@ -4,16 +4,19 @@
   "Name": {
     "English": "RADIATION LEAK",
     "SimplifiedChinese": "辐射泄漏",
+    "TencentChinese": "辐射泄漏",
     "TraditionalChinese": "輻射外洩"
   },
   "NameLower": {
     "English": "Radiation Leak",
     "SimplifiedChinese": "辐射泄漏",
+    "TencentChinese": "辐射泄漏",
     "TraditionalChinese": "輻射外洩"
   },
   "Subtitle": {
     "English": "Damaged Starship Component",
     "SimplifiedChinese": "受损的飞船部件",
+    "TencentChinese": "受损的飞船部件",
     "TraditionalChinese": "受損太空船元件"
   },
   "Description": {

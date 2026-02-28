@@ -4,16 +4,19 @@
   "Name": {
     "English": "CORRUPT MODULE",
     "SimplifiedChinese": "受损模块",
+    "TencentChinese": "受损模块",
     "TraditionalChinese": "毀損模組"
   },
   "NameLower": {
     "English": "Corrupt Module",
     "SimplifiedChinese": "受损模块",
+    "TencentChinese": "受损模块",
     "TraditionalChinese": "毀損模組"
   },
   "Subtitle": {
     "English": "Damaged Multi-Tool Component",
     "SimplifiedChinese": "受损的多用途工具部件",
+    "TencentChinese": "受损的多用途工具部件",
     "TraditionalChinese": "受損工具組元件"
   },
   "Description": {

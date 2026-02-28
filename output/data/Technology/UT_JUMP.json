@@ -4,21 +4,25 @@
   "Name": {
     "English": "ROCKET BOOTS",
     "SimplifiedChinese": "火箭靴",
+    "TencentChinese": "火箭靴",
     "TraditionalChinese": "火箭靴"
   },
   "NameLower": {
     "English": "Rocket Boots",
     "SimplifiedChinese": "火箭靴",
+    "TencentChinese": "火箭靴",
     "TraditionalChinese": "火箭靴"
   },
   "Subtitle": {
     "English": "Exosuit Upgrade",
     "SimplifiedChinese": "套装升级",
+    "TencentChinese": "套装升级",
     "TraditionalChinese": "強化套裝升級"
   },
   "Description": {
     "English": "Equips the Exosuit jetpack with <span class=\"name name-stellar\">advanced jump capabilities</span>, allowing the user to take huge leaps with ease.<br><br>Activate jump systems by rapidly pressing <span class=\"name name-img\">JUMP</span>.",
     "SimplifiedChinese": "为套装喷气背包配备<span class=\"name name-stellar\">高级跳跃功能</span>，允许用户轻松高跳。<br><br>通过快按<span class=\"name name-img\">JUMP</span>启用跳跃系统。",
+    "TencentChinese": "为套装喷气背包配备<span class=\"name name-stellar\">高级跳跃功能</span>，允许用户轻松高跳。<br><br>通过快按<span class=\"name name-img\">JUMP</span>启用跳跃系统。",
     "TraditionalChinese": "為強化套裝噴氣背包配備<span class=\"name name-stellar\">高級跳躍功能</span>，允許用戶輕鬆高跳。<br><br>通過快按<span class=\"name name-img\">JUMP</span>啟用跳躍系統。"
   },
   "Teach": true,

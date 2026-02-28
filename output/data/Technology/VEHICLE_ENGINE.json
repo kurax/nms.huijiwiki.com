@@ -4,21 +4,25 @@
   "Name": {
     "English": "FUSION ENGINE",
     "SimplifiedChinese": "聚变发动机",
+    "TencentChinese": "聚变发动机",
     "TraditionalChinese": "核融合引擎"
   },
   "NameLower": {
     "English": "Fusion Engine",
     "SimplifiedChinese": "聚变发动机",
+    "TencentChinese": "聚变发动机",
     "TraditionalChinese": "核融合引擎"
   },
   "Subtitle": {
     "English": "Exocraft Power System",
     "SimplifiedChinese": "强化艇能量系统",
+    "TencentChinese": "强化艇能量系统",
     "TraditionalChinese": "強化艇動力系統"
   },
   "Description": {
     "English": "A compact fusion core common to all Exocraft.<br><br>Requires fuel to function.",
     "SimplifiedChinese": "所有强化艇通用的坚固熔合核。<br><br>运行需要燃料。",
+    "TencentChinese": "所有强化艇通用的坚固熔合核。<br><br>运行需要燃料。",
     "TraditionalChinese": "強化艇通用的小型核融合反應爐心。<br><br>需要燃料以運轉。"
   },
   "Teach": false,

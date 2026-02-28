@@ -57,8 +57,8 @@
       [
         "圆滑的",
         "高热的",
-        null,
-        null,
+        "升级的",
+        "重新接线的",
         "稳定的"
       ],
       [
@@ -101,6 +101,7 @@
   "NameLower": {
     "English": "Launch Thruster",
     "SimplifiedChinese": "发射推进器",
+    "TencentChinese": "发射推进器",
     "TraditionalChinese": "啟動推進器"
   },
   "Subtitle": {

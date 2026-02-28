@@ -2,11 +2,13 @@
   "Name": {
     "English": "CARBON",
     "SimplifiedChinese": "碳",
+    "TencentChinese": "碳",
     "TraditionalChinese": "碳"
   },
   "NameLower": {
     "English": "Carbon",
     "SimplifiedChinese": "碳",
+    "TencentChinese": "碳",
     "TraditionalChinese": "碳"
   },
   "ID": "FUEL1",
@@ -21,13 +23,14 @@
   "Subtitle": {
     "English": "Unrefined Organic Element",
     "SimplifiedChinese": "未提炼有机元素",
+    "TencentChinese": "未提炼有机元素",
     "TraditionalChinese": "未精製有機元素"
   },
   "Description": {
-    "English": "The building block of all organic life. Of critical importance to space travellers, as Carbon is used to <span class=\"name name-fuel\">recharge mining equipment</span>.<br> <br>The <span class=\"name name-technology\">Mining Laser</span> will harvest Carbon from trees, plants, and all other forms of vegetable.",
+    "English": "The building block of all organic life. Of critical importance to space travelers, as Carbon is used to <span class=\"name name-fuel\">recharge mining equipment</span>.<br> <br>The <span class=\"name name-technology\">Mining Laser</span> will harvest Carbon from trees, plants, and all other forms of vegetable.",
     "SimplifiedChinese": "所有有机生命的基石。对空间旅行者至关重要，因为碳可用于<span class=\"name name-fuel\">为开采设备充能</span>。<br> <br><span class=\"name name-technology\">开采激光</span>将从树木、植物和所有其他形式的植被中获取碳。",
-    "TraditionalChinese": "所有有機生命的基礎。對太空旅行者特別重要，因為碳能用來<span class=\"name name-fuel\">補充採礦配備的能量</span>。<br> <br><span class=\"name name-technology\">採礦雷射</span>能從樹木、植物以及任何形式的植披中收集碳。",
-    "USEnglish": "The building block of all organic life. Of critical importance to space travelers, as Carbon is used to <span class=\"name name-fuel\">recharge mining equipment</span>.<br> <br>The <span class=\"name name-technology\">Mining Laser</span> will harvest Carbon from trees, plants, and all other forms of vegetable."
+    "TencentChinese": "所有有机生命的基石。对空间旅行者至关重要，因为碳可用于<span class=\"name name-fuel\">为开采设备充能</span>。<br> <br><span class=\"name name-technology\">开采激光</span>将从树木、植物和所有其他形式的植被中获取碳。",
+    "TraditionalChinese": "所有有機生命的基礎。對太空旅行者特別重要，因為碳能用來<span class=\"name name-fuel\">補充採礦配備的能量</span>。<br> <br><span class=\"name name-technology\">採礦雷射</span>能從樹木、植物以及任何形式的植披中收集碳。"
   },
   "Colour": {
     "R": 0.733333349,
@@ -62,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Carbon",
     "SimplifiedChinese": "收集碳",
+    "TencentChinese": "收集碳",
     "TraditionalChinese": "收集碳"
   },
   "PinObjectiveTip": {
     "English": "Harvest <span class=\"name name-fuel\">Carbon</span> from plants using the <span class=\"name name-technology\">Mining Laser</span>. Fire the laser with <span class=\"name name-img\">ATTACK</span>.<br>WARNING: Excess harvesting may attract attention from Sentinel drones.",
     "SimplifiedChinese": "使用<span class=\"name name-technology\">开采光束</span>从植物中采集<span class=\"name name-fuel\">碳</span>。按下 <span class=\"name name-img\">ATTACK</span> 发射激光。<br>警告：过度采集可能会吸引护卫无人机的注意。",
+    "TencentChinese": "使用<span class=\"name name-technology\">开采光束</span>从植物中采集<span class=\"name name-fuel\">碳</span>。按下 <span class=\"name name-img\">ATTACK</span> 发射激光。<br>警告：过度采集可能会吸引护卫无人机的注意。",
     "TraditionalChinese": "使用<span class=\"name name-technology\">採礦雷射</span>從植物採收<span class=\"name name-fuel\">碳</span>。按<span class=\"name name-img\">ATTACK</span>發射雷射。<br>警告：過度採收可能會引起巡警無人機的注意。"
   },
   "PinObjectiveMessage": {

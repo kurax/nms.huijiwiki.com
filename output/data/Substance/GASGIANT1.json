@@ -1,15 +1,13 @@
 {
   "Name": {
-    "English": "CRYSTALLISED HELIUM",
+    "English": "CRYSTALLIZED HELIUM",
     "SimplifiedChinese": "氦晶体",
-    "TraditionalChinese": "結晶氦",
-    "USEnglish": "CRYSTALLIZED HELIUM"
+    "TraditionalChinese": "結晶氦"
   },
   "NameLower": {
-    "English": "Crystallised Helium",
+    "English": "Crystallized Helium",
     "SimplifiedChinese": "氦晶体",
-    "TraditionalChinese": "結晶氦",
-    "USEnglish": "Crystallized Helium"
+    "TraditionalChinese": "結晶氦"
   },
   "ID": "GASGIANT1",
   "Symbol": {
@@ -20,10 +18,10 @@
   "Icon": "ui/frontend/icons/u4substances/substance.biome.gasgiant.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
-    "English": "Localised Earth Element",
+    "English": "Localized Earth Element",
     "SimplifiedChinese": "地方性土元素",
-    "TraditionalChinese": "區域性大地元素",
-    "USEnglish": "Localized Earth Element"
+    "TencentChinese": "地方性土元素",
+    "TraditionalChinese": "區域性大地元素"
   },
   "Description": {
     "English": "A supercooled chemical extract, typically found in large deposits or extracted from smaller mineral formations after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Extracted from deposits formed in the hostile conditions of <span class=\"name name-special\">gas giants</span>.",
@@ -61,21 +59,20 @@
   "WikiEnabled": true,
   "EconomyInfluenceMultiplier": 0.25,
   "PinObjective": {
-    "English": "Gather or refine Crystallised Helium",
+    "English": "Gather or refine Crystallized Helium",
     "SimplifiedChinese": "收集或精炼氦晶体",
+    "TencentChinese": "收集或精炼氦晶体",
     "TraditionalChinese": "收集或精製結晶氦"
   },
   "PinObjectiveTip": {
-    "English": "Crystallised Helium is a supercooled chemical extract, typically found in large deposits or extracted from smaller mineral formations after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Extracted from deposits formed in the hostile conditions of <span class=\"name name-special\">gas giants</span>.",
+    "English": "Crystallized Helium is a supercooled chemical extract, typically found in large deposits or extracted from smaller mineral formations after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Extracted from deposits formed in the hostile conditions of <span class=\"name name-special\">gas giants</span>.",
     "SimplifiedChinese": "氦晶体是一种处于超低温状态下的化学元素，常见于大型资源点，或者也可以通过<span class=\"name name-technology\">分析面甲</span>查看小型矿物点进行提取。<br><br>能够从在<span class=\"name name-special\">气态巨星</span>的恶劣环境下形成的资源点中采集。",
-    "TraditionalChinese": "結晶氦是極低溫化學萃取物，常見於大型資源產地，也可用<span class=\"name name-technology\">分析護目鏡</span>探測小型礦物岩層採集。<br><br>可在<span class=\"name name-special\">氣態巨行星</span>惡劣條件下形成的資源產地中採集。",
-    "USEnglish": "Crystallized Helium is a supercooled chemical extract, typically found in large deposits or extracted from smaller mineral formations after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Extracted from deposits formed in the hostile conditions of <span class=\"name name-special\">gas giants</span>."
+    "TraditionalChinese": "結晶氦是極低溫化學萃取物，常見於大型資源產地，也可用<span class=\"name name-technology\">分析護目鏡</span>探測小型礦物岩層採集。<br><br>可在<span class=\"name name-special\">氣態巨行星</span>惡劣條件下形成的資源產地中採集。"
   },
   "PinObjectiveMessage": {
-    "English": "Use the <span class=\"name name-technology\">Analysis Visor</span> to locate <span class=\"name name-earth\">Crystallised Helium</span> deposits<br>Crystallised Helium is found on <span class=\"name name-special\">gas giants</span>",
+    "English": "Use the <span class=\"name name-technology\">Analysis Visor</span> to locate <span class=\"name name-earth\">Crystallized Helium</span> deposits<br>Crystallized Helium is found on <span class=\"name name-special\">gas giants</span>",
     "SimplifiedChinese": "使用<span class=\"name name-technology\">分析面甲</span>定位<span class=\"name name-earth\">氦晶体</span>资源点<br>能够在<span class=\"name name-special\">气态巨星</span>上找到氦晶体",
-    "TraditionalChinese": "使用<span class=\"name name-technology\">分析護目鏡</span>找到<span class=\"name name-earth\">結晶氦</span>資源產地<br>結晶氦可見於<span class=\"name name-special\">氣態巨行星</span>",
-    "USEnglish": "Use the <span class=\"name name-technology\">Analysis Visor</span> to locate <span class=\"name name-earth\">Crystallized Helium</span> deposits<br>Crystallized Helium is found on <span class=\"name name-special\">gas giants</span>"
+    "TraditionalChinese": "使用<span class=\"name name-technology\">分析護目鏡</span>找到<span class=\"name name-earth\">結晶氦</span>資源產地<br>結晶氦可見於<span class=\"name name-special\">氣態巨行星</span>"
   },
   "PinObjectiveScannableType": "Terrain",
   "WikiMissionID": "WIKI_GASGIANT1",

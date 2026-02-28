@@ -26,6 +26,7 @@
   "HintEnd": {
     "English": "Switch Weapon Mode by pressing <span class=\"name name-img\">SHIPCYCLEWEAPON</span><br>Fire Weapons with <span class=\"name name-img\">SHIPFIRE</span>",
     "SimplifiedChinese": "按 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切换武器模式<br>按 <span class=\"name name-img\">SHIPFIRE</span> 用武器开火",
+    "TencentChinese": "按 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切换武器模式<br>按 <span class=\"name name-img\">SHIPFIRE</span> 用武器开火",
     "TraditionalChinese": "按下 <span class=\"name name-img\">SHIPCYCLEWEAPON</span> 切換武器模式<br>按下 <span class=\"name name-img\">SHIPFIRE</span> 發射武器"
   },
   "Icon": "ui/frontend/icons/technology/robotship.interface.png",

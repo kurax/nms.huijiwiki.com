@@ -2,11 +2,13 @@
   "Name": {
     "English": "SULPHURINE",
     "SimplifiedChinese": "硫磺",
+    "TencentChinese": "硫磺",
     "TraditionalChinese": "硫氣"
   },
   "NameLower": {
     "English": "Sulphurine",
     "SimplifiedChinese": "硫磺",
+    "TencentChinese": "硫磺",
     "TraditionalChinese": "硫氣"
   },
   "ID": "GAS1",
@@ -21,13 +23,14 @@
   "Subtitle": {
     "English": "Compressed Atmospheric Gas",
     "SimplifiedChinese": "压缩大气气体",
+    "TencentChinese": "压缩大气气体",
     "TraditionalChinese": "大氣壓縮氣體"
   },
   "Description": {
-    "English": "A pungent atmospheric <span class=\"name name-tradeable\">gas</span>. High concentrations are extremely hazardous to organic life.<br><br>With the aid of <span class=\"name name-technology\">specialised machinery</span>, can be extracted from the atmospheres of <span class=\"name name-fuel\">Scorched</span> and <span class=\"name name-special\">Desert</span> planets.",
+    "English": "A pungent atmospheric <span class=\"name name-tradeable\">gas</span>. High concentrations are extremely hazardous to organic life.<br><br>With the aid of <span class=\"name name-technology\">specialized machinery</span>, can be extracted from the atmospheres of <span class=\"name name-fuel\">Scorched</span> and <span class=\"name name-special\">Desert</span> planets.",
     "SimplifiedChinese": "大气中一种刺鼻的<span class=\"name name-tradeable\">气体</span>。如果其浓度过高，对有机物来说是十分危险的。<br><br>在<span class=\"name name-technology\">专用装置</span>的帮助下，可以从<span class=\"name name-fuel\">炽热</span>和<span class=\"name name-special\">沙漠</span>星球上的大气中将气体抽取出来。",
-    "TraditionalChinese": "氣味強烈的大氣<span class=\"name name-tradeable\">氣體</span>。濃度高時，對有機生命極度有害。<br><br>若借助<span class=\"name name-technology\">專門機器</span>，可從<span class=\"name name-fuel\">炙熱</span>與<span class=\"name name-special\">沙漠</span>的星球大氣中萃取到。",
-    "USEnglish": "A pungent atmospheric <span class=\"name name-tradeable\">gas</span>. High concentrations are extremely hazardous to organic life.<br><br>With the aid of <span class=\"name name-technology\">specialized machinery</span>, can be extracted from the atmospheres of <span class=\"name name-fuel\">Scorched</span> and <span class=\"name name-special\">Desert</span> planets."
+    "TencentChinese": "大气中一种刺鼻的<span class=\"name name-tradeable\">气体</span>。如果其浓度过高，对有机物来说是十分危险的。<br><br>在<span class=\"name name-technology\">专用装置</span>的帮助下，可以从<span class=\"name name-fuel\">炽热</span>和<span class=\"name name-special\">沙漠</span>星球上的大气中将气体抽取出来。",
+    "TraditionalChinese": "氣味強烈的大氣<span class=\"name name-tradeable\">氣體</span>。濃度高時，對有機生命極度有害。<br><br>若借助<span class=\"name name-technology\">專門機器</span>，可從<span class=\"name name-fuel\">炙熱</span>與<span class=\"name name-special\">沙漠</span>的星球大氣中萃取到。"
   },
   "Colour": {
     "R": 0.149019614,
@@ -62,11 +65,13 @@
   "PinObjective": {
     "English": "Process Sulphurine",
     "SimplifiedChinese": "处理硫磺",
+    "TencentChinese": "处理硫磺",
     "TraditionalChinese": "加工硫氣"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Sulphurine</span> is a pungent atmospheric <span class=\"name name-tradeable\">gas</span>. High concentrations are extremely hazardous to organic life.<br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the atmospheres of <span class=\"name name-fuel\">Scorched</span> and <span class=\"name name-special\">Barren</span> planets.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">硫磺</span>是一种刺鼻的大气<span class=\"name name-tradeable\">气体</span>。高浓度条件下对有机生命有剧毒。<br>可以使用<span class=\"name name-technology\">大气采集器</span>，从<span class=\"name name-fuel\">炎热</span>和<span class=\"name name-fuel\">贫瘠</span>星球上的大气中将气体提取出来。",
+    "TencentChinese": "<span class=\"name name-tradeable\">硫磺</span>是一种刺鼻的大气<span class=\"name name-tradeable\">气体</span>。高浓度条件下对有机生命有剧毒。<br>可以使用<span class=\"name name-technology\">大气采集器</span>，从<span class=\"name name-fuel\">炎热</span>和<span class=\"name name-fuel\">贫瘠</span>星球上的大气中将气体提取出来。",
     "TraditionalChinese": "<span class=\"name name-tradeable\">硫氣</span>是氣味強烈的大氣<span class=\"name name-tradeable\">氣體</span>。高濃度極度有害有機生命。<br>若借助<span class=\"name name-technology\">大氣採集器</span>，可從<span class=\"name name-fuel\">焦土</span>和<span class=\"name name-special\">荒蕪</span>星球的大氣層中萃取到。"
   },
   "PinObjectiveMessage": {

@@ -4,21 +4,25 @@
   "Name": {
     "English": "SUPERCONDUCTIVE LOCK",
     "SimplifiedChinese": "超导锁",
+    "TencentChinese": "超导锁",
     "TraditionalChinese": "超導體鎖"
   },
   "NameLower": {
     "English": "Superconductive Lock",
     "SimplifiedChinese": "超导锁",
+    "TencentChinese": "超导锁",
     "TraditionalChinese": "超導體鎖"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A highly advanced locking device. Damage to the circuits supplying the magnet has caused it to lock permanently.",
     "SimplifiedChinese": "非常高级的锁闭设备。提供磁力的电路受损，使它永远锁定了。",
+    "TencentChinese": "非常高级的锁闭设备。提供磁力的电路受损，使它永远锁定了。",
     "TraditionalChinese": "非常先進的鎖鑰裝置。磁鐵供應電路損毀，導致裝置再也打不開。"
   },
   "Teach": false,

@@ -3,16 +3,19 @@
   "Group": {
     "English": "Deflector Shield",
     "SimplifiedChinese": "偏导护盾",
+    "TencentChinese": "偏导护盾",
     "TraditionalChinese": "反射防護罩"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

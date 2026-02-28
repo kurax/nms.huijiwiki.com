@@ -4,21 +4,25 @@
   "Name": {
     "English": "TINY MOTOR",
     "SimplifiedChinese": "微型马达",
+    "TencentChinese": "微型马达",
     "TraditionalChinese": "小馬達"
   },
   "NameLower": {
     "English": "Tiny motor",
     "SimplifiedChinese": "微型马达",
+    "TencentChinese": "微型马达",
     "TraditionalChinese": "小馬達"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A very small motor, designed to power very small parts. It has corroded, and is full of very small rust.",
     "SimplifiedChinese": "非常小型的马达，用于为小型配件供能。它已经受到腐蚀，布满锈迹。",
+    "TencentChinese": "非常小型的马达，用于为小型配件供能。它已经受到腐蚀，布满锈迹。",
     "TraditionalChinese": "極小馬達，設計能為極小零件提供電力。已遭腐蝕，滿是極小的鐵鏽。"
   },
   "Teach": false,

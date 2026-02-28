@@ -18,17 +18,38 @@
       [
         "Warp Core",
         "Antimatter Injector",
-        "Reality Destabiliser",
+        "Reality Destabilizer",
         "Frame Drag Limiter",
         "Pressure Inverter",
         "Vacuum Drive",
-        "Distance Polariser",
+        "Distance Polarizer",
         "Causality Isolator",
         "Relativity Shield",
         "Superluminal Drive"
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "极端",
+        "增强",
+        "固态",
+        "陀螺",
+        "专业"
+      ],
+      [
+        "曲速核心",
+        "反物质注射器",
+        "现实破坏器",
+        "参考系拖拽限制器",
+        "压力反相器",
+        "真空驱动器",
+        "距离偏振器",
+        "因果隔离器",
+        "相对性护盾",
+        "超光速驱动器"
+      ]
+    ],
+    "TencentChinese": [
       [
         "极端",
         "增强",
@@ -69,23 +90,12 @@
         "相對論防護罩",
         "超光速驅動器"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        "Reality Destabilizer",
-        null,
-        null,
-        null,
-        "Distance Polarizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Hyperdrive",
     "SimplifiedChinese": "超光速推进",
+    "TencentChinese": "超光速推进",
     "TraditionalChinese": "超空間驅動器"
   },
   "Subtitle": {

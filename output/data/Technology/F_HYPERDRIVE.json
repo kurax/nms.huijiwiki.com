@@ -4,23 +4,26 @@
   "Name": {
     "English": "FREIGHTER HYPERDRIVE",
     "SimplifiedChinese": "货船 超光速推进",
+    "TencentChinese": "货船 超光速推进",
     "TraditionalChinese": "貨船 超空間驅動器"
   },
   "NameLower": {
     "English": "Freighter Hyperdrive",
     "SimplifiedChinese": "货船 超光速推进",
+    "TencentChinese": "货船 超光速推进",
     "TraditionalChinese": "貨運船 超空間驅動器"
   },
   "Subtitle": {
     "English": "Lightspeed Warp Drive",
     "SimplifiedChinese": "光速曲速推进器",
+    "TencentChinese": "光速曲速推进器",
     "TraditionalChinese": "光速空間跳躍推進器"
   },
   "Description": {
-    "English": "FTL propulsion drive that allows starship to attain warp speed and jump between neighbouring systems.",
+    "English": "FTL propulsion drive that allows starship to attain warp speed and jump between neighboring systems.",
     "SimplifiedChinese": "可让飞船达到曲速并在相邻星系间跳跃的超光速推进器。",
-    "TraditionalChinese": "能讓太空船達到空間跳躍速度、並於鄰近星系間跳躍的超光速推進器。",
-    "USEnglish": "FTL propulsion drive that allows starship to attain warp speed and jump between neighboring systems."
+    "TencentChinese": "可让飞船达到曲速并在相邻星系间跳跃的超光速推进器。",
+    "TraditionalChinese": "能讓太空船達到空間跳躍速度、並於鄰近星系間跳躍的超光速推進器。"
   },
   "Teach": true,
   "HintStart": "",

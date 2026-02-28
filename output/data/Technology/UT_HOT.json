@@ -4,21 +4,25 @@
   "Name": {
     "English": "COOLANT NETWORK",
     "SimplifiedChinese": "冷却网格",
+    "TencentChinese": "冷却网格",
     "TraditionalChinese": "冷卻網層"
   },
   "NameLower": {
     "English": "Coolant Network",
     "SimplifiedChinese": "冷却网格",
+    "TencentChinese": "冷却网格",
     "TraditionalChinese": "冷卻網層"
   },
   "Subtitle": {
     "English": "Hazard Protection Unit",
     "SimplifiedChinese": "危险防护单元",
+    "TencentChinese": "危险防护单元",
     "TraditionalChinese": "風險防護單位"
   },
   "Description": {
     "English": "User is guarded from extreme heat damage on scorched worlds.<br><br>Provides relief from intense atmospheric and solar heat through a threaded dermal distribution network of liquid frenium.<br><br>Device is charged by <span class=\"name name-earth\">mineral extracts</span> found in hot environments. Operates automatically once constructed within user's exosuit inventory.",
     "SimplifiedChinese": "使用者在酷热星球探索时可免受高温灼伤。<br><br>液态弗莱纽姆经由内衬的网络流遍全身，替在高气温环境中或炽烈阳光下的使用者消暑。<br><br>炎热环境中的<span class=\"name name-earth\">矿产提取物</span>可为本设备充能。本设备在使用者的套装库存中制造完毕后自动生效。",
+    "TencentChinese": "使用者在酷热星球探索时可免受高温灼伤。<br><br>液态弗莱纽姆经由内衬的网络流遍全身，替在高气温环境中或炽烈阳光下的使用者消暑。<br><br>炎热环境中的<span class=\"name name-earth\">矿产提取物</span>可为本设备充能。本设备在使用者的套装库存中制造完毕后自动生效。",
     "TraditionalChinese": "可保護使用者不受焦土世界的極熱傷害。<br><br>藉由分布於皮膚上的交織網路釋放降溫液，舒緩刺激環境或太陽熱量造成的不適。<br><br>裝置需使用可在炎熱環境中取得的<span class=\"name name-earth\">礦物萃取物</span>補充。建造於使用者的強化套裝道具欄後便會自動啟用。"
   },
   "Teach": true,

@@ -4,6 +4,7 @@
   "Group": {
     "English": "Plasma Launcher",
     "SimplifiedChinese": "等离子发射器",
+    "TencentChinese": "等离子发射器",
     "TraditionalChinese": "電漿發射器"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "定时套管"
       ]
     ],
+    "TencentChinese": [
+      [
+        "已增强",
+        "第二",
+        "第三",
+        "高效",
+        "已润滑"
+      ],
+      [
+        "压缩机",
+        "发射系统",
+        "注射器插头",
+        "释放机制",
+        "气体扩张器",
+        "核心",
+        "线圈",
+        "制弹器",
+        "热力泵",
+        "定时套管"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "增強的",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Plasma Launcher",
     "SimplifiedChinese": "等离子发射器",
+    "TencentChinese": "等离子发射器",
     "TraditionalChinese": "電漿發射器"
   },
   "Subtitle": {

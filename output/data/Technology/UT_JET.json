@@ -4,21 +4,25 @@
   "Name": {
     "English": "NEURAL STIMULATOR",
     "SimplifiedChinese": "神经刺激器",
+    "TencentChinese": "神经刺激器",
     "TraditionalChinese": "神經刺激器"
   },
   "NameLower": {
     "English": "Neural Stimulator",
     "SimplifiedChinese": "神经刺激器",
+    "TencentChinese": "神经刺激器",
     "TraditionalChinese": "神經刺激器"
   },
   "Subtitle": {
     "English": "Exosuit Movement Upgrade",
     "SimplifiedChinese": "套装运动升级",
+    "TencentChinese": "套装运动升级",
     "TraditionalChinese": "強化套裝運動升級"
   },
   "Description": {
     "English": "Increases the capacity of the Exosuit's <span class=\"name name-stellar\">Jetpack Tanks</span> and <span class=\"name name-stellar\">Adrenal Pump Reserves</span>, allowing the user to both fly and sprint longer.",
     "SimplifiedChinese": "增加套装的<span class=\"name name-stellar\">喷气背包罐</span>和<span class=\"name name-stellar\">肾上腺泵储备</span>的容量，允许用户更加持久地飞行和冲刺。",
+    "TencentChinese": "增加套装的<span class=\"name name-stellar\">喷气背包罐</span>和<span class=\"name name-stellar\">肾上腺泵储备</span>的容量，允许用户更加持久地飞行和冲刺。",
     "TraditionalChinese": "增加強化套裝的<span class=\"name name-stellar\">噴氣背包罐</span>和<span class=\"name name-stellar\">腎上腺泵儲備</span>的容量，允許用戶更加持久地飛行和衝刺。"
   },
   "Teach": true,

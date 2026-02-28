@@ -4,6 +4,7 @@
   "Group": {
     "English": "Aeration Membrane",
     "SimplifiedChinese": "曝气膜",
+    "TencentChinese": "曝气膜",
     "TraditionalChinese": "曝氣黏膜"
   },
   "Name": {
@@ -13,14 +14,14 @@
         "Extreme",
         "Saturated",
         "Organic",
-        "Pressurised"
+        "Pressurized"
       ],
       [
         "Air Filter",
         "Air Harvester",
         "Breath Recycler",
         "Gill Unit",
-        "Gas Pressuriser",
+        "Gas Pressurizer",
         "Air Circulator",
         "Lung Replacement",
         "Gas Pumps",
@@ -29,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "增压的",
+        "极端的",
+        "浸透的",
+        "有机的",
+        "加压的"
+      ],
+      [
+        "空气过滤器",
+        "空气收集器",
+        "呼吸循环器",
+        "腮装置",
+        "气体加压器",
+        "空气循环器",
+        "肺替代品",
+        "气体泵",
+        "呼吸器",
+        "深度防护装置"
+      ]
+    ],
+    "TencentChinese": [
       [
         "增压的",
         "极端的",
@@ -69,32 +91,18 @@
         "呼吸器",
         "深度防護元件"
       ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "Pressurized"
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        "Gas Pressurizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Aeration Membrane",
     "SimplifiedChinese": "曝气膜",
+    "TencentChinese": "曝气膜",
     "TraditionalChinese": "曝氣黏膜"
   },
   "Subtitle": {
     "English": "Significant Underwater Oxygen Upgrade",
     "SimplifiedChinese": "显著的水下供氧升级",
+    "TencentChinese": "显著的水下供氧升级",
     "TraditionalChinese": "顯著的水下供氧升級"
   },
   "Description": {

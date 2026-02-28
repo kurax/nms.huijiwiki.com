@@ -2,22 +2,19 @@
   "ID": "UP_FRCOM2",
   "Template": "T_FR_COM",
   "Group": {
-    "English": "EXPEDITION DEFENCES CONTROL",
+    "English": "EXPEDITION DEFENSES CONTROL",
     "SimplifiedChinese": "远征防御控制",
-    "TraditionalChinese": "探險防禦控制",
-    "USEnglish": "EXPEDITION DEFENSES CONTROL"
+    "TraditionalChinese": "探險防禦控制"
   },
   "Name": {
-    "English": "EXPEDITION DEFENCES CONTROL",
+    "English": "EXPEDITION DEFENSES CONTROL",
     "SimplifiedChinese": "远征防御控制",
-    "TraditionalChinese": "探險防禦控制",
-    "USEnglish": "EXPEDITION DEFENSES CONTROL"
+    "TraditionalChinese": "探險防禦控制"
   },
   "NameLower": {
-    "English": "Expedition Defences Control",
+    "English": "Expedition Defenses Control",
     "SimplifiedChinese": "远征防御控制",
-    "TraditionalChinese": "探險防禦控制",
-    "USEnglish": "Expedition Defenses Control"
+    "TraditionalChinese": "探險防禦控制"
   },
   "Subtitle": {
     "English": "Salvaged Freighter Module",
@@ -25,7 +22,7 @@
     "TraditionalChinese": "回收貨船模組"
   },
   "Description": {
-    "English": "A piece of fleet coordination hardware salvaged from wreck of the <span class=\"name name-technology\">Expedition Defences Control</span>. The unit has been repackaged and inserted alongside the freighter's long-range defensive systems.<br><br>The unit offers improvements to the <span class=\"name name-stellar\">combat and defense abilities</span> of <span class=\"name name-stellar\">all expeditions</span>.",
+    "English": "A piece of fleet coordination hardware salvaged from wreck of the <span class=\"name name-technology\">Expedition Defenses Control</span>. The unit has been repackaged and inserted alongside the freighter's long-range defensive systems.<br><br>The unit offers improvements to the <span class=\"name name-stellar\">combat and defense abilities</span> of <span class=\"name name-stellar\">all expeditions</span>.",
     "SimplifiedChinese": "从<span class=\"name name-technology\">远征防御控制</span>残骸中回收的一件舰队协调硬件。这件装置已经重新包装并插入，与货船的远程防御系统一同使用。<br><br>该装置可改善<span class=\"name name-stellar\">所有远征</span>的<span class=\"name name-stellar\">战斗和防御能力</span>。",
     "TraditionalChinese": "從<span class=\"name name-technology\">探險防禦控制</span>殘骸回收的一塊協調硬體，已經重新包裝並插入貨船的長程防禦系統。<br><br>這個單元能改善<span class=\"name name-stellar\">所有探險</span>的<span class=\"name name-stellar\">戰鬥及防禦能力</span>。"
   },

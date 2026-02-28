@@ -18,10 +18,10 @@
   "Icon": "ui/frontend/icons/u4substances/substance.biome.waterworld.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
-    "English": "Localised Earth Element",
+    "English": "Localized Earth Element",
     "SimplifiedChinese": "地方性土元素",
-    "TraditionalChinese": "區域性大地元素",
-    "USEnglish": "Localized Earth Element"
+    "TencentChinese": "地方性土元素",
+    "TraditionalChinese": "區域性大地元素"
   },
   "Description": {
     "English": "Local metallic extract, typically found in large deposits or harvested from common mineral formations after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Typically found on <span class=\"name name-technology\">ocean planets</span>.",
@@ -61,6 +61,7 @@
   "PinObjective": {
     "English": "Gather or refine Lithium",
     "SimplifiedChinese": "收集或精炼锂",
+    "TencentChinese": "收集或精炼锂",
     "TraditionalChinese": "收集或精製鋰"
   },
   "PinObjectiveTip": {

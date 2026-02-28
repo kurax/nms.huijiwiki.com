@@ -4,16 +4,19 @@
   "Name": {
     "English": "DAMAGED WIRING",
     "SimplifiedChinese": "受损的线路",
+    "TencentChinese": "受损的线路",
     "TraditionalChinese": "受損線路"
   },
   "NameLower": {
     "English": "Damaged Wiring",
     "SimplifiedChinese": "受损的线路",
+    "TencentChinese": "受损的线路",
     "TraditionalChinese": "受損線路"
   },
   "Subtitle": {
     "English": "Damaged Multi-Tool Component",
     "SimplifiedChinese": "受损的多用途工具部件",
+    "TencentChinese": "受损的多用途工具部件",
     "TraditionalChinese": "受損工具組元件"
   },
   "Description": {

@@ -2,11 +2,13 @@
   "Name": {
     "English": "DIOXITE",
     "SimplifiedChinese": "二氧化物",
+    "TencentChinese": "二氧化物",
     "TraditionalChinese": "二氧化物"
   },
   "NameLower": {
     "English": "Dioxite",
     "SimplifiedChinese": "二氧化物",
+    "TencentChinese": "二氧化物",
     "TraditionalChinese": "二氧化物"
   },
   "ID": "COLD1",
@@ -19,14 +21,15 @@
   "Icon": "ui/frontend/icons/u4substances/substance.biome.cold.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
-    "English": "Localised Earth Element",
+    "English": "Localized Earth Element",
     "SimplifiedChinese": "地方性土元素",
-    "TraditionalChinese": "區域性大地元素",
-    "USEnglish": "Localized Earth Element"
+    "TencentChinese": "地方性土元素",
+    "TraditionalChinese": "區域性大地元素"
   },
   "Description": {
     "English": "Local mineral extract, typically found in large deposits or extracted from common minerals after inspection with an <span class=\"name name-technology\">Analysis Visor</span>.<br><br>Typically found on planets with a <span class=\"name name-technology\">frozen environment</span>.",
     "SimplifiedChinese": "当地矿物提取物通常可在大型矿床中发现，或是使用 <span class=\"name name-technology\">分析面甲</span>检查后从常见矿物中提取。<br><br>通常可在具有<span class=\"name name-technology\">严寒环境</span>的星球中发现。",
+    "TencentChinese": "当地矿物提取物通常可在大型矿床中发现，或是使用 <span class=\"name name-technology\">分析面甲</span>检查后从常见矿物中提取。<br><br>通常可在具有<span class=\"name name-technology\">严寒环境</span>的星球中发现。",
     "TraditionalChinese": "當地礦物萃取物，常見於大型資源產地，也可用<span class=\"name name-technology\">分析護目鏡</span>探測常見礦物萃取。<br><br>常見於<span class=\"name name-technology\">冰凍環境</span>的星球上。"
   },
   "Colour": {
@@ -62,11 +65,13 @@
   "PinObjective": {
     "English": "Gather or refine Dioxite",
     "SimplifiedChinese": "收集或精炼二氧化物",
+    "TencentChinese": "收集或精炼二氧化物",
     "TraditionalChinese": "收集或精製二氧化物"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-earth\">Dioxite</span> is found primarily on worlds with a <span class=\"name name-technology\">frozen environment</span>. Typically found in large deposits and located with the <span class=\"name name-technology\">Analysis Visor</span>.<br>Common ferrite rocks may yield Dioxite after inspection with an <span class=\"name name-technology\">Analysis Visor</span>. Can be <span class=\"name name-technology\">refined</span> from other terrain metals.",
     "SimplifiedChinese": "<span class=\"name name-earth\">二氧化物</span>主要出现在具有<span class=\"name name-technology\">低温环境</span>的世界里。通常可在大型矿床中找到，可使用<span class=\"name name-technology\">分析面甲</span>来定位。<br>使用<span class=\"name name-technology\">分析面甲</span>来检查普通铁氧体岩石，可能发现二氧化物。可由其他岩层金属<span class=\"name name-technology\">精炼</span>得到。",
+    "TencentChinese": "<span class=\"name name-earth\">二氧化物</span>主要出现在具有<span class=\"name name-technology\">低温环境</span>的世界里。通常可在大型矿床中找到，可使用<span class=\"name name-technology\">分析面甲</span>来定位。<br>使用<span class=\"name name-technology\">分析面甲</span>来检查普通铁氧体岩石，可能发现二氧化物。可由其他岩层金属<span class=\"name name-technology\">精炼</span>得到。",
     "TraditionalChinese": "<span class=\"name name-earth\">二氧化物</span>主要可見於<span class=\"name name-technology\">結冰環境</span>的世界。常見於大型資源產地，並可用<span class=\"name name-technology\">分析護目鏡</span>找到。<br>常見的鐵氧體岩石在使用<span class=\"name name-technology\">分析護目鏡</span>檢驗後可能會產出二氧化物。可從其他地形元素<span class=\"name name-technology\">精製</span>而成。"
   },
   "PinObjectiveMessage": {

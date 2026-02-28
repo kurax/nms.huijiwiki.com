@@ -2,11 +2,13 @@
   "Name": {
     "English": "SODIUM",
     "SimplifiedChinese": "钠",
+    "TencentChinese": "钠",
     "TraditionalChinese": "鈉"
   },
   "NameLower": {
     "English": "Sodium",
     "SimplifiedChinese": "钠",
+    "TencentChinese": "钠",
     "TraditionalChinese": "鈉"
   },
   "ID": "CATALYST1",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Unrefined Catalytic Element",
     "SimplifiedChinese": "未提炼催化元素",
+    "TencentChinese": "未提炼催化元素",
     "TraditionalChinese": "未精製催化元素"
   },
   "Description": {
     "English": "A powerful <span class=\"name name-catalyst\">catalyst</span>, useful for charging <span class=\"name name-commodity\">defensive technologies</span> such as shields or hazard protection.<br> <br>Exosuit material handling technology allows automatic harvesting from appropriate <CATALYST<>sodium-rich flora<>.<br><br>A vital ingredient in the creation of many advanced devices, products and components.",
     "SimplifiedChinese": "一种强大的<span class=\"name name-catalyst\">催化剂</span>，用于为<span class=\"name name-commodity\">防御技术</span>（如护盾和危险防护）充能。<br> <br>套装的材料处理技术使其能在合适的<CATALYST<>富钠植物群系<>中自动收获。<br><br>这是制作很多高级设备、产品和部件的关键原料。",
+    "TencentChinese": "一种强大的<span class=\"name name-catalyst\">催化剂</span>，用于为<span class=\"name name-commodity\">防御技术</span>（如护盾和危险防护）充能。<br> <br>套装的材料处理技术使其能在合适的<CATALYST<>富钠植物群系<>中自动收获。<br><br>这是制作很多高级设备、产品和部件的关键原料。",
     "TraditionalChinese": "一種強力<span class=\"name name-catalyst\">催化劑</span>，能用來為防護罩或風險防護系統等<span class=\"name name-commodity\">防衛科技</span>充能。<br> <br>強化套裝上的材料處理科技，遇到適當的<span class=\"name name-catalyst\">富鈉植物</span>時，會自動採集鈉。<br><br>製作許多先進裝置、產品與元件時都少不了這項原料。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Sodium",
     "SimplifiedChinese": "收集钠",
+    "TencentChinese": "收集钠",
     "TraditionalChinese": "收集鈉"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-catalyst\">Sodium</span> is harvested from yellow plants found on all planets. Locate sodium-rich plants with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>).",
     "SimplifiedChinese": "<span class=\"name name-catalyst\">钠</span>可以从所有行星上都有的黄色植物中采集。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富含钠的植物。",
+    "TencentChinese": "<span class=\"name name-catalyst\">钠</span>可以从所有行星上都有的黄色植物中采集。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位富含钠的植物。",
     "TraditionalChinese": "<span class=\"name name-catalyst\">鈉</span>可從所有星球上的黃色植物中採收。用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）找出富有鈉的植物。"
   },
   "PinObjectiveMessage": {

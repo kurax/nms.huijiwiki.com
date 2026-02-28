@@ -4,21 +4,25 @@
   "Name": {
     "English": "MASTER CIRCUIT",
     "SimplifiedChinese": "主电路",
+    "TencentChinese": "主电路",
     "TraditionalChinese": "主迴路"
   },
   "NameLower": {
     "English": "Master Circuit",
     "SimplifiedChinese": "主电路",
+    "TencentChinese": "主电路",
     "TraditionalChinese": "主迴路"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "The control circuit for all the other components in the device. Damage to this circuitry is fatal.",
     "SimplifiedChinese": "设备所有其他部件的控制电路。电路出现致命损坏。",
+    "TencentChinese": "设备所有其他部件的控制电路。电路出现致命损坏。",
     "TraditionalChinese": "裝置內所有部件的控制電路。電路損毀，後果不堪設想。"
   },
   "Teach": false,

@@ -4,23 +4,26 @@
   "Name": {
     "English": "BLAZE JAVELIN",
     "SimplifiedChinese": "火焰标枪",
+    "TencentChinese": "火焰标枪",
     "TraditionalChinese": "火焰標槍"
   },
   "NameLower": {
     "English": "Blaze Javelin",
     "SimplifiedChinese": "火焰标枪",
+    "TencentChinese": "火焰标枪",
     "TraditionalChinese": "火焰標槍"
   },
   "Subtitle": {
     "English": "Energy Beam Weapon",
     "SimplifiedChinese": "能量射束武器",
+    "TencentChinese": "能量射束武器",
     "TraditionalChinese": "能量光束武器"
   },
   "Description": {
-    "English": "Aggressive weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The Blaze Javelin delivers instantaneous damage on targets.<br><br>Plasma charge process creates an ionised gas arc to propel projectiles at great speed. User will perceive destructive results simultaneous to the pull of the trigger.",
+    "English": "Aggressive weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The Blaze Javelin delivers instantaneous damage on targets.<br><br>Plasma charge process creates an ionized gas arc to propel projectiles at great speed. User will perceive destructive results simultaneous to the pull of the trigger.",
     "SimplifiedChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的攻击型武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">火焰标枪</span>能立刻对目标造成伤害。<br><br>离子充能过程中将制造出高速推进射弹的电离化气弧。使用者会在扣动扳机的同时感受到破坏性效果。",
-    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的侵略性武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br>火焰標槍可對目標造成立即傷害。<br><br>電漿填充程序會創造出一道離子化氣體電弧，進而以超高速度推動射彈。使用者扣下扳機的同時就會觀測到破壞結果。",
-    "USEnglish": "Aggressive weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The Blaze Javelin delivers instantaneous damage on targets.<br><br>Plasma charge process creates an ionized gas arc to propel projectiles at great speed. User will perceive destructive results simultaneous to the pull of the trigger."
+    "TencentChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的攻击型武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">火焰标枪</span>能立刻对目标造成伤害。<br><br>离子充能过程中将制造出高速推进射弹的电离化气弧。使用者会在扣动扳机的同时感受到破坏性效果。",
+    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的侵略性武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br>火焰標槍可對目標造成立即傷害。<br><br>電漿填充程序會創造出一道離子化氣體電弧，進而以超高速度推動射彈。使用者扣下扳機的同時就會觀測到破壞結果。"
   },
   "Teach": true,
   "HintStart": "",

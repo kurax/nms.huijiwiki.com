@@ -1,15 +1,15 @@
 {
   "Name": {
-    "English": "IONISED COBALT",
+    "English": "IONIZED COBALT",
     "SimplifiedChinese": "离子钴",
-    "TraditionalChinese": "離子化鈷",
-    "USEnglish": "IONIZED COBALT"
+    "TencentChinese": "离子钴",
+    "TraditionalChinese": "離子化鈷"
   },
   "NameLower": {
-    "English": "Ionised Cobalt",
+    "English": "Ionized Cobalt",
     "SimplifiedChinese": "离子钴",
-    "TraditionalChinese": "離子化鈷",
-    "USEnglish": "Ionized Cobalt"
+    "TencentChinese": "离子钴",
+    "TraditionalChinese": "離子化鈷"
   },
   "ID": "CAVE2",
   "Symbol": {
@@ -23,13 +23,14 @@
   "Subtitle": {
     "English": "Processed Subterranean Mineral",
     "SimplifiedChinese": "加工后的地下矿物",
+    "TencentChinese": "加工后的地下矿物",
     "TraditionalChinese": "已加工的地底礦物"
   },
   "Description": {
-    "English": "A highly energised form of <span class=\"name name-technology\">Cobalt</span>, this processed metal can be used to create <span class=\"name name-commodity\">Advanced Ion Batteries</span>, a conveniently portable source of energy for the <span class=\"name name-technology\">Exosuit</span>.<br><br>In widespread use as a key component in the creation of <span class=\"name name-technology\">advanced technologies and structures</span>.",
+    "English": "A highly energized form of <span class=\"name name-technology\">Cobalt</span>, this processed metal can be used to create <span class=\"name name-commodity\">Advanced Ion Batteries</span>, a conveniently portable source of energy for the <span class=\"name name-technology\">Exosuit</span>.<br><br>In widespread use as a key component in the creation of <span class=\"name name-technology\">advanced technologies and structures</span>.",
     "SimplifiedChinese": "<span class=\"name name-technology\">钴</span>的高能形态，这种加工后的金属可用于制造<span class=\"name name-commodity\">高级离子电池</span>，是一种轻便的便携式<span class=\"name name-technology\">套装</span>能量源。<br><br>广泛用于创建<span class=\"name name-technology\">高级技术和建筑</span> 的关键组件。",
-    "TraditionalChinese": "<span class=\"name name-technology\">鈷</span>的高能量形態。這種加工金屬能用來製造<span class=\"name name-commodity\">先進離子電池</span>，方便隨時隨地補充<span class=\"name name-technology\">強化套裝</span>能量。<br><br>用途廣泛，是製作<span class=\"name name-technology\">先進科技與結構</span>的重要元件。",
-    "USEnglish": "A highly energized form of <span class=\"name name-technology\">Cobalt</span>, this processed metal can be used to create <span class=\"name name-commodity\">Advanced Ion Batteries</span>, a conveniently portable source of energy for the <span class=\"name name-technology\">Exosuit</span>.<br><br>In widespread use as a key component in the creation of <span class=\"name name-technology\">advanced technologies and structures</span>."
+    "TencentChinese": "<span class=\"name name-technology\">钴</span>的高能形态，这种加工后的金属可用于制造<span class=\"name name-commodity\">高级离子电池</span>，是一种轻便的便携式<span class=\"name name-technology\">套装</span>能量源。<br><br>广泛用于创建<span class=\"name name-technology\">高级技术和建筑</span> 的关键组件。",
+    "TraditionalChinese": "<span class=\"name name-technology\">鈷</span>的高能量形態。這種加工金屬能用來製造<span class=\"name name-commodity\">先進離子電池</span>，方便隨時隨地補充<span class=\"name name-technology\">強化套裝</span>能量。<br><br>用途廣泛，是製作<span class=\"name name-technology\">先進科技與結構</span>的重要元件。"
   },
   "Colour": {
     "R": 0,
@@ -62,15 +63,16 @@
   "WikiEnabled": true,
   "EconomyInfluenceMultiplier": 0.25,
   "PinObjective": {
-    "English": "Refine Ionised Cobalt",
+    "English": "Refine Ionized Cobalt",
     "SimplifiedChinese": "精炼离子钴",
+    "TencentChinese": "精炼离子钴",
     "TraditionalChinese": "精製離子化鈷"
   },
   "PinObjectiveTip": {
-    "English": "<span class=\"name name-technology\">Ionised Cobalt</span> is created from Cobalt in a <span class=\"name name-technology\">Refiner</span>. Locate Cobalt underground.<br>Locate natural cave entrances. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.",
+    "English": "<span class=\"name name-technology\">Ionized Cobalt</span> is created from Cobalt in a <span class=\"name name-technology\">Refiner</span>. Locate Cobalt underground.<br>Locate natural cave entrances. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora.",
     "SimplifiedChinese": "<span class=\"name name-technology\">离子钴</span>可用<span class=\"name name-technology\">精炼机</span>从钴中制得。定位地下的钴。<br>寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。",
-    "TraditionalChinese": "<span class=\"name name-technology\">離子化鈷</span>是透過使用<span class=\"name name-technology\">精製機</span>從鈷製造出來的。找出地底下的鈷。<br>找出天然洞穴入口。<span class=\"name name-red\">警告：</span>許多洞穴內有危險植物。",
-    "USEnglish": "<span class=\"name name-technology\">Ionized Cobalt</span> is created from Cobalt in a <span class=\"name name-technology\">Refiner</span>. Locate Cobalt underground.<br>Locate natural cave entrances. <span class=\"name name-red\">WARNING:</span> many caves contain hazardous flora."
+    "TencentChinese": "<span class=\"name name-technology\">离子钴</span>可用<span class=\"name name-technology\">精炼机</span>从钴中制得。定位地下的钴。<br>寻找天然洞穴的入口。<span class=\"name name-red\">警告：</span>许多洞穴中存在危险植物群系。",
+    "TraditionalChinese": "<span class=\"name name-technology\">離子化鈷</span>是透過使用<span class=\"name name-technology\">精製機</span>從鈷製造出來的。找出地底下的鈷。<br>找出天然洞穴入口。<span class=\"name name-red\">警告：</span>許多洞穴內有危險植物。"
   },
   "PinObjectiveMessage": {
     "English": "<span class=\"name name-technology\">Ionised Cobalt</span> is created from Cobalt in a <span class=\"name name-technology\">Refiner</span><br>Locate cobalt underground by finding natural cave entrances",

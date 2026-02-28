@@ -4,21 +4,25 @@
   "Name": {
     "English": "AUTO SPRINKLER",
     "SimplifiedChinese": "自动洒水器",
+    "TencentChinese": "自动洒水器",
     "TraditionalChinese": "自動灑水器"
   },
   "NameLower": {
     "English": "Auto Sprinkler",
     "SimplifiedChinese": "自动洒水器",
+    "TencentChinese": "自动洒水器",
     "TraditionalChinese": "自動灑水器"
   },
   "Subtitle": {
     "English": "Autonomous Agriculture Unit",
     "SimplifiedChinese": "自动化农业单元",
+    "TencentChinese": "自动化农业单元",
     "TraditionalChinese": "自動農耕機"
   },
   "Description": {
     "English": "An automatic sprinkler system that tunes itself to the needs of the plants, deploying water as a fine mist, a heavy downpour, or anything in-between.",
     "SimplifiedChinese": "自动洒水系统，可以自行调整满足植物的需求，以细小喷雾、滂沱大水或是二者间的任意形式洒水。",
+    "TencentChinese": "自动洒水系统，可以自行调整满足植物的需求，以细小喷雾、滂沱大水或是二者间的任意形式洒水。",
     "TraditionalChinese": "自動灑水系統，可以依據植物需求，在噴霧至強勁水流的灑水強度之間自動調整。"
   },
   "Teach": false,

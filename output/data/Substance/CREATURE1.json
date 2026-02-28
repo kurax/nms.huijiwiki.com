@@ -2,11 +2,13 @@
   "Name": {
     "English": "MORDITE",
     "SimplifiedChinese": "腐藤",
+    "TencentChinese": "腐藤",
     "TraditionalChinese": "歿鹽"
   },
   "NameLower": {
     "English": "Mordite",
     "SimplifiedChinese": "腐藤",
+    "TencentChinese": "腐藤",
     "TraditionalChinese": "歿鹽"
   },
   "ID": "CREATURE1",
@@ -21,6 +23,7 @@
   "Subtitle": {
     "English": "Harvested Substance",
     "SimplifiedChinese": "收获的物质",
+    "TencentChinese": "收获的物质",
     "TraditionalChinese": "採收物質"
   },
   "Description": {
@@ -62,6 +65,7 @@
   "PinObjective": {
     "English": "Gather Mordite",
     "SimplifiedChinese": "收集腐藤",
+    "TencentChinese": "收集腐藤",
     "TraditionalChinese": "收集歿鹽"
   },
   "PinObjectiveTip": {

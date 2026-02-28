@@ -4,16 +4,19 @@
   "Name": {
     "English": "SHORT CIRCUIT",
     "SimplifiedChinese": "短路",
+    "TencentChinese": "短路",
     "TraditionalChinese": "短迴路"
   },
   "NameLower": {
     "English": "Short Circuit",
     "SimplifiedChinese": "短路",
+    "TencentChinese": "短路",
     "TraditionalChinese": "短迴路"
   },
   "Subtitle": {
     "English": "Damaged Multi-Tool Component",
     "SimplifiedChinese": "受损的多用途工具部件",
+    "TencentChinese": "受损的多用途工具部件",
     "TraditionalChinese": "受損工具組元件"
   },
   "Description": {

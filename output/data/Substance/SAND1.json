@@ -2,17 +2,20 @@
   "Name": {
     "English": "SILICATE POWDER",
     "SimplifiedChinese": "硅酸盐粉末",
+    "TencentChinese": "硅酸盐粉末",
     "TraditionalChinese": "矽酸粉"
   },
   "NameLower": {
     "English": "Silicate Powder",
     "SimplifiedChinese": "硅酸盐粉末",
+    "TencentChinese": "硅酸盐粉末",
     "TraditionalChinese": "矽酸粉"
   },
   "ID": "SAND1",
   "Symbol": {
     "English": "Si",
     "SimplifiedChinese": "硅",
+    "TencentChinese": "硅",
     "TraditionalChinese": "矽"
   },
   "Icon": "ui/frontend/icons/u4substances/substance.sand.1.png",
@@ -20,11 +23,13 @@
   "Subtitle": {
     "English": "Abundant Mineral",
     "SimplifiedChinese": "丰富矿物",
+    "TencentChinese": "丰富矿物",
     "TraditionalChinese": "豐富礦物"
   },
   "Description": {
     "English": "An abundant mineral element, found within the geological strata of all rocky worlds. Easily extracted using a <span class=\"name name-technology\">Terrain Manipulator</span>. Create a tunnel anywhere to begin extraction.<br><br>Process in a <span class=\"name name-technology\">Refiner</span> to create <span class=\"name name-technology\">Glass</span>.",
     "SimplifiedChinese": "一种丰富的矿物元素，存在于所有岩态行星的地质层中。可使用<span class=\"name name-technology\">地形操纵器</span>轻松提取。在任意地方构建隧道即可开始提取。<br><br>在<span class=\"name name-technology\">精炼机</span>中处理以创造<span class=\"name name-technology\">玻璃</span>。",
+    "TencentChinese": "一种丰富的矿物元素，存在于所有岩态行星的地质层中。可使用<span class=\"name name-technology\">地形操纵器</span>轻松提取。在任意地方构建隧道即可开始提取。<br><br>在<span class=\"name name-technology\">精炼机</span>中处理以创造<span class=\"name name-technology\">玻璃</span>。",
     "TraditionalChinese": "一種礦物元素，大量蘊藏於所有岩石世界的地質層，利用<span class=\"name name-technology\">地形改造器</span>即可輕易萃取。隨地挖掘隧道即可開始萃取。<br><br>用<span class=\"name name-technology\">精製機</span>加工即可製造<span class=\"name name-technology\">玻璃</span>。"
   },
   "Colour": {
@@ -60,6 +65,7 @@
   "PinObjective": {
     "English": "Gather Silicate Powder",
     "SimplifiedChinese": "收集硅酸盐粉末",
+    "TencentChinese": "收集硅酸盐粉末",
     "TraditionalChinese": "收集矽酸粉"
   },
   "PinObjectiveTip": {

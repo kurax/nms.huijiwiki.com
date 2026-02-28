@@ -4,23 +4,26 @@
   "Name": {
     "English": "HAZARD PROTECTION",
     "SimplifiedChinese": "危险防护",
+    "TencentChinese": "危险防护",
     "TraditionalChinese": "風險防護"
   },
   "NameLower": {
     "English": "Hazard Protection",
     "SimplifiedChinese": "危险防护",
+    "TencentChinese": "危险防护",
     "TraditionalChinese": "風險防護"
   },
   "Subtitle": {
     "English": "Exosuit Environmental Shielding",
     "SimplifiedChinese": "套装环境防护",
+    "TencentChinese": "套装环境防护",
     "TraditionalChinese": "強化套裝環境防護罩"
   },
   "Description": {
-    "English": "The Exosuit's <span class=\"name name-catalyst\">Hazard Protection</span> system continually monitors and stabilises the user's environment. <br><br>General reactive protection may be augmented with <span class=\"name name-technology\">Environmental Shields</span>, offering increased protection against specific conditions.<br><br>The device is charged with <span class=\"name name-catalyst\">sodium-based substances</span>. User is advised that a failure to charge the Hazard Protection system may allow their environment to become incompatible with life.",
+    "English": "The Exosuit's <span class=\"name name-catalyst\">Hazard Protection</span> system continually monitors and stabilizes the user's environment. <br><br>General reactive protection may be augmented with <span class=\"name name-technology\">Environmental Shields</span>, offering increased protection against specific conditions.<br><br>The device is charged with <span class=\"name name-catalyst\">sodium-based substances</span>. User is advised that a failure to charge the Hazard Protection system may allow their environment to become incompatible with life.",
     "SimplifiedChinese": "套装的<span class=\"name name-catalyst\">危险防护</span>系统能持续监控和稳定使用者的环境。 <br><br>可通过<span class=\"name name-technology\">环境护盾</span>增强一般型被动保护，提供对特定条件的额外防护。<br><br><span class=\"name name-catalyst\">钠基物质</span>可以用来为此设备充能。使用者应注意，如果不能及时为危险防护系统充能，则可能致使其所处环境不再适于生存。",
-    "TraditionalChinese": "強化套裝的<span class=\"name name-catalyst\">風險防護</span>系統會持續監控並穩定使用者的環境。 <br><br>一般活性防護可用<span class=\"name name-technology\">環境防護罩</span>強化，為特定情況提供加強防護。<br><br>裝置須以<span class=\"name name-catalyst\">鈉基物質</span>充能。提醒使用者，若風險防護系統充能失敗，使用者的環境可能變得不適生存。",
-    "USEnglish": "The Exosuit's <span class=\"name name-catalyst\">Hazard Protection</span> system continually monitors and stabilizes the user's environment. <br><br>General reactive protection may be augmented with <span class=\"name name-technology\">Environmental Shields</span>, offering increased protection against specific conditions.<br><br>The device is charged with <span class=\"name name-catalyst\">sodium-based substances</span>. User is advised that a failure to charge the Hazard Protection system may allow their environment to become incompatible with life."
+    "TencentChinese": "套装的<span class=\"name name-catalyst\">危险防护</span>系统能持续监控和稳定使用者的环境。 <br><br>可通过<span class=\"name name-technology\">环境护盾</span>增强一般型被动保护，提供对特定条件的额外防护。<br><br><span class=\"name name-catalyst\">钠基物质</span>可以用来为此设备充能。使用者应注意，如果不能及时为危险防护系统充能，则可能致使其所处环境不再适于生存。",
+    "TraditionalChinese": "強化套裝的<span class=\"name name-catalyst\">風險防護</span>系統會持續監控並穩定使用者的環境。 <br><br>一般活性防護可用<span class=\"name name-technology\">環境防護罩</span>強化，為特定情況提供加強防護。<br><br>裝置須以<span class=\"name name-catalyst\">鈉基物質</span>充能。提醒使用者，若風險防護系統充能失敗，使用者的環境可能變得不適生存。"
   },
   "Teach": true,
   "HintStart": "",

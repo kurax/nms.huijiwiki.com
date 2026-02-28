@@ -4,21 +4,25 @@
   "Name": {
     "English": "SOIL DE-WORMER",
     "SimplifiedChinese": "土壤驱虫器",
+    "TencentChinese": "土壤驱虫器",
     "TraditionalChinese": "土壤驅蟲機"
   },
   "NameLower": {
     "English": "Soil De-Wormer",
     "SimplifiedChinese": "土壤驱虫器",
+    "TencentChinese": "土壤驱虫器",
     "TraditionalChinese": "土壤驅蟲機"
   },
   "Subtitle": {
     "English": "Autonomous Agriculture Unit",
     "SimplifiedChinese": "自动化农业单元",
+    "TencentChinese": "自动化农业单元",
     "TraditionalChinese": "自動農耕機"
   },
   "Description": {
     "English": "A control unit for a brigade of tiny robots. These are directed to burrow through the soil and eliminate yield-depleting pests. Control unit maintenance is crucial to prevent accidental robot swarms.",
     "SimplifiedChinese": "微型机器人队列的控制单元。这些受控穿梭于土壤中，消灭影响产量的害虫。控制单元的维护非常重要，可以防止意外的机器人堆积。",
+    "TencentChinese": "微型机器人队列的控制单元。这些受控穿梭于土壤中，消灭影响产量的害虫。控制单元的维护非常重要，可以防止意外的机器人堆积。",
     "TraditionalChinese": "一群微型機器人的控制器，可以挖洞鑽進土壤，消除對田地有害的害蟲。為避免機器人集體產生意外行動，必須定期維修控制器。"
   },
   "Teach": false,

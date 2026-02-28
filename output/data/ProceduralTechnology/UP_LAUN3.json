@@ -4,6 +4,7 @@
   "Group": {
     "English": "Launch Thruster",
     "SimplifiedChinese": "发射推进器",
+    "TencentChinese": "发射推进器",
     "TraditionalChinese": "啟動推進器"
   },
   "Name": {
@@ -56,9 +57,10 @@
     "TencentChinese": [
       [
         "极端的",
-        null,
+        "增强的",
         "固态的",
-        "陀螺的"
+        "陀螺的",
+        "专业的"
       ],
       [
         "推进装置",
@@ -100,6 +102,7 @@
   "NameLower": {
     "English": "Launch Thruster",
     "SimplifiedChinese": "发射推进器",
+    "TencentChinese": "发射推进器",
     "TraditionalChinese": "啟動推進器"
   },
   "Subtitle": {

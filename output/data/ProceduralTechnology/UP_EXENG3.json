@@ -4,6 +4,7 @@
   "Group": {
     "English": "Fusion Engine",
     "SimplifiedChinese": "聚变发动机",
+    "TencentChinese": "聚变发动机",
     "TraditionalChinese": "核融合引擎"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "电子套管"
       ]
     ],
+    "TencentChinese": [
+      [
+        "极端的",
+        "增强的",
+        "固态的",
+        "陀螺的",
+        "专业的"
+      ],
+      [
+        "推进装置",
+        "推进控制器",
+        "脉冲喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "極端",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Fusion Engine",
     "SimplifiedChinese": "聚变发动机",
+    "TencentChinese": "聚变发动机",
     "TraditionalChinese": "核融合引擎"
   },
   "Subtitle": {

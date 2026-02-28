@@ -2,11 +2,13 @@
   "Name": {
     "English": "VISCOUS FLUIDS",
     "SimplifiedChinese": "粘性流质",
+    "TencentChinese": "粘性流质",
     "TraditionalChinese": "黏稠液體"
   },
   "NameLower": {
     "English": "Viscous Fluids",
     "SimplifiedChinese": "粘性流质",
+    "TencentChinese": "粘性流质",
     "TraditionalChinese": "黏稠液體"
   },
   "ID": "SPACEGUNK5",
@@ -21,13 +23,14 @@
   "Subtitle": {
     "English": "Junk",
     "SimplifiedChinese": "垃圾",
+    "TencentChinese": "垃圾",
     "TraditionalChinese": "垃圾"
   },
   "Description": {
-    "English": "An unnaturally thick liquid of dubious colour. Its origins are impossible to fathom.<br><br>Appears to have some mild magnetic properties.",
+    "English": "An unnaturally thick liquid of dubious color. Its origins are impossible to fathom.<br><br>Appears to have some mild magnetic properties.",
     "SimplifiedChinese": "一种颜色模糊、不自然的黏稠液体。来源无法侦测。<br><br>似乎有一些轻微的磁性。",
-    "TraditionalChinese": "黏度極高、顏色可疑的非自然液體。來源難以猜測。<br><br>似乎有輕微磁性。",
-    "USEnglish": "An unnaturally thick liquid of dubious color. Its origins are impossible to fathom.<br><br>Appears to have some mild magnetic properties."
+    "TencentChinese": "一种颜色模糊、不自然的黏稠液体。来源无法侦测。<br><br>似乎有一些轻微的磁性。",
+    "TraditionalChinese": "黏度極高、顏色可疑的非自然液體。來源難以猜測。<br><br>似乎有輕微磁性。"
   },
   "Colour": {
     "R": 0.356862754,
@@ -62,6 +65,7 @@
   "PinObjective": {
     "English": "Find Viscous Fluids",
     "SimplifiedChinese": "寻找粘性流质",
+    "TencentChinese": "寻找粘性流质",
     "TraditionalChinese": "找出黏稠液體"
   },
   "PinObjectiveTip": "",

@@ -4,16 +4,19 @@
   "Name": {
     "English": "HULL FRACTURE",
     "SimplifiedChinese": "船体损坏",
+    "TencentChinese": "船体损坏",
     "TraditionalChinese": "船身破裂"
   },
   "NameLower": {
     "English": "Hull Fracture",
     "SimplifiedChinese": "船体损坏",
+    "TencentChinese": "船体损坏",
     "TraditionalChinese": "船身破裂"
   },
   "Subtitle": {
     "English": "Damaged Starship Component",
     "SimplifiedChinese": "受损的飞船部件",
+    "TencentChinese": "受损的飞船部件",
     "TraditionalChinese": "受損太空船元件"
   },
   "Description": {

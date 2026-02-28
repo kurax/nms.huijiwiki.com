@@ -17,10 +17,9 @@
     "TraditionalChinese": "煉金雷射"
   },
   "Description": {
-    "English": "A highly specialised addition to the Multi-Tool's mining capabilities, transforming <span class=\"name name-stellar\">terrain deposits</span> into <span class=\"name name-stellar\">liquid sun</span>.<br><br>A powerful laser array amplifies local solar radiation, allowing for the rapid reconfiguration of nearby mineral ores.",
+    "English": "A highly specialized addition to the Multi-Tool's mining capabilities, transforming <span class=\"name name-stellar\">terrain deposits</span> into <span class=\"name name-stellar\">liquid sun</span>.<br><br>A powerful laser array amplifies local solar radiation, allowing for the rapid reconfiguration of nearby mineral ores.",
     "SimplifiedChinese": "多用途工具采矿能力的高度专业化补充，能把<span class=\"name name-stellar\">地形矿床</span>转变为<span class=\"name name-stellar\">液体太阳</span>。<br><br>通过一组强大的激光阵列放大本地的太阳能辐射，用以快速重组附近的矿石。",
-    "TraditionalChinese": "工具組採礦功能的專門額外功能，能將<span class=\"name name-stellar\">地形資源產地</span>轉變成<span class=\"name name-stellar\">液體太陽</span>。<br><br>強大的雷射陣列能強化當地的太陽輻射，讓附近的礦物快速重組。",
-    "USEnglish": "A highly specialized addition to the Multi-Tool's mining capabilities, transforming <span class=\"name name-stellar\">terrain deposits</span> into <span class=\"name name-stellar\">liquid sun</span>.<br><br>A powerful laser array amplifies local solar radiation, allowing for the rapid reconfiguration of nearby mineral ores."
+    "TraditionalChinese": "工具組採礦功能的專門額外功能，能將<span class=\"name name-stellar\">地形資源產地</span>轉變成<span class=\"name name-stellar\">液體太陽</span>。<br><br>強大的雷射陣列能強化當地的太陽輻射，讓附近的礦物快速重組。"
   },
   "Teach": true,
   "HintStart": "",

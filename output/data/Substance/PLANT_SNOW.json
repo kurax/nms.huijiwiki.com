@@ -2,11 +2,13 @@
   "Name": {
     "English": "FROST CRYSTAL",
     "SimplifiedChinese": "冰霜水晶",
+    "TencentChinese": "冰霜水晶",
     "TraditionalChinese": "霜晶"
   },
   "NameLower": {
     "English": "Frost Crystal",
     "SimplifiedChinese": "冰霜水晶",
+    "TencentChinese": "冰霜水晶",
     "TraditionalChinese": "霜晶"
   },
   "ID": "PLANT_SNOW",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "A beautiful blue crystal, this organic compound possesses both great hardiness and a shimmering translucence. It is harvested from the leaves of <span class=\"name name-tradeable\">Frostwort</span>.<br><br>Frostwort requires <span class=\"name name-technology\">frozen conditions</span> to thrive in the wild, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "一种美丽的蓝色水晶，这种有机化合物极具耐寒性，并闪烁着半透明的微光。它可以从<span class=\"name name-tradeable\">霜草</span>的叶子中收获。<br><br>霜草需要在<span class=\"name name-technology\">冰冻条件</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "一种美丽的蓝色水晶，这种有机化合物极具耐寒性，并闪烁着半透明的微光。它可以从<span class=\"name name-tradeable\">霜草</span>的叶子中收获。<br><br>霜草需要在<span class=\"name name-technology\">冰冻条件</span>下才能在野外旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "一種漂亮的藍色結晶有機化合物，不僅硬度極佳，還呈閃爍發亮的半透明狀。可從<span class=\"name name-tradeable\">霜草</span>葉片上採收而得。<br><br>霜草需要<span class=\"name name-technology\">冰凍氣候</span>才能在野外生長，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Frost Crystal",
     "SimplifiedChinese": "收集冰霜水晶",
+    "TencentChinese": "收集冰霜水晶",
     "TraditionalChinese": "收集霜晶"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Frost Crystals</span> are harvested from the leaves of <span class=\"name name-tradeable\">Frostwort</span>.<br>The host plant grows wild in a <span class=\"name name-technology\">frozen climate</span>, but can be farmed in all environments with the aid of a <span class=\"name name-technology\">Hydroponics Tray</span>.",
     "SimplifiedChinese": "<span class=\"name name-technology\">冰霜结晶</span>能从<span class=\"name name-tradeable\">冰霜花</span>上的树叶中采集到。<br>其宿主植物需要在<span class=\"name name-technology\">冰冻气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
+    "TencentChinese": "<span class=\"name name-technology\">冰霜结晶</span>能从<span class=\"name name-tradeable\">冰霜花</span>上的树叶中采集到。<br>其宿主植物需要在<span class=\"name name-technology\">冰冻气候</span>下才能旺盛生长，但如果在<span class=\"name name-technology\">水培盘</span>中培养，则可以在任何环境中生存。",
     "TraditionalChinese": "<span class=\"name name-technology\">霜晶</span>是從<span class=\"name name-tradeable\">霜草</span>葉子採收而來。<br>宿主植物野生生長於<span class=\"name name-technology\">冰寒氣候</span>，但若借助<span class=\"name name-technology\">水耕盤</span>，便能在任何環境中栽種。"
   },
   "PinObjectiveMessage": {

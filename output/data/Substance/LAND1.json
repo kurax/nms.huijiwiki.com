@@ -2,11 +2,13 @@
   "Name": {
     "English": "FERRITE DUST",
     "SimplifiedChinese": "铁氧体粉末",
+    "TencentChinese": "铁氧体粉末",
     "TraditionalChinese": "鐵氧體粉塵"
   },
   "NameLower": {
     "English": "Ferrite Dust",
     "SimplifiedChinese": "铁氧体粉末",
+    "TencentChinese": "铁氧体粉末",
     "TraditionalChinese": "鐵氧體粉塵"
   },
   "ID": "LAND1",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Metallic Mineral Extract",
     "SimplifiedChinese": "金属矿物提取物",
+    "TencentChinese": "金属矿物提取物",
     "TraditionalChinese": "金屬礦物萃取物"
   },
   "Description": {
     "English": "An abundant mineral element, found in <span class=\"name name-earth\">rock formations</span> and other areas of geological interest. Easily extracted using a <span class=\"name name-technology\">Mining Laser</span>.<br><br>Typically requires processing in a <span class=\"name name-technology\">Refiner</span> before use in construction or technology manufacture.",
     "SimplifiedChinese": "一种丰富的矿物元素，可于<span class=\"name name-earth\">岩石</span> 和其他地质区域中发现。使用 <span class=\"name name-technology\">开采激光</span>可以方便提取。<br><br>通常需要在<span class=\"name name-technology\">精炼机</span>中加工，而后用于建造或技术制造。",
+    "TencentChinese": "一种丰富的矿物元素，可于<span class=\"name name-earth\">岩石</span> 和其他地质区域中发现。使用 <span class=\"name name-technology\">开采激光</span>可以方便提取。<br><br>通常需要在<span class=\"name name-technology\">精炼机</span>中加工，而后用于建造或技术制造。",
     "TraditionalChinese": "礦量豐富的礦物元素，可見於<span class=\"name name-earth\">岩層</span>和其它地質相關區域。可能<span class=\"name name-technology\">採礦雷射</span>輕鬆萃取。<br><br>通常需先由<span class=\"name name-technology\">精製機</span>加工，才可用於建造或製作科技。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Ferrite Dust",
     "SimplifiedChinese": "收集铁氧体粉末",
+    "TencentChinese": "收集铁氧体粉末",
     "TraditionalChinese": "收集鐵氧體粉塵"
   },
   "PinObjectiveTip": {
     "English": "Harvest <span class=\"name name-earth\">Ferrite Dust</span> from small rocks using the <span class=\"name name-technology\">Mining Laser</span>. Fire the laser with <span class=\"name name-img\">ATTACK</span>.<br>WARNING: Excess harvesting may attract attention from Sentinel drones.",
     "SimplifiedChinese": "使用<span class=\"name name-technology\">开采光束</span>从小岩石块中采集<span class=\"name name-earth\">铁氧体粉末</span>。按下 <span class=\"name name-img\">ATTACK</span> 发射激光。<br>警告：过度采集可能会吸引护卫无人机的注意。",
+    "TencentChinese": "使用<span class=\"name name-technology\">开采光束</span>从小岩石块中采集<span class=\"name name-earth\">铁氧体粉末</span>。按下 <span class=\"name name-img\">ATTACK</span> 发射激光。<br>警告：过度采集可能会吸引护卫无人机的注意。",
     "TraditionalChinese": "使用<span class=\"name name-technology\">採礦雷射</span>從小石頭採收<span class=\"name name-earth\">鐵氧體粉塵</span>。按 <span class=\"name name-img\">ATTACK</span> 發射雷射。<br>警告：過度採收可能會引起巡警無人機的注意。"
   },
   "PinObjectiveMessage": {

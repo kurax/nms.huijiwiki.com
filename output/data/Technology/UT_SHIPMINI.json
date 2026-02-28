@@ -16,11 +16,13 @@
   "Subtitle": {
     "English": "Starship Infra-Knife Upgrade",
     "SimplifiedChinese": "飞船红外切割机升级",
+    "TencentChinese": "飞船红外切割机升级",
     "TraditionalChinese": "太空船紅外線刀升級"
   },
   "Description": {
     "English": "Upgrades the <span class=\"name name-technology\">Infra-Knife Accelerator</span>, compressing internal waveforms to allow an extra shot to be weaved in to the conventional fire patterns.",
     "SimplifiedChinese": "升级<span class=\"name name-technology\">红外切割机</span>，压缩内部波形以便在常规射击模式中增加一次额外的射击。",
+    "TencentChinese": "升级<span class=\"name name-technology\">红外切割机</span>，压缩内部波形以便在常规射击模式中增加一次额外的射击。",
     "TraditionalChinese": "升級<span class=\"name name-technology\">紅外線刀</span>，壓縮內部波形以便在常規射擊模式中增加一次額外的射擊。"
   },
   "Teach": true,

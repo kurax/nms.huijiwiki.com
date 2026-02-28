@@ -4,21 +4,25 @@
   "Name": {
     "English": "SURVEY DEVICE",
     "SimplifiedChinese": "调查设备",
+    "TencentChinese": "调查设备",
     "TraditionalChinese": "調查裝置"
   },
   "NameLower": {
     "English": "Survey Device",
     "SimplifiedChinese": "调查设备",
+    "TencentChinese": "调查设备",
     "TraditionalChinese": "調查裝置"
   },
   "Subtitle": {
     "English": "Analysis Visor Upgrade",
     "SimplifiedChinese": "分析面甲升级",
+    "TencentChinese": "分析面甲升级",
     "TraditionalChinese": "分析護目鏡升級"
   },
   "Description": {
     "English": "A self-contained circuitry upgrade for the <span class=\"name name-technology\">Analysis Visor</span>, adding real-time terrain analysis to the scanning array.<br><br>Toggle between Visor modes with <span class=\"name name-img\">SURVEYFILTERL</span>/<span class=\"name name-img\">SURVEYFILTERR</span>. Use <span class=\"name name-stellar\">Surveying Mode</span> to detect hidden terrain resources.",
     "SimplifiedChinese": "<span class=\"name name-technology\">分析面甲</span>的独立电路升级，可将实时地形分析添加至扫描阵列。<br><br>通过<span class=\"name name-img\">SURVEYFILTERL</span>/<span class=\"name name-img\">SURVEYFILTERR</span>在分析模式之间切换。使用<span class=\"name name-stellar\">调查模式</span>探测隐藏的地形资源。",
+    "TencentChinese": "<span class=\"name name-technology\">分析面甲</span>的独立电路升级，可将实时地形分析添加至扫描阵列。<br><br>通过<span class=\"name name-img\">SURVEYFILTERL</span>/<span class=\"name name-img\">SURVEYFILTERR</span>在分析模式之间切换。使用<span class=\"name name-stellar\">调查模式</span>探测隐藏的地形资源。",
     "TraditionalChinese": "<span class=\"name name-technology\">分析護目鏡</span>的電路升級，是獨立系統，為掃描器陣列增加即時地形分析。<br><br>可用<span class=\"name name-img\">SURVEYFILTERL</span>/<span class=\"name name-img\">SURVEYFILTERR</span>開關不同護目鏡模式。利用<span class=\"name name-stellar\">調查模式</span>即可偵測隱藏地形資源。"
   },
   "Teach": true,

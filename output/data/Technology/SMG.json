@@ -4,23 +4,26 @@
   "Name": {
     "English": "PULSE SPITTER",
     "SimplifiedChinese": "脉冲喷射器",
+    "TencentChinese": "脉冲喷射器",
     "TraditionalChinese": "脈衝槍"
   },
   "NameLower": {
     "English": "Pulse Spitter",
     "SimplifiedChinese": "脉冲喷射器",
+    "TencentChinese": "脉冲喷射器",
     "TraditionalChinese": "脈衝槍"
   },
   "Subtitle": {
     "English": "Rapid Fire Projectile Weapon",
     "SimplifiedChinese": "急速抛射武器",
+    "TencentChinese": "急速抛射武器",
     "TraditionalChinese": "快速射擊射彈武器"
   },
   "Description": {
-    "English": "Specialist <span class=\"name name-stellar\">rapid fire</span> weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technology\">Pulse Spitter</span> redirects Multi-Tool optics to ionise inserted <span class=\"name name-earth\">Metallic Elements</span>. These projectiles are launched in a rapid-fire spread, bombarding potential targets with a <span class=\"name name-stellar\">wave of high-energy plasma</span>.",
+    "English": "Specialist <span class=\"name name-stellar\">rapid fire</span> weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technology\">Pulse Spitter</span> redirects Multi-Tool optics to ionize inserted <span class=\"name name-earth\">Metallic Elements</span>. These projectiles are launched in a rapid-fire spread, bombarding potential targets with a <span class=\"name name-stellar\">wave of high-energy plasma</span>.",
     "SimplifiedChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的专业型<span class=\"name name-stellar\">速射</span>武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">脉冲喷射器</span>可重定向多用途工具的光学器材，电离置于其中的<span class=\"name name-earth\">金属元素</span>。通过急速发射的射弹对潜在目标进行<span class=\"name name-stellar\">一波高能离子</span>轰击。",
-    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的專家<span class=\"name name-stellar\">快速射擊</span>武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br><span class=\"name name-technology\">脈衝槍</span>會調整工具組的光學儀器，使其能將填入的<span class=\"name name-earth\">金屬元素</span>離子化。這些子彈會以高速掃射的方式發射，以<span class=\"name name-stellar\">高能電漿波</span>轟炸潛在目標。",
-    "USEnglish": "Specialist <span class=\"name name-stellar\">rapid fire</span> weapon attachment for the <span class=\"name name-technology\">Multi-Tool</span>. Access fire mode by pressing <span class=\"name name-img\">CYCLEWEAPON</span> and fire weapon with <span class=\"name name-img\">ATTACK</span>.<br><br>The <span class=\"name name-technology\">Pulse Spitter</span> redirects Multi-Tool optics to ionize inserted <span class=\"name name-earth\">Metallic Elements</span>. These projectiles are launched in a rapid-fire spread, bombarding potential targets with a <span class=\"name name-stellar\">wave of high-energy plasma</span>."
+    "TencentChinese": "适用于<span class=\"name name-technology\">多用途工具</span>的专业型<span class=\"name name-stellar\">速射</span>武器配件。按下<span class=\"name name-img\">CYCLEWEAPON</span>进入发射模式，使用<span class=\"name name-img\">ATTACK</span>开火。<br><br><span class=\"name name-technology\">脉冲喷射器</span>可重定向多用途工具的光学器材，电离置于其中的<span class=\"name name-earth\">金属元素</span>。通过急速发射的射弹对潜在目标进行<span class=\"name name-stellar\">一波高能离子</span>轰击。",
+    "TraditionalChinese": "<span class=\"name name-technology\">工具組</span>的專家<span class=\"name name-stellar\">快速射擊</span>武器附加裝置。按 <span class=\"name name-img\">CYCLEWEAPON</span> 進入射擊模式，按 <span class=\"name name-img\">ATTACK</span> 發射武器。<br><br><span class=\"name name-technology\">脈衝槍</span>會調整工具組的光學儀器，使其能將填入的<span class=\"name name-earth\">金屬元素</span>離子化。這些子彈會以高速掃射的方式發射，以<span class=\"name name-stellar\">高能電漿波</span>轟炸潛在目標。"
   },
   "Teach": true,
   "HintStart": "",

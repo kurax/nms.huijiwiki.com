@@ -4,6 +4,7 @@
   "Group": {
     "English": "Movement System",
     "SimplifiedChinese": "运动系统",
+    "TencentChinese": "运动系统",
     "TraditionalChinese": "移動系統"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "喷嘴"
       ]
     ],
+    "TencentChinese": [
+      [
+        "等离子",
+        "铀",
+        "催化剂",
+        "旁路",
+        "铀"
+      ],
+      [
+        "罐",
+        "泵",
+        "排气管",
+        "点火器",
+        "喷射器",
+        "发电机",
+        "涡轮",
+        "燃烧装置",
+        "扩散器",
+        "喷嘴"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "電漿",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Movement System",
     "SimplifiedChinese": "运动系统",
+    "TencentChinese": "运动系统",
     "TraditionalChinese": "移動系統"
   },
   "Subtitle": {

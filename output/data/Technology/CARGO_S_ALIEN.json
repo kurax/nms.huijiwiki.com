@@ -17,10 +17,9 @@
     "TraditionalChinese": "敵對探測反射器"
   },
   "Description": {
-    "English": "A beautiful living weave of nanotubes, laced through the vessel's neural assembly. This structure can be energised as the ship deems fit, creating a field that <span class=\"name name-steller\">blocks</span> hostile <span class=\"name name-stellar\">cargo probes</span>.<br><br>Use the <span class=\"name name-technology\">Quick Menu</span> (<span class=\"name name-img\">QUICK_MENU</span>) while a scan is in progress to ask that the ship might block the scan.",
+    "English": "A beautiful living weave of nanotubes, laced through the vessel's neural assembly. This structure can be energized as the ship deems fit, creating a field that <span class=\"name name-steller\">blocks</span> hostile <span class=\"name name-stellar\">cargo probes</span>.<br><br>Use the <span class=\"name name-technology\">Quick Menu</span> (<span class=\"name name-img\">QUICK_MENU</span>) while a scan is in progress to ask that the ship might block the scan.",
     "SimplifiedChinese": "一个由纳米管编织而成的美丽活体，贯穿于飞船的神经组件。这个结构可以在飞船认为合适的时候被激活，形成一个<span class=\"name name-steller\">阻挡</span>敌对的<span class=\"name name-stellar\">货物探针</span>的力场。在扫描过程中<br><br>使用<span class=\"name name-technology\">快捷菜单</span>（<span class=\"name name-img\">QUICK_MENU</span>）以询问该飞船是否可能会阻挡扫描。",
-    "TraditionalChinese": "一個美麗的活體奈米管路，遍布太空船的神經電路板。如果太空船適合，此結構可以藉其產生能量，建立一個能夠<span class=\"name name-steller\">阻擋</span>敵對<span class=\"name name-stellar\">貨物探測</span>的力場。<br><br>進行掃描時按下<span class=\"name name-technology\">快捷選單</span> (<span class=\"name name-img\">QUICK_MENU</span>)，即可查詢此太空船是否會阻擋掃描。",
-    "USEnglish": "A beautiful living weave of nanotubes, laced through the vessel's neural assembly. This structure can be energized as the ship deems fit, creating a field that <span class=\"name name-steller\">blocks</span> hostile <span class=\"name name-stellar\">cargo probes</span>.<br><br>Use the <span class=\"name name-technology\">Quick Menu</span> (<span class=\"name name-img\">QUICK_MENU</span>) while a scan is in progress to ask that the ship might block the scan."
+    "TraditionalChinese": "一個美麗的活體奈米管路，遍布太空船的神經電路板。如果太空船適合，此結構可以藉其產生能量，建立一個能夠<span class=\"name name-steller\">阻擋</span>敵對<span class=\"name name-stellar\">貨物探測</span>的力場。<br><br>進行掃描時按下<span class=\"name name-technology\">快捷選單</span> (<span class=\"name name-img\">QUICK_MENU</span>)，即可查詢此太空船是否會阻擋掃描。"
   },
   "Teach": true,
   "HintStart": "",

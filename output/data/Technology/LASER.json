@@ -4,21 +4,25 @@
   "Name": {
     "English": "MINING BEAM",
     "SimplifiedChinese": "开采光束",
+    "TencentChinese": "开采光束",
     "TraditionalChinese": "採礦光束"
   },
   "NameLower": {
     "English": "Mining Beam",
     "SimplifiedChinese": "开采光束",
+    "TencentChinese": "开采光束",
     "TraditionalChinese": "採礦光束"
   },
   "Subtitle": {
     "English": "Mineral Extraction Laser",
     "SimplifiedChinese": "矿物萃取激光",
+    "TencentChinese": "矿物萃取激光",
     "TraditionalChinese": "礦物抽取雷射"
   },
   "Description": {
     "English": "Multi-Tool <span class=\"name name-technology\">Mining Beam</span> powered by <span class=\"name name-fuel\">Carbon-based Elements</span>. Fire the beam with <span class=\"name name-img\">ATTACK</span>.<br><br>Installs focusing optics within the Multi-Tool, allowing it to emit a <span class=\"name name-stellar\">high-energy beam</span>. The beam is calibrated to excite molecules within common <span class=\"name name-stellar\">organic or geological objects</span>, allowing it to operate as a highly effective mining device.<br><br><span class=\"name name-fuel\">WARNING</span>: Destruction of flora, fauna or minerals may attract Sentinel attention.",
     "SimplifiedChinese": "多用途工具<span class=\"name name-technology\">开采光束</span>由<span class=\"name name-fuel\">碳基元素</span>供能。通过<span class=\"name name-img\">ATTACK</span>发射光束。<br><br>在多用途工具中安装聚焦光学器材，使其具备发射<span class=\"name name-stellar\">高能光束</span>的能力。校准后的光束能够激发常见<span class=\"name name-stellar\">有机或地质对象</span>中的分子，使其成为高效的开采设备。<br><br><span class=\"name name-fuel\">警告</span>：破坏植物群系、动物群系或矿物可能会引起护卫的注意。",
+    "TencentChinese": "多用途工具<span class=\"name name-technology\">开采光束</span>由<span class=\"name name-fuel\">碳基元素</span>供能。通过<span class=\"name name-img\">ATTACK</span>发射光束。<br><br>在多用途工具中安装聚焦光学器材，使其具备发射<span class=\"name name-stellar\">高能光束</span>的能力。校准后的光束能够激发常见<span class=\"name name-stellar\">有机或地质对象</span>中的分子，使其成为高效的开采设备。<br><br><span class=\"name name-fuel\">警告</span>：破坏植物群系、动物群系或矿物可能会引起护卫的注意。",
     "TraditionalChinese": "工具組<span class=\"name name-technology\">採礦光束</span>能量來源為<span class=\"name name-fuel\">碳基元素</span>。按 <span class=\"name name-img\">ATTACK</span> 發射光束。<br><br>在工具組內安裝聚焦光學儀器，讓工具組能發射<span class=\"name name-stellar\">高能光束</span>。光束經過校正，能刺激常見<span class=\"name name-stellar\">有機或地形物件</span>內的分子，因此可作為高效能採礦裝置使用。<br><br><span class=\"name name-fuel\">警告</span>：摧毀植物、動物或礦物可能會引起巡警注意。"
   },
   "Teach": true,

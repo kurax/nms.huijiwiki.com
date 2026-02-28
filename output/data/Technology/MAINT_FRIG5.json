@@ -4,21 +4,25 @@
   "Name": {
     "English": "SOLENOID",
     "SimplifiedChinese": "螺线管",
+    "TencentChinese": "螺线管",
     "TraditionalChinese": "電螺管"
   },
   "NameLower": {
     "English": "Solenoid",
     "SimplifiedChinese": "螺线管",
+    "TencentChinese": "螺线管",
     "TraditionalChinese": "電螺管"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A relay switch, intended to aid the powering up of the device. The connectors have become corroded, and the solenoid is no longer functioning.",
     "SimplifiedChinese": "继电器开关，用于协助设备充能。接头已被腐蚀，螺线管已经无法使用了。",
+    "TencentChinese": "继电器开关，用于协助设备充能。接头已被腐蚀，螺线管已经无法使用了。",
     "TraditionalChinese": "繼電器開關，用來協助裝置發電。連接器已腐蝕，螺線管也無法正常運作。"
   },
   "Teach": false,

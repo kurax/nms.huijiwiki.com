@@ -4,21 +4,25 @@
   "Name": {
     "English": "NAUTILON CANNON",
     "SimplifiedChinese": "大鹦鹉螺大炮",
+    "TencentChinese": "大鹦鹉螺大炮",
     "TraditionalChinese": "巡洋龍砲"
   },
   "NameLower": {
     "English": "Nautilon Cannon",
     "SimplifiedChinese": "大鹦鹉螺大炮",
+    "TencentChinese": "大鹦鹉螺大炮",
     "TraditionalChinese": "巡洋龍砲"
   },
   "Subtitle": {
     "English": "Submarine Weapon",
     "SimplifiedChinese": "潜水艇武器",
+    "TencentChinese": "潜水艇武器",
     "TraditionalChinese": "潛艇武器"
   },
   "Description": {
     "English": "A mounted cannon specifically designed for the <span class=\"name name-stellar\">Nautilon Submarine</span>.<br><br>A high-energy weapon system, it superheats a small body of water before launching it rapidly towards the intended target.<br><br>Designed primarily for damage against biological entities and inefficient when deployed as a mining device.",
     "SimplifiedChinese": "专为<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>设计的机载大炮。<br><br>这种高能武器系统可以过热化一小块水体，然后向预定目标快速发射。<br><br>设计主旨是伤害生物实体，作为采矿设备效率很低。",
+    "TencentChinese": "专为<span class=\"name name-stellar\">大鹦鹉螺潜水艇</span>设计的机载大炮。<br><br>这种高能武器系统可以过热化一小块水体，然后向预定目标快速发射。<br><br>设计主旨是伤害生物实体，作为采矿设备效率很低。",
     "TraditionalChinese": "特別針對<span class=\"name name-stellar\">巡洋龍潛艇</span>設計的含基座砲口。<br><br>高能量武器系統，會把少數液體高度加熱，快速朝目標發射。<br><br>主要功能是造成生物體傷害，作為採礦裝備並無明顯作用。"
   },
   "Teach": false,

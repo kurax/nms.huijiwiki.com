@@ -47,8 +47,10 @@ for (const file of fs
 
 for (const key in localisationTable) {
     const item = localisationTable[key];
-    if (item.USEnglish === item.English) delete item.USEnglish;
-    if (item.TencentChinese === item.SimplifiedChinese) delete item.TencentChinese;
+    item.English = item.USEnglish ?? item.English;
+    delete item.USEnglish;
+    // if (item.USEnglish === item.English) delete item.USEnglish;
+    // if (item.TencentChinese === item.SimplifiedChinese) delete item.TencentChinese;
 }
 
 fs.writeFileSync('output/localization.json', JSON.stringify(sortKeys(localisationTable), null, 2));

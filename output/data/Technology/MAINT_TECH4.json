@@ -4,21 +4,25 @@
   "Name": {
     "English": "INPUT TERMINAL",
     "SimplifiedChinese": "输入终端",
+    "TencentChinese": "输入终端",
     "TraditionalChinese": "輸入終端站"
   },
   "NameLower": {
     "English": "Input terminal",
     "SimplifiedChinese": "输入终端",
+    "TencentChinese": "输入终端",
     "TraditionalChinese": "輸入終端站"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A terminal designed to allow manual control of the device. Damage prevents it actually receiving any input.",
     "SimplifiedChinese": "一个专为设备的手动控制设计的终端。由于受损，导致其无法接收任何输入信息。",
+    "TencentChinese": "一个专为设备的手动控制设计的终端。由于受损，导致其无法接收任何输入信息。",
     "TraditionalChinese": "終端站的設計允許人工操作裝置，但毀損後再也無法接收指令。"
   },
   "Teach": false,

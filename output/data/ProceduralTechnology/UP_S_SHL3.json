@@ -4,6 +4,7 @@
   "Group": {
     "English": "Deflector Shield",
     "SimplifiedChinese": "偏导护盾",
+    "TencentChinese": "偏导护盾",
     "TraditionalChinese": "反射防護罩"
   },
   "Name": {
@@ -13,17 +14,17 @@
         "M-Field",
         "Induction",
         "Neutron",
-        "Deionised"
+        "Deionized"
       ],
       [
         "Lattice",
         "Shield",
-        "Armour",
+        "Armor",
         "Bulwark",
         "Grafts",
         "Padding",
         "Buffer",
-        "Polariser",
+        "Polarizer",
         "Battery",
         "Resonator"
       ]
@@ -32,6 +33,27 @@
       [
         "核能",
         "M 场",
+        "感应",
+        "中子",
+        "去离子"
+      ],
+      [
+        "栅格",
+        "护盾",
+        "盔甲",
+        "壁垒",
+        "嫁接",
+        "填补",
+        "缓冲",
+        "偏振器",
+        "电池",
+        "共振器"
+      ]
+    ],
+    "TencentChinese": [
+      [
+        "核能",
+        "物质场",
         "感应",
         "中子",
         "去离子"
@@ -69,36 +91,12 @@
         "電池",
         "共振器"
       ]
-    ],
-    "TencentChinese": [
-      [
-        null,
-        "物质场"
-      ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "Deionized"
-      ],
-      [
-        null,
-        null,
-        "Armor",
-        null,
-        null,
-        null,
-        null,
-        "Polarizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Deflector Shield",
     "SimplifiedChinese": "偏导护盾",
+    "TencentChinese": "偏导护盾",
     "TraditionalChinese": "反射防護罩"
   },
   "Subtitle": {

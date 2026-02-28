@@ -4,21 +4,25 @@
   "Name": {
     "English": "BIO-INPUT SENSOR",
     "SimplifiedChinese": "生物输入传感器",
+    "TencentChinese": "生物输入传感器",
     "TraditionalChinese": "生物輸入感應器"
   },
   "NameLower": {
     "English": "Bio-input sensor",
     "SimplifiedChinese": "生物输入传感器",
+    "TencentChinese": "生物输入传感器",
     "TraditionalChinese": "生物輸入感應器"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "An advanced control unit, designed to allow device/flesh interaction. Damage prevents it functioning correctly. Interfacing while it is in this state is not advised.",
     "SimplifiedChinese": "先进的控制单元，用于使设备/躯体互动。由于受损，使其无法正常运作。不建议在这种状态下与之建立联系。",
+    "TencentChinese": "先进的控制单元，用于使设备/躯体互动。由于受损，使其无法正常运作。不建议在这种状态下与之建立联系。",
     "TraditionalChinese": "先進控制元件，設計讓裝置可與生物互動。毀損後無法正常運作，不建議在此狀態下連接元件。"
   },
   "Teach": false,

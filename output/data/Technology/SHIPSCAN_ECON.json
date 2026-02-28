@@ -4,16 +4,19 @@
   "Name": {
     "English": "ECONOMY SCANNER",
     "SimplifiedChinese": "经济扫描仪",
+    "TencentChinese": "经济扫描仪",
     "TraditionalChinese": "經濟掃描器"
   },
   "NameLower": {
     "English": "Economy Scanner",
     "SimplifiedChinese": "经济扫描仪",
+    "TencentChinese": "经济扫描仪",
     "TraditionalChinese": "經濟掃描器"
   },
   "Subtitle": {
     "English": "Long-range Sensor Technology",
     "SimplifiedChinese": "长距离传感器技术",
+    "TencentChinese": "长距离传感器技术",
     "TraditionalChinese": "遠距離偵測科技"
   },
   "Description": {

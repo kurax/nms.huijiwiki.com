@@ -23,10 +23,9 @@
     "TraditionalChinese": "亞特蘭提德精華"
   },
   "Description": {
-    "English": "A purified drop of <span class=\"name name-special\">Atlantideum</span>, refined to its very essence. This precious material is acquired by earning favour with and assisting the <TRANS_BUI>Autophage<>.<br><br>Visit the <span class=\"name name-technology\">Autophage Synthesis Terminal</span> found at all Autophage camps to exchange Void Motes for <span class=\"name name-stellar\">unique customisation options</span>.",
+    "English": "A purified drop of <span class=\"name name-special\">Atlantideum</span>, refined to its very essence. This precious material is acquired by earning favor with and assisting the <TRANS_BUI>Autophage<>.<br><br>Visit the <span class=\"name name-technology\">Autophage Synthesis Terminal</span> found at all Autophage camps to exchange Void Motes for <span class=\"name name-stellar\">unique customisation options</span>.",
     "SimplifiedChinese": "一滴净化的<span class=\"name name-special\">亚特拉迪姆</span>，纯粹至极。这种珍贵材料可通过帮助<TRANS_BUI>自噬体<>并赢得其好感获得。<br><br>前往所有自噬体营地都有的<span class=\"name name-technology\">自噬体合成终端</span>，用虚空微粒交换<span class=\"name name-stellar\">独特的自定义选项</span>。",
-    "TraditionalChinese": "一滴純化的<span class=\"name name-special\">亞特蘭提德鋼</span>，精煉至極致的精華。協助<TRANS_BUI>自噬<>並贏得他們的青睞，即可獲得此珍貴材料。<br><br>前往所有自噬營地都可找到的<span class=\"name name-technology\">自噬合成終端站</span>，即可用虛空微塵交換<span class=\"name name-stellar\">獨特客製化選項</span>。",
-    "USEnglish": "A purified drop of <span class=\"name name-special\">Atlantideum</span>, refined to its very essence. This precious material is acquired by earning favor with and assisting the <TRANS_BUI>Autophage<>.<br><br>Visit the <span class=\"name name-technology\">Autophage Synthesis Terminal</span> found at all Autophage camps to exchange Void Motes for <span class=\"name name-stellar\">unique customisation options</span>."
+    "TraditionalChinese": "一滴純化的<span class=\"name name-special\">亞特蘭提德鋼</span>，精煉至極致的精華。協助<TRANS_BUI>自噬<>並贏得他們的青睞，即可獲得此珍貴材料。<br><br>前往所有自噬營地都可找到的<span class=\"name name-technology\">自噬合成終端站</span>，即可用虛空微塵交換<span class=\"name name-stellar\">獨特客製化選項</span>。"
   },
   "Colour": {
     "R": 0.870588243,
@@ -61,6 +60,7 @@
   "PinObjective": {
     "English": "Gather Void Mote",
     "SimplifiedChinese": "收集虚空微粒",
+    "TencentChinese": "收集虚空微粒",
     "TraditionalChinese": "收集虛空微塵"
   },
   "PinObjectiveTip": {

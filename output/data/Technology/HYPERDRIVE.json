@@ -4,23 +4,26 @@
   "Name": {
     "English": "HYPERDRIVE",
     "SimplifiedChinese": "超光速推进",
+    "TencentChinese": "超光速推进",
     "TraditionalChinese": "超空間驅動器"
   },
   "NameLower": {
     "English": "Hyperdrive",
     "SimplifiedChinese": "超光速推进",
+    "TencentChinese": "超光速推进",
     "TraditionalChinese": "超空間驅動器"
   },
   "Subtitle": {
     "English": "Lightspeed Warp Drive",
     "SimplifiedChinese": "光速曲速推进器",
+    "TencentChinese": "光速曲速推进器",
     "TraditionalChinese": "光速空間跳躍推進器"
   },
   "Description": {
-    "English": "FTL propulsion drive that allows starship to attain warp speed and jump between neighbouring systems.<br><br>User is advised to access Hyperdrive systems through Galactic Map.",
+    "English": "FL propulsion drive that allows starship to attain warp speed and jump between neighboring systems.<br><br>User is advised to access Hyperdrive systems through Galactic Map.",
     "SimplifiedChinese": "可让飞船达到曲速并在相邻星系间跳跃的超光速推进器。<br><br>建议使用者通过银河星图使用超光速推进系统。",
-    "TraditionalChinese": "能讓太空船達到空間跳躍速度、並於鄰近星系間跳躍的超光速推進器。<br><br>建議使用者從銀河地圖進入超空間驅動器系統。",
-    "USEnglish": "FL propulsion drive that allows starship to attain warp speed and jump between neighboring systems.<br><br>User is advised to access Hyperdrive systems through Galactic Map."
+    "TencentChinese": "可让飞船达到曲速并在相邻星系间跳跃的超光速推进器。<br><br>建议使用者通过银河星图使用超光速推进系统。",
+    "TraditionalChinese": "能讓太空船達到空間跳躍速度、並於鄰近星系間跳躍的超光速推進器。<br><br>建議使用者從銀河地圖進入超空間驅動器系統。"
   },
   "Teach": true,
   "HintStart": "",

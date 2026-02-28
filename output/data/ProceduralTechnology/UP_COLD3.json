@@ -4,6 +4,7 @@
   "Group": {
     "English": "Thermal Protection",
     "SimplifiedChinese": "热能防护",
+    "TencentChinese": "热能防护",
     "TraditionalChinese": "熱能防護"
   },
   "Name": {
@@ -24,11 +25,32 @@
         "Thermal Harvester",
         "Heat Distributor",
         "Ice Shield",
-        "Thermal Stabiliser",
+        "Thermal Stabilizer",
         "Hiemal Protection"
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "液相的",
+        "溶剂燃料的",
+        "不可冻的",
+        "低温的",
+        "能量力场"
+      ],
+      [
+        "热发电机",
+        "隔热",
+        "散热装置",
+        "供热系统",
+        "对流装置",
+        "热量收集器",
+        "热量分配器",
+        "冰护盾",
+        "热量稳定器",
+        "寒冷防护"
+      ]
+    ],
+    "TencentChinese": [
       [
         "液相的",
         "溶剂燃料的",
@@ -69,25 +91,12 @@
         "熱能穩定器",
         "冬季防護"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Thermal Stabilizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Thermal Protection",
     "SimplifiedChinese": "热能防护",
+    "TencentChinese": "热能防护",
     "TraditionalChinese": "熱能防護"
   },
   "Subtitle": {

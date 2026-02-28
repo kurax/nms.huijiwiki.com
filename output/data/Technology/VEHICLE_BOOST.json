@@ -2,11 +2,10 @@
   "ID": "VEHICLE_BOOST",
   "Group": "",
   "Name": {
-    "English": "EXOCRAFT BOOST MODULE",
+    "English": "EXOCRAFT BOOSTERS",
     "SimplifiedChinese": "强化艇推进模块",
     "TencentChinese": "强化艇加速模块",
-    "TraditionalChinese": "強化艇推進模組",
-    "USEnglish": "EXOCRAFT BOOSTERS"
+    "TraditionalChinese": "強化艇推進模組"
   },
   "NameLower": {
     "English": "Exocraft Boosters",
@@ -17,11 +16,13 @@
   "Subtitle": {
     "English": "Exocraft Engine Upgrade",
     "SimplifiedChinese": "强化艇发动机升级",
+    "TencentChinese": "强化艇发动机升级",
     "TraditionalChinese": "強化艇引擎升級元件"
   },
   "Description": {
     "English": "An efficient plasma injector coupled to the engine that allows short bursts of speed.",
     "SimplifiedChinese": "与发动机相结合的高效等离子注射器，能够实现短程速度爆发。",
+    "TencentChinese": "与发动机相结合的高效等离子注射器，能够实现短程速度爆发。",
     "TraditionalChinese": "與引擎搭配的高效能等離子發射器，能提供短程加速。"
   },
   "Teach": false,

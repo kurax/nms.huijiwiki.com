@@ -4,21 +4,25 @@
   "Name": {
     "English": "FUEL PUMP",
     "SimplifiedChinese": "燃料泵",
+    "TencentChinese": "燃料泵",
     "TraditionalChinese": "燃料泵"
   },
   "NameLower": {
     "English": "Fuel Pump",
     "SimplifiedChinese": "燃料泵",
+    "TencentChinese": "燃料泵",
     "TraditionalChinese": "燃料泵"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A high-capacity pump, ensuring that fuel reaches every part of the device in all gravitational conditions. The filter is clogged with a strange substance, causing it to lose power.",
     "SimplifiedChinese": "高功率泵，确保燃料在所有引力条件下抵达全部设备。由于过滤器被奇怪物体阻塞，使其失去功效。",
+    "TencentChinese": "高功率泵，确保燃料在所有引力条件下抵达全部设备。由于过滤器被奇怪物体阻塞，使其失去功效。",
     "TraditionalChinese": "強力泵，能確保燃料在任何重力環境下都能送達裝置各處。濾篩遭異物堵塞，導致電力喪失。"
   },
   "Teach": false,

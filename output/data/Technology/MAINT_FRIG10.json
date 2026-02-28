@@ -4,21 +4,25 @@
   "Name": {
     "English": "TRANSMISSION BOX",
     "SimplifiedChinese": "变速箱",
+    "TencentChinese": "变速箱",
     "TraditionalChinese": "傳輸盒"
   },
   "NameLower": {
     "English": "Transmission Box",
     "SimplifiedChinese": "变速箱",
+    "TencentChinese": "变速箱",
     "TraditionalChinese": "傳輸盒"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "The gearing mechanism for the device. The lubricant that keeps it operational appears to have been replaced with an otherworldly green goo, and the gears are now stuck.",
     "SimplifiedChinese": "设备的传动机制。使其保持正常运转的润滑剂似乎被一种异世界绿色黏性物替代，齿轮由此被卡住了。",
+    "TencentChinese": "设备的传动机制。使其保持正常运转的润滑剂似乎被一种异世界绿色黏性物替代，齿轮由此被卡住了。",
     "TraditionalChinese": "裝置的齒輪結構。原本用來維持裝置正常運轉的潤滑劑換成了詭異的綠色黏液，齒輪現在卡住了。"
   },
   "Teach": false,

@@ -4,6 +4,7 @@
   "Group": {
     "English": "Geology Cannon",
     "SimplifiedChinese": "地质大炮",
+    "TencentChinese": "地质大炮",
     "TraditionalChinese": "地質砲"
   },
   "Name": {
@@ -13,7 +14,7 @@
         "Unstable",
         "Linear",
         "Kinetic",
-        "Polarised"
+        "Polarized"
       ],
       [
         "Compressor",
@@ -29,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "普茵",
+        "不稳的",
+        "线状的",
+        "动能的",
+        "偏振的"
+      ],
+      [
+        "压缩机",
+        "发射系统",
+        "注射器塞头",
+        "释放机制",
+        "气体扩张器",
+        "核心",
+        "线圈",
+        "制弹器",
+        "热力泵",
+        "定时套管"
+      ]
+    ],
+    "TencentChinese": [
       [
         "普茵",
         "不稳的",
@@ -69,20 +91,12 @@
         "熱能泵",
         "定時套管"
       ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "Polarized"
-      ]
     ]
   },
   "NameLower": {
     "English": "Geology Cannon",
     "SimplifiedChinese": "地质大炮",
+    "TencentChinese": "地质大炮",
     "TraditionalChinese": "地質砲"
   },
   "Subtitle": {

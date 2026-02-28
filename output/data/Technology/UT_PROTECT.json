@@ -4,21 +4,25 @@
   "Name": {
     "English": "SHIELD LATTICE",
     "SimplifiedChinese": "栅格护盾",
+    "TencentChinese": "栅格护盾",
     "TraditionalChinese": "防護罩晶格"
   },
   "NameLower": {
     "English": "Shield Lattice",
     "SimplifiedChinese": "栅格护盾",
+    "TencentChinese": "栅格护盾",
     "TraditionalChinese": "防護罩晶格"
   },
   "Subtitle": {
     "English": "Hazard Protection Upgrade",
     "SimplifiedChinese": "危险防护升级",
+    "TencentChinese": "危险防护升级",
     "TraditionalChinese": "危險防護升級"
   },
   "Description": {
     "English": "Increases the base capacity of the <span class=\"name name-commodity\">Hazard Protection</span> system, allowing the user to spend longer in hazardous environments without recharging their Exosuit.",
     "SimplifiedChinese": "增加<span class=\"name name-commodity\">危险防护</span>系统的基本容量，允许用户在危险环境中停留更长时间而无需为套装充能。",
+    "TencentChinese": "增加<span class=\"name name-commodity\">危险防护</span>系统的基本容量，允许用户在危险环境中停留更长时间而无需为套装充能。",
     "TraditionalChinese": "增加<span class=\"name name-commodity\">危險防護</span>系統的基本容量，允許用戶在危險環境中停留更長時間而無需為強化套裝充能。"
   },
   "Teach": true,

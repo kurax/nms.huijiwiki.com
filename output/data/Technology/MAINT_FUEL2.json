@@ -4,21 +4,25 @@
   "Name": {
     "English": "MEMBRANE BATTERY",
     "SimplifiedChinese": "薄膜电池",
+    "TencentChinese": "薄膜电池",
     "TraditionalChinese": "膜型電池"
   },
   "NameLower": {
     "English": "Membrane Battery",
     "SimplifiedChinese": "薄膜电池",
+    "TencentChinese": "薄膜电池",
     "TraditionalChinese": "膜型電池"
   },
   "Subtitle": {
     "English": "Chargeable Power Unit",
     "SimplifiedChinese": "可充电能源单位",
+    "TencentChinese": "可充电能源单位",
     "TraditionalChinese": "可充填能量裝置"
   },
   "Description": {
     "English": "The membrane battery is an almost maintenance-free piece of rechargeable power technology. Nestled among in the machine's circuits, it supplies power safely and directly.",
     "SimplifiedChinese": "薄膜电池是一种几乎无需维护的可充电能量技术。安置于机器的电路中，直接提供安全的电力。",
+    "TencentChinese": "薄膜电池是一种几乎无需维护的可充电能量技术。安置于机器的电路中，直接提供安全的电力。",
     "TraditionalChinese": "膜型電池是可充能式能源科技的其中一個零件，幾乎不需要維修，裝置於機械的迴路之中，便能安全又直接地提供電力。"
   },
   "Teach": false,

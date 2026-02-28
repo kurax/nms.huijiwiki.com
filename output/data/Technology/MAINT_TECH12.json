@@ -4,21 +4,25 @@
   "Name": {
     "English": "SPRING CASING",
     "SimplifiedChinese": "弹簧套管",
+    "TencentChinese": "弹簧套管",
     "TraditionalChinese": "彈簧套管"
   },
   "NameLower": {
     "English": "Spring Casing",
     "SimplifiedChinese": "弹簧套管",
+    "TencentChinese": "弹簧套管",
     "TraditionalChinese": "彈簧套管"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "The casing for a high-compression spring. The casing has ruptured, causing the spring to shoot out and damage the rest of the device.",
     "SimplifiedChinese": "高浓缩弹簧套。由于外套破裂，导致弹簧射出并破坏了设备其他部件。",
+    "TencentChinese": "高浓缩弹簧套。由于外套破裂，导致弹簧射出并破坏了设备其他部件。",
     "TraditionalChinese": "強力彈狂的殼罩。殼罩已破損，導致彈簧射出，毀損裝置內其他零件。"
   },
   "Teach": false,

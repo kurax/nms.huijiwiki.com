@@ -3,16 +3,19 @@
   "Group": {
     "English": "Photon Cannon",
     "SimplifiedChinese": "光子大炮",
+    "TencentChinese": "光子大炮",
     "TraditionalChinese": "光子砲"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

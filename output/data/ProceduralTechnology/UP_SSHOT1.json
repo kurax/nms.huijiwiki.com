@@ -4,6 +4,7 @@
   "Group": {
     "English": "Positron Ejector",
     "SimplifiedChinese": "正电子冲击波",
+    "TencentChinese": "正电子冲击波",
     "TraditionalChinese": "正電子彈射器"
   },
   "Name": {
@@ -11,9 +12,9 @@
       [
         "Retuned",
         "Laser",
-        "Fibre Optic",
+        "Fiber Optic",
         "Polished",
-        "Ionised"
+        "Ionized"
       ],
       [
         "Amplifier",
@@ -21,7 +22,7 @@
         "Oscillator",
         "Resonator",
         "Accelerator",
-        "Polariser",
+        "Polarizer",
         "Filament",
         "Refractor",
         "Mirror",
@@ -29,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "重新调整",
+        "激光",
+        "光导纤维",
+        "圆滑的",
+        "电离"
+      ],
+      [
+        "放大器",
+        "分离器",
+        "振荡器",
+        "共振器",
+        "加速器",
+        "偏振器",
+        "单纤维",
+        "折射镜",
+        "镜子",
+        "解限器"
+      ]
+    ],
+    "TencentChinese": [
       [
         "重新调整",
         "激光",
@@ -69,28 +91,12 @@
         "鏡子",
         "除限器"
       ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        "Fiber Optic",
-        null,
-        "Ionized"
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Polarizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Positron Ejector",
     "SimplifiedChinese": "正电子冲击波",
+    "TencentChinese": "正电子冲击波",
     "TraditionalChinese": "正電子彈射器"
   },
   "Subtitle": {

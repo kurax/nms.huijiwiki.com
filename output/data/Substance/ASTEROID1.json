@@ -2,11 +2,13 @@
   "Name": {
     "English": "SILVER",
     "SimplifiedChinese": "银",
+    "TencentChinese": "银",
     "TraditionalChinese": "銀"
   },
   "NameLower": {
     "English": "Silver",
     "SimplifiedChinese": "银",
+    "TencentChinese": "银",
     "TraditionalChinese": "銀"
   },
   "ID": "ASTEROID1",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Valuable Asteroid Mineral",
     "SimplifiedChinese": "宝贵的小行星矿物",
+    "TencentChinese": "宝贵的小行星矿物",
     "TraditionalChinese": "珍貴小行星礦物"
   },
   "Description": {
     "English": "Valuable interstellar trading mineral, typically <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.<br><br>Prized by people in all systems for its lustre and shine.",
     "SimplifiedChinese": "珍贵的星际交易矿物，通常<span class=\"name name-commodity\">采掘自小行星</span>。有时可在地下行星沉积物中发现。<br><br>所有恒星系的居民都非常喜爱它散发出的熠熠光泽。",
+    "TencentChinese": "珍贵的星际交易矿物，通常<span class=\"name name-commodity\">采掘自小行星</span>。有时可在地下行星沉积物中发现。<br><br>所有恒星系的居民都非常喜爱它散发出的熠熠光泽。",
     "TraditionalChinese": "珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。<br><br>光彩奪目，因此所有星系的居民都十分珍視。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather or refine Silver",
     "SimplifiedChinese": "收集或精炼银",
+    "TencentChinese": "收集或精炼银",
     "TraditionalChinese": "收集或精製銀"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-earth\">Silver</span> is a valuable interstellar trading mineral, most commonly <span class=\"name name-commodity\">mined from asteroids</span>. Occasionally found in underground planetary deposits.",
     "SimplifiedChinese": "<span class=\"name name-earth\">银</span>是一种非常珍贵的星际交易矿物，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。",
+    "TencentChinese": "<span class=\"name name-earth\">银</span>是一种非常珍贵的星际交易矿物，通常<span class=\"name name-commodity\">从小行星开采</span>得到。有时可在行星地下矿床中发现。",
     "TraditionalChinese": "<span class=\"name name-earth\">銀</span>是非常珍貴的星際交易礦物，通常<span class=\"name name-commodity\">從小行星開採而來</span>。有時能在星球地底資源產地找到。"
   },
   "PinObjectiveMessage": {

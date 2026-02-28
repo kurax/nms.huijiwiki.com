@@ -14,7 +14,7 @@
         "Augmented",
         "Upgraded",
         "Specialist",
-        "Synchronised"
+        "Synchronized"
       ],
       [
         "Tanks",
@@ -30,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "不稳的",
+        "增强的",
+        "升级的",
+        "专业的",
+        "同步的"
+      ],
+      [
+        "罐",
+        "泵",
+        "排气管",
+        "点火器",
+        "喷射器",
+        "发电机",
+        "涡轮",
+        "燃烧装置",
+        "扩散器",
+        "喷嘴"
+      ]
+    ],
+    "TencentChinese": [
       [
         "不稳的",
         "增强的",
@@ -69,15 +90,6 @@
         "壓縮元件",
         "擴散器",
         "噴嘴"
-      ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "Synchronized"
       ]
     ]
   },

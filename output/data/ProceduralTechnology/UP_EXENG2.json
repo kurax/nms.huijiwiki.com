@@ -4,6 +4,7 @@
   "Group": {
     "English": "Fusion Engine",
     "SimplifiedChinese": "聚变发动机",
+    "TencentChinese": "聚变发动机",
     "TraditionalChinese": "核融合引擎"
   },
   "Name": {
@@ -13,7 +14,7 @@
         "Heated",
         "Upgraded",
         "Rewired",
-        "Stabilised"
+        "Stabilized"
       ],
       [
         "Propulsion Unit",
@@ -29,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "圆滑的",
+        "高热的",
+        "升级的",
+        "重新接线的",
+        "稳定的"
+      ],
+      [
+        "推进装置",
+        "推进控制器",
+        "脉冲喷嘴",
+        "冲击波护盾",
+        "磁性风扇",
+        "氢发电机",
+        "等离子排气管",
+        "燃料管",
+        "微中子注射器",
+        "电子套管"
+      ]
+    ],
+    "TencentChinese": [
       [
         "圆滑的",
         "高热的",
@@ -69,20 +91,12 @@
         "微中子注射器",
         "電子套管"
       ]
-    ],
-    "USEnglish": [
-      [
-        null,
-        null,
-        null,
-        null,
-        "Stabilized"
-      ]
     ]
   },
   "NameLower": {
     "English": "Fusion Engine",
     "SimplifiedChinese": "聚变发动机",
+    "TencentChinese": "聚变发动机",
     "TraditionalChinese": "核融合引擎"
   },
   "Subtitle": {

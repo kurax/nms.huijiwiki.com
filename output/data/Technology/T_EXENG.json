@@ -3,16 +3,19 @@
   "Group": {
     "English": "Fusion Engine",
     "SimplifiedChinese": "聚变发动机",
+    "TencentChinese": "聚变发动机",
     "TraditionalChinese": "核融合引擎"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

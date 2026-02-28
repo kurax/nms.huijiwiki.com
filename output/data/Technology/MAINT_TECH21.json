@@ -4,23 +4,26 @@
   "Name": {
     "English": "NETWORK INTERFACE",
     "SimplifiedChinese": "网络接口",
+    "TencentChinese": "网络接口",
     "TraditionalChinese": "網路介面"
   },
   "NameLower": {
     "English": "Network Interface",
     "SimplifiedChinese": "网络接口",
+    "TencentChinese": "网络接口",
     "TraditionalChinese": "網路介面"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
-    "English": "A universal network interface, allowing the device to connect to a remote control centre. Damage to this interface is causing it to interpret background radiation as network signals, corrupting data in other circuits.",
+    "English": "A universal network interface, allowing the device to connect to a remote control center. Damage to this interface is causing it to interpret background radiation as network signals, corrupting data in other circuits.",
     "SimplifiedChinese": "普通网络接口，可使设备与远程控制中心联系。此接口受损，使其将本底辐射作为网络信号解译，破坏了其他电路的数据。",
-    "TraditionalChinese": "通用網路介面，允許裝置連結至遠端操控中心。介面毀損導致介面將背景輻射視為網路訊號，毀損其他電路的資料。",
-    "USEnglish": "A universal network interface, allowing the device to connect to a remote control center. Damage to this interface is causing it to interpret background radiation as network signals, corrupting data in other circuits."
+    "TencentChinese": "普通网络接口，可使设备与远程控制中心联系。此接口受损，使其将本底辐射作为网络信号解译，破坏了其他电路的数据。",
+    "TraditionalChinese": "通用網路介面，允許裝置連結至遠端操控中心。介面毀損導致介面將背景輻射視為網路訊號，毀損其他電路的資料。"
   },
   "Teach": false,
   "HintStart": "",

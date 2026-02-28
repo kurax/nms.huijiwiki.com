@@ -4,12 +4,13 @@
   "Group": {
     "English": "Toxic Protection",
     "SimplifiedChinese": "毒性防护",
+    "TencentChinese": "毒性防护",
     "TraditionalChinese": "毒性防護"
   },
   "Name": {
     "English": [
       [
-        "Ionising",
+        "Ionizing",
         "Vermiform",
         "Gigawatt",
         "Irradiating",
@@ -22,7 +23,7 @@
         "Biohazard Filter",
         "Poison Remover",
         "Exhaust Filter",
-        "Alkaloid Neutraliser",
+        "Alkaloid Neutralizer",
         "Microfilters",
         "Air Purifier",
         "pH Balancer"
@@ -49,6 +50,27 @@
         "pH平衡器"
       ]
     ],
+    "TencentChinese": [
+      [
+        "电离",
+        "蠕虫体",
+        "千兆瓦",
+        "辐照",
+        "真空"
+      ],
+      [
+        "毒性过滤器",
+        "气体洗涤器",
+        "解毒器",
+        "生化过滤器",
+        "毒性去除器",
+        "排气过滤器",
+        "生物碱中和器",
+        "微型过滤器",
+        "空气净化器",
+        "酸碱平衡器"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "離子化",
@@ -69,40 +91,12 @@
         "空氣淨化器",
         "酸鹼平衡器"
       ]
-    ],
-    "USEnglish": [
-      [
-        "Ionizing"
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Alkaloid Neutralizer"
-      ]
-    ],
-    "TencentChinese": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "酸碱平衡器"
-      ]
     ]
   },
   "NameLower": {
     "English": "Toxic Protection",
     "SimplifiedChinese": "毒性防护",
+    "TencentChinese": "毒性防护",
     "TraditionalChinese": "毒性防護"
   },
   "Subtitle": {

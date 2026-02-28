@@ -4,21 +4,25 @@
   "Name": {
     "English": "KINETIC DYNAMO",
     "SimplifiedChinese": "动力发电机",
+    "TencentChinese": "动力发电机",
     "TraditionalChinese": "動力發電機"
   },
   "NameLower": {
     "English": "Kinetic Dynamo",
     "SimplifiedChinese": "动力发电机",
+    "TencentChinese": "动力发电机",
     "TraditionalChinese": "動力發電機"
   },
   "Subtitle": {
     "English": "Chargeable Power Unit",
     "SimplifiedChinese": "可充电能源单位",
+    "TencentChinese": "可充电能源单位",
     "TraditionalChinese": "可充填能量裝置"
   },
   "Description": {
     "English": "The kinetic dynamo takes a small initial charge and uses it to run power-harvesting systems that tap into the orbit of the planet. This frees autonomous machinery from frequent fuel inspections, allowing them to endure extremely long maintenance cycles.",
     "SimplifiedChinese": "动力发电机只需在初始时充少量电，即可使用其运行接入星球轨道的能量采集系统。这能使自动机械免除频繁的燃料检查，使其具有超长维护周期。",
+    "TencentChinese": "动力发电机只需在初始时充少量电，即可使用其运行接入星球轨道的能量采集系统。这能使自动机械免除频繁的燃料检查，使其具有超长维护周期。",
     "TraditionalChinese": "動力發電機只需一開始稍微充能，便可控制接入星球軌道的能源採收系統。如此一來，自動機器便不需要經常檢查燃料量，大幅延長維修年限。"
   },
   "Teach": false,

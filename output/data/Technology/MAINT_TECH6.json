@@ -4,21 +4,25 @@
   "Name": {
     "English": "BOILER UNIT",
     "SimplifiedChinese": "热水贮槽单元",
+    "TencentChinese": "热水贮槽单元",
     "TraditionalChinese": "鍋爐零件"
   },
   "NameLower": {
     "English": "Boiler Unit",
     "SimplifiedChinese": "热水贮槽单元",
+    "TencentChinese": "热水贮槽单元",
     "TraditionalChinese": "鍋爐零件"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A small boiler, generating heat to allow the device to function in difficult climates. A malfunction has resulted in a damaging boiler overflow.",
     "SimplifiedChinese": "小型热水贮槽，能够聚热使设备在极端气候下正常运转。一次故障使热水贮槽受损溢流。",
+    "TencentChinese": "小型热水贮槽，能够聚热使设备在极端气候下正常运转。一次故障使热水贮槽受损溢流。",
     "TraditionalChinese": "小型鍋爐，能在險峻氣候中產生熱能。運轉失常導致溢流，毀損鍋爐。"
   },
   "Teach": false,

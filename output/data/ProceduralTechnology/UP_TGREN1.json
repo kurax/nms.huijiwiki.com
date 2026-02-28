@@ -4,6 +4,7 @@
   "Group": {
     "English": "Geology Cannon",
     "SimplifiedChinese": "地质大炮",
+    "TencentChinese": "地质大炮",
     "TraditionalChinese": "地質砲"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "定时套管"
       ]
     ],
+    "TencentChinese": [
+      [
+        "增强的",
+        "第二的",
+        "第三的",
+        "高效的",
+        "润滑的"
+      ],
+      [
+        "压缩机",
+        "发射系统",
+        "注射器塞头",
+        "释放机制",
+        "气体扩张器",
+        "核心",
+        "线圈",
+        "制弹器",
+        "热力泵",
+        "定时套管"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "已加速",
@@ -74,6 +96,7 @@
   "NameLower": {
     "English": "Geology Cannon",
     "SimplifiedChinese": "地质大炮",
+    "TencentChinese": "地质大炮",
     "TraditionalChinese": "地質砲"
   },
   "Subtitle": {

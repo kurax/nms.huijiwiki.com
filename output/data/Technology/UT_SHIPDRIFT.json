@@ -17,10 +17,9 @@
     "TraditionalChinese": "高級太空船駕駛員模組"
   },
   "Description": {
-    "English": "This grey-market electronics module disables critical safety and pilot-assistance modules usually baked into the starship's fly-by-wire control system. Despite its dubious legal status and its implication in a series of high-speed asteroid impacts, this module remains popular with smugglers, mercenaries, and others who think of themselves as advanced pilots.<br><br>Specifically tuned to increase the ability of the starship to <span class=\"name name-stellar\">drift</span> during spaceflight.",
+    "English": "This gray-market electronics module disables critical safety and pilot-assistance modules usually baked into the starship's fly-by-wire control system. Despite its dubious legal status and its implication in a series of high-speed asteroid impacts, this module remains popular with smugglers, mercenaries, and others who think of themselves as advanced pilots.<br><br>Specifically tuned to increase the ability of the starship to <span class=\"name name-stellar\">drift</span> during spaceflight.",
     "SimplifiedChinese": "这种灰色市场流通的电子模块能使关键的安全和飞行员辅助模块失效。这些模块通常被植入飞船的飞控系统，尽管它的合法性令人怀疑，而且与一系列高速小行星撞击事故有关，但这个装置仍然受到走私者、雇佣兵和其他自以为是资深驾驶员的人的欢迎。<br><br>经过专门调整，以增加飞船在太空飞行中<span class=\"name name-stellar\">漂移</span>的能力。",
-    "TraditionalChinese": "這種來自灰市的電子模組，能夠關閉重要的安全和駕駛輔助模組，後兩者通常會直接裝在太空船的線傳控制系統中。除了它可疑的法律定位，還有可能會導致一系列的高速小行星撞擊外，這個模組在走私者、傭兵，還有那些自認為是高超駕駛員的人之間十分熱門。<br><br>經過特別調校，能讓太空船在太空飛行時<span class=\"name name-stellar\">甩尾</span>。",
-    "USEnglish": "This gray-market electronics module disables critical safety and pilot-assistance modules usually baked into the starship's fly-by-wire control system. Despite its dubious legal status and its implication in a series of high-speed asteroid impacts, this module remains popular with smugglers, mercenaries, and others who think of themselves as advanced pilots.<br><br>Specifically tuned to increase the ability of the starship to <span class=\"name name-stellar\">drift</span> during spaceflight."
+    "TraditionalChinese": "這種來自灰市的電子模組，能夠關閉重要的安全和駕駛輔助模組，後兩者通常會直接裝在太空船的線傳控制系統中。除了它可疑的法律定位，還有可能會導致一系列的高速小行星撞擊外，這個模組在走私者、傭兵，還有那些自認為是高超駕駛員的人之間十分熱門。<br><br>經過特別調校，能讓太空船在太空飛行時<span class=\"name name-stellar\">甩尾</span>。"
   },
   "Teach": true,
   "HintStart": "",

@@ -3,16 +3,19 @@
   "Group": {
     "English": "Rocket Launcher",
     "SimplifiedChinese": "火箭发射器",
+    "TencentChinese": "火箭发射器",
     "TraditionalChinese": "火箭發射器"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

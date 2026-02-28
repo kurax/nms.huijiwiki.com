@@ -4,6 +4,7 @@
   "Name": {
     "English": "PERSONAL FORCEFIELD",
     "SimplifiedChinese": "私人力场",
+    "TencentChinese": "私人力场",
     "TraditionalChinese": "個人力場"
   },
   "NameLower": {
@@ -15,11 +16,13 @@
   "Subtitle": {
     "English": "Defensive Shield Technology",
     "SimplifiedChinese": "防御性护盾技术",
+    "TencentChinese": "防御性护盾技术",
     "TraditionalChinese": "防禦護罩科技"
   },
   "Description": {
     "English": "On activation, this module draws power from <VAL_ON>Exosuit Life Support<> systems to overload the Multi-Tool, distorting the electromagnetic field around the user and creating a <span class=\"name name-commodity\">powerful personal shield</span>.<br><br>While this field offers substantial protection against incoming laser fire, the user is advised that the Multi-Tool cannot be used for other functions while powering the shield.",
     "SimplifiedChinese": "激活后，此模块可通过<VAL_ON>套装维生系统<>获取能量以过载多用途工具，扭曲使用者附近的电磁场来创造一个<span class=\"name name-commodity\">强大的个人护盾</span>。<br><br>此护盾可提供坚固的防护阻挡激光火力，但多用途工具在为护盾供能的过程中无法用于其他功能。",
+    "TencentChinese": "激活后，此模块可通过<VAL_ON>套装维生系统<>获取能量以过载多用途工具，扭曲使用者附近的电磁场来创造一个<span class=\"name name-commodity\">强大的个人护盾</span>。<br><br>此护盾可提供坚固的防护阻挡激光火力，但多用途工具在为护盾供能的过程中无法用于其他功能。",
     "TraditionalChinese": "啟動時，本模組會從<VAL_ON>強化套裝維生系統<>吸取能量使工具組超載，扭曲使用者周遭的磁場並創造出<COMMODITY強大的個人防護罩<>。<br><br>雖然這種防護罩足以抵禦雷射槍攻擊，但還是建議使用者在為防護罩充能時，不要使用工具組的其他功能。"
   },
   "Teach": true,

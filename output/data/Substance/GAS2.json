@@ -2,11 +2,13 @@
   "Name": {
     "English": "RADON",
     "SimplifiedChinese": "氡",
+    "TencentChinese": "氡",
     "TraditionalChinese": "氡"
   },
   "NameLower": {
     "English": "Radon",
     "SimplifiedChinese": "氡",
+    "TencentChinese": "氡",
     "TraditionalChinese": "氡"
   },
   "ID": "GAS2",
@@ -21,13 +23,14 @@
   "Subtitle": {
     "English": "Compressed Atmospheric Gas",
     "SimplifiedChinese": "压缩大气气体",
+    "TencentChinese": "压缩大气气体",
     "TraditionalChinese": "大氣壓縮氣體"
   },
   "Description": {
-    "English": "A colourless, odourless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br><br>Found in both <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> atmospheres, this gas is produced by the decay of other high-energy elements.",
+    "English": "A colorless, odorless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br><br>Found in both <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> atmospheres, this gas is produced by the decay of other high-energy elements.",
     "SimplifiedChinese": "一种无色无味的<span class=\"name name-tradeable\">气体</span>，半衰期相对较短。 <br><br>这种气体可同时在<span class=\"name name-commodity\">辐射</span>和<span class=\"name name-technology\">冰冻</span> 大气中找到，并且是由其他高能元素衰败产生的。",
-    "TraditionalChinese": "無色無味的<span class=\"name name-tradeable\">氣體</span>，半衰期相對較短。 <br><br>這種氣體是由其他高能量元素衰變而成，可在<span class=\"name name-commodity\">輻射</span>與<span class=\"name name-technology\">冰凍</span>的大氣中找到。",
-    "USEnglish": "A colorless, odorless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br><br>Found in both <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> atmospheres, this gas is produced by the decay of other high-energy elements."
+    "TencentChinese": "一种无色无味的<span class=\"name name-tradeable\">气体</span>，半衰期相对较短。 <br><br>这种气体可同时在<span class=\"name name-commodity\">辐射</span>和<span class=\"name name-technology\">冰冻</span> 大气中找到，并且是由其他高能元素衰败产生的。",
+    "TraditionalChinese": "無色無味的<span class=\"name name-tradeable\">氣體</span>，半衰期相對較短。 <br><br>這種氣體是由其他高能量元素衰變而成，可在<span class=\"name name-commodity\">輻射</span>與<span class=\"name name-technology\">冰凍</span>的大氣中找到。"
   },
   "Colour": {
     "R": 0.298039228,
@@ -62,13 +65,14 @@
   "PinObjective": {
     "English": "Process Radon",
     "SimplifiedChinese": "处理氡",
+    "TencentChinese": "处理氡",
     "TraditionalChinese": "加工氡"
   },
   "PinObjectiveTip": {
-    "English": "<span class=\"name name-tradeable\">Radon</span> is a colourless, odourless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the atmospheres of <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> planets.",
+    "English": "<span class=\"name name-tradeable\">Radon</span> is a colorless, odorless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the atmospheres of <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> planets.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">氡</span>是一种无色无味的<span class=\"name name-tradeable\">气体</span>，其半衰期相对较短。<br>可以使用<span class=\"name name-technology\">大气采集器</span>，从<span class=\"name name-commodity\">辐射</span>和<span class=\"name name-technology\">冰冻</span>星球上的大气中将气体提取出来。",
-    "TraditionalChinese": "<span class=\"name name-tradeable\">氡</span>是無色無味的<span class=\"name name-tradeable\">氣體</span>半衰期相對較短。<br>若借助<span class=\"name name-technology\">大氣採集器</span>，可從<span class=\"name name-commodity\">輻射</span>和<span class=\"name name-technology\">結冰</span>星球的大氣層中萃取到。",
-    "USEnglish": "<span class=\"name name-tradeable\">Radon</span> is a colorless, odorless <span class=\"name name-tradeable\">gas</span> with a relatively short half-life. <br>With the aid of an <span class=\"name name-technology\">Atmosphere Harvester</span>, can be extracted from the atmospheres of <span class=\"name name-commodity\">Radioactive</span> and <span class=\"name name-technology\">Frozen</span> planets."
+    "TencentChinese": "<span class=\"name name-tradeable\">氡</span>是一种无色无味的<span class=\"name name-tradeable\">气体</span>，其半衰期相对较短。<br>可以使用<span class=\"name name-technology\">大气采集器</span>，从<span class=\"name name-commodity\">辐射</span>和<span class=\"name name-technology\">冰冻</span>星球上的大气中将气体提取出来。",
+    "TraditionalChinese": "<span class=\"name name-tradeable\">氡</span>是無色無味的<span class=\"name name-tradeable\">氣體</span>半衰期相對較短。<br>若借助<span class=\"name name-technology\">大氣採集器</span>，可從<span class=\"name name-commodity\">輻射</span>和<span class=\"name name-technology\">結冰</span>星球的大氣層中萃取到。"
   },
   "PinObjectiveMessage": {
     "English": "Deploy an <span class=\"name name-technology\">Atmosphere Harvester</span> on <span class=\"name name-commodity\">radioactive</span> or <span class=\"name name-technology\">frozen</span> worlds",

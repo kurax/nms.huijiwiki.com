@@ -4,6 +4,7 @@
   "Group": {
     "English": "Photon Cannon",
     "SimplifiedChinese": "光子大炮",
+    "TencentChinese": "光子大炮",
     "TraditionalChinese": "光子砲"
   },
   "Name": {
@@ -21,7 +22,7 @@
         "Oscillator",
         "Resonator",
         "Accelerator",
-        "Polariser",
+        "Polarizer",
         "Filament",
         "Refractor",
         "Mirror",
@@ -29,6 +30,27 @@
       ]
     ],
     "SimplifiedChinese": [
+      [
+        "艾梅里尔",
+        "铟",
+        "正电子",
+        "时序",
+        "超高频"
+      ],
+      [
+        "放大器",
+        "分离器",
+        "振荡器",
+        "共振器",
+        "加速器",
+        "偏振器",
+        "单纤维",
+        "折射镜",
+        "镜子",
+        "解限器"
+      ]
+    ],
+    "TencentChinese": [
       [
         "艾梅里尔",
         "铟",
@@ -69,22 +91,12 @@
         "鏡子",
         "解限器"
       ]
-    ],
-    "USEnglish": [
-      null,
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        "Polarizer"
-      ]
     ]
   },
   "NameLower": {
     "English": "Photon Cannon",
     "SimplifiedChinese": "光子大炮",
+    "TencentChinese": "光子大炮",
     "TraditionalChinese": "光子砲"
   },
   "Subtitle": {

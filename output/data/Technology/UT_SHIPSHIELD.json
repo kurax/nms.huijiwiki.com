@@ -2,27 +2,28 @@
   "ID": "UT_SHIPSHIELD",
   "Group": "",
   "Name": {
-    "English": "ABLATIVE ARMOUR",
+    "English": "ABLATIVE ARMOR",
     "SimplifiedChinese": "烧蚀装甲",
-    "TraditionalChinese": "燒蝕裝甲",
-    "USEnglish": "ABLATIVE ARMOR"
+    "TencentChinese": "烧蚀装甲",
+    "TraditionalChinese": "燒蝕裝甲"
   },
   "NameLower": {
-    "English": "Ablative Armour",
+    "English": "Ablative Armor",
     "SimplifiedChinese": "烧蚀装甲",
-    "TraditionalChinese": "燒蝕裝甲",
-    "USEnglish": "Ablative Armor"
+    "TencentChinese": "烧蚀装甲",
+    "TraditionalChinese": "燒蝕裝甲"
   },
   "Subtitle": {
     "English": "Starship Shield Upgrade",
     "SimplifiedChinese": "飞船护罩升级",
+    "TencentChinese": "飞船护罩升级",
     "TraditionalChinese": "太空船防護罩升級"
   },
   "Description": {
-    "English": "Adds a layer of superheated shielding to the starship's defense array, vaporising incoming fire.<br><br>Significantly increases <span class=\"name name-stellar\">starship shield performance</span>.",
+    "English": "Adds a layer of superheated shielding to the starship's defense array, vaporizing incoming fire.<br><br>Significantly increases <span class=\"name name-stellar\">starship shield performance</span>.",
     "SimplifiedChinese": "在飞船防御阵形上增加一层过热护盾，汽化掉敌方攻击。<br><br>显著提升<span class=\"name name-stellar\">飞船护盾性能</span>。",
-    "TraditionalChinese": "在太空船防禦陣形上增加一層過熱防護罩，汽化掉敵方攻擊。<br><br>顯著提升<span class=\"name name-stellar\">太空船防護罩性能</span>。",
-    "USEnglish": "Adds a layer of superheated shielding to the starship's defense array, vaporizing incoming fire.<br><br>Significantly increases <span class=\"name name-stellar\">starship shield performance</span>."
+    "TencentChinese": "在飞船防御阵形上增加一层过热护盾，汽化掉敌方攻击。<br><br>显著提升<span class=\"name name-stellar\">飞船护盾性能</span>。",
+    "TraditionalChinese": "在太空船防禦陣形上增加一層過熱防護罩，汽化掉敵方攻擊。<br><br>顯著提升<span class=\"name name-stellar\">太空船防護罩性能</span>。"
   },
   "Teach": true,
   "HintStart": "",

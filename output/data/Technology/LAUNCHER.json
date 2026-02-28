@@ -4,23 +4,26 @@
   "Name": {
     "English": "LAUNCH THRUSTER",
     "SimplifiedChinese": "发射推进器",
+    "TencentChinese": "发射推进器",
     "TraditionalChinese": "啟動推進器"
   },
   "NameLower": {
     "English": "Launch Thruster",
     "SimplifiedChinese": "发射推进器",
+    "TencentChinese": "发射推进器",
     "TraditionalChinese": "啟動推進器"
   },
   "Subtitle": {
     "English": "Vertical Take-off System",
     "SimplifiedChinese": "垂直起降系统",
+    "TencentChinese": "垂直起降系统",
     "TraditionalChinese": "垂直起飛系統"
   },
   "Description": {
-    "English": "Vital launch and landing gear system.<br> <br>User is advised that specialised, Deuterium-derived fuel is required to recharge thruster. Launch procedures require sufficient fuel levels before activation.<br> <br>Hold <span class=\"name name-img\">THRUST</span> to take off from planet.<br>Hold <span class=\"name name-img\">BOOST</span> to initiate in-flight speed boost.",
+    "English": "Vital launch and landing gear system.<br> <br>User is advised that specialized, Deuterium-derived fuel is required to recharge thruster. Launch procedures require sufficient fuel levels before activation.<br> <br>Hold <span class=\"name name-img\">THRUST</span> to take off from planet.<br>Hold <span class=\"name name-img\">BOOST</span> to initiate in-flight speed boost.",
     "SimplifiedChinese": "极为重要的起飞与降落系统。<br> <br>用户需知，推进器以专用的二氢衍生燃料充能，有了足够的燃料等级，才能起飞。<br> <br>按住 <span class=\"name name-img\">THRUST</span>，从星球上起飞。<br>在飞行时按住 <span class=\"name name-img\">BOOST</span>，启动加速。",
-    "TraditionalChinese": "重要的起飛與降落輪組系統。<br><br>建議使用二氫製的特殊燃料補充推進器。發射程序啟動前需有充足燃料。<br><br>按住 <span class=\"name name-img\">THRUST</span> 自星球起飛。<br>按住 <span class=\"name name-img\">BOOST</span> 啟動飛行中加速。",
-    "USEnglish": "Vital launch and landing gear system.<br> <br>User is advised that specialized, Deuterium-derived fuel is required to recharge thruster. Launch procedures require sufficient fuel levels before activation.<br> <br>Hold <span class=\"name name-img\">THRUST</span> to take off from planet.<br>Hold <span class=\"name name-img\">BOOST</span> to initiate in-flight speed boost."
+    "TencentChinese": "极为重要的起飞与降落系统。<br> <br>用户需知，推进器以专用的二氢衍生燃料充能，有了足够的燃料等级，才能起飞。<br> <br>按住 <span class=\"name name-img\">THRUST</span>，从星球上起飞。<br>在飞行时按住 <span class=\"name name-img\">BOOST</span>，启动加速。",
+    "TraditionalChinese": "重要的起飛與降落輪組系統。<br><br>建議使用二氫製的特殊燃料補充推進器。發射程序啟動前需有充足燃料。<br><br>按住 <span class=\"name name-img\">THRUST</span> 自星球起飛。<br>按住 <span class=\"name name-img\">BOOST</span> 啟動飛行中加速。"
   },
   "Teach": true,
   "HintStart": "",
@@ -111,6 +114,7 @@
   "DamagedDescription": {
     "English": "Vital launch and landing gear system. <br><br>System is highly damaged and requires <span class=\"name name-fuel\">Di-hydrogen Jelly</span> and <span class=\"name name-earth\">Pure Ferrite</span> to repair.<br><br>Construct a <span class=\"name name-technology\">Portable Refiner</span> to process <span class=\"name name-earth\">Pure Ferrite</span>.",
     "SimplifiedChinese": "极为重要的起飞与降落系统。<br><br>系统高度受损，需要<span class=\"name name-fuel\">二氢凝胶</span>和<span class=\"name name-earth\">纯铁氧体</span>修复。<br><br>制作<span class=\"name name-technology\">便携式精炼机</span>加工<span class=\"name name-earth\">纯铁氧体</span>。",
+    "TencentChinese": "极为重要的起飞与降落系统。<br><br>系统高度受损，需要<span class=\"name name-fuel\">二氢凝胶</span>和<span class=\"name name-earth\">纯铁氧体</span>修复。<br><br>制作<span class=\"name name-technology\">便携式精炼机</span>加工<span class=\"name name-earth\">纯铁氧体</span>。",
     "TraditionalChinese": "重要的起飛與降落輪組系統。<br><br>系統嚴重毀損，需要<span class=\"name name-fuel\">二氫膠</span>及<span class=\"name name-earth\">純鐵氧體</span>才能修復。<br><br>建造<span class=\"name name-technology\">可攜式精製機</span>以加工<span class=\"name name-earth\">純鐵氧體</span>。"
   },
   "ParentTechId": "",

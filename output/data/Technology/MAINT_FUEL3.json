@@ -4,21 +4,25 @@
   "Name": {
     "English": "POWER CONDENSER",
     "SimplifiedChinese": "能量聚合器",
+    "TencentChinese": "能量聚合器",
     "TraditionalChinese": "能量壓縮器"
   },
   "NameLower": {
     "English": "Power Condenser",
     "SimplifiedChinese": "能量聚合器",
+    "TencentChinese": "能量聚合器",
     "TraditionalChinese": "能量壓縮器"
   },
   "Subtitle": {
     "English": "Chargeable Power Unit",
     "SimplifiedChinese": "可充电能源单位",
+    "TencentChinese": "可充电能源单位",
     "TraditionalChinese": "可充填能量裝置"
   },
   "Description": {
     "English": "A piece of rechargeable power technology. The power condenser harvests any heat energy wasted during the machine's operation, and uses it to generate extra power.",
     "SimplifiedChinese": "可充电能量技术的一部分。能量聚合器可获取机器运转过程中浪费的任意热能，并用其产生额外能量。",
+    "TencentChinese": "可充电能量技术的一部分。能量聚合器可获取机器运转过程中浪费的任意热能，并用其产生额外能量。",
     "TraditionalChinese": "可充能式能源科技的其中一個零件。能量壓縮器可以利用機械運轉時浪費的熱能，並用來製造更多能源。"
   },
   "Teach": false,

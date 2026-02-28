@@ -4,21 +4,25 @@
   "Name": {
     "English": "ARTEMIS' TRANSLATOR",
     "SimplifiedChinese": "阿耳特弥斯翻译器",
+    "TencentChinese": "阿耳特弥斯翻译器",
     "TraditionalChinese": "阿耳忒彌斯翻譯機"
   },
   "NameLower": {
     "English": "Artemis' Translator",
     "SimplifiedChinese": "阿耳特弥斯翻译器",
+    "TencentChinese": "阿耳特弥斯翻译器",
     "TraditionalChinese": "阿耳忒彌斯翻譯機"
   },
   "Subtitle": {
     "English": "Automatic Language Parser",
     "SimplifiedChinese": "自动语言剖析器",
+    "TencentChinese": "自动语言剖析器",
     "TraditionalChinese": "自動語言分析器"
   },
   "Description": {
     "English": "An automatic translation device. Device must be calibrated by pre-loading with existing translation data. Device must have <span class=\"name name-stellar\">network connection to Artemis</span> to function.<br><br>Without access to host translation service, on-board circuit allows limited real-time translation of a small number of words.",
     "SimplifiedChinese": "一种自动翻译装置。设备必须通过预加载现有翻译数据进行校准，且必须<span class=\"name name-stellar\">连接到阿耳特弥斯网络</span>方能运行。<br><br>无法获取主机翻译服务时，板载电路能完成少量单词的有限实时翻译。",
+    "TencentChinese": "一种自动翻译装置。设备必须通过预加载现有翻译数据进行校准，且必须<span class=\"name name-stellar\">连接到阿耳特弥斯网络</span>方能运行。<br><br>无法获取主机翻译服务时，板载电路能完成少量单词的有限实时翻译。",
     "TraditionalChinese": "自動翻譯裝置。本裝置必須事先調校，讀取現有翻譯資料。本裝置必須<span class=\"name name-stellar\">與阿耳忒彌斯保持網路連線</span>，才能正常使用。<br><br>若無法連線翻譯服務主機，裝置的內建電路，可以進行有限即時翻譯，但僅能翻譯少數單字。"
   },
   "Teach": true,

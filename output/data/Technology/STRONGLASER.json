@@ -4,23 +4,26 @@
   "Name": {
     "English": "ADVANCED MINING LASER",
     "SimplifiedChinese": "高级开采激光",
+    "TencentChinese": "高级开采激光",
     "TraditionalChinese": "改良採礦雷射"
   },
   "NameLower": {
     "English": "Advanced Mining Laser",
     "SimplifiedChinese": "高级开采激光",
+    "TencentChinese": "高级开采激光",
     "TraditionalChinese": "改良採礦雷射"
   },
   "Subtitle": {
     "English": "Mining Beam Companion Unit",
     "SimplifiedChinese": "开采光束配件",
+    "TencentChinese": "开采光束配件",
     "TraditionalChinese": "採礦光束輔助元件"
   },
   "Description": {
-    "English": "Replaces standard <span class=\"name name-technology\">Mining Beam</span> optics with high-grade Living Glass, allowing the beam to be effective against <span class=\"name name-stellar\">large and/or rare resource deposits</span>.<br><br>The lens adapts automatically to minute fluctuations in the beam waveform, minimising scatter and <span class=\"name name-stellar\">increasing device mining potential</span>.",
+    "English": "Replaces standard <span class=\"name name-technology\">Mining Beam</span> optics with high-grade Living Glass, allowing the beam to be effective against <span class=\"name name-stellar\">large and/or rare resource deposits</span>.<br><br>The lens adapts automatically to minute fluctuations in the beam waveform, minimizing scatter and <span class=\"name name-stellar\">increasing device mining potential</span>.",
     "SimplifiedChinese": "将标准的<span class=\"name name-technology\">开采光束</span>光学器材替换为高级活体玻璃，使光束能对<span class=\"name name-stellar\">大型和/或稀有资源沉积</span>生效。<br><br>镜头可自动适应光束波形中的微小波动，尽量减少散射并<span class=\"name name-stellar\">增加设备开采能力</span>。",
-    "TraditionalChinese": "以高階活玻璃取代標準<span class=\"name name-technology\">採礦光束</span>光學儀器，讓光束能夠有效處理<span class=\"name name-stellar\">大型及罕見資源產地</span>。<br><br>鏡頭會依據光束波型的微小起伏自動調整，減低分散並<span class=\"name name-stellar\">提升裝置的採礦潛能</span>。",
-    "USEnglish": "Replaces standard <span class=\"name name-technology\">Mining Beam</span> optics with high-grade Living Glass, allowing the beam to be effective against <span class=\"name name-stellar\">large and/or rare resource deposits</span>.<br><br>The lens adapts automatically to minute fluctuations in the beam waveform, minimizing scatter and <span class=\"name name-stellar\">increasing device mining potential</span>."
+    "TencentChinese": "将标准的<span class=\"name name-technology\">开采光束</span>光学器材替换为高级活体玻璃，使光束能对<span class=\"name name-stellar\">大型和/或稀有资源沉积</span>生效。<br><br>镜头可自动适应光束波形中的微小波动，尽量减少散射并<span class=\"name name-stellar\">增加设备开采能力</span>。",
+    "TraditionalChinese": "以高階活玻璃取代標準<span class=\"name name-technology\">採礦光束</span>光學儀器，讓光束能夠有效處理<span class=\"name name-stellar\">大型及罕見資源產地</span>。<br><br>鏡頭會依據光束波型的微小起伏自動調整，減低分散並<span class=\"name name-stellar\">提升裝置的採礦潛能</span>。"
   },
   "Teach": true,
   "HintStart": "",

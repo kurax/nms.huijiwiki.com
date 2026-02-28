@@ -4,23 +4,26 @@
   "Name": {
     "English": "SECURITY ALARM",
     "SimplifiedChinese": "安全警报",
+    "TencentChinese": "安全警报",
     "TraditionalChinese": "保全警告系統"
   },
   "NameLower": {
     "English": "Security Alarm",
     "SimplifiedChinese": "安全警报",
+    "TencentChinese": "安全警报",
     "TraditionalChinese": "保全警告系統"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
-    "English": "A small light/klaxon hybrid, designed to warn of unauthorised access to the device. Damage to the alarm has caused it to overload and short other nearby circuits.",
+    "English": "A small light/klaxon hybrid, designed to warn of unauthorized access to the device. Damage to the alarm has caused it to overload and short other nearby circuits.",
     "SimplifiedChinese": "小型灯光/警笛混合物，在未经授权访问设备时发出警告。警报受损导致其超负荷，并使其他附近电路短路。",
-    "TraditionalChinese": "小型燈光／警笛兩用裝置，其設計會在裝置遭受不明存取時發出警告。警報器毀損導致電路超載，也造成鄰近電路短路。",
-    "USEnglish": "A small light/klaxon hybrid, designed to warn of unauthorized access to the device. Damage to the alarm has caused it to overload and short other nearby circuits."
+    "TencentChinese": "小型灯光/警笛混合物，在未经授权访问设备时发出警告。警报受损导致其超负荷，并使其他附近电路短路。",
+    "TraditionalChinese": "小型燈光／警笛兩用裝置，其設計會在裝置遭受不明存取時發出警告。警報器毀損導致電路超載，也造成鄰近電路短路。"
   },
   "Teach": false,
   "HintStart": "",

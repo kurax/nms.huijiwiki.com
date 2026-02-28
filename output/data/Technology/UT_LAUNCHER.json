@@ -4,21 +4,25 @@
   "Name": {
     "English": "EFFICIENT THRUSTERS",
     "SimplifiedChinese": "高效推进器",
+    "TencentChinese": "高效推进器",
     "TraditionalChinese": "高效推進器"
   },
   "NameLower": {
     "English": "Efficient Thrusters",
     "SimplifiedChinese": "高效推进器",
+    "TencentChinese": "高效推进器",
     "TraditionalChinese": "高效推進器"
   },
   "Subtitle": {
     "English": "Starship Launch System Upgrade",
     "SimplifiedChinese": "飞船发射系统升级",
+    "TencentChinese": "飞船发射系统升级",
     "TraditionalChinese": "太空船啟動系統升級"
   },
   "Description": {
     "English": "Upgrades the starship launch systems, decreasing the <span class=\"name name-stellar\">fuel cost</span> of takeoff.",
     "SimplifiedChinese": "升级飞船发射系统，减少升空的<span class=\"name name-stellar\">燃料花费</span>。",
+    "TencentChinese": "升级飞船发射系统，减少升空的<span class=\"name name-stellar\">燃料花费</span>。",
     "TraditionalChinese": "升級太空船起飛系統，減少升空的<span class=\"name name-stellar\">燃料花費</span>。"
   },
   "Teach": true,

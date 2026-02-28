@@ -23,10 +23,9 @@
     "TraditionalChinese": "變形金屬"
   },
   "Description": {
-    "English": "Conventional planetary metal, superheated and then held in a stabilised plasmatic form.<br><br>Extracted from metallic <span class=\"name name-stellar\">terrain deposits</span> using a <span class=\"name name-technology\">Solar Ray</span>. Enormously energetic.",
+    "English": "Conventional planetary metal, superheated and then held in a stabilized plasmatic form.<br><br>Extracted from metallic <span class=\"name name-stellar\">terrain deposits</span> using a <span class=\"name name-technology\">Solar Ray</span>. Enormously energetic.",
     "SimplifiedChinese": "常规行星金属，过热化后维持于稳定的等离子形态。<br><br>使用<span class=\"name name-technology\">太阳能射线</span>提取自<span class=\"name name-stellar\">金属地形矿床</span>。极具能量。",
-    "TraditionalChinese": "常規的星球金屬，加熱到超高溫後維持在穩定的電漿狀態。<br><br>使用<span class=\"name name-technology\">太陽射線</span>從金屬<span class=\"name name-stellar\">地形資源產地</span>萃取。富含大量能量。",
-    "USEnglish": "Conventional planetary metal, superheated and then held in a stabilized plasmatic form.<br><br>Extracted from metallic <span class=\"name name-stellar\">terrain deposits</span> using a <span class=\"name name-technology\">Solar Ray</span>. Enormously energetic."
+    "TraditionalChinese": "常規的星球金屬，加熱到超高溫後維持在穩定的電漿狀態。<br><br>使用<span class=\"name name-technology\">太陽射線</span>從金屬<span class=\"name name-stellar\">地形資源產地</span>萃取。富含大量能量。"
   },
   "Colour": {
     "R": 0.898039222,
@@ -61,6 +60,7 @@
   "PinObjective": {
     "English": "Gather Liquid Sun",
     "SimplifiedChinese": "收集液体太阳",
+    "TencentChinese": "收集液体太阳",
     "TraditionalChinese": "收集液體太陽"
   },
   "PinObjectiveTip": {

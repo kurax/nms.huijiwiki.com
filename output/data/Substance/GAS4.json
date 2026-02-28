@@ -20,6 +20,7 @@
   "Subtitle": {
     "English": "Compressed Atmospheric Gas",
     "SimplifiedChinese": "压缩大气气体",
+    "TencentChinese": "压缩大气气体",
     "TraditionalChinese": "大氣壓縮氣體"
   },
   "Description": {
@@ -60,6 +61,7 @@
   "PinObjective": {
     "English": "Process Methane",
     "SimplifiedChinese": "处理甲烷",
+    "TencentChinese": "处理甲烷",
     "TraditionalChinese": "加工甲烷"
   },
   "PinObjectiveTip": {

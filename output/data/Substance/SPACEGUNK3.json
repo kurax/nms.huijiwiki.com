@@ -2,11 +2,13 @@
   "Name": {
     "English": "RUSTED METAL",
     "SimplifiedChinese": "生锈的金属",
+    "TencentChinese": "生锈的金属",
     "TraditionalChinese": "生鏽的金屬"
   },
   "NameLower": {
     "English": "Rusted Metal",
     "SimplifiedChinese": "生锈的金属",
+    "TencentChinese": "生锈的金属",
     "TraditionalChinese": "生鏽的金屬"
   },
   "ID": "SPACEGUNK3",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Junk",
     "SimplifiedChinese": "垃圾",
+    "TencentChinese": "垃圾",
     "TraditionalChinese": "垃圾"
   },
   "Description": {
     "English": "Handfuls of corroded metal, distorted by years of exposure to the harsh environment.<br><br>Handle with care.",
     "SimplifiedChinese": "这些被腐蚀的金属在多年暴露在恶劣环境下后已经扭曲变形。<br><br>轻拿轻放。",
+    "TencentChinese": "这些被腐蚀的金属在多年暴露在恶劣环境下后已经扭曲变形。<br><br>轻拿轻放。",
     "TraditionalChinese": "一把把鏽蝕的金屬，因多年來暴露在惡劣環境中而扭曲變形。<br><br>請小心處理。"
   },
   "Colour": {
@@ -61,6 +65,7 @@
   "PinObjective": {
     "English": "Find Rusted Metal",
     "SimplifiedChinese": "寻找生锈的金属",
+    "TencentChinese": "寻找生锈的金属",
     "TraditionalChinese": "找出生鏽的金屬"
   },
   "PinObjectiveTip": "",

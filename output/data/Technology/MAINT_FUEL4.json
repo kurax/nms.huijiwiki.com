@@ -4,21 +4,25 @@
   "Name": {
     "English": "GENERATOR COUPLING",
     "SimplifiedChinese": "发电机耦合器",
+    "TencentChinese": "发电机耦合器",
     "TraditionalChinese": "發電機聯軸節"
   },
   "NameLower": {
     "English": "Generator Coupling",
     "SimplifiedChinese": "发电机耦合器",
+    "TencentChinese": "发电机耦合器",
     "TraditionalChinese": "發電機聯軸節"
   },
   "Subtitle": {
     "English": "Chargeable Power Unit",
     "SimplifiedChinese": "可充电能源单位",
+    "TencentChinese": "可充电能源单位",
     "TraditionalChinese": "可充填能量裝置"
   },
   "Description": {
     "English": "The generator coupling is an important piece of the machine's rechargeable power systems. Without it, the generator would fruitlessly spin, pumping power out into the void.",
     "SimplifiedChinese": "发电机耦合器是机器可充电能量系统中重要的一部分。没有它，发电机将徒劳地旋转，平白消耗能量。",
+    "TencentChinese": "发电机耦合器是机器可充电能量系统中重要的一部分。没有它，发电机将徒劳地旋转，平白消耗能量。",
     "TraditionalChinese": "發電機聯軸節是該機械可充能式能量系統的重要零件。少了此零件，發電機便會空轉，讓能量白白流掉。"
   },
   "Teach": false,

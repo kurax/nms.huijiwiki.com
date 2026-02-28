@@ -4,21 +4,25 @@
   "Name": {
     "English": "PHOTONIX CORE",
     "SimplifiedChinese": "光电核心",
+    "TencentChinese": "光电核心",
     "TraditionalChinese": "光子核心"
   },
   "NameLower": {
     "English": "Photonix Core",
     "SimplifiedChinese": "光电核心",
+    "TencentChinese": "光电核心",
     "TraditionalChinese": "光子核心"
   },
   "Subtitle": {
     "English": "Pulse Engine Companion Unit",
     "SimplifiedChinese": "脉冲驱动器配件",
+    "TencentChinese": "脉冲驱动器配件",
     "TraditionalChinese": "脈衝驅動器輔助元件"
   },
   "Description": {
     "English": "Provides increased manoeuvrability and longer boosts during spaceflight.",
     "SimplifiedChinese": "在飞行期间提升操作灵活性，增长推进时间。",
+    "TencentChinese": "在飞行期间提升操作灵活性，增长推进时间。",
     "TraditionalChinese": "增加太空飛行期間的操控穩定性和強化時間。"
   },
   "Teach": true,

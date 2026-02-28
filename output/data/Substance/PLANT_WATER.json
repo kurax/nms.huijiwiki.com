@@ -2,11 +2,13 @@
   "Name": {
     "English": "KELP SAC",
     "SimplifiedChinese": "海藻袋",
+    "TencentChinese": "海藻袋",
     "TraditionalChinese": "巨藻囊"
   },
   "NameLower": {
     "English": "Kelp Sac",
     "SimplifiedChinese": "海藻袋",
+    "TencentChinese": "海藻袋",
     "TraditionalChinese": "巨藻囊"
   },
   "ID": "PLANT_WATER",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "Harvested Agricultural Substance",
     "SimplifiedChinese": "已收割农业物质",
+    "TencentChinese": "已收割农业物质",
     "TraditionalChinese": "農作收成"
   },
   "Description": {
     "English": "A rubbery, luminescent sac harvested from <span class=\"name name-technology\">underwater</span> <span class=\"name name-tradeable\">Candle Kelp</span> plants.<br><br>Agricultural science has not yet tamed the Candle Kelp. As such, these sacs cannot be farmed.",
     "SimplifiedChinese": "一种弹性冷光液囊，可从<span class=\"name name-technology\">水下</span><span class=\"name name-tradeable\">烛光藻</span>植物中收获。<br><br>农业科学目前还未培育烛光藻。同样，这些液囊也无法种植。",
+    "TencentChinese": "一种弹性冷光液囊，可从<span class=\"name name-technology\">水下</span><span class=\"name name-tradeable\">烛光藻</span>植物中收获。<br><br>农业科学目前还未培育烛光藻。同样，这些液囊也无法种植。",
     "TraditionalChinese": "自<span class=\"name name-technology\">水底</span><span class=\"name name-tradeable\">蠟燭巨藻</span>植物上取得的彈性發光囊袋。<br><br>以目前的農業科學技術，還無法人工栽種蠟燭巨藻。因此，這種囊袋無法透過耕種取得。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Kelp Sac",
     "SimplifiedChinese": "收集海藻袋",
+    "TencentChinese": "收集海藻袋",
     "TraditionalChinese": "收集巨藻囊"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-tradeable\">Kelp Sacs</span> are harvested from <span class=\"name name-technology\">underwater</span> <span class=\"name name-tradeable\">Candle Kelp</span> plants.<br>Increase marine efficiency by upgrading the Exosuit <span class=\"name name-technology\">Aeration Membrane</span>, or refill oxygen supplies in suit by consuming <span class=\"name name-tradeable\">Kelp Sacs</span> from the vine.",
     "SimplifiedChinese": "<span class=\"name name-tradeable\">海藻袋</span>能从<span class=\"name name-technology\">水下</span>生长的<span class=\"name name-tradeable\">烛光藻</span>植物上采集到。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>或使用来自藤蔓的<span class=\"name name-tradeable\">海藻袋</span>重新补给氧气，以提高在海洋中的效率。",
+    "TencentChinese": "<span class=\"name name-tradeable\">海藻袋</span>能从<span class=\"name name-technology\">水下</span>生长的<span class=\"name name-tradeable\">烛光藻</span>植物上采集到。<br>升级套装的<span class=\"name name-technology\">曝气膜</span>或使用来自藤蔓的<span class=\"name name-tradeable\">海藻袋</span>重新补给氧气，以提高在海洋中的效率。",
     "TraditionalChinese": "自<span class=\"name name-technology\">水底</span><span class=\"name name-tradeable\">蠟燭巨藻</span>植物上取得的<span class=\"name name-tradeable\">巨藻囊</span>。<br>透過強化套裝升級<span class=\"name name-technology\">曝氣黏膜</span>或透過<span class=\"name name-tradeable\">巨藻囊</span>藤部在強化套裝中補充氧氣來源以提升海洋效能。"
   },
   "PinObjectiveMessage": {

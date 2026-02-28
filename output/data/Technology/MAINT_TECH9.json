@@ -4,21 +4,25 @@
   "Name": {
     "English": "OUTPUT SCREEN",
     "SimplifiedChinese": "输出屏",
+    "TencentChinese": "输出屏",
     "TraditionalChinese": "輸出螢幕"
   },
   "NameLower": {
     "English": "Output screen",
     "SimplifiedChinese": "输出屏",
+    "TencentChinese": "输出屏",
     "TraditionalChinese": "輸出螢幕"
   },
   "Subtitle": {
     "English": "Damaged Component",
     "SimplifiedChinese": "受损部件",
+    "TencentChinese": "受损部件",
     "TraditionalChinese": "元件受損"
   },
   "Description": {
     "English": "A display terminal designed to communicate the device's status to the user. As the terminal is broken, the user cannot be made aware that the terminal is broken.",
     "SimplifiedChinese": "一个显示终端，使用户能够了解设备状态。由于终端受损，用户并不知晓终端当前状况。",
+    "TencentChinese": "一个显示终端，使用户能够了解设备状态。由于终端受损，用户并不知晓终端当前状况。",
     "TraditionalChinese": "顯示終端站，設計用來與使用者溝通裝置狀態。終端站已損毀，無法通知使用者終端站已損毀。"
   },
   "Teach": false,

@@ -4,6 +4,7 @@
   "Group": {
     "English": "Radiation Protection",
     "SimplifiedChinese": "辐射防护",
+    "TencentChinese": "辐射防护",
     "TraditionalChinese": "輻射防護"
   },
   "Name": {
@@ -49,6 +50,27 @@
         "去离子器"
       ]
     ],
+    "TencentChinese": [
+      [
+        "铅基",
+        "有效的",
+        "高效的",
+        "升级的",
+        "微粒"
+      ],
+      [
+        "辐射护盾",
+        "生物完整装置",
+        "基因修复系统",
+        "中子吸收器",
+        "希沃特屏障",
+        "离子护盾",
+        "剂量调制器",
+        "阿尔法屏障",
+        "伽马护盾",
+        "去离子器"
+      ]
+    ],
     "TraditionalChinese": [
       [
         "鉛基",
@@ -69,19 +91,12 @@
         "伽瑪防護罩",
         "去離子器"
       ]
-    ],
-    "TencentChinese": [
-      null,
-      [
-        null,
-        null,
-        "基因修复系统"
-      ]
     ]
   },
   "NameLower": {
     "English": "Radiation Protection",
     "SimplifiedChinese": "辐射防护",
+    "TencentChinese": "辐射防护",
     "TraditionalChinese": "輻射防護"
   },
   "Subtitle": {

@@ -1,19 +1,20 @@
 {
   "ID": "T_FR_TRADE",
   "Group": {
-    "English": "EXPEDITION DEFENCES CONTROL",
+    "English": "EXPEDITION DEFENSES CONTROL",
     "SimplifiedChinese": "远征防御控制",
-    "TraditionalChinese": "探險防禦控制",
-    "USEnglish": "EXPEDITION DEFENSES CONTROL"
+    "TraditionalChinese": "探險防禦控制"
   },
   "Name": {
     "English": "UPGRADE MODULE",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "NameLower": {
     "English": "Upgrade Module",
     "SimplifiedChinese": "升级模块",
+    "TencentChinese": "升级模块",
     "TraditionalChinese": "升級模組"
   },
   "Subtitle": "TEMPLATE_SUB",

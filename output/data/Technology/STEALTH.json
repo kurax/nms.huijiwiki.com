@@ -17,10 +17,9 @@
     "TraditionalChinese": "主動偽裝單位"
   },
   "Description": {
-    "English": "On activation, this module draws power from <VAL_ON>Exosuit Life Support<> systems to manipulate the gravitational field around the user, refracting the light and creating an <span class=\"name name-stellar\">active camouflage effect</span>.<br><br>This <span class=\"name name-stellar\">temporary</span> effect can be used to escape unwanted hostile attention. WARNING: active camouflage will be aborted upon dramatic Exosuit manoeuvres such as jetpack activation, or by activating Multi-Tool weapons systems.",
+    "English": "On activation, this module draws power from <VAL_ON>Exosuit Life Support<> systems to manipulate the gravitational field around the user, refracting the light and creating an <span class=\"name name-stellar\">active camouflage effect</span>.<br><br>This <span class=\"name name-stellar\">temporary</span> effect can be used to escape unwanted hostile attention. WARNING: active camouflage will be aborted upon dramatic Exosuit maneuvers such as jetpack activation, or by activating Multi-Tool weapons systems.",
     "SimplifiedChinese": "激活后，这种模块将消耗<VAL_ON>套装维生<>系统的能源来扭曲使用者周围的重力场，折射光线并创造<span class=\"name name-stellar\">主动迷彩效果</span>。<br><br>这种<span class=\"name name-stellar\">暂时性</span>的效果能够用来摆脱敌人的抓捕。警告：使用套装进行类似启动喷气背包或者是激活多用途工具武器系统等剧烈动作将会关闭主动迷彩。",
-    "TraditionalChinese": "啟動後，此模組會從<VAL_ON>強化套裝維生<>系統中抽取能量，控制使用者周遭的重力場、折射光線，並創造一個<span class=\"name name-stellar\">主動迷彩效果</span>。<br><br>這個<span class=\"name name-stellar\">暫時的</span>效果可用於逃離非必要的敵對注意範圍。警告：主動迷彩會因激烈的強化套裝動作而中止，像是操控噴射背包或是啟動工具組武器系統。",
-    "USEnglish": "On activation, this module draws power from <VAL_ON>Exosuit Life Support<> systems to manipulate the gravitational field around the user, refracting the light and creating an <span class=\"name name-stellar\">active camouflage effect</span>.<br><br>This <span class=\"name name-stellar\">temporary</span> effect can be used to escape unwanted hostile attention. WARNING: active camouflage will be aborted upon dramatic Exosuit maneuvers such as jetpack activation, or by activating Multi-Tool weapons systems."
+    "TraditionalChinese": "啟動後，此模組會從<VAL_ON>強化套裝維生<>系統中抽取能量，控制使用者周遭的重力場、折射光線，並創造一個<span class=\"name name-stellar\">主動迷彩效果</span>。<br><br>這個<span class=\"name name-stellar\">暫時的</span>效果可用於逃離非必要的敵對注意範圍。警告：主動迷彩會因激烈的強化套裝動作而中止，像是操控噴射背包或是啟動工具組武器系統。"
   },
   "Teach": true,
   "HintStart": "",

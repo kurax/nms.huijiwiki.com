@@ -2,11 +2,13 @@
   "Name": {
     "English": "DI-HYDROGEN",
     "SimplifiedChinese": "二氢",
+    "TencentChinese": "二氢",
     "TraditionalChinese": "二氫"
   },
   "NameLower": {
     "English": "Di-hydrogen",
     "SimplifiedChinese": "二氢",
+    "TencentChinese": "二氢",
     "TraditionalChinese": "二氫"
   },
   "ID": "LAUNCHSUB",
@@ -21,11 +23,13 @@
   "Subtitle": {
     "English": "High Energy Substance",
     "SimplifiedChinese": "高能物质",
+    "TencentChinese": "高能物质",
     "TraditionalChinese": "高能量物質"
   },
   "Description": {
     "English": "A stable, crystalline form of hydrogen remarkable both for its extreme energy density and its stability at atmospheric pressures.<br><br>Common to all worlds, Di-hydrogen is found in the form of large <span class=\"name name-technology\">blue crystals</span>. It is a key component of <span class=\"name name-commodity\">Starship Launch Fuel</span>.",
     "SimplifiedChinese": "氢的一种稳定晶体形式，特点是能量密度极大，而且在大气压力下也能保持稳定。<br><br>二氢在所有星球都很常见，通常以大块的<span class=\"name name-technology\">蓝色晶体</span>形式存在。它是<span class=\"name name-commodity\">飞船发射燃料</span>的关键成分。",
+    "TencentChinese": "氢的一种稳定晶体形式，特点是能量密度极大，而且在大气压力下也能保持稳定。<br><br>二氢在所有星球都很常见，通常以大块的<span class=\"name name-technology\">蓝色晶体</span>形式存在。它是<span class=\"name name-commodity\">飞船发射燃料</span>的关键成分。",
     "TraditionalChinese": "穩定、晶狀體的氫，具有極高能量密度，且在大氣壓力下保持穩定。<br><br>二氫在所有星球上都很常見，普遍會以大型<span class=\"name name-technology\">藍色晶體</span>形式出現。是<span class=\"name name-commodity\">太空船驅動燃料</span>的重要元素之一。"
   },
   "Colour": {
@@ -61,11 +65,13 @@
   "PinObjective": {
     "English": "Gather Di-hydrogen",
     "SimplifiedChinese": "收集二氢",
+    "TencentChinese": "收集二氢",
     "TraditionalChinese": "收集二氫"
   },
   "PinObjectiveTip": {
     "English": "<span class=\"name name-technology\">Di-hydrogen</span> is found in crystal form on most planets. Locate di-hydrogen crystals with the <span class=\"name name-technology\">Scanner</span> (<span class=\"name name-img\">SCAN</span>). Large deposits may require use of an <span class=\"name name-technology\">Advanced Mining Laser</span>.",
     "SimplifiedChinese": "<span class=\"name name-fuel\">二氢</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位二氢晶体。大形矿床可能需要采用<span class=\"name name-technology\">高级开采光束</span>开采。",
+    "TencentChinese": "<span class=\"name name-fuel\">二氢</span>在大多数行星上以晶体形式出现。使用<span class=\"name name-technology\">扫描仪</span>（<span class=\"name name-img\">SCAN</span>）定位二氢晶体。大形矿床可能需要采用<span class=\"name name-technology\">高级开采光束</span>开采。",
     "TraditionalChinese": "<span class=\"name name-technology\">二氫</span>在多數的星球上是以結晶形式出現。使用<span class=\"name name-technology\">掃描器</span>（<span class=\"name name-img\">SCAN</span>）找出二氫結晶。大型資源產地可能需要用<span class=\"name name-technology\">改良採礦雷射</span>。"
   },
   "PinObjectiveMessage": {
