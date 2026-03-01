@@ -725,6 +725,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/lua-json@npm:^1":
+  version: 1.0.3
+  resolution: "@types/lua-json@npm:1.0.3"
+  checksum: 10/b585951a8fe7a067453dd100ff308dd5fb121ab9301815c11588e73df81db6c7d6b7f070105ea5558856840114423e2a283c763da3fe7741f7708e4f19f73643
+  languageName: node
+  linkType: hard
+
 "@types/node@npm:*":
   version: 25.3.2
   resolution: "@types/node@npm:25.3.2"
@@ -1142,6 +1149,7 @@ __metadata:
   dependencies:
     "@inquirer/prompts": "npm:8.3.0"
     "@types/lodash": "npm:4.17.24"
+    "@types/lua-json": "npm:^1"
     "@types/node": "npm:24.11.0"
     "@types/signale": "npm:1.4.7"
     chalk: "npm:5.6.2"
@@ -1151,6 +1159,7 @@ __metadata:
     fast-xml-parser: "npm:5.4.1"
     fflate: "npm:0.8.2"
     lodash: "npm:4.17.23"
+    lua-json: "npm:1.0.1"
     p-all: "npm:5.0.1"
     p-retry: "npm:7.1.1"
     regedit: "npm:5.1.4"
@@ -1432,7 +1441,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash@npm:4.17.23":
+"lodash@npm:4.17.23, lodash@npm:^4.17.11":
   version: 4.17.23
   resolution: "lodash@npm:4.17.23"
   checksum: 10/82504c88250f58da7a5a4289f57a4f759c44946c005dd232821c7688b5fcfbf4a6268f6a6cdde4b792c91edd2f3b5398c1d2a0998274432cff76def48735e233
@@ -1443,6 +1452,25 @@ __metadata:
   version: 11.2.6
   resolution: "lru-cache@npm:11.2.6"
   checksum: 10/91222bbd59f793a0a0ad57789388f06b34ac9bb1613433c1d1810457d09db5cd3ec8943227ce2e1f5d6a0a15d6f1a9f129cb2c49ae9b6b10e82d4965fddecbef
+  languageName: node
+  linkType: hard
+
+"lua-json@npm:1.0.1":
+  version: 1.0.1
+  resolution: "lua-json@npm:1.0.1"
+  dependencies:
+    lodash: "npm:^4.17.11"
+    luaparse: "npm:^0.2.1"
+  checksum: 10/2805549cb103a180b7cc9cee7b47b527eb4e87667a755cc9448728949be8196bcb2b8f914b46d00f762677f08c80b43ebeadb77fa0afeb795a201a213b99e336
+  languageName: node
+  linkType: hard
+
+"luaparse@npm:^0.2.1":
+  version: 0.2.1
+  resolution: "luaparse@npm:0.2.1"
+  bin:
+    luaparse: ./bin/luaparse
+  checksum: 10/463aa68b69238ade0f106e9ea808ba2acab8e39d7ad59d2bbba30168e152582df91e0e343b01df0d86a376343e8be0209d09dddb3cc122f9ebcf3f7751d1e7cd
   languageName: node
   linkType: hard
 

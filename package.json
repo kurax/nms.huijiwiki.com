@@ -12,6 +12,7 @@
     },
     "devDependencies": {
         "@types/lodash": "4.17.24",
+        "@types/lua-json": "^1",
         "@types/node": "24.11.0",
         "@types/signale": "1.4.7",
         "tsx": "4.21.0",
@@ -26,6 +27,7 @@
         "fast-xml-parser": "5.4.1",
         "fflate": "0.8.2",
         "lodash": "4.17.23",
+        "lua-json": "1.0.1",
         "p-all": "5.0.1",
         "p-retry": "7.1.1",
         "regedit": "5.1.4",
