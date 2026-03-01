@@ -19,13 +19,14 @@ const API_URL = 'https://nms.huijiwiki.com/api.php';
 const CONCURRENCY = 5;
 const OUTPUT_DIR = path.join('output', 'data');
 
+const client = new HuijiApiClient(API_URL, API_KEY);
+await client.login(BOT_USER, BOT_PASS);
+
+// 更新游戏解包数据
 try {
     const files = fs
         .readdirSync(path.join(OUTPUT_DIR), { recursive: true })
         .filter((file: string | Buffer<ArrayBuffer>) => typeof file === 'string' && file.endsWith('.json')) as string[];
-
-    const client = new HuijiApiClient(API_URL, API_KEY);
-    await client.login(BOT_USER, BOT_PASS);
 
     await pAll(
         files.map(file => () => {
