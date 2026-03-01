@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_MM_CACTUS",
   "Name": {
     "English": "FLUFFY THROATRIPPER",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 142900,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.cupcakeevil.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.41568628,

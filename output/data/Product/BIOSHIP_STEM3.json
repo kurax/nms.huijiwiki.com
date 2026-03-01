@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BIOSHIP_STEM3",
   "Name": {
     "English": "FRAGILE SHELL",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1616,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.stem3.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.stem3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.117647059,

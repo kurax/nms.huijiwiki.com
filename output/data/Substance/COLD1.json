@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "DIOXITE",
     "SimplifiedChinese": "二氧化物",
@@ -18,7 +19,7 @@
     "TencentChinese": "二氧化物",
     "TraditionalChinese": "CO2"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.cold.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

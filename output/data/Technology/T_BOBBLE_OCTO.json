@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "T_BOBBLE_OCTO",
   "Group": "",
   "Name": {
@@ -24,7 +25,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/specialshop/special1.octobobble.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.octobobble.png",
   "Colour": {
     "R": 0.101960786,
     "G": 0.152941182,

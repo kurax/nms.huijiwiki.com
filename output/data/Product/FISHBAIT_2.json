@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FISHBAIT_2",
   "Name": {
     "English": "SPICY CHUM",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 160,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.fishbait.2.png",
+  "Icon": "ui-frontend-icons-products-product.fishbait.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

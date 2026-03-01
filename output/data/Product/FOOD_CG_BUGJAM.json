@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_CG_BUGJAM",
   "Name": {
     "English": "MUCAL CURIOSITY",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 81900,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.cupcake.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

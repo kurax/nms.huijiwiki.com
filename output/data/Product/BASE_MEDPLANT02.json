@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BASE_MEDPLANT02",
   "Name": {
     "English": "DWARF PALM",
@@ -31,8 +32,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.medplant02.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.medplant02.png",
+  "Icon": "ui-frontend-icons-specialshop-special.medplant02.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.medplant02.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

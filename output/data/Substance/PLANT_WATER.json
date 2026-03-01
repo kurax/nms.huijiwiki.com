@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "KELP SAC",
     "SimplifiedChinese": "海藻袋",
@@ -18,7 +19,7 @@
     "TencentChinese": "藻袋",
     "TraditionalChinese": "Ke"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.plant.water.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Harvested Agricultural Substance",

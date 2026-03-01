@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXPD_EGG_19",
   "Name": {
     "English": "MECHA-MOUSE EGG",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s19.robotrodent.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s19.robotrodent.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s19.robotrodent.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s19.robotrodent.png",
   "Colour": {
     "R": 0.301960796,
     "G": 0.160784319,

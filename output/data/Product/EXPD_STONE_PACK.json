@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXPD_STONE_PACK",
   "Name": {
     "English": "LIVING STONE HARDPACK",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s18.pack.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s18.pack.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s18.pack.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s18.pack.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

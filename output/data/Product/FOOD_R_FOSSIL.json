@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_R_FOSSIL",
   "Name": {
     "English": "SOFTENED MARROW",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 79000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.bones.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.733333349,

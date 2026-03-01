@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BASE_TOYJELLY",
   "Name": {
     "English": "WRIGGLING COMPANION",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 800,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.toyjelly.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.toyjelly.png",
+  "Icon": "ui-frontend-icons-specialshop-special.toyjelly.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.toyjelly.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

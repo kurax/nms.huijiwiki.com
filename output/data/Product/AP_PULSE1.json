@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "AP_PULSE1",
   "Name": {
     "English": "PULSING HEART NODE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctechalien.c.vehicleboost.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctechalien.c.vehicleboost.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

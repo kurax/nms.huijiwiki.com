@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "DECAL_QIT",
   "Name": {
     "English": "QITANIAN EMPIRE DECAL",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.decal13.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.decal13.png",
+  "Icon": "ui-frontend-icons-specialshop-special.decal13.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.decal13.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

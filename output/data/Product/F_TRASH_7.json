@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TRASH_7",
   "Name": {
     "English": "OLD BOOT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fish/product.fish.boot.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.boot.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.541176498,

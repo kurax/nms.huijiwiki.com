@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ARTIFACT_KEY",
   "Name": {
     "English": "ANCIENT KEY",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/product.ancientkey.png",
+  "Icon": "ui-frontend-icons-update3-product.ancientkey.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

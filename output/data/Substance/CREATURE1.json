@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "MORDITE",
     "SimplifiedChinese": "腐藤",
@@ -18,7 +19,7 @@
     "TencentChinese": "腐",
     "TraditionalChinese": "Mo"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.creature.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Harvested Substance",

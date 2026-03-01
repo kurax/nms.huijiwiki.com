@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_HOT_RARE_S2",
   "Name": {
     "English": "PYREFIN",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product.fish.small.2.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.small.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

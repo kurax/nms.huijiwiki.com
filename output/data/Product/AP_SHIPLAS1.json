@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "AP_SHIPLAS1",
   "Name": {
     "English": "GRAFTED EYE NODE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctechalien.c.shiplaser.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctechalien.c.shiplaser.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

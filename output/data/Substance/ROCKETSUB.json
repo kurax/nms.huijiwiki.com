@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "TRITIUM",
     "SimplifiedChinese": "氚",
@@ -18,7 +19,7 @@
     "TencentChinese": "氦3",
     "TraditionalChinese": "H3"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.rocketsub.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Neutron-Rich Fuel Element",

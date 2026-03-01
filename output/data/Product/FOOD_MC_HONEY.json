@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_MC_HONEY",
   "Name": {
     "English": "HONIED ANGEL CAKE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 20900,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.cake.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

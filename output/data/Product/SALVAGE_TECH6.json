@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SALVAGE_TECH6",
   "Name": {
     "English": "SPOOL OF NANO-CABLES",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 12000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/tradeprod.commidity2.png",
+  "Icon": "ui-frontend-icons-update3-tradeprod.commidity2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

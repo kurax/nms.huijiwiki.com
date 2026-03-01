@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STAFF_POLE2",
   "Name": {
     "English": "HAVOC LANCE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 333,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.staffpole.2.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.staffpole.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

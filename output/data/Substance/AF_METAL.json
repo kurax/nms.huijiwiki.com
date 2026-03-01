@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "TAINTED METAL",
     "SimplifiedChinese": "污染的金属",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "Un",
     "TraditionalChinese": "Un"
   },
-  "Icon": "ui/frontend/icons/u4products/product.taintedmetal.png",
+  "Icon": "ui-frontend-icons-u4products-product.taintedmetal.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Salvaged Scrap",

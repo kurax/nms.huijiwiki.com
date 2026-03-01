@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TRASH_8",
   "Name": {
     "English": "RUSTED TECHNOLOGY",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 10,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fish/product.fish.metaljunk.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.metaljunk.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.541176498,

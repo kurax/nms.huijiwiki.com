@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TWITCH_SHIP48",
   "Name": {
     "English": "TAGANON OF GRAVITY",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/twitch.ship48.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.twitch.ship48.png",
+  "Icon": "ui-frontend-icons-specialshop-twitch.ship48.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.twitch.ship48.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

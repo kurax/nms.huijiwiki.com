@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "SHIPEASY_DMG4",
   "Group": "",
   "Name": {
@@ -26,7 +27,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/u4products/product.s10.robotcore.png",
+  "Icon": "ui-frontend-icons-u4products-product.s10.robotcore.png",
   "Colour": {
     "R": 0.482352942,
     "G": 0,

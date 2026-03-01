@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ILLEGAL_PROD3",
   "Name": {
     "English": "MOON ETHER",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 18000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.smuggling3.png",
+  "Icon": "ui-frontend-icons-products-product.smuggling3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.219607845,

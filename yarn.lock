@@ -934,6 +934,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dotenv@npm:17.3.1":
+  version: 17.3.1
+  resolution: "dotenv@npm:17.3.1"
+  checksum: 10/4dde6571dff22c2323a3e33ac25e1e7d51c4b6d60dc884f59e3efe85c8fd3cc8800d6b3925d05c46b19dca08cba821a0a24e22f75a1b9b768c859b98bb927b04
+  languageName: node
+  linkType: hard
+
 "env-paths@npm:^2.2.0":
   version: 2.2.1
   resolution: "env-paths@npm:2.2.1"
@@ -1139,6 +1146,7 @@ __metadata:
     "@types/signale": "npm:1.4.7"
     chalk: "npm:5.6.2"
     configstore: "npm:8.0.0"
+    dotenv: "npm:17.3.1"
     execa: "npm:9.6.1"
     fast-xml-parser: "npm:5.4.1"
     fflate: "npm:0.8.2"

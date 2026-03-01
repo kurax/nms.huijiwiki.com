@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "LITHIUM",
     "SimplifiedChinese": "锂",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "Li",
     "TraditionalChinese": "Li"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.waterworld.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.waterworld.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

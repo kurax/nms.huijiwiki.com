@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S15_MESSAGE1",
   "Name": {
     "English": "THE ANGLER'S DIARY",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fish/product.fish.message.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.message.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.541176498,

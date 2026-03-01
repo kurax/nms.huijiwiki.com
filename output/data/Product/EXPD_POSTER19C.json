@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXPD_POSTER19C",
   "Name": {
     "English": "BIG RIG POSTER",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s19.posterc.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s19.posterc.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s19.posterc.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s19.posterc.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

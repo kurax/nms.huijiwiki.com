@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "PUGNEUM",
     "SimplifiedChinese": "普茵",
@@ -18,7 +19,7 @@
     "TencentChinese": "普",
     "TraditionalChinese": "Pg"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.robot.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Anomalous Material",

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S10_ROBO_LEGS",
   "Name": {
     "English": "CONSTRUCT LEGS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 6000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.s10.robotlegs.png",
+  "Icon": "ui-frontend-icons-u4products-product.s10.robotlegs.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

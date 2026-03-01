@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_STEW_BALL",
   "Name": {
     "English": "CHEWY 'DUMPLING' STEW",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 6400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.meatstew.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.733333349,

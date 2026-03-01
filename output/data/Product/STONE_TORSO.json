@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STONE_TORSO",
   "Name": {
     "English": "LIVING STONE CHESTPIECE",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 750,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s18.stonetorso.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s18.stonetorso.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s18.stonetorso.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s18.stonetorso.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

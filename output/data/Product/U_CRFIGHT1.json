@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_CRFIGHT1",
   "Name": "UT_CR_FIGHT_NAME",
   "NameLower": "UT_CR_FIGHT_NAME_L",
@@ -11,7 +12,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/render.phasebeammod.png",
+  "Icon": "ui-frontend-icons-technology-render.phasebeammod.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ACCESS2",
   "Name": {
     "English": "ATLASPASS v2",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1856,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.atlaspass.png",
+  "Icon": "ui-frontend-icons-products-product.atlaspass.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0,

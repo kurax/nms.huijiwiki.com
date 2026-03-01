@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "SCANBINOC1",
   "Group": "",
   "Name": {
@@ -33,7 +34,7 @@
     "TencentChinese": "长按 <span class=\"name name-img\">AIM</span> 使用%TECH%<br>按 <span class=\"name name-img\">ZOOM</span> 缩放",
     "TraditionalChinese": "按住 <span class=\"name name-img\">AIM</span> 以使用%TECH%<br>按下 <span class=\"name name-img\">ZOOM</span> 放大"
   },
-  "Icon": "ui/frontend/icons/technology/render.binoculars.png",
+  "Icon": "ui-frontend-icons-technology-render.binoculars.png",
   "Colour": {
     "R": 0.0352941193,
     "G": 0.360784322,

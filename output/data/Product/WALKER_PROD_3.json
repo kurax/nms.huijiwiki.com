@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "WALKER_PROD_3",
   "Name": {
     "English": "HACKED BRAIN",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 35000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.walkerbrain3.png",
+  "Icon": "ui-frontend-icons-u4products-product.walkerbrain3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

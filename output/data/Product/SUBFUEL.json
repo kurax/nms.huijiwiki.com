@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SUBFUEL",
   "Name": {
     "English": "HYDROTHERMAL FUEL CELL",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 7200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.subfuel.png",
+  "Icon": "ui-frontend-icons-u4products-product.subfuel.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.752941191,

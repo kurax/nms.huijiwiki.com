@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "CURSED DUST",
     "SimplifiedChinese": "诅咒之尘",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "？",
     "TraditionalChinese": "？"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.wormdust.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.wormdust.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Ashes of Despair",

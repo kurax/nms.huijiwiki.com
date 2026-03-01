@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "MP_REP_PART2C",
   "Name": {
     "English": "COMMUNICATOR CONTROL UNIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.salvage.rare.png",
+  "Icon": "ui-frontend-icons-u4products-product.salvage.rare.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

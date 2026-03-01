@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ODD_EPIC_S1",
   "Name": {
     "English": "ALL-SEEING WORM",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 10000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product5.fish.worm.png",
+  "Icon": "ui-frontend-icons-fish-product5.fish.worm.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

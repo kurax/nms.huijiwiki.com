@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SUIT_INV_TOKEN",
   "Name": {
     "English": "EXOSUIT EXPANSION UNIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 155000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.exosuittoken.png",
+  "Icon": "ui-frontend-icons-u4products-product.exosuittoken.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

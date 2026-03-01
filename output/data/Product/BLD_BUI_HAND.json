@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BLD_BUI_HAND",
   "Name": {
     "English": "CONSTRUCT DIGITS",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.builderhand.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.builderhand.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.builderhand.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.builderhand.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

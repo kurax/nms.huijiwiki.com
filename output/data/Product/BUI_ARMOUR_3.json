@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BUI_ARMOUR_3",
   "Name": {
     "English": "RETURNER'S DRAPE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1515,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.armour.3.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.armour.3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

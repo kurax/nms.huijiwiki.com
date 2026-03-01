@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "MAINT_TECH2",
   "Group": "",
   "Name": {
@@ -28,7 +29,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/update3/mainttech.tech2.png",
+  "Icon": "ui-frontend-icons-update3-mainttech.tech2.png",
   "Colour": {
     "R": 0.0352941193,
     "G": 0.360784322,

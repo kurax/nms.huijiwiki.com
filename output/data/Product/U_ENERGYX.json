@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_ENERGYX",
   "Name": {
     "English": "SUSPICIOUS LIFE SUPPORT MODULE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 280,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.x.lifesupport.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.x.lifesupport.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

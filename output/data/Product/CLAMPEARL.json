@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "CLAMPEARL",
   "Name": {
     "English": "LIVING PEARL",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 5050,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.clampearl.png",
+  "Icon": "ui-frontend-icons-u4products-product.clampearl.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

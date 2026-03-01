@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "FRAGMENTED QUALIA",
     "SimplifiedChinese": "破碎的感质",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "？",
     "TraditionalChinese": "？"
   },
-  "Icon": "ui/frontend/icons/u4products/sub.soulfrag.png",
+  "Icon": "ui-frontend-icons-u4products-sub.soulfrag.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Soul Fragment",

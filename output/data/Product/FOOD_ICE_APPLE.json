@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_ICE_APPLE",
   "Name": {
     "English": "'APPLE' ICE CREAM",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 56000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.icecream.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.733333349,

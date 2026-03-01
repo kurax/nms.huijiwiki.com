@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_FR_EXP1",
   "Name": {
     "English": "SALVAGED FLEET EXPLORATION UNIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.c.binocs.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.c.binocs.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_GAS_COM_S2",
   "Name": {
     "English": "PRESSURISED CLAM",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 1,
-  "Icon": "ui/frontend/icons/fish/product.fish.clam.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.clam.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.117647059,

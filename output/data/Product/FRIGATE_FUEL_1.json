@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FRIGATE_FUEL_1",
   "Name": {
     "English": "FRIGATE FUEL (50 TONNES)",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 20000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.frigfuel50.png",
+  "Icon": "ui-frontend-icons-u4products-product.frigfuel50.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.752941191,

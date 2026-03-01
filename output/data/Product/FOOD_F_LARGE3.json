@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_F_LARGE3",
   "Name": {
     "English": "SEARED FILLET",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 35400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.fish.salmon.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.0352941193,

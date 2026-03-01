@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "LIQUID SUN",
     "SimplifiedChinese": "液体太阳",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "？",
     "TraditionalChinese": "？"
   },
-  "Icon": "ui/frontend/icons/u4products/sub.sungold.png",
+  "Icon": "ui-frontend-icons-u4products-sub.sungold.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Transmuted Metal",

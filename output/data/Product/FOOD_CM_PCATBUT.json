@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_CM_PCATBUT",
   "Name": {
     "English": "CAKE OF ETERNAL SLEEP",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 167200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.cupcakeevil.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

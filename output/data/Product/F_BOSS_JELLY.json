@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_BOSS_JELLY",
   "Name": {
     "English": "SPAWN OF ARCADIA",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fish/product4.fish.jelly.png",
+  "Icon": "ui-frontend-icons-fish-product4.fish.jelly.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

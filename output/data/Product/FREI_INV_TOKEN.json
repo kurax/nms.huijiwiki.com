@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FREI_INV_TOKEN",
   "Name": {
     "English": "CARGO BULKHEAD",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 105000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.cargotoken.png",
+  "Icon": "ui-frontend-icons-u4products-product.cargotoken.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

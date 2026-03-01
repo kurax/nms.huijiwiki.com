@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "PURPM_PACKET",
   "Name": {
     "English": "MEMORIES OF ATLANTID",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1919,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.2024.purplepacket.png",
+  "Icon": "ui-frontend-icons-products-product.2024.purplepacket.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

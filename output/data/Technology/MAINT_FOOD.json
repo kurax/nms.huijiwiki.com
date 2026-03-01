@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "MAINT_FOOD",
   "Group": "",
   "Name": {
@@ -24,7 +25,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/feeding.tube.png",
+  "Icon": "ui-frontend-icons-technology-feeding.tube.png",
   "Colour": {
     "R": 0.129411772,
     "G": 0.466666669,

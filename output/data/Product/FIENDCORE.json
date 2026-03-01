@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FIENDCORE",
   "Name": {
     "English": "LARVAL CORE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 65000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.fiendcore.png",
+  "Icon": "ui-frontend-icons-u4products-product.fiendcore.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

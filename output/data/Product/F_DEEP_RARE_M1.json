@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_DEEP_RARE_M1",
   "Name": {
     "English": "BLOATED EEL",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 5000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product.fish.medium.2.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

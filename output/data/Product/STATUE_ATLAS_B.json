@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STATUE_ATLAS_B",
   "Name": {
     "English": "BRONZE ATLAS STATUE",
@@ -31,8 +32,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.atlas_b.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.atlas_b.png",
+  "Icon": "ui-frontend-icons-specialshop-special.atlas_b.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.atlas_b.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

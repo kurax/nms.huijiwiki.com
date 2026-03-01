@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ALL_COM_S2",
   "Name": {
     "English": "MUD CRAB",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 1,
-  "Icon": "ui/frontend/icons/fish/product.fish.crab.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.crab.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.117647059,

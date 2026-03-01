@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ALL_EPIC_XL",
   "Name": {
     "English": "THUNDERFIN",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 50000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product.fish.big.3.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.big.3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

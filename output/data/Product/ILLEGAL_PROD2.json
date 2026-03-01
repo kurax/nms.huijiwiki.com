@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ILLEGAL_PROD2",
   "Name": {
     "English": "STOLEN DNA SAMPLES",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 9000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.smuggling2.png",
+  "Icon": "ui-frontend-icons-products-product.smuggling2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.219607845,

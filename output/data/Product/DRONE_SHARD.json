@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "DRONE_SHARD",
   "Name": {
     "English": "RADIANT SHARD",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1900,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.droneshard.png",
+  "Icon": "ui-frontend-icons-u4products-product.droneshard.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

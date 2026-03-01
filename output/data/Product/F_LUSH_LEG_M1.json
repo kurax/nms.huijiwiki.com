@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_LUSH_LEG_M1",
   "Name": {
     "English": "MIST SERPENT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 100000,
   "Level": 4,
-  "Icon": "ui/frontend/icons/fish/product5.fish.eel.png",
+  "Icon": "ui-frontend-icons-fish-product5.fish.eel.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

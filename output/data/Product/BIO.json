@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BIO",
   "Name": {
     "English": "AMINO CHAMBER",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 12300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.bio.png",
+  "Icon": "ui-frontend-icons-u4products-product.bio.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

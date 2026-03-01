@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "SHIPEASY_DMG1",
   "Group": "",
   "Name": {
@@ -28,7 +29,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/u4products/product.cataprod.png",
+  "Icon": "ui-frontend-icons-u4products-product.cataprod.png",
   "Colour": {
     "R": 0.482352942,
     "G": 0,

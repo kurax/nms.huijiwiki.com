@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_EMOTE13",
   "Name": {
     "English": "HOLOGRAM: STARSHIP",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.emote13.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.emote13.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.emote13.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.emote13.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

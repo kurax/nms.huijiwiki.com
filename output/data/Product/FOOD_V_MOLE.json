@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_V_MOLE",
   "Name": {
     "English": "FORAGED MUSHROOMS",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.catfruit.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.898039222,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "QUEEN_PROD",
   "Name": {
     "English": "VILE CORTEX",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 122000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.specbughat4.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.specbughat4.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

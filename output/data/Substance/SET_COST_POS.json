@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "Maintenance Cost",
     "SimplifiedChinese": "维护花费",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/settlement/positivemaintenance.png",
+  "Icon": "ui-frontend-icons-settlement-positivemaintenance.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

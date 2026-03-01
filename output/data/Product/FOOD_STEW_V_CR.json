@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_STEW_V_CR",
   "Name": {
     "English": "CREAM OF VEGETABLE SOUP",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 26000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.vegstew.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0,

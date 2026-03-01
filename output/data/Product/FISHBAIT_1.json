@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FISHBAIT_1",
   "Name": {
     "English": "MEALWORMS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.fishbait.1.png",
+  "Icon": "ui-frontend-icons-products-product.fishbait.1.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

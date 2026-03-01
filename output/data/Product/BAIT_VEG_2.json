@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BAIT_VEG_2",
   "Name": {
     "English": "ENZYME FLUID",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 800,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.bait.fluid.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.bait.fluid.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0,

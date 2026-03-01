@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ILLEGAL_PROD6",
   "Name": {
     "English": "COUNTERFEIT CIRCUITS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 68000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.smuggling6.png",
+  "Icon": "ui-frontend-icons-products-product.smuggling6.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.219607845,

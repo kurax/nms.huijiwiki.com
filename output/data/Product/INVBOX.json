@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "INVBOX",
   "Name": {
     "English": "MEMORY FRAGMENT (INVENTORY)",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/roguetech.inventory.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-roguetech.inventory.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

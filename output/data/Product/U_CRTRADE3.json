@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_CRTRADE3",
   "Name": "UT_CR_TRADE_NAME",
   "NameLower": "UT_CR_TRADE_NAME_L",
@@ -11,7 +12,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/render.pulsedrivemod.png",
+  "Icon": "ui-frontend-icons-technology-render.pulsedrivemod.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "WORMBOOK",
   "Name": {
     "English": "WRITHING MANUSCRIPT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1616,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/wormbook.png",
+  "Icon": "ui-frontend-icons-products-wormbook.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

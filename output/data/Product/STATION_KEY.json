@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STATION_KEY",
   "Name": {
     "English": "STATION OVERRIDE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 256000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/autotranslator.png",
+  "Icon": "ui-frontend-icons-technology-autotranslator.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

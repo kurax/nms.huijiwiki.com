@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BANNER_CAFE",
   "Name": {
     "English": "CAFÉ 42 BANNER",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 220,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.banner.cafe.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.banner.cafe.png",
+  "Icon": "ui-frontend-icons-specialshop-special.banner.cafe.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.banner.cafe.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

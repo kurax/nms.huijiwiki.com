@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "Toxic Containment",
     "SimplifiedChinese": "有毒物质收容",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/substances/scrap.tox.png",
+  "Icon": "ui-frontend-icons-substances-scrap.tox.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

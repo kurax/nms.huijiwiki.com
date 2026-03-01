@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STONE_LEGS",
   "Name": {
     "English": "LIVING STONE LEGPLATES",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 750,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s18.stonelegs.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s18.stonelegs.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s18.stonelegs.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s18.stonelegs.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

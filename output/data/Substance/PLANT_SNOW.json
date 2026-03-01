@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "FROST CRYSTAL",
     "SimplifiedChinese": "冰霜水晶",
@@ -18,7 +19,7 @@
     "TencentChinese": "冰晶",
     "TraditionalChinese": "Fc"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.plant.snow.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Harvested Agricultural Substance",

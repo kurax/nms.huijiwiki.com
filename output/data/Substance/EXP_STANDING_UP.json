@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "KORVAX",
     "SimplifiedChinese": "科尔瓦克斯",
@@ -18,7 +19,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/missions/missionfaction.korvax.png",
+  "Icon": "ui-frontend-missions-missionfaction.korvax.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

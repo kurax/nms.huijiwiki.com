@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "Population",
     "SimplifiedChinese": "人口",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/settlement/negativepopulation.png",
+  "Icon": "ui-frontend-icons-settlement-negativepopulation.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

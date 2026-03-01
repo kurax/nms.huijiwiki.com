@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_S_HOT",
   "Name": {
     "English": "SCORCHING SAUCE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 7200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.sauce.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.858823538,

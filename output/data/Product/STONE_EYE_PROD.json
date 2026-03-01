@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STONE_EYE_PROD",
   "Name": {
     "English": "VIGILANT STONE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 102000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.stoneeye.png",
+  "Icon": "ui-frontend-icons-u4products-product.stoneeye.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "COPPER",
     "SimplifiedChinese": "铜",
@@ -18,7 +19,7 @@
     "TencentChinese": "铜",
     "TraditionalChinese": "Cu"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.yellow.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Refined Stellar Metal: Yellow",

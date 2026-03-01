@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BUI_CLOTH_1",
   "Name": {
     "English": "AUTOPHAGE HOOD",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 333,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.cloth.1.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.cloth.1.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

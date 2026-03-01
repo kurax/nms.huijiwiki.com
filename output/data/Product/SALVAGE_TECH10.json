@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SALVAGE_TECH10",
   "Name": {
     "English": "STARSHIP AI VALVES",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 12000000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/tradeprod.exotics5.png",
+  "Icon": "ui-frontend-icons-update3-tradeprod.exotics5.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

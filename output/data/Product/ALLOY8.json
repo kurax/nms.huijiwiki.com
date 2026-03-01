@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ALLOY8",
   "Name": {
     "English": "IRIDESITE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 150000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.iridisite.png",
+  "Icon": "ui-frontend-icons-u4products-product.iridisite.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

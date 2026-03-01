@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "DI-HYDROGEN",
     "SimplifiedChinese": "二氢",
@@ -18,7 +19,7 @@
     "TencentChinese": "二氢",
     "TraditionalChinese": "H"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.launchsub.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "High Energy Substance",

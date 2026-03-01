@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "DECAL_SCAN",
   "Name": {
     "English": "ATOMIC DECAL",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.decal.scan.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.decal.scan.png",
+  "Icon": "ui-frontend-icons-specialshop-special.decal.scan.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.decal.scan.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

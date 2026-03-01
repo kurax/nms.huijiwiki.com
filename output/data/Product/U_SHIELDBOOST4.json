@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_SHIELDBOOST4",
   "Name": {
     "English": "SHIELD MODULE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 480,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.s.health.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.s.health.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

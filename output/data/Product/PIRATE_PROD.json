@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "PIRATE_PROD",
   "Name": {
     "English": "PIRATE TRANSPONDER",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 85000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.pirateloot.png",
+  "Icon": "ui-frontend-icons-products-product.pirateloot.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

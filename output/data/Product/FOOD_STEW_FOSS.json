@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_STEW_FOSS",
   "Name": {
     "English": "BONE BROTH",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 172000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.bone.soup.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.733333349,

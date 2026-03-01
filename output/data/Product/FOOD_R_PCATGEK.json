@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_R_PCATGEK",
   "Name": {
     "English": "SYRUPY PROTO-BUTTER",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 36000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.butter.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ALL_RARE_XL",
   "Name": {
     "English": "GIANT RAY",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 20000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product.fish.ray.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.ray.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

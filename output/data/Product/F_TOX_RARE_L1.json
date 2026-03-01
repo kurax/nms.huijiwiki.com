@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TOX_RARE_L1",
   "Name": {
     "English": "VENOMTOOTH WRIGGLER",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 10000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product.fish.big.1.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.big.1.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

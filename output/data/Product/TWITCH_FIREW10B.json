@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TWITCH_FIREW10B",
   "Name": {
     "English": "RIBBON FIREWORK PACK",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 250,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/twitch.fireworkpack08.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.twitch.fireworkpack08.png",
+  "Icon": "ui-frontend-icons-specialshop-twitch.fireworkpack08.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.twitch.fireworkpack08.png",
   "Colour": {
     "R": 0.149019614,
     "G": 0.149019614,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "AMMONIA",
     "SimplifiedChinese": "氨",
@@ -18,7 +19,7 @@
     "TencentChinese": "氨",
     "TraditionalChinese": "NH3"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.toxic.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.toxic.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

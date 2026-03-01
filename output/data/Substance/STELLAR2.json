@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "CHROMATIC METAL",
     "SimplifiedChinese": "有色金属",
@@ -18,7 +19,7 @@
     "TencentChinese": "色金",
     "TraditionalChinese": "Ch"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.stellar.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Highly Refined Stellar Metal",

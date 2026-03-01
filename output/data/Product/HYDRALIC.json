@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "HYDRALIC",
   "Name": {
     "English": "HYDRAULIC WIRING",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.hydralic.png",
+  "Icon": "ui-frontend-icons-u4products-product.hydralic.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

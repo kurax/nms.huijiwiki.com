@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ODD_EPIC_XL",
   "Name": {
     "English": "VOID SQUID",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 50000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product4.fish.squid.png",
+  "Icon": "ui-frontend-icons-fish-product4.fish.squid.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

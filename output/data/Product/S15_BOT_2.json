@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S15_BOT_2",
   "Name": {
     "English": "MESSAGE IN A BOTTLE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fish/product.fish.bottle.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.bottle.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.541176498,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "RADON",
     "SimplifiedChinese": "氡",
@@ -18,7 +19,7 @@
     "TencentChinese": "氡",
     "TraditionalChinese": "Rn"
   },
-  "Icon": "ui/frontend/icons/update3/gas.2.png",
+  "Icon": "ui-frontend-icons-update3-gas.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Compressed Atmospheric Gas",

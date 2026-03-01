@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_V_PCAT",
   "Name": {
     "English": "SYRUPY NECTAR",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.honey.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.898039222,

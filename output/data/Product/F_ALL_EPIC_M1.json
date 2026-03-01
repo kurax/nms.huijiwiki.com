@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ALL_EPIC_M1",
   "Name": {
     "English": "MOON TURTLE",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 20000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product.fish.turtle.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.turtle.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "OUTLAWS",
     "SimplifiedChinese": "亡命之徒",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/rank/factions.pirate.on.png",
+  "Icon": "ui-frontend-icons-rank-factions.pirate.on.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

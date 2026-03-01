@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_FISH_BOB2",
   "Name": {
     "English": "EXOTIC PLUMAGE FLOAT",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.s17.fishingfloatfeather.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s17.fishingfloatfeather.png",
+  "Icon": "ui-frontend-icons-specialshop-special.s17.fishingfloatfeather.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s17.fishingfloatfeather.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

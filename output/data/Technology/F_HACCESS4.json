@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "F_HACCESS4",
   "Group": "",
   "Name": {
@@ -24,7 +25,7 @@
   "Teach": true,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/technology.freighterpurple.png",
+  "Icon": "ui-frontend-icons-technology-technology.freighterpurple.png",
   "Colour": {
     "R": 0.0352941193,
     "G": 0.360784322,

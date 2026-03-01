@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BANNER_NADA",
   "Name": {
     "English": "PRIEST ENTITY NADA BANNER",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 220,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.banner.nada.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.banner.nada.png",
+  "Icon": "ui-frontend-icons-specialshop-special.banner.nada.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.banner.nada.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

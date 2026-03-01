@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "PIRATE_INVITE",
   "Name": {
     "English": "TICKET TO FREEDOM",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 888,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.pirateinvite.png",
+  "Icon": "ui-frontend-icons-products-product.pirateinvite.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_FR_MINE1",
   "Name": {
     "English": "SALVAGED FLEET MINING UNIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.c.laser.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.c.laser.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

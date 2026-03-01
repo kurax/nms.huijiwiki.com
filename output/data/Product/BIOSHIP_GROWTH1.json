@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BIOSHIP_GROWTH1",
   "Name": {
     "English": "MATURE NEURAL STEM",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1616,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/biotech.brain.mod.png",
+  "Icon": "ui-frontend-icons-technology-bio-biotech.brain.mod.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.117647059,

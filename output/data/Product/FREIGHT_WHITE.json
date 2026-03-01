@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FREIGHT_WHITE",
   "Name": {
     "English": "WHITE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 12300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.freightpaint.png",
+  "Icon": "ui-frontend-icons-products-product.freightpaint.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.870588243,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_FISH_HAT3",
   "Name": {
     "English": "SHRIMP TANK",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.s17.fishbowlegg03.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s17.fishbowlegg03.png",
+  "Icon": "ui-frontend-icons-specialshop-special.s17.fishbowlegg03.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s17.fishbowlegg03.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

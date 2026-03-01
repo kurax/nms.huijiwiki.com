@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_TECHBOX_ALIEN",
   "Name": {
     "English": "%NAME% IMPLANT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 480,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.stem3.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.stem3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

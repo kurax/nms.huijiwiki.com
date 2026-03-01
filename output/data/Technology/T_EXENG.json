@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "T_EXENG",
   "Group": {
     "English": "Fusion Engine",
@@ -23,7 +24,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/vehicle/render.enginemod.png",
+  "Icon": "ui-frontend-icons-technology-vehicle-render.enginemod.png",
   "Colour": {
     "R": 0.129411772,
     "G": 0.466666669,

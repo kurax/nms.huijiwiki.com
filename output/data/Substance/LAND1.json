@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "FERRITE DUST",
     "SimplifiedChinese": "铁氧体粉末",
@@ -18,7 +19,7 @@
     "TencentChinese": "铁",
     "TraditionalChinese": "Fe"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.land.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.land.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Metallic Mineral Extract",

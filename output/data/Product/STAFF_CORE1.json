@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STAFF_CORE1",
   "Name": {
     "English": "SALVAGED BATTERY",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 646,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.staffcore.1.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.staffcore.1.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

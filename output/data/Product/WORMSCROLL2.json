@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "WORMSCROLL2",
   "Name": {
     "English": "WORMSKIN FOLIO: 2",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1616,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/wormscroll.png",
+  "Icon": "ui-frontend-icons-products-wormscroll.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

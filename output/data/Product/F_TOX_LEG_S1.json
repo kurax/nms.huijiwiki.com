@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TOX_LEG_S1",
   "Name": {
     "English": "EMERIL SUNSTAR",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 50000,
   "Level": 4,
-  "Icon": "ui/frontend/icons/fish/product4.fish.starfish.png",
+  "Icon": "ui-frontend-icons-fish-product4.fish.starfish.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

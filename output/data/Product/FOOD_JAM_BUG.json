@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_JAM_BUG",
   "Name": {
     "English": "SWEETENED MUCOUS",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 9000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.jam.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.jam.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.858823538,

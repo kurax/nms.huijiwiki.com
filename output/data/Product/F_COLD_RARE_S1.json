@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_COLD_RARE_S1",
   "Name": {
     "English": "FROSTSHELL CLAM",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product2.fish.clam.png",
+  "Icon": "ui-frontend-icons-fish-product2.fish.clam.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

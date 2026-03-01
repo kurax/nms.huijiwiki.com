@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STAFF_POLE5",
   "Name": {
     "English": "RADIANT BORE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 333,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.staffpole.5.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.staffpole.5.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

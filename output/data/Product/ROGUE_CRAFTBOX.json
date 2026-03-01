@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ROGUE_CRAFTBOX",
   "Name": {
     "English": "MEMORY FRAGMENT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/roguetech.general.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-roguetech.general.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

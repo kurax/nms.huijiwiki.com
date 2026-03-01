@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "JETS_WORM",
   "Name": {
     "English": "GHASTLY TRAIL",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 800,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.jets.wormparty.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.jets.wormparty.png",
+  "Icon": "ui-frontend-icons-specialshop-special.jets.wormparty.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.jets.wormparty.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

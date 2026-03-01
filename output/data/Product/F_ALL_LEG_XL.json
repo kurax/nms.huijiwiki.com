@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ALL_LEG_XL",
   "Name": {
     "English": "THE LUNKER",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 200000,
   "Level": 4,
-  "Icon": "ui/frontend/icons/fish/product.fish.xl.2.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

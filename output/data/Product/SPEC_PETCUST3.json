@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_PETCUST3",
   "Name": {
     "English": "ENERGY COIL",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.petcustom3.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.petcustom3.png",
+  "Icon": "ui-frontend-icons-specialshop-special.petcustom3.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.petcustom3.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

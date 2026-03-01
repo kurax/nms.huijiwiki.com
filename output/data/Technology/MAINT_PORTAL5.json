@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "MAINT_PORTAL5",
   "Group": "",
   "Name": {
@@ -25,7 +26,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/update3/portalsymbol.4.png",
+  "Icon": "ui-frontend-icons-update3-portalsymbol.4.png",
   "Colour": {
     "R": 0.0352941193,
     "G": 0.360784322,

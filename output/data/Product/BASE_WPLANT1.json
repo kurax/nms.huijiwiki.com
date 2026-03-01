@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BASE_WPLANT1",
   "Name": {
     "English": "CURLY CORAL",
@@ -31,8 +32,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.waterplant01.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.waterplant01.png",
+  "Icon": "ui-frontend-icons-specialshop-special.waterplant01.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.waterplant01.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

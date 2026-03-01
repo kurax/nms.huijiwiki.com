@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "CRYSTALLIZED HELIUM",
     "SimplifiedChinese": "氦晶体",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "He",
     "TraditionalChinese": "He"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.gasgiant.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.gasgiant.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TOX_EPIC_M1",
   "Name": {
     "English": "SCORPIONFISH",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 20000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product.fish.small.1.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.small.1.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

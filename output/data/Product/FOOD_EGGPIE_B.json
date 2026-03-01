@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_EGGPIE_B",
   "Name": {
     "English": "SCRAMBLED MARROW",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 24000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.omlette.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.949019611,

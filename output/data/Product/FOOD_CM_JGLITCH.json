@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_CM_JGLITCH",
   "Name": {
     "English": "CAKE OF GLASS",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 179600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.ccakeevil.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.41568628,

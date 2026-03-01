@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_FIREWORK11",
   "Name": {
     "English": "BLUE RIBBON FIREWORK",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.firework11.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.firework11.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.firework11.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.firework11.png",
   "Colour": {
     "R": 0.149019614,
     "G": 0.149019614,

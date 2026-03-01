@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BUI_HEAD_7",
   "Name": {
     "English": "CASING OF THE HUNT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 999,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.head.7.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.head.7.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

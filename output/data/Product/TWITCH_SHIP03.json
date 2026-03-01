@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TWITCH_SHIP03",
   "Name": {
     "English": "NEMESIS OF THE KUDAMA",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.twitch.ship03.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.twitch.ship03.png",
+  "Icon": "ui-frontend-icons-specialshop-special.twitch.ship03.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.twitch.ship03.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

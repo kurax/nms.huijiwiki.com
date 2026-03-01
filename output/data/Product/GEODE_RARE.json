@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "GEODE_RARE",
   "Name": {
     "English": "GLOWING MINERAL",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.waterprod.png",
+  "Icon": "ui-frontend-icons-u4products-product.waterprod.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

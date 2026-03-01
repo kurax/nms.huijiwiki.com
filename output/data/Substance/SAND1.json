@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "SILICATE POWDER",
     "SimplifiedChinese": "硅酸盐粉末",
@@ -18,7 +19,7 @@
     "TencentChinese": "硅",
     "TraditionalChinese": "矽"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.sand.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.sand.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Abundant Mineral",

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "ANCESTRAL MEMORIES",
     "SimplifiedChinese": "先祖记忆",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "？",
     "TraditionalChinese": "？"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.timemilk.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.timemilk.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Recessive Creature Genes",

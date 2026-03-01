@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXPD_EGG_13",
   "Name": {
     "English": "APPALLING EGG",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.minifiend.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.minifiend.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.minifiend.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.minifiend.png",
   "Colour": {
     "R": 0.301960796,
     "G": 0.160784319,

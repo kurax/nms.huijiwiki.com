@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TRASH_2",
   "Name": {
     "English": "TANGLEWEED",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fish/product.fish.weed.2.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.weed.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.541176498,

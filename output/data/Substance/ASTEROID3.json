@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "PLATINUM",
     "SimplifiedChinese": "铂",
@@ -18,7 +19,7 @@
     "TencentChinese": "铂",
     "TraditionalChinese": "Pt"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.asteroid.3.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Valuable Asteroid Mineral",

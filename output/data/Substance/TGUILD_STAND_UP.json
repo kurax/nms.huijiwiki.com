@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "MERCHANTS",
     "SimplifiedChinese": "商人",
@@ -18,7 +19,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/rank/factions.tradeguild.on.png",
+  "Icon": "ui-frontend-icons-rank-factions.tradeguild.on.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

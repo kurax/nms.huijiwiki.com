@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_HYPER1",
   "Name": {
     "English": "HYPERDRIVE MODULE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.c.hyperdrive.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.c.hyperdrive.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

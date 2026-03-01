@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ROGUE_FINDER",
   "Name": {
     "English": "MEMORY RESONATOR",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.roguefinder.png",
+  "Icon": "ui-frontend-icons-u4products-product.roguefinder.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.192156866,

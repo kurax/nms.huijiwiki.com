@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BONE_TEMP",
   "Name": {
     "English": "%NAME% EXHIBIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fossilbones/fossil.head.an.png",
+  "Icon": "ui-frontend-icons-fossilbones-fossil.head.an.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

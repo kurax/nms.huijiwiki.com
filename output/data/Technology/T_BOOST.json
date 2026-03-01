@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "T_BOOST",
   "Group": {
     "English": "Exocraft Boosters",
@@ -23,7 +24,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/vehicle/render.boostmod.png",
+  "Icon": "ui-frontend-icons-technology-vehicle-render.boostmod.png",
   "Colour": {
     "R": 0.129411772,
     "G": 0.466666669,

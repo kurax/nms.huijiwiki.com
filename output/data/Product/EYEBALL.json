@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EYEBALL",
   "Name": {
     "English": "HYPNOTIC EYE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 60000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.eyeball.png",
+  "Icon": "ui-frontend-icons-u4products-product.eyeball.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

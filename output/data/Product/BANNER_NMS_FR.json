@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BANNER_NMS_FR",
   "Name": {
     "English": "NO MAN'S SKY FRANCE BANNER",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 220,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.banner.nmsfrance.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.banner.nmsfrance.png",
+  "Icon": "ui-frontend-icons-specialshop-special.banner.nmsfrance.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.banner.nmsfrance.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

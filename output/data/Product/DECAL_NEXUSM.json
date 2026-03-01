@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "DECAL_NEXUSM",
   "Name": {
     "English": "SPACE ANOMALY DECAL",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.decal19.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.decal19.png",
+  "Icon": "ui-frontend-icons-specialshop-special.decal19.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.decal19.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

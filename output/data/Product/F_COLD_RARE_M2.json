@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_COLD_RARE_M2",
   "Name": {
     "English": "PALE SNOWTAIL",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 5000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product2.small.2.png",
+  "Icon": "ui-frontend-icons-fish-product2.small.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

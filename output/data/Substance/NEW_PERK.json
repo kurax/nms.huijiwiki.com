@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "Feature",
     "SimplifiedChinese": "特色",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/hud/icons/buildings/building.settlement.png",
+  "Icon": "ui-hud-icons-buildings-building.settlement.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

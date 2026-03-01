@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "NAV_DATA",
   "Name": {
     "English": "NAVIGATION DATA",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.navdata.png",
+  "Icon": "ui-frontend-icons-u4products-product.navdata.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0,

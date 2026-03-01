@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ROGUE_G_STONE5",
   "Name": {
     "English": "MEMORY IMPRINT V",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.roguegrave.png",
+  "Icon": "ui-frontend-icons-u4products-product.roguegrave.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "AP_SHIPSHIELD4",
   "Name": {
     "English": "SCREAM SUPPRESSOR NODE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 480,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctechalien.s.shield.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctechalien.s.shield.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

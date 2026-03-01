@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "MERCENARIES",
     "SimplifiedChinese": "雇佣兵",
@@ -18,7 +19,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/rank/factions.warriorguild.on.png",
+  "Icon": "ui-frontend-icons-rank-factions.warriorguild.on.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

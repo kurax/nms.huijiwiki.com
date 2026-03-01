@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S9_MYSTERY_ITEM",
   "Name": {
     "English": "CONSTRUCTION HISTORY",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/treasureprod.strangebook.png",
+  "Icon": "ui-frontend-icons-update3-treasureprod.strangebook.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

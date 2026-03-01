@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "ACTIVATED CADMIUM",
     "SimplifiedChinese": "活性镉",
@@ -18,7 +19,7 @@
     "TencentChinese": "镉",
     "TraditionalChinese": "Cd"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.exred.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.exred.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Refined Stellar Metal: Red",

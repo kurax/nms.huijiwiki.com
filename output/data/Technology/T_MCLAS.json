@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "T_MCLAS",
   "Group": {
     "English": "Minotaur Laser",
@@ -22,7 +23,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/vehicle/render.vehicle_laseru1.png",
+  "Icon": "ui-frontend-icons-technology-vehicle-render.vehicle_laseru1.png",
   "Colour": {
     "R": 0.129411772,
     "G": 0.466666669,

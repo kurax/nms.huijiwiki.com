@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "NANITES",
     "SimplifiedChinese": "纳米星团",
@@ -17,7 +18,7 @@
     "TencentChinese": "∞",
     "TraditionalChinese": "∞"
   },
-  "Icon": "ui/frontend/icons/substances/currency.nanites.png",
+  "Icon": "ui-frontend-icons-substances-currency.nanites.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Technological Currency",

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_DUST_LEG_XL",
   "Name": {
     "English": "MEGALODON",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 200000,
   "Level": 4,
-  "Icon": "ui/frontend/icons/fish/product5.fish.shark.png",
+  "Icon": "ui-frontend-icons-fish-product5.fish.shark.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "HOOD_GEK",
   "Name": {
     "English": "SPAWNING COWL",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.gekhood.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.gekhood.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.gekhood.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.gekhood.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

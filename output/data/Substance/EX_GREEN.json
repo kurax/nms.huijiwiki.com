@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "ACTIVATED EMERIL",
     "SimplifiedChinese": "活性艾梅里尔",
@@ -18,7 +19,7 @@
     "TencentChinese": "艾",
     "TraditionalChinese": "Em"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.exgreen.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.exgreen.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Refined Stellar Metal: Green",

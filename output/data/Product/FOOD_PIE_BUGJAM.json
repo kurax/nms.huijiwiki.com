@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_PIE_BUGJAM",
   "Name": {
     "English": "MUCULENT TART",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 62000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.vegpie.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegpie.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

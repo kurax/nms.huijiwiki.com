@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BIOSHIP_COMP2",
   "Name": {
     "English": "PULSATING CORE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1616,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.biocomp2.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.biocomp2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.192156866,

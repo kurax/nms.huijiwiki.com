@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_R_BONEMILK",
   "Name": {
     "English": "BONE MILK",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 32000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.milk.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.milk.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.870588243,

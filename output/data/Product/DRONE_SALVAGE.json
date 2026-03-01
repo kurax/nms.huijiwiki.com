@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "DRONE_SALVAGE",
   "Name": {
     "English": "INVERTED MIRROR",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 17000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.dronesalvage.png",
+  "Icon": "ui-frontend-icons-u4products-product.dronesalvage.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

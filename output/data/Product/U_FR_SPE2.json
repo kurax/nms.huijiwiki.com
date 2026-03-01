@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_FR_SPE2",
   "Name": {
     "English": "SALVAGED FLEET BEACON",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 140,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.b.vehicleboost.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.b.vehicleboost.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

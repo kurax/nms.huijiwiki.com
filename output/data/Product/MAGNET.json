@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "MAGNET",
   "Name": {
     "English": "MAGNETIC RESONATOR",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 6150,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.magnet.png",
+  "Icon": "ui-frontend-icons-u4products-product.magnet.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

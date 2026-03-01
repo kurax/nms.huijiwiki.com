@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FARMPROD5",
   "Name": {
     "English": "POLY FIBER",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 130000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/farmprod.5.png",
+  "Icon": "ui-frontend-icons-update3-farmprod.5.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

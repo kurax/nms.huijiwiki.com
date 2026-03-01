@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BP_SALVAGE",
   "Name": {
     "English": "SALVAGED DATA",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 52000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.salvage.png",
+  "Icon": "ui-frontend-icons-u4products-product.salvage.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

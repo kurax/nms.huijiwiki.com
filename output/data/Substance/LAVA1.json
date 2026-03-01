@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "BASALT",
     "SimplifiedChinese": "玄武岩",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "B",
     "TraditionalChinese": "B"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.lava.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.lava.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

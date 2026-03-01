@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_RAD_RARE_M1",
   "Name": {
     "English": "TWISTED GULPER",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 5000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product.fish.xl.2.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

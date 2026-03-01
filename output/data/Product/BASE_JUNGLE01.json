@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BASE_JUNGLE01",
   "Name": {
     "English": "RUBBER PLANT ROCK",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.biomeprop.jungle01.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.biomeprop.jungle01.png",
+  "Icon": "ui-frontend-icons-specialshop-special.biomeprop.jungle01.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.biomeprop.jungle01.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

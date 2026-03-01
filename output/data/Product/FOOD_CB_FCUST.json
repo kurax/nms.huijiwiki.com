@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_CB_FCUST",
   "Name": {
     "English": "SALT-LACED HONEY CAKE",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 92300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.cakeblob.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

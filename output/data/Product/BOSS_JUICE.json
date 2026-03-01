@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BOSS_JUICE",
   "Name": {
     "English": "ELIXIR OF WATER",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.bossjuice.png",
+  "Icon": "ui-frontend-icons-products-product.bossjuice.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

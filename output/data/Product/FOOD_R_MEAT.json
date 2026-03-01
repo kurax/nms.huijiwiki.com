@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_R_MEAT",
   "Name": {
     "English": "PROCESSED MEAT",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 2100,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.meat.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.meat.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.482352942,

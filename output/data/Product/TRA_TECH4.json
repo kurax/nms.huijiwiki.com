@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TRA_TECH4",
   "Name": {
     "English": "AUTONOMOUS POSITIONING UNIT",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 30000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/tradeprod.tech4.png",
+  "Icon": "ui-frontend-icons-update3-tradeprod.tech4.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

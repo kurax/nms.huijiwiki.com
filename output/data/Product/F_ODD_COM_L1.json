@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ODD_COM_L1",
   "Name": {
     "English": "SHIMMERING LASHTAIL",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 1,
-  "Icon": "ui/frontend/icons/fish/product5.fish.big.1.png",
+  "Icon": "ui-frontend-icons-fish-product5.fish.big.1.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.117647059,

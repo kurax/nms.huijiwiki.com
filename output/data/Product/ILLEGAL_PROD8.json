@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ILLEGAL_PROD8",
   "Name": {
     "English": "FIRST SPAWN RELICS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 98000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.smuggling8.png",
+  "Icon": "ui-frontend-icons-products-product.smuggling8.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.219607845,

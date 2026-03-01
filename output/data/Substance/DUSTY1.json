@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "PYRITE",
     "SimplifiedChinese": "黄铁矿",
@@ -18,7 +19,7 @@
     "TencentChinese": "黄铁",
     "TraditionalChinese": "Py"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.dusty.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

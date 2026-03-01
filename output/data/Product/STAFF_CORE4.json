@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STAFF_CORE4",
   "Name": {
     "English": "RECLAIMED GRIP",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 646,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.staffcore.4.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.staffcore.4.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

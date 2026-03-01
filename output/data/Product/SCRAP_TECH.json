@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SCRAP_TECH",
   "Name": {
     "English": "SUSPICIOUS PACKET (TECH)",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.scrap.tech.png",
+  "Icon": "ui-frontend-icons-u4products-product.scrap.tech.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

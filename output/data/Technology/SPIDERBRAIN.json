@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "SPIDERBRAIN",
   "Group": "",
   "Name": "UI_SPIDERBRAIN_NAME",
@@ -8,7 +9,7 @@
   "Teach": true,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/tech.spiderbrain.png",
+  "Icon": "ui-frontend-icons-technology-tech.spiderbrain.png",
   "Colour": {
     "R": 0.0352941193,
     "G": 0.360784322,

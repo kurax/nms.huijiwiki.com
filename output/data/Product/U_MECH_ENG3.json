@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_MECH_ENG3",
   "Name": {
     "English": "MINOTAUR ENGINE MODULE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.a.vehicleboost.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.a.vehicleboost.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

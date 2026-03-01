@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "PARAFFINIUM",
     "SimplifiedChinese": "矿脂",
@@ -18,7 +19,7 @@
     "TencentChinese": "矿脂",
     "TraditionalChinese": "Pf"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.lush.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.lush.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

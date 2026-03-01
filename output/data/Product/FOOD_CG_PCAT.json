@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_CG_PCAT",
   "Name": {
     "English": "NECTAR SPONGE CAKE",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 79700,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.cakegek.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakegek.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

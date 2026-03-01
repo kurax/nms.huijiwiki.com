@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_M_BALL",
   "Name": {
     "English": "LUMPY BRAINSTEM",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.meat.offal.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.733333349,

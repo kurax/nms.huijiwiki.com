@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S20_LOG4",
   "Name": {
     "English": "LOG OF THE FIRESHIP ARCADIA",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.logkey.png",
+  "Icon": "ui-frontend-icons-u4products-product.logkey.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "DEEPSEA_PROD",
   "Name": {
     "English": "SEA GLASS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 266000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.seaglass.png",
+  "Icon": "ui-frontend-icons-u4products-product.seaglass.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "PORTAL_JUICE",
   "Name": {
     "English": "ELIXIR OF QUICKSILVER",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.portaljuice.png",
+  "Icon": "ui-frontend-icons-products-product.portaljuice.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

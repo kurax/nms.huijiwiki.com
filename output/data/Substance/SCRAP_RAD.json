@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "Radioactive Hazard",
     "SimplifiedChinese": "放射性危险",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/substances/scrap.rad.png",
+  "Icon": "ui-frontend-icons-substances-scrap.rad.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

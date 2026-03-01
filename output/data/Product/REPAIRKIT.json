@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "REPAIRKIT",
   "Name": {
     "English": "REPAIR KIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 450,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.repairkit.png",
+  "Icon": "ui-frontend-icons-products-product.repairkit.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

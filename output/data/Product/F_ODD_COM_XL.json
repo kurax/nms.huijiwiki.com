@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_ODD_COM_XL",
   "Name": {
     "English": "BREACH CRAWLER",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 5000,
   "Level": 1,
-  "Icon": "ui/frontend/icons/fish/product4.fish.snail.png",
+  "Icon": "ui-frontend-icons-fish-product4.fish.snail.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.117647059,

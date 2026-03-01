@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SENTFREI_PROD",
   "Name": {
     "English": "CARRIER AI FRAGMENT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 35000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.freightercore.png",
+  "Icon": "ui-frontend-icons-u4products-product.freightercore.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

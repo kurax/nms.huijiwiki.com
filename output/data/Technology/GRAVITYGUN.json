@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "GRAVITYGUN",
   "Group": "",
   "Name": {
@@ -24,7 +25,7 @@
   "Teach": true,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/render.gravitygun.png",
+  "Icon": "ui-frontend-icons-technology-render.gravitygun.png",
   "Colour": {
     "R": 0.0352941193,
     "G": 0.360784322,

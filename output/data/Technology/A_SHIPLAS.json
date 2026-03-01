@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "A_SHIPLAS",
   "Group": {
     "English": "Spewing Vents",
@@ -22,7 +23,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/bio/biotech.eye.mod.png",
+  "Icon": "ui-frontend-icons-technology-bio-biotech.eye.mod.png",
   "Colour": {
     "R": 0.541176498,
     "G": 0.498039216,

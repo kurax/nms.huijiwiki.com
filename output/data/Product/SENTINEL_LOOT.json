@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SENTINEL_LOOT",
   "Name": {
     "English": "SALVAGED GLASS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.sentinelloot.png",
+  "Icon": "ui-frontend-icons-u4products-product.sentinelloot.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

@@ -103,7 +103,7 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
                     result[field] = null;
                     continue;
                 }
-                if (icons[texture] != null) result[field] = icons[texture];
+                if (icons[texture] != null) result[field] = icons[texture].replaceAll('\\', '-');
                 else {
                     const paths = texture.split('/') as string[];
                     while (paths.length > 0)
@@ -112,7 +112,10 @@ const getValue = (properties: Record<string, any>[], fields: string[] = []) => {
                     const filename = [...paths.slice(0, paths.length - 1), `${path.basename(paths[paths.length - 1], path.extname(paths[paths.length - 1]))}.png`].join('/');
                     const pngFile = path.join(DATA_DIR, filename);
                     if (!fs.existsSync(pngFile)) result[field] = 'NotFound.png';
-                    else result[field] = icons[texture] = path.relative(path.resolve(DATA_DIR), trueCasePath.trueCasePathSync(pngFile)).replaceAll('\\', '/');
+                    else {
+                        icons[texture] = path.relative(path.resolve(DATA_DIR), trueCasePath.trueCasePathSync(pngFile));
+                        result[field] = icons[texture].replaceAll('\\', '-');
+                    }
                 }
                 continue;
             }
@@ -153,7 +156,7 @@ const writeTableData = (data: Record<string, any>) => {
             const entry = data.table[id];
             signale.info(id, entry.NameLower?.SimplifiedChinese ?? entry.NameLower?.English);
             const file = path.join(outputDir, `${id}.json`);
-            fs.writeFileSync(file, JSON.stringify(entry, null, 2));
+            fs.writeFileSync(file, JSON.stringify({ _Table: data.type, ...entry }, null, 2));
             result.push(entry);
         } catch (error) {
             signale.error(`Error writing file ${id}.json:`, error);

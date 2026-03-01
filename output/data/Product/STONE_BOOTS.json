@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STONE_BOOTS",
   "Name": {
     "English": "LIVING STONE BOOTS",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s18.stoneboots.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s18.stoneboots.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s18.stoneboots.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s18.stoneboots.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

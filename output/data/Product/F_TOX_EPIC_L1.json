@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TOX_EPIC_L1",
   "Name": {
     "English": "SHRIEKING VENTTAIL",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 30000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product4.fish.xl.3.png",
+  "Icon": "ui-frontend-icons-fish-product4.fish.xl.3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

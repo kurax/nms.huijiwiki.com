@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_FR_TRA3",
   "Name": {
     "English": "SALVAGED FLEET TRADE UNIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.a.railgun.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.a.railgun.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

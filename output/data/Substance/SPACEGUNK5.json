@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "VISCOUS FLUIDS",
     "SimplifiedChinese": "粘性流质",
@@ -18,7 +19,7 @@
     "TencentChinese": "垃",
     "TraditionalChinese": "Jn"
   },
-  "Icon": "ui/frontend/icons/update3/spacegunk.5.png",
+  "Icon": "ui-frontend-icons-update3-spacegunk.5.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Junk",

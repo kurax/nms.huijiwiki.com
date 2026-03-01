@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EGG13",
   "Name": {
     "English": "COMPANION EGG",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 0,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.creatureegg.png",
+  "Icon": "ui-frontend-icons-products-product.creatureegg.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.192156866,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "METHANE",
     "SimplifiedChinese": "甲烷",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "CH4",
     "TraditionalChinese": "CH4"
   },
-  "Icon": "ui/frontend/icons/update3/gas.4.png",
+  "Icon": "ui-frontend-icons-update3-gas.4.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Compressed Atmospheric Gas",

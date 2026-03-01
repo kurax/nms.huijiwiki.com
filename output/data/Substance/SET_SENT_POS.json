@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "Sentinel Alert Level",
     "SimplifiedChinese": "护卫警报等级",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/icons/settlement/positivealert.png",
+  "Icon": "ui-frontend-icons-settlement-positivealert.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

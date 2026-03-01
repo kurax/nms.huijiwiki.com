@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "SCAN1",
   "Group": "",
   "Name": {
@@ -33,7 +34,7 @@
     "TencentChinese": "按 <span class=\"name name-img\">SCAN</span> 激活脉冲扫描",
     "TraditionalChinese": "按下 <span class=\"name name-img\">SCAN</span> 啟動脈衝掃描"
   },
-  "Icon": "ui/frontend/icons/technology/render.scan.png",
+  "Icon": "ui-frontend-icons-technology-render.scan.png",
   "Colour": {
     "R": 0.0352941193,
     "G": 0.360784322,

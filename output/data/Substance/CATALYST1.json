@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "SODIUM",
     "SimplifiedChinese": "钠",
@@ -18,7 +19,7 @@
     "TencentChinese": "钠",
     "TraditionalChinese": "Na"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.catalyst.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Unrefined Catalytic Element",

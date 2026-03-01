@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BUI_HEAD_5",
   "Name": {
     "English": "DE-INDUSTRIALIZED CASING",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 999,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.head.5.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.head.5.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

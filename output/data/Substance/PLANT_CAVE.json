@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "MARROW BULB",
     "SimplifiedChinese": "葫芦朵",
@@ -18,7 +19,7 @@
     "TencentChinese": "芦",
     "TraditionalChinese": "Bu"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.plant.cave.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Harvested Agricultural Substance",

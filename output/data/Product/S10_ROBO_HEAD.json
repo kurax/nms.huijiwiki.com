@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S10_ROBO_HEAD",
   "Name": {
     "English": "CONSTRUCT HEAD",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 9000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.s10.robothead.png",
+  "Icon": "ui-frontend-icons-u4products-product.s10.robothead.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

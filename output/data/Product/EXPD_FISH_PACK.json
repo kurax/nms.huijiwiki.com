@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXPD_FISH_PACK",
   "Name": {
     "English": "AQUARIUS FLIGHT PACK",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.s15.divingbackpack.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s15.divingbackpack.png",
+  "Icon": "ui-frontend-icons-specialshop-special.s15.divingbackpack.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s15.divingbackpack.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

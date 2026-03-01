@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SALVAGE_TECHMT5",
   "Name": {
     "English": "ALLOY SCRAPS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3100000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/tradeprod.tech2.png",
+  "Icon": "ui-frontend-icons-update3-tradeprod.tech2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

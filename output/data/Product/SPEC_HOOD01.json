@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_HOOD01",
   "Name": {
     "English": "SHROUD OF FREEDOM",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.hood01.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.hood01.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.hood01.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.hood01.png",
   "Colour": {
     "R": 0.149019614,
     "G": 0.149019614,

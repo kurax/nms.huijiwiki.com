@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_GAS_EPIC_L1",
   "Name": {
     "English": "TENDRILLA",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 30000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product2.fish.octopus.png",
+  "Icon": "ui-frontend-icons-fish-product2.fish.octopus.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

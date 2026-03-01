@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "STAR BULB",
     "SimplifiedChinese": "星辰朵",
@@ -18,7 +19,7 @@
     "TencentChinese": "辰",
     "TraditionalChinese": "Sb"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.plant.lush.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.plant.lush.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Harvested Agricultural Substance",

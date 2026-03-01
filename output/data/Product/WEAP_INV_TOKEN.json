@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "WEAP_INV_TOKEN",
   "Name": {
     "English": "MULTI-TOOL EXPANSION SLOT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 85000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.weapontoken.png",
+  "Icon": "ui-frontend-icons-u4products-product.weapontoken.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

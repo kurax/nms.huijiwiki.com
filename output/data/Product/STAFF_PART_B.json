@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STAFF_PART_B",
   "Name": {
     "English": "ATLANTIDEUM CHAMBER",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 646,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/staffpartb.png",
+  "Icon": "ui-frontend-icons-products-staffpartb.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

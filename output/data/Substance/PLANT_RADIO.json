@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "GAMMA ROOT",
     "SimplifiedChinese": "伽马根",
@@ -18,7 +19,7 @@
     "TencentChinese": "伽",
     "TraditionalChinese": "Gr"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.plant.radio.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.plant.radio.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Harvested Agricultural Substance",

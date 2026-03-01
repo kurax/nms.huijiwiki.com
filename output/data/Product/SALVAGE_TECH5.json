@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SALVAGE_TECH5",
   "Name": {
     "English": "TANK OF COOLANT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 10000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/tradeprod.tech2.png",
+  "Icon": "ui-frontend-icons-update3-tradeprod.tech2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

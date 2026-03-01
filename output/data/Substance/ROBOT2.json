@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "ATLANTIDEUM",
     "SimplifiedChinese": "亚特拉迪姆",
@@ -16,7 +17,7 @@
     "TencentChinese": "∞",
     "TraditionalChinese": "∞"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.robot.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Disharmonic Metal",

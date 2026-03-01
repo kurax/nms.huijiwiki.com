@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ALIEN_TECHBOX",
   "Name": {
     "English": "PSYCHONIC EGG",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 126000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.biocomp2.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.biocomp2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BUI_HEAD_15",
   "Name": {
     "English": "COMBAT FACIAL UNIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 999,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.head.15.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.head.15.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

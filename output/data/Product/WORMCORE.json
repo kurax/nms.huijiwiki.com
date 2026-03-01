@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "WORMCORE",
   "Name": {
     "English": "FLESH ROPE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16016,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/wormcore.png",
+  "Icon": "ui-frontend-icons-products-wormcore.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

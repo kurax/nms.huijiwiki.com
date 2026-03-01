@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "DRONE_PART_P",
   "Name": {
     "English": "BEADS OF GLASS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.dronepartpolo.png",
+  "Icon": "ui-frontend-icons-u4products-product.dronepartpolo.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

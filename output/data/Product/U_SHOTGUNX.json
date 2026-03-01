@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_SHOTGUNX",
   "Name": {
     "English": "SUSPICIOUS SCATTER BLASTER MODULE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 320,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.x.shotgun.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.x.shotgun.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

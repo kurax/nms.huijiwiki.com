@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ANY_FISH_RAW",
   "Name": {
     "English": "ANY RAW SEAFOOD",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/fish/product.fish.default.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.default.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

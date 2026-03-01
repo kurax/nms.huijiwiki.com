@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TWITCH_SHIP58",
   "Name": {
     "English": "THE MASTER OF SLEEP",
@@ -23,8 +24,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/twitch.ship58.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.twitch.ship58.png",
+  "Icon": "ui-frontend-icons-specialshop-twitch.ship58.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.twitch.ship58.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

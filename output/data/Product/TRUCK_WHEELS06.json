@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TRUCK_WHEELS06",
   "Name": {
     "English": "CATERPILLAR TRACK",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 12300,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.2026.truckwheels06.png",
+  "Icon": "ui-frontend-icons-products-product.2026.truckwheels06.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.870588243,

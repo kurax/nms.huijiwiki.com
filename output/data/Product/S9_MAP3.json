@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S9_MAP3",
   "Name": {
     "English": "SETTLEMENT COORDINATES DELTA",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 2613,
   "Level": 1,
-  "Icon": "ui/frontend/icons/u4products/product.starchart.season9.png",
+  "Icon": "ui-frontend-icons-u4products-product.starchart.season9.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

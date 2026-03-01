@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "STAFF_HEAD4B",
   "Name": {
     "English": "RECLAIMED HEAD",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 999,
   "Level": 0,
-  "Icon": "ui/frontend/icons/robotparts/robotparts.staffhead.4b.png",
+  "Icon": "ui-frontend-icons-robotparts-robotparts.staffhead.4b.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.549019635,

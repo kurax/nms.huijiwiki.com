@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "AUTOPHAGE",
     "SimplifiedChinese": "自噬体",
@@ -16,7 +17,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/missions/missionfaction.builder.png",
+  "Icon": "ui-frontend-missions-missionfaction.builder.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

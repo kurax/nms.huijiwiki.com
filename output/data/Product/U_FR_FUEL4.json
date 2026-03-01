@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_FR_FUEL4",
   "Name": {
     "English": "SALVAGED FLEET FUEL UNIT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 480,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.s.jetpack.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.s.jetpack.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

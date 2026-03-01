@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_TOX_COM_XL",
   "Name": {
     "English": "GIANT WHISKERFISH",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 5000,
   "Level": 1,
-  "Icon": "ui/frontend/icons/fish/product.fish.medium.2.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.117647059,

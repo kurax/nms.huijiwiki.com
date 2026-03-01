@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "COMPUTER",
   "Name": {
     "English": "QUANTUM COMPUTER",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 4200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.computer.png",
+  "Icon": "ui-frontend-icons-u4products-product.computer.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

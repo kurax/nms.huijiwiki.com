@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_SENTPACK",
   "Name": {
     "English": "AERON TURBOJET",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.backpacksentinel.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.blob_b.png",
+  "Icon": "ui-frontend-icons-specialshop-special.backpacksentinel.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.blob_b.png",
   "Colour": {
     "R": 0.149019614,
     "G": 0.149019614,

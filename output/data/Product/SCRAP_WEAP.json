@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SCRAP_WEAP",
   "Name": {
     "English": "SUSPICIOUS PACKET (ARMS)",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 350,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.scrap.weapon.png",
+  "Icon": "ui-frontend-icons-u4products-product.scrap.weapon.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

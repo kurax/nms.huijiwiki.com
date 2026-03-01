@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "WATER_CRAFT",
   "Name": {
     "English": "SALT REFRACTOR",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 30500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.saltrefractor.png",
+  "Icon": "ui-frontend-icons-u4products-product.saltrefractor.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,

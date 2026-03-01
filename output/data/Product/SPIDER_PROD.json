@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPIDER_PROD",
   "Name": {
     "English": "CRYSTALLIZED HEART",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 37000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.spidercrystal.png",
+  "Icon": "ui-frontend-icons-u4products-product.spidercrystal.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

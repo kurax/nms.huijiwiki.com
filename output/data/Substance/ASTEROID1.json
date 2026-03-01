@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "SILVER",
     "SimplifiedChinese": "银",
@@ -18,7 +19,7 @@
     "TencentChinese": "银",
     "TraditionalChinese": "Ag"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.asteroid.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Valuable Asteroid Mineral",

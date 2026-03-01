@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_SENTSUIT",
   "Name": {
     "English": "SENTINEL EXOSUIT FRAGMENT",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 480,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.sentinel.suit.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.sentinel.suit.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

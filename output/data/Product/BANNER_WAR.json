@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BANNER_WAR",
   "Name": {
     "English": "VY'KEEN EMBLEM BANNER",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 220,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.banner.vykeen.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.banner.vykeen.png",
+  "Icon": "ui-frontend-icons-specialshop-special.banner.vykeen.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.banner.vykeen.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

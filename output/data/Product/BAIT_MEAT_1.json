@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BAIT_MEAT_1",
   "Name": {
     "English": "SYNTHETIC WORMS",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 800,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.bait.worms.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.bait.worms.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.733333349,

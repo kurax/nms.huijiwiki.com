@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "HEXITE",
     "SimplifiedChinese": "己糖醇",
@@ -18,7 +19,7 @@
     "TencentChinese": "醇",
     "TraditionalChinese": "X"
   },
-  "Icon": "ui/frontend/icons/u4products/product.hexcore.png",
+  "Icon": "ui-frontend-icons-u4products-product.hexcore.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Unrefined Organic Element",

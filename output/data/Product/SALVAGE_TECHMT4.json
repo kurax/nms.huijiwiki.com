@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SALVAGE_TECHMT4",
   "Name": {
     "English": "THERMAL PANELS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1310000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/tradeprod.minerals3.png",
+  "Icon": "ui-frontend-icons-update3-tradeprod.minerals3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

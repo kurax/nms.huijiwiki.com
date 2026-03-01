@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TITLE_UNLOCK",
   "Name": {
     "English": "Title",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 0,
   "Level": 0,
-  "Icon": "ui/frontend/icons/rank/titleunlocked.png",
+  "Icon": "ui-frontend-icons-rank-titleunlocked.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

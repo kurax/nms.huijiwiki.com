@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_TECHPACK_ALIE",
   "Name": {
     "English": "%NAME% NODE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.stem3.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.stem3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

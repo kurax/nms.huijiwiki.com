@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_B_CAT",
   "Name": {
     "English": "COUGH BISCUITS",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 40000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.biscuit.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

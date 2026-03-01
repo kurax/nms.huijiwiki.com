@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "SOLANIUM",
     "SimplifiedChinese": "日光茄",
@@ -18,7 +19,7 @@
     "TencentChinese": "茄",
     "TraditionalChinese": "So"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.plant.hot.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Harvested Agricultural Substance",

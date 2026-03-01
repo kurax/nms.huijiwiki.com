@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "CHLORINE",
     "SimplifiedChinese": "氯",
@@ -18,7 +19,7 @@
     "TencentChinese": "氯",
     "TraditionalChinese": "Cl"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.water.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.water.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Processed Aquatic Mineral",

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "POLISHED STONE",
     "SimplifiedChinese": "抛光石材",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "R",
     "TraditionalChinese": "R"
   },
-  "Icon": "ui/frontend/icons/products/product.metallic.4.png",
+  "Icon": "ui-frontend-icons-products-product.metallic.4.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Recycled Minerals",

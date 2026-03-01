@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SALVAGE_TECH7",
   "Name": {
     "English": "RECYCLED CIRCUITRY",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 520000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/tradeprod.alloy5.png",
+  "Icon": "ui-frontend-icons-update3-tradeprod.alloy5.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

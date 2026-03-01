@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BASE_NEXUS1",
   "Name": {
     "English": "ANTIMATTER OBSERVATION ORB",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.nexusprop01.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.nexusprop01.png",
+  "Icon": "ui-frontend-icons-specialshop-special.nexusprop01.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.nexusprop01.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

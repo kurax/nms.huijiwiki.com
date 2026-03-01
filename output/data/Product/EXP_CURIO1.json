@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXP_CURIO1",
   "Name": {
     "English": "KORVAX CASING",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 22000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.korvaxcasing.png",
+  "Icon": "ui-frontend-icons-products-product.korvaxcasing.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

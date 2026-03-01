@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "T_FR_COM",
   "Group": {
     "English": "EXPEDITION TRADE CONTROL",
@@ -22,7 +23,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/technology.fleet.combat.png",
+  "Icon": "ui-frontend-icons-technology-technology.fleet.combat.png",
   "Colour": {
     "R": 0.129411772,
     "G": 0.466666669,

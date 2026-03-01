@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BIOSHIP_COMP3",
   "Name": {
     "English": "IMPOSSIBLE MEMBRANE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1616,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.biocomp3.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.biocomp3.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.192156866,

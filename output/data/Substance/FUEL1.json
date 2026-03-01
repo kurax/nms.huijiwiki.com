@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "CARBON",
     "SimplifiedChinese": "碳",
@@ -18,7 +19,7 @@
     "TencentChinese": "碳",
     "TraditionalChinese": "C"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.fuel.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Unrefined Organic Element",

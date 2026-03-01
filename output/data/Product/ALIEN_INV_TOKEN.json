@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ALIEN_INV_TOKEN",
   "Name": {
     "English": "SPAWNING SAC",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 125000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.biocomp4.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.biocomp4.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

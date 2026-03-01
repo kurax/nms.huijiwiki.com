@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXPD_DECAL20",
   "Name": {
     "English": "BREACH DECAL",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 400,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s20.decal.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s20.decal.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s20.decal.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s20.decal.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

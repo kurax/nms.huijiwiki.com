@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S10_ROBO_ARMS",
   "Name": {
     "English": "CONSTRUCT LIMBS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 4000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.s10.robotarms.png",
+  "Icon": "ui-frontend-icons-u4products-product.s10.robotarms.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

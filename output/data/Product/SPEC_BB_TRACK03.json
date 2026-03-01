@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_BB_TRACK03",
   "Name": {
     "English": "BYTEBEAT CHIP: 'SULTANS OF PING'",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 800,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.bytebeatcassette.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.bytebeatcassette.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.bytebeatcassette.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.bytebeatcassette.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

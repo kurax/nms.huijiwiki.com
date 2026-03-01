@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BASE_DUSTPLANT3",
   "Name": {
     "English": "SUCCULENT TREE",
@@ -28,8 +29,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.dustplant03.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.dustplant03.png",
+  "Icon": "ui-frontend-icons-specialshop-special.dustplant03.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.dustplant03.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

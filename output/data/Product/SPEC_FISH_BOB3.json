@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_FISH_BOB3",
   "Name": {
     "English": "BOBBER-GEK",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.s17.fishingfloatgek.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s17.fishingfloatgek.png",
+  "Icon": "ui-frontend-icons-specialshop-special.s17.fishingfloatgek.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s17.fishingfloatgek.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

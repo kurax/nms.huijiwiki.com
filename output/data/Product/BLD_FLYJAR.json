@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BLD_FLYJAR",
   "Name": {
     "English": "BIO-LANTERN",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.flyjar.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.flyjar.png",
+  "Icon": "ui-frontend-icons-specialshop-special.flyjar.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.flyjar.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

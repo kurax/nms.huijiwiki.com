@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_F_OCTOPUS",
   "Name": {
     "English": "GRILLED TENTACLE",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 33100,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.fish.octopus.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.0352941193,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "PHOSPHORUS",
     "SimplifiedChinese": "磷",
@@ -18,7 +19,7 @@
     "TencentChinese": "磷",
     "TraditionalChinese": "P"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.biome.hot.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Localized Earth Element",

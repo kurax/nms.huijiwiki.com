@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "DENYSUIT",
   "Group": "",
   "Name": {
@@ -26,7 +27,7 @@
   "Teach": true,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/u4products/product.hereticcore.png",
+  "Icon": "ui-frontend-icons-u4products-product.hereticcore.png",
   "Colour": {
     "R": 0.129411772,
     "G": 0.466666669,

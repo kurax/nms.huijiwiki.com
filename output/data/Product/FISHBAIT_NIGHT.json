@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FISHBAIT_NIGHT",
   "Name": {
     "English": "SHADOW LURE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 550,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.fishbait.night.png",
+  "Icon": "ui-frontend-icons-products-product.fishbait.night.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

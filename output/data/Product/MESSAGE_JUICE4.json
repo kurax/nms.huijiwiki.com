@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "MESSAGE_JUICE4",
   "Name": {
     "English": "ELIXIR OF BLOOD<span class=\"name name-img\">PR_0</span>",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.messagejuice4.png",
+  "Icon": "ui-frontend-icons-products-product.messagejuice4.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

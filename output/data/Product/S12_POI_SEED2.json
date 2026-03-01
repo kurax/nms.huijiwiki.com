@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S12_POI_SEED2",
   "Name": {
     "English": "MEMORY OF CONQUEST",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1600,
   "Level": 0,
-  "Icon": "ui/frontend/icons/update3/atlasseed.7.png",
+  "Icon": "ui-frontend-icons-update3-atlasseed.7.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

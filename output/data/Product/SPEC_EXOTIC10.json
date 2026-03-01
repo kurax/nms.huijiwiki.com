@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPEC_EXOTIC10",
   "Name": {
     "English": "ITERATION: ARES VISAGE",
@@ -31,8 +32,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special.exotichead10.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.exotichead10.png",
+  "Icon": "ui-frontend-icons-specialshop-special.exotichead10.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.exotichead10.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

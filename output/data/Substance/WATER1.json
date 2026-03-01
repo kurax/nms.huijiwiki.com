@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "SALT",
     "SimplifiedChinese": "盐",
@@ -18,7 +19,7 @@
     "TencentChinese": "盐",
     "TraditionalChinese": "NaCl"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.water.1.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.water.1.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Aquatic Mineral Extract",

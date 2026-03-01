@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "S10_FRAGMENT",
   "Name": {
     "English": "ECHO COLLECTIVE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 900,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/product.s10.fragment.png",
+  "Icon": "ui-frontend-icons-u4products-product.s10.fragment.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

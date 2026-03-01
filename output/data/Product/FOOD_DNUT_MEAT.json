@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_DNUT_MEAT",
   "Name": {
     "English": "PROTEINOUS DOUGHNUT",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 65000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.doughnut.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.482352942,

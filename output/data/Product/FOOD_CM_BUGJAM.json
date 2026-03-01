@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_CM_BUGJAM",
   "Name": {
     "English": "PRIMORDIAL SPONGE",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 180700,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.ccakeevil.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.41568628,

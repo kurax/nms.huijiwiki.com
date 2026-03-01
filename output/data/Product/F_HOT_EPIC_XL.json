@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_HOT_EPIC_XL",
   "Name": {
     "English": "HELLION BASS",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 50000,
   "Level": 3,
-  "Icon": "ui/frontend/icons/fish/product.fish.big.2.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.big.2.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

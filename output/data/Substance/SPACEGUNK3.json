@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "RUSTED METAL",
     "SimplifiedChinese": "生锈的金属",
@@ -18,7 +19,7 @@
     "TencentChinese": "垃",
     "TraditionalChinese": "Jn"
   },
-  "Icon": "ui/frontend/icons/update3/spacegunk.3.png",
+  "Icon": "ui-frontend-icons-update3-spacegunk.3.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Junk",

@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "VY'KEEN",
     "SimplifiedChinese": "维吉恩",
@@ -18,7 +19,7 @@
     "TencentChinese": "-",
     "TraditionalChinese": "-"
   },
-  "Icon": "ui/frontend/missions/missionfaction.vykeen.png",
+  "Icon": "ui-frontend-missions-missionfaction.vykeen.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Reward Item",

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SPOOK_JUICE",
   "Name": {
     "English": "ELIXIR OF GLASS",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.spookjuice.png",
+  "Icon": "ui-frontend-icons-products-product.spookjuice.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.301960796,

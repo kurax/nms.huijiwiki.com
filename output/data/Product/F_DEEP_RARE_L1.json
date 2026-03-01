@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_DEEP_RARE_L1",
   "Name": {
     "English": "SHRIEKING FLATFISH",
@@ -23,7 +24,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 10000,
   "Level": 2,
-  "Icon": "ui/frontend/icons/fish/product5.fish.ray.png",
+  "Icon": "ui-frontend-icons-fish-product5.fish.ray.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.129411772,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BAIT_VEG_4",
   "Name": {
     "English": "SWEETENED COMPOST",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 800,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.bait.compost.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.bait.compost.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "TWITCH_SHIP35",
   "Name": {
     "English": "VISIONARY EAGLE QL9",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.twitch.ship35.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.twitch.ship35.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.twitch.ship35.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.twitch.ship35.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

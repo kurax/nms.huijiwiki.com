@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_CP_CARM",
   "Name": {
     "English": "SYRUPY CARAMEL SLICE",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 64900,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.cakeblob.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.827451,

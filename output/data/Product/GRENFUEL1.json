@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "GRENFUEL1",
   "Name": {
     "English": "UNSTABLE PLASMA",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 5750,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.plasma1.png",
+  "Icon": "ui-frontend-icons-products-product.plasma1.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.752941191,

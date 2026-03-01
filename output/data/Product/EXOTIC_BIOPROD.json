@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXOTIC_BIOPROD",
   "Name": {
     "English": "LIVING WATER",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1616,
   "Level": 0,
-  "Icon": "ui/frontend/icons/technology/bio/product.bioexotic.png",
+  "Icon": "ui-frontend-icons-technology-bio-product.bioexotic.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

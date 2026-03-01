@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "SOMNAL DUST",
     "SimplifiedChinese": "索姆纳尔灰尘",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "？",
     "TraditionalChinese": "？"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.timedust.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.timedust.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Decayed Spacetime Remnant",

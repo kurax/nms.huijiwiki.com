@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "WORMPROD",
   "Name": {
     "English": "VILE SPAWN",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/wormspawn.png",
+  "Icon": "ui-frontend-icons-products-wormspawn.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

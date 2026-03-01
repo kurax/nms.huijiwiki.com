@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_SHIPLASX",
   "Name": {
     "English": "SUSPICIOUS PHASE BEAM MODULE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 320,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/proctech.x.shiplaser.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-proctech.x.shiplaser.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

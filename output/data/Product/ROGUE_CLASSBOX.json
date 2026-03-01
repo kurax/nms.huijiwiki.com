@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "ROGUE_CLASSBOX",
   "Name": {
     "English": "MEMORY FRAGMENT (CLASS)",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/roguetech.class.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-roguetech.class.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

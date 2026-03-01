@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "INDIUM",
     "SimplifiedChinese": "铟",
@@ -18,7 +19,7 @@
     "TencentChinese": "铟",
     "TraditionalChinese": "In"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.blue.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.blue.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Refined Stellar Metal: Blue",

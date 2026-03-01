@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_F_MIX",
   "Name": {
     "English": "SALTY PLATTER",
@@ -28,7 +29,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 52500,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.fish.scallop.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.0352941193,

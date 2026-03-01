@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "T_MFIRE",
   "Group": {
     "English": "Minotaur Flamethrower",
@@ -22,7 +23,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/technology/vehicle/render.mech.flame.mod.png",
+  "Icon": "ui-frontend-icons-technology-vehicle-render.mech.flame.mod.png",
   "Colour": {
     "R": 0.129411772,
     "G": 0.466666669,

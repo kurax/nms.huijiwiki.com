@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "EXPD_BANNER16",
   "Name": {
     "English": "CURSED BANNER",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 220,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/expedition.s16.banner.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero.s16.banner.png",
+  "Icon": "ui-frontend-icons-specialshop-expedition.s16.banner.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero.s16.banner.png",
   "Colour": {
     "R": 0,
     "G": 0.474509805,

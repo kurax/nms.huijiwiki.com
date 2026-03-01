@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_J_SALT",
   "Name": {
     "English": "SALTY JUICE",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 1800,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.sauce.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.870588243,

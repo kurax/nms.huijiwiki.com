@@ -1,4 +1,5 @@
 {
+  "_Table": "Substance",
   "Name": {
     "English": "ACTIVATED QUARTZITE",
     "SimplifiedChinese": "活性石英岩",
@@ -15,7 +16,7 @@
     "SimplifiedChinese": "Qu",
     "TraditionalChinese": "Qu"
   },
-  "Icon": "ui/frontend/icons/u4substances/substance.expurple.2.png",
+  "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png",
   "[IGNORED]DebrisFile": null,
   "Subtitle": {
     "English": "Refined Stellar Metal: Purple",

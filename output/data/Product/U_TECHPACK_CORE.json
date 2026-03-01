@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "U_TECHPACK_CORE",
   "Name": {
     "English": "%NAME% PACKAGE",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 16,
   "Level": 0,
-  "Icon": "ui/frontend/icons/u4products/proctech/techbox.laser.png",
+  "Icon": "ui-frontend-icons-u4products-proctech-techbox.laser.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.101960786,

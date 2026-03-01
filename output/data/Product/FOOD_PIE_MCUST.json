@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_PIE_MCUST",
   "Name": {
     "English": "THE SPAWNING TART",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 160000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.refined.tartevil.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.refined.tartevil.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.41568628,

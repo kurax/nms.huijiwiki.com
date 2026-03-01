@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "FOOD_ICE_BUG",
   "Name": {
     "English": "SLIME POP",
@@ -29,7 +30,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 44000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/cookingproducts/product.icecream.png",
+  "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.733333349,

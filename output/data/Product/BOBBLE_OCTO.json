@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "BOBBLE_OCTO",
   "Name": {
     "English": "TENTACLED FIGURINE",
@@ -27,8 +28,8 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 3200,
   "Level": 0,
-  "Icon": "ui/frontend/icons/specialshop/special1.octobobble.png",
-  "HeroIcon": "ui/frontend/icons/specialshop/hero1.octobobble.png",
+  "Icon": "ui-frontend-icons-specialshop-special1.octobobble.png",
+  "HeroIcon": "ui-frontend-icons-specialshop-hero1.octobobble.png",
   "Colour": {
     "R": 0.172549024,
     "G": 0.486274511,

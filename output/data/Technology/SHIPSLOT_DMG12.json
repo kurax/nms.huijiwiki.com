@@ -1,4 +1,5 @@
 {
+  "_Table": "Technology",
   "ID": "SHIPSLOT_DMG12",
   "Group": "",
   "Name": {
@@ -26,7 +27,7 @@
   "Teach": false,
   "HintStart": "",
   "HintEnd": "",
-  "Icon": "ui/frontend/icons/update3/compound.6.png",
+  "Icon": "ui-frontend-icons-update3-compound.6.png",
   "Colour": {
     "R": 0.482352942,
     "G": 0,

@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "SACVENOM",
   "Name": {
     "English": "SAC VENOM",
@@ -31,7 +32,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 64000,
   "Level": 0,
-  "Icon": "ui/frontend/icons/products/product.sacvenom.png",
+  "Icon": "ui-frontend-icons-products-product.sacvenom.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.8,

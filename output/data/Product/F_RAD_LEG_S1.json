@@ -1,4 +1,5 @@
 {
+  "_Table": "Product",
   "ID": "F_RAD_LEG_S1",
   "Name": {
     "English": "MANY-EYED JELLYFISH",
@@ -27,7 +28,7 @@
   "[IGNORED]DebrisFile": null,
   "BaseValue": 50000,
   "Level": 4,
-  "Icon": "ui/frontend/icons/fish/product.fish.jelly.png",
+  "Icon": "ui-frontend-icons-fish-product.fish.jelly.png",
   "HeroIcon": null,
   "Colour": {
     "R": 0.952941179,
