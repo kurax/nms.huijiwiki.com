@@ -44,8 +44,6 @@ try {
         }
     }
 
-    signale.debug(sha1, files.length, Object.keys(sha1).length);
-
     await pAll(
         files.map(file => () => {
             const fileName = file.replaceAll('\\', '-');
