@@ -90,5 +90,83 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "PURPM_MIRROR",
+      "Name": {
+        "English": "Anomalous Scaffold",
+        "SimplifiedChinese": "异常支架",
+        "TraditionalChinese": "異常支架"
+      },
+      "Icon": "ui-frontend-icons-products-product.2024.purplemirror.png",
+      "Requirements": [
+        {
+          "Id": "DRONE_SALVAGE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Inverted Mirror",
+            "SimplifiedChinese": "反转镜面",
+            "TraditionalChinese": "反轉鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.dronesalvage.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_329",
+      "RecipeType": {
+        "English": "Requested Operation: Purge Corruption",
+        "SimplifiedChinese": "请求操作：净化腐败",
+        "TraditionalChinese": "需執行作業：淨化腐蝕"
+      },
+      "RecipeName": {
+        "English": "Purge Corruption",
+        "SimplifiedChinese": "净化腐败",
+        "TraditionalChinese": "淨化腐蝕"
+      },
+      "TimeToMake": 2200,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 95,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "DRONE_SALVAGE": {
+          "Id": "DRONE_SALVAGE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Inverted Mirror",
+            "SimplifiedChinese": "反转镜面",
+            "TraditionalChinese": "反轉鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.dronesalvage.png"
+        }
+      }
+    }
+  ]
 }

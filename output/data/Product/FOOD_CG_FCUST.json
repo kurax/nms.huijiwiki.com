@@ -85,5 +85,61 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_375",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_FCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salty Surprise",
+          "SimplifiedChinese": "咸奇味",
+          "TencentChinese": "咸奇味",
+          "TraditionalChinese": "鹹味驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_FCUSTARD": {
+          "Id": "FOOD_R_FCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Custard",
+            "SimplifiedChinese": "咸蛋奶沙司",
+            "TencentChinese": "咸蛋奶沙司",
+            "TraditionalChinese": "鹹味卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1217",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_COLD_RARE_S2": {
+          "Id": "F_COLD_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Isopod",
+            "SimplifiedChinese": "冰冻大王具足虫",
+            "TraditionalChinese": "冰寒等足蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.prawn.png"
+        }
+      }
+    }
+  ]
 }

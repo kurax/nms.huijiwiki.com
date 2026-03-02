@@ -85,5 +85,427 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_578",
+      "RecipeType": {
+        "English": "Processor Setting: Liquidize",
+        "SimplifiedChinese": "加工设置：化汁",
+        "TencentChinese": "加工设置：化汁",
+        "TraditionalChinese": "處理器設定：榨汁"
+      },
+      "RecipeName": {
+        "English": "Liquidise",
+        "SimplifiedChinese": "液化",
+        "TraditionalChinese": "液化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_J_SALT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salty Juice",
+          "SimplifiedChinese": "咸汁",
+          "TraditionalChinese": "鹹肉汁"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "PLANT_DUST": {
+          "Id": "PLANT_DUST",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Flesh",
+            "SimplifiedChinese": "仙人掌肉",
+            "TencentChinese": "仙人掌肉",
+            "TraditionalChinese": "仙人掌肉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.dusty.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_285",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_S_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Scorching Sauce",
+          "SimplifiedChinese": "炙热酱",
+          "TencentChinese": "炙热酱",
+          "TraditionalChinese": "嗆辣醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_286",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_S_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Scorching Sauce",
+          "SimplifiedChinese": "炙热酱",
+          "TencentChinese": "炙热酱",
+          "TraditionalChinese": "嗆辣醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_HOTWILD": {
+          "Id": "FOOD_P_HOTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fireberry",
+            "SimplifiedChinese": "火莓",
+            "TencentChinese": "火莓",
+            "TraditionalChinese": "火莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_287",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_S_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Scorching Sauce",
+          "SimplifiedChinese": "炙热酱",
+          "TencentChinese": "炙热酱",
+          "TraditionalChinese": "嗆辣醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_288",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_S_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Scorching Sauce",
+          "SimplifiedChinese": "炙热酱",
+          "TencentChinese": "炙热酱",
+          "TraditionalChinese": "嗆辣醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_289",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_S_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Scorching Sauce",
+          "SimplifiedChinese": "炙热酱",
+          "TencentChinese": "炙热酱",
+          "TraditionalChinese": "嗆辣醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_RADWILD": {
+          "Id": "FOOD_P_RADWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahberry",
+            "SimplifiedChinese": "格拉莓",
+            "TencentChinese": "格拉莓",
+            "TraditionalChinese": "格拉莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_4",
+      "RecipeType": {
+        "English": "Processor Setting: Liquidize",
+        "SimplifiedChinese": "加工设置：化汁",
+        "TencentChinese": "加工设置：化汁",
+        "TraditionalChinese": "處理器設定：榨汁"
+      },
+      "RecipeName": {
+        "English": "Liquidise",
+        "SimplifiedChinese": "液化",
+        "TraditionalChinese": "液化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_J_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fire Water",
+          "SimplifiedChinese": "烈酒",
+          "TencentChinese": "浓酿",
+          "TraditionalChinese": "火水"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTWILD": {
+          "Id": "FOOD_P_HOTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fireberry",
+            "SimplifiedChinese": "火莓",
+            "TencentChinese": "火莓",
+            "TraditionalChinese": "火莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_904",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Burning Surprise",
+          "SimplifiedChinese": "热辣惊喜",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "火辣驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

@@ -86,5 +86,142 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_891",
+      "RecipeType": {
+        "English": "Processor Setting: Incinerate Flesh",
+        "SimplifiedChinese": "加工设置：焚化肉类",
+        "TencentChinese": "加工设置：焚化肉类",
+        "TraditionalChinese": "處理器設定：焚燒肉品"
+      },
+      "RecipeName": {
+        "English": "Incinerate Flesh",
+        "SimplifiedChinese": "灸烤肉类",
+        "TraditionalChinese": "焚燒肉品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_CASE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gelatinous Membrane",
+          "SimplifiedChinese": "凝胶薄膜",
+          "TraditionalChinese": "膠狀黏膜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+      },
+      "Ingredients": {
+        "WORMCORE": {
+          "Id": "WORMCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flesh Rope",
+            "SimplifiedChinese": "血肉之绳",
+            "TraditionalChinese": "血肉之繩"
+          },
+          "Icon": "ui-frontend-icons-products-wormcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_327",
+      "RecipeType": {
+        "English": "Requested Operation: Loosen Bonds",
+        "SimplifiedChinese": "请求操作：松开束缚",
+        "TencentChinese": "请求操作：松开束缚",
+        "TraditionalChinese": "需執行作業：鬆開鍵"
+      },
+      "RecipeName": {
+        "English": "Loosen Bonds",
+        "SimplifiedChinese": "松开束缚",
+        "TraditionalChinese": "鬆散紐帶"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "WORMCORE": {
+          "Id": "WORMCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flesh Rope",
+            "SimplifiedChinese": "血肉之绳",
+            "TraditionalChinese": "血肉之繩"
+          },
+          "Icon": "ui-frontend-icons-products-wormcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_912",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wriggling Tack",
+          "SimplifiedChinese": "蠕动硬饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "蠕動壓縮餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "WORMCORE": {
+          "Id": "WORMCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flesh Rope",
+            "SimplifiedChinese": "血肉之绳",
+            "TraditionalChinese": "血肉之繩"
+          },
+          "Icon": "ui-frontend-icons-products-wormcore.png"
+        }
+      }
+    }
+  ]
 }

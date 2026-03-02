@@ -85,5 +85,117 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_898",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_SALT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salty Cruncher",
+          "SimplifiedChinese": "咸味脆饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "鹹味脆餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_997",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_SALT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salty Cruncher",
+          "SimplifiedChinese": "咸味脆饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "鹹味脆餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        }
+      }
+    }
+  ]
 }

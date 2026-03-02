@@ -81,5 +81,40 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "PURPM_WATER_KEY",
+      "Name": {
+        "English": "Reality Anchor",
+        "SimplifiedChinese": "现实锚点",
+        "TraditionalChinese": "現實錨點"
+      },
+      "Icon": "ui-frontend-icons-products-product.2024.purplekey.png",
+      "Requirements": [
+        {
+          "Id": "WATERWORLD1",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Lithium",
+            "SimplifiedChinese": "锂",
+            "TraditionalChinese": "鋰"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.waterworld.png"
+        },
+        {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 160,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        }
+      ]
+    }
+  ]
 }

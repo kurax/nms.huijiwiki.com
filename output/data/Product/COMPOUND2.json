@@ -106,5 +106,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "COMPOUND5",
+      "Name": {
+        "English": "Superconductor",
+        "SimplifiedChinese": "超导体",
+        "TencentChinese": "超导体",
+        "TraditionalChinese": "超導體"
+      },
+      "Icon": "ui-frontend-icons-update3-compound.5.png",
+      "Requirements": [
+        {
+          "Id": "COMPOUND2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Semiconductor",
+            "SimplifiedChinese": "半导体",
+            "TencentChinese": "半导体",
+            "TraditionalChinese": "半導體"
+          },
+          "Icon": "ui-frontend-icons-update3-compound.2.png"
+        },
+        {
+          "Id": "REACTION2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Enriched Carbon",
+            "SimplifiedChinese": "浓化碳",
+            "TencentChinese": "浓化碳",
+            "TraditionalChinese": "濃化碳"
+          },
+          "Icon": "ui-frontend-icons-update3-reaction.2.png"
+        }
+      ]
+    }
+  ]
 }

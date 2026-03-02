@@ -83,5 +83,59 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_895",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_SWEETM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Syrupy Viscera",
+          "SimplifiedChinese": "糖渍内脏",
+          "TraditionalChinese": "黏膩內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.evilstew.png"
+      },
+      "Ingredients": {
+        "FOOD_W_MEAT": {
+          "Id": "FOOD_W_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nightmare Sausage",
+            "SimplifiedChinese": "噩梦香肠",
+            "TraditionalChinese": "夢魘香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    }
+  ]
 }

@@ -83,5 +83,207 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_933",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MILK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Milky Cookie",
+          "SimplifiedChinese": "浓郁饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "營養強化餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_V_BONE": {
+          "Id": "FOOD_V_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Nuggets",
+            "SimplifiedChinese": "骨块",
+            "TraditionalChinese": "骨塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_762",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_EYEBALLS": {
+          "Id": "FOOD_R_EYEBALLS",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Horrifying Mush",
+            "SimplifiedChinese": "可怕的糊糊",
+            "TencentChinese": "可怕的糊糊",
+            "TraditionalChinese": "可怕爛糊"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        },
+        "FOOD_V_BONE": {
+          "Id": "FOOD_V_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Nuggets",
+            "SimplifiedChinese": "骨块",
+            "TraditionalChinese": "骨塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_770",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_V_BONE": {
+          "Id": "FOOD_V_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Nuggets",
+            "SimplifiedChinese": "骨块",
+            "TraditionalChinese": "骨塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_579",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BONEMILK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Milk",
+          "SimplifiedChinese": "骨乳",
+          "TraditionalChinese": "骨頭奶"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.milk.png"
+      },
+      "Ingredients": {
+        "FOOD_V_BONE": {
+          "Id": "FOOD_V_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Nuggets",
+            "SimplifiedChinese": "骨块",
+            "TraditionalChinese": "骨塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    }
+  ]
 }

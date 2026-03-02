@@ -81,5 +81,331 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BLD_BUI_HEAD",
+      "Name": {
+        "English": "Construct 'Skull'",
+        "SimplifiedChinese": "构造体“头骨”",
+        "TraditionalChinese": "構造體「頭骨」"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.builderhead.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_BUI_HAND",
+      "Name": {
+        "English": "Construct Digits",
+        "SimplifiedChinese": "构造体手指",
+        "TraditionalChinese": "構造體趾頭"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.builderhand.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BOSS_JUICE",
+      "Name": {
+        "English": "Elixir of Water",
+        "SimplifiedChinese": "水之灵药",
+        "TraditionalChinese": "水之靈藥"
+      },
+      "Icon": "ui-frontend-icons-products-product.bossjuice.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 144,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_CRYS_SENT0",
+      "Name": {
+        "English": "Living Fragment A",
+        "SimplifiedChinese": "活体碎片A",
+        "TraditionalChinese": "活體碎片 A"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.crystalsentinel0.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_CRYS_SENT1",
+      "Name": {
+        "English": "Living Fragment B",
+        "SimplifiedChinese": "活体碎片B",
+        "TraditionalChinese": "活體碎片 B"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.crystalsentinel1.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_CRYS_DRONE",
+      "Name": {
+        "English": "Crystallized Drone",
+        "SimplifiedChinese": "结晶无人机",
+        "TraditionalChinese": "結晶無人機"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.crystaldrone.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE3",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_11</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_11</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_11</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice3.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_332",
+      "RecipeType": {
+        "English": "Requested Operation: Reality Pollution",
+        "SimplifiedChinese": "请求操作：现实污染",
+        "TraditionalChinese": "需執行作業：現實污染"
+      },
+      "RecipeName": {
+        "English": "Reality Pollution",
+        "SimplifiedChinese": "现实污染",
+        "TraditionalChinese": "現實污染"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Runaway Mold",
+          "SimplifiedChinese": "失控的模具",
+          "TencentChinese": "失控的模具",
+          "TraditionalChinese": "狂生黴菌"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.2.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_331",
+      "RecipeType": {
+        "English": "Requested Operation: Restore Harmony",
+        "SimplifiedChinese": "请求操作：恢复和谐",
+        "TraditionalChinese": "需執行作業：恢復和諧"
+      },
+      "RecipeName": {
+        "English": "Restore Harmony",
+        "SimplifiedChinese": "恢复和谐",
+        "TraditionalChinese": "恢復和諧"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "ROBOT1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Pugneum",
+          "SimplifiedChinese": "普茵",
+          "TencentChinese": "普茵",
+          "TraditionalChinese": "搏"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_333",
+      "RecipeType": {
+        "English": "Requested Operation: Reanimation",
+        "SimplifiedChinese": "请求操作：复苏",
+        "TraditionalChinese": "需執行作業：復活"
+      },
+      "RecipeName": {
+        "English": "Slime/Echo Infusion",
+        "SimplifiedChinese": "黏质/回音融合",
+        "TraditionalChinese": "軟泥/回音灌注"
+      },
+      "TimeToMake": 3600,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK4",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Living Slime",
+          "SimplifiedChinese": "活体黏质",
+          "TencentChinese": "活体黏质",
+          "TraditionalChinese": "活軟泥"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    }
+  ]
 }

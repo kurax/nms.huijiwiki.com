@@ -82,5 +82,202 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1142",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SNAIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Snail Fillet",
+          "SimplifiedChinese": "蜗牛肉片",
+          "TraditionalChinese": "蝸牛切片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ALL_LEG_S1": {
+          "Id": "F_ALL_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Singing Sea-Snail",
+            "SimplifiedChinese": "歌唱海螺",
+            "TraditionalChinese": "歌唱海螺"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.snail.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1190",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SNAIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Snail Fillet",
+          "SimplifiedChinese": "蜗牛肉片",
+          "TraditionalChinese": "蝸牛切片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_S3": {
+          "Id": "F_HOT_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ash Snail",
+            "SimplifiedChinese": "灰烬蜗牛",
+            "TraditionalChinese": "灰燼蝸牛"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.snail.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1229",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SNAIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Snail Fillet",
+          "SimplifiedChinese": "蜗牛肉片",
+          "TraditionalChinese": "蝸牛切片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_COLD_LEG_XL": {
+          "Id": "F_COLD_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nautilia",
+            "SimplifiedChinese": "鹦鹉螺",
+            "TraditionalChinese": "鸚鵡巨螺"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.snail.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1278",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SNAIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Snail Fillet",
+          "SimplifiedChinese": "蜗牛肉片",
+          "TraditionalChinese": "蝸牛切片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ODD_COM_XL": {
+          "Id": "F_ODD_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Breach Crawler",
+            "SimplifiedChinese": "裂隙爬行者",
+            "TraditionalChinese": "裂隙爬行者"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.snail.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1317",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SNAIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Snail Fillet",
+          "SimplifiedChinese": "蜗牛肉片",
+          "TraditionalChinese": "蝸牛切片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_EPIC_S1": {
+          "Id": "F_GAS_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Evaporating Snail",
+            "SimplifiedChinese": "蒸发蜗牛",
+            "TraditionalChinese": "蒸發蝸牛"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.snail.png"
+        }
+      }
+    }
+  ]
 }

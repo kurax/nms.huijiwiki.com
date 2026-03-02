@@ -82,5 +82,397 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1136",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_ALL_RARE_L1": {
+          "Id": "F_ALL_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Whispering Bonefish",
+            "SimplifiedChinese": "低语骨鱼",
+            "TraditionalChinese": "低語骨魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1161",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_TOX_EPIC_L1": {
+          "Id": "F_TOX_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Shrieking Venttail",
+            "SimplifiedChinese": "尖啸风尾",
+            "TraditionalChinese": "尖叫風尾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.xl.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1178",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_RAD_RARE_L1": {
+          "Id": "F_RAD_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Radiant Sunfish",
+            "SimplifiedChinese": "光耀阳鱼",
+            "TraditionalChinese": "輻光翻車魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1203",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_HOT_EPIC_L1": {
+          "Id": "F_HOT_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Magma Shark",
+            "SimplifiedChinese": "熔岩鲨",
+            "TraditionalChinese": "熔岩鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product3.fish.shark.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1224",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_COLD_EPIC_L1": {
+          "Id": "F_COLD_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frostbite Ray",
+            "SimplifiedChinese": "霜冻鳐",
+            "TraditionalChinese": "霜噬魟"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.ray.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1241",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_LUSH_RARE_L1": {
+          "Id": "F_LUSH_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Shark",
+            "SimplifiedChinese": "骨髓鲨",
+            "TraditionalChinese": "骨髓鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.shark.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1256",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_L1": {
+          "Id": "F_DUST_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Twilight Cavefish",
+            "SimplifiedChinese": "暮光穴鱼",
+            "TraditionalChinese": "暮光洞穴魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1270",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DUST_LEG_L1": {
+          "Id": "F_DUST_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ossified Deinosuchus",
+            "SimplifiedChinese": "钙化恐鳄",
+            "TraditionalChinese": "骨化恐鱷"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1287",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_ODD_EPIC_L1": {
+          "Id": "F_ODD_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Witchfin",
+            "SimplifiedChinese": "巨巫鳍",
+            "TraditionalChinese": "巨型女巫鰭"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.big.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1315",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_GAS_RARE_L1": {
+          "Id": "F_GAS_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Vapourfin",
+            "SimplifiedChinese": "蒸气鱼",
+            "TraditionalChinese": "蒸氣鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png"
+        }
+      }
+    }
+  ]
 }

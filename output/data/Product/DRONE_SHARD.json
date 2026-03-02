@@ -90,5 +90,95 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "STAFF_PART_B",
+      "Name": {
+        "English": "Atlantideum Chamber",
+        "SimplifiedChinese": "亚特拉迪姆室",
+        "TraditionalChinese": "亞特蘭提德鋼艙"
+      },
+      "Icon": "ui-frontend-icons-products-staffpartb.png",
+      "Requirements": [
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "DRONE_SHARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Radiant Shard",
+            "SimplifiedChinese": "光耀碎片",
+            "TraditionalChinese": "發光裂片"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.droneshard.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_328",
+      "RecipeType": {
+        "English": "Requested Operation: Subjugation of Glass",
+        "SimplifiedChinese": "请求操作：玻璃的臣服",
+        "TraditionalChinese": "需執行作業：馴服玻璃"
+      },
+      "RecipeName": {
+        "English": "Subjugation of Glass",
+        "SimplifiedChinese": "玻璃的臣服",
+        "TraditionalChinese": "馴服玻璃"
+      },
+      "TimeToMake": 1800,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "DRONE_SHARD": {
+          "Id": "DRONE_SHARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Radiant Shard",
+            "SimplifiedChinese": "光耀碎片",
+            "TraditionalChinese": "發光裂片"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.droneshard.png"
+        }
+      }
+    }
+  ]
 }

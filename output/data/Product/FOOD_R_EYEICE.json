@@ -85,5 +85,223 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_492",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Iced Screams",
+          "SimplifiedChinese": "冰叫淋",
+          "TencentChinese": "冰叫淋",
+          "TraditionalChinese": "尖叫冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_493",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Iced Screams",
+          "SimplifiedChinese": "冰叫淋",
+          "TencentChinese": "冰叫淋",
+          "TraditionalChinese": "尖叫冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_EYEBALLS": {
+          "Id": "FOOD_R_EYEBALLS",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Horrifying Mush",
+            "SimplifiedChinese": "可怕的糊糊",
+            "TencentChinese": "可怕的糊糊",
+            "TraditionalChinese": "可怕爛糊"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_494",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Iced Screams",
+          "SimplifiedChinese": "冰叫淋",
+          "TencentChinese": "冰叫淋",
+          "TraditionalChinese": "尖叫冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_495",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Iced Screams",
+          "SimplifiedChinese": "冰叫淋",
+          "TencentChinese": "冰叫淋",
+          "TraditionalChinese": "尖叫冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_EYEBALLS": {
+          "Id": "FOOD_R_EYEBALLS",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Horrifying Mush",
+            "SimplifiedChinese": "可怕的糊糊",
+            "TencentChinese": "可怕的糊糊",
+            "TraditionalChinese": "可怕爛糊"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        }
+      }
+    }
+  ]
 }

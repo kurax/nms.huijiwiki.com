@@ -85,5 +85,1138 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_983",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Healthy Wheatblock",
+          "SimplifiedChinese": "健康麦饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "健康小麥塊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_465",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_EYEBALLS": {
+          "Id": "FOOD_R_EYEBALLS",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Horrifying Mush",
+            "SimplifiedChinese": "可怕的糊糊",
+            "TencentChinese": "可怕的糊糊",
+            "TraditionalChinese": "可怕爛糊"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_484",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_5",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_6",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_9",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_GLITCH": {
+          "Id": "FOOD_P_GLITCH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexaberry",
+            "SimplifiedChinese": "六莓",
+            "TencentChinese": "六莓",
+            "TraditionalChinese": "六莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.glitchwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_14",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_16",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_17",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_19",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_CAVE": {
+          "Id": "FOOD_P_CAVE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Flesh",
+            "SimplifiedChinese": "骨髓肉",
+            "TencentChinese": "骨髓肉",
+            "TraditionalChinese": "骨髓肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.cavewild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_874",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_247",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_248",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_249",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_250",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_251",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_252",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_253",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_875",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_283",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_S_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Sauce",
+          "SimplifiedChinese": "美味酱",
+          "TencentChinese": "美味酱",
+          "TraditionalChinese": "鮮味醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_J_ALL3": {
+          "Id": "FOOD_J_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Root Juice",
+            "SimplifiedChinese": "根茎汁",
+            "TencentChinese": "根茎汁",
+            "TraditionalChinese": "根菜汁"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_284",
+      "RecipeType": {
+        "English": "Processor Setting: Liquidize",
+        "SimplifiedChinese": "加工设置：化汁",
+        "TencentChinese": "加工设置：化汁",
+        "TraditionalChinese": "處理器設定：榨汁"
+      },
+      "RecipeName": {
+        "English": "Liquidise",
+        "SimplifiedChinese": "液化",
+        "TraditionalChinese": "液化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_S_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Sauce",
+          "SimplifiedChinese": "美味酱",
+          "TencentChinese": "美味酱",
+          "TraditionalChinese": "鮮味醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1362",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_136",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "High-Fiber Pie",
+          "SimplifiedChinese": "高纤维馅饼",
+          "TencentChinese": "高纤维馅饼",
+          "TraditionalChinese": "高纖派"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    }
+  ]
 }

@@ -82,5 +82,397 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1155",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_TOX_RARE_M1": {
+          "Id": "F_TOX_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Acidic Pufferfish",
+            "SimplifiedChinese": "酸液河豚",
+            "TraditionalChinese": "酸液河豚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1170",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_RAD_COM_M1": {
+          "Id": "F_RAD_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Forktailed Splicer",
+            "SimplifiedChinese": "叉尾拼接鱼",
+            "TraditionalChinese": "叉尾拼接魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1177",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_RAD_RARE_M2": {
+          "Id": "F_RAD_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Depleted Razorjaw",
+            "SimplifiedChinese": "枯槁刀颚",
+            "TraditionalChinese": "枯竭鋒牙魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1192",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_M2": {
+          "Id": "F_HOT_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lavascale Trout",
+            "SimplifiedChinese": "熔鳞鳟鱼",
+            "TraditionalChinese": "熔鱗鱒魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1213",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_COLD_COM_M2": {
+          "Id": "F_COLD_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thawed Diamondfin",
+            "SimplifiedChinese": "化霜金刚鳍",
+            "TraditionalChinese": "融霜鑽石鰭"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.big.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1227",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_COLD_LEG_M1": {
+          "Id": "F_COLD_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ghostfin",
+            "SimplifiedChinese": "鬼鳍",
+            "TraditionalChinese": "幽靈鰭"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1239",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_LUSH_RARE_M1": {
+          "Id": "F_LUSH_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Blue Ribbontail",
+            "SimplifiedChinese": "蓝带鱼",
+            "TraditionalChinese": "藍帶尾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1254",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_M1": {
+          "Id": "F_DUST_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chalkscale Nibber",
+            "SimplifiedChinese": "粉鳞吞食者",
+            "TraditionalChinese": "白堊鱗啃食魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1269",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DUST_LEG_M1": {
+          "Id": "F_DUST_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Titanworm Larva",
+            "SimplifiedChinese": "泰坦蠕虫幼虫",
+            "TraditionalChinese": "泰坦巨蟲幼蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1282",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_ODD_RARE_M2": {
+          "Id": "F_ODD_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stargazer",
+            "SimplifiedChinese": "天文学家",
+            "TraditionalChinese": "觀星人"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.medium.2.png"
+        }
+      }
+    }
+  ]
 }

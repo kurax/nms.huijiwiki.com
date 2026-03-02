@@ -83,5 +83,918 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1346",
+      "RecipeType": {
+        "English": "Processor Setting: Stew Bones",
+        "SimplifiedChinese": "加工设置：炖骨头",
+        "TraditionalChinese": "處理器設定：熬煮骨頭"
+      },
+      "RecipeName": {
+        "English": "Stew Bones",
+        "SimplifiedChinese": "炖骨头",
+        "TraditionalChinese": "熬煮骨頭"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_FOSSIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Softened Marrow",
+          "SimplifiedChinese": "软化脊髓",
+          "TraditionalChinese": "軟化骨髓"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+      },
+      "Ingredients": {
+        "ANY_BONE": {
+          "Id": "ANY_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Edible Bone",
+            "SimplifiedChinese": "任意可食用骨头",
+            "TraditionalChinese": "任何可食用的骨頭"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1348",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1349",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_MEAT": {
+          "Id": "FOOD_M_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meaty Chunks",
+            "SimplifiedChinese": "肉块",
+            "TencentChinese": "肉块",
+            "TraditionalChinese": "肉塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1350",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_R_MEAT": {
+          "Id": "FOOD_R_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Meat",
+            "SimplifiedChinese": "加工肉类",
+            "TencentChinese": "加工肉类",
+            "TraditionalChinese": "加工肉品"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meat.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1351",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_FLYER": {
+          "Id": "FOOD_M_FLYER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meaty Wings",
+            "SimplifiedChinese": "肉翅",
+            "TencentChinese": "肉翅",
+            "TraditionalChinese": "肉翅"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1352",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_FIEND": {
+          "Id": "FOOD_M_FIEND",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fiendish Roe",
+            "SimplifiedChinese": "恶魔卵",
+            "TencentChinese": "恶魔卵",
+            "TraditionalChinese": "惡魔卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1353",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_BLOB": {
+          "Id": "FOOD_M_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Offal Sac",
+            "SimplifiedChinese": "内脏囊",
+            "TencentChinese": "内脏囊",
+            "TraditionalChinese": "內臟囊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1354",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_GEK": {
+          "Id": "FOOD_M_GEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoSausage",
+            "SimplifiedChinese": "原始香肠",
+            "TencentChinese": "原始香肠",
+            "TraditionalChinese": "原始香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1355",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_DIPLO": {
+          "Id": "FOOD_M_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Diplo Chunks",
+            "SimplifiedChinese": "迪普洛块",
+            "TencentChinese": "迪普洛块",
+            "TraditionalChinese": "迪普洛塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1356",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_REX": {
+          "Id": "FOOD_M_REX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scaly Meat",
+            "SimplifiedChinese": "鳞肉",
+            "TencentChinese": "鳞肉",
+            "TraditionalChinese": "鱗肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1357",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_CAT": {
+          "Id": "FOOD_M_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Feline Liver",
+            "SimplifiedChinese": "猫科肝",
+            "TencentChinese": "猫科肝",
+            "TraditionalChinese": "貓科肝"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1358",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_STRIDER": {
+          "Id": "FOOD_M_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Strider Sausage",
+            "SimplifiedChinese": "水黾香肠",
+            "TencentChinese": "水黾香肠",
+            "TraditionalChinese": "水黽香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1359",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_COW": {
+          "Id": "FOOD_M_COW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Raw Steak",
+            "SimplifiedChinese": "生肉排",
+            "TencentChinese": "生肉排",
+            "TraditionalChinese": "生牛排"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1360",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_M_CRAB": {
+          "Id": "FOOD_M_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Leg Meat",
+            "SimplifiedChinese": "腿肉",
+            "TencentChinese": "腿肉",
+            "TraditionalChinese": "腿肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1361",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_R_SMOKED": {
+          "Id": "FOOD_R_SMOKED",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Smoked Meat",
+            "SimplifiedChinese": "熏肉",
+            "TencentChinese": "熏肉",
+            "TraditionalChinese": "熏肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.smokedmeat.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1362",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1363",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1364",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_FOSS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Broth",
+          "SimplifiedChinese": "骨汤",
+          "TraditionalChinese": "大骨湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bone.soup.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FOSSIL": {
+          "Id": "FOOD_R_FOSSIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Softened Marrow",
+            "SimplifiedChinese": "软化脊髓",
+            "TraditionalChinese": "軟化骨髓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    }
+  ]
 }

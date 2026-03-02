@@ -107,5 +107,120 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FRIG_BOOST_EXP",
+      "Name": {
+        "English": "Holographic Analyzer",
+        "SimplifiedChinese": "全息分析器",
+        "TencentChinese": "全息分析器",
+        "TraditionalChinese": "全像分析儀"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigboost.explore.png",
+      "Requirements": [
+        {
+          "Id": "COMPUTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Computer",
+            "SimplifiedChinese": "量子电脑",
+            "TraditionalChinese": "量子電腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.computer.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BIGGS_POI_LOC",
+      "Name": {
+        "English": "Debris Rangefinder",
+        "SimplifiedChinese": "碎片测距仪",
+        "TraditionalChinese": "殘骸測距儀"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.locator.biggspoi.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "COMPUTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Computer",
+            "SimplifiedChinese": "量子电脑",
+            "TraditionalChinese": "量子電腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.computer.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        }
+      ]
+    },
+    {
+      "Id": "PURPM_PACKET",
+      "Name": {
+        "English": "Memories of Atlantid",
+        "SimplifiedChinese": "阿特兰蒂的回忆",
+        "TraditionalChinese": "亞特蘭提德的記憶"
+      },
+      "Icon": "ui-frontend-icons-products-product.2024.purplepacket.png",
+      "Requirements": [
+        {
+          "Id": "S10_SOUL",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Echo Seed",
+            "SimplifiedChinese": "回音种子",
+            "TraditionalChinese": "回音種子"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.s10.soulseed.png"
+        },
+        {
+          "Id": "COMPUTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Computer",
+            "SimplifiedChinese": "量子电脑",
+            "TraditionalChinese": "量子電腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.computer.png"
+        }
+      ]
+    }
+  ]
 }

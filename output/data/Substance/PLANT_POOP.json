@@ -86,5 +86,2482 @@
   "CookingIngredient": true,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "SLIME_MED",
+      "Name": {
+        "English": "Detoxified Slime",
+        "SimplifiedChinese": "去毒黏质",
+        "TraditionalChinese": "去毒性軟泥"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.slimemed.png",
+      "Requirements": [
+        {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      ]
+    },
+    {
+      "Id": "FARMPROD2",
+      "Name": {
+        "English": "Lubricant",
+        "SimplifiedChinese": "润滑剂",
+        "TencentChinese": "润滑剂",
+        "TraditionalChinese": "潤滑劑"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.2.png",
+      "Requirements": [
+        {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        {
+          "Id": "PLANT_RADIO",
+          "Type": "Substance",
+          "Amount": 400,
+          "Name": {
+            "English": "Gamma Root",
+            "SimplifiedChinese": "伽马根",
+            "TencentChinese": "伽马根",
+            "TraditionalChinese": "伽瑪根"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.radio.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_TERRARIUM",
+      "Name": {
+        "English": "Terrarium",
+        "SimplifiedChinese": "生物育养箱",
+        "TencentChinese": "生物育养箱",
+        "TraditionalChinese": "飼養缸"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.terrarium.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_994",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Questionable Cookie",
+          "SimplifiedChinese": "可疑饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "可疑餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_13",
+      "RecipeType": {
+        "English": "Requested Operation: Assisted Decomposition",
+        "SimplifiedChinese": "请求操作：辅助分解",
+        "TencentChinese": "请求操作：辅助分解",
+        "TraditionalChinese": "需執行作業：協助分解"
+      },
+      "RecipeName": {
+        "English": "Assisted Decomposition",
+        "SimplifiedChinese": "辅助分解",
+        "TraditionalChinese": "協助分解"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_86",
+      "RecipeType": {
+        "English": "Requested Operation: Assisted Decomposition",
+        "SimplifiedChinese": "请求操作：辅助分解",
+        "TencentChinese": "请求操作：辅助分解",
+        "TraditionalChinese": "需執行作業：協助分解"
+      },
+      "RecipeName": {
+        "English": "Assisted Decomposition",
+        "SimplifiedChinese": "辅助分解",
+        "TraditionalChinese": "協助分解"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_107",
+      "RecipeType": {
+        "English": "Requested Operation: Runaway Decomposition",
+        "SimplifiedChinese": "请求操作：失控分解",
+        "TencentChinese": "请求操作：失控分解",
+        "TraditionalChinese": "需執行作業：失速分解"
+      },
+      "RecipeName": {
+        "English": "Runaway Decomposition",
+        "SimplifiedChinese": "失控分解",
+        "TraditionalChinese": "逸散分解"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_108",
+      "RecipeType": {
+        "English": "Requested Operation: Runaway Decomposition",
+        "SimplifiedChinese": "请求操作：失控分解",
+        "TencentChinese": "请求操作：失控分解",
+        "TraditionalChinese": "需執行作業：失速分解"
+      },
+      "RecipeName": {
+        "English": "Runaway Decomposition",
+        "SimplifiedChinese": "失控分解",
+        "TraditionalChinese": "逸散分解"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_142",
+      "RecipeType": {
+        "English": "Requested Operation: Oxygenate Microbes",
+        "SimplifiedChinese": "请求操作：氧化微生物",
+        "TencentChinese": "请求操作：氧化微生物",
+        "TraditionalChinese": "需執行作業：氧化微生物"
+      },
+      "RecipeName": {
+        "English": "Oxygenate Microbes",
+        "SimplifiedChinese": "氧化微生物",
+        "TraditionalChinese": "微生物氧化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_226",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_396",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_147",
+      "RecipeType": {
+        "English": "Requested Operation: Feed Microbes",
+        "SimplifiedChinese": "请求操作：喂养微生物",
+        "TencentChinese": "请求操作：喂养微生物",
+        "TraditionalChinese": "需執行作業：餵食微生物"
+      },
+      "RecipeName": {
+        "English": "Feed Microbes",
+        "SimplifiedChinese": "喂养微生物",
+        "TraditionalChinese": "餵食微生物"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_153",
+      "RecipeType": {
+        "English": "Requested Operation: Feed Microbes",
+        "SimplifiedChinese": "请求操作：喂养微生物",
+        "TencentChinese": "请求操作：喂养微生物",
+        "TraditionalChinese": "需執行作業：餵食微生物"
+      },
+      "RecipeName": {
+        "English": "Feed Microbes",
+        "SimplifiedChinese": "喂养微生物",
+        "TraditionalChinese": "餵食微生物"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_162",
+      "RecipeType": {
+        "English": "Requested Operation: Feed Microbes",
+        "SimplifiedChinese": "请求操作：喂养微生物",
+        "TencentChinese": "请求操作：喂养微生物",
+        "TraditionalChinese": "需執行作業：餵食微生物"
+      },
+      "RecipeName": {
+        "English": "Feed Microbes",
+        "SimplifiedChinese": "喂养微生物",
+        "TraditionalChinese": "餵食微生物"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_551",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL1": {
+          "Id": "FOOD_P_ALL1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Heptaploid Wheat",
+            "SimplifiedChinese": "七倍体小麦",
+            "TencentChinese": "七倍体小麦",
+            "TraditionalChinese": "七倍體小麥"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all1wild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_552",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_COLDFARM": {
+          "Id": "FOOD_P_COLDFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass Grains",
+            "SimplifiedChinese": "玻璃谷粒",
+            "TencentChinese": "玻璃谷粒",
+            "TraditionalChinese": "玻璃谷粒"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldfarm.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_553",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_RADIO": {
+          "Id": "PLANT_RADIO",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gamma Root",
+            "SimplifiedChinese": "伽马根",
+            "TencentChinese": "伽马根",
+            "TraditionalChinese": "伽瑪根"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.radio.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_554",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_DUSTWILD": {
+          "Id": "FOOD_P_DUSTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Aloe Flesh",
+            "SimplifiedChinese": "芦荟肉",
+            "TencentChinese": "芦荟肉",
+            "TraditionalChinese": "蘆薈肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustwild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_555",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_556",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_557",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_558",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_559",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_560",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_561",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_562",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_563",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_564",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_565",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_566",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHFARM": {
+          "Id": "FOOD_P_LUSHFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pilgrimberry",
+            "SimplifiedChinese": "漫游莓",
+            "TencentChinese": "漫游莓",
+            "TraditionalChinese": "漫遊莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushfarm.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_567",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTWILD": {
+          "Id": "FOOD_P_HOTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fireberry",
+            "SimplifiedChinese": "火莓",
+            "TencentChinese": "火莓",
+            "TraditionalChinese": "火莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotwild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_568",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_RADWILD": {
+          "Id": "FOOD_P_RADWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahberry",
+            "SimplifiedChinese": "格拉莓",
+            "TencentChinese": "格拉莓",
+            "TraditionalChinese": "格拉莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radwild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_569",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_GLITCH": {
+          "Id": "FOOD_P_GLITCH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexaberry",
+            "SimplifiedChinese": "六莓",
+            "TencentChinese": "六莓",
+            "TraditionalChinese": "六莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.glitchwild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_570",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_571",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_572",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_LUSH": {
+          "Id": "PLANT_LUSH",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Star Bulb",
+            "SimplifiedChinese": "星辰朵",
+            "TencentChinese": "星辰朵",
+            "TraditionalChinese": "星球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.lush.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_573",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_DUST": {
+          "Id": "PLANT_DUST",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Flesh",
+            "SimplifiedChinese": "仙人掌肉",
+            "TencentChinese": "仙人掌肉",
+            "TraditionalChinese": "仙人掌肉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.dusty.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_574",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "BAIT_VEG_1": {
+          "Id": "BAIT_VEG_1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scented Herbs",
+            "SimplifiedChinese": "芳香牧草",
+            "TencentChinese": "芳香牧草",
+            "TraditionalChinese": "香味藥草"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.herbs.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_575",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "BAIT_VEG_2": {
+          "Id": "BAIT_VEG_2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Enzyme Fluid",
+            "SimplifiedChinese": "酶液",
+            "TencentChinese": "酶液",
+            "TraditionalChinese": "酵素液"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.fluid.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_576",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "BAIT_VEG_3": {
+          "Id": "BAIT_VEG_3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fermented Fruit",
+            "SimplifiedChinese": "发酵水果",
+            "TencentChinese": "发酵水果",
+            "TraditionalChinese": "發酵果實"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.fruit.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_150",
+      "RecipeType": {
+        "English": "Requested Operation: Feed Microbes",
+        "SimplifiedChinese": "请求操作：喂养微生物",
+        "TencentChinese": "请求操作：喂养微生物",
+        "TraditionalChinese": "需執行作業：餵食微生物"
+      },
+      "RecipeName": {
+        "English": "Feed Microbes",
+        "SimplifiedChinese": "喂养微生物",
+        "TraditionalChinese": "餵食微生物"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_156",
+      "RecipeType": {
+        "English": "Requested Operation: Feed Microbes",
+        "SimplifiedChinese": "请求操作：喂养微生物",
+        "TencentChinese": "请求操作：喂养微生物",
+        "TraditionalChinese": "需執行作業：餵食微生物"
+      },
+      "RecipeName": {
+        "English": "Feed Microbes",
+        "SimplifiedChinese": "喂养微生物",
+        "TraditionalChinese": "餵食微生物"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_78",
+      "RecipeType": {
+        "English": "Requested Operation: Alchemical Construction",
+        "SimplifiedChinese": "请求操作：炼金建造",
+        "TencentChinese": "请求操作：炼金建造",
+        "TraditionalChinese": "需執行作業：冶煉構築"
+      },
+      "RecipeName": {
+        "English": "Alchemical Construction",
+        "SimplifiedChinese": "炼金建造",
+        "TraditionalChinese": "冶煉構築"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "SPECIAL_POOP": {
+          "Id": "SPECIAL_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexite",
+            "SimplifiedChinese": "己糖醇",
+            "TencentChinese": "己糖醇",
+            "TraditionalChinese": "己糖醇"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hexcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_66",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Reassembly",
+        "SimplifiedChinese": "请求操作：有机重组",
+        "TencentChinese": "请求操作：有机重组",
+        "TraditionalChinese": "需執行作業：有機重組"
+      },
+      "RecipeName": {
+        "English": "Organic Reassembly",
+        "SimplifiedChinese": "有机重组",
+        "TraditionalChinese": "有機重組"
+      },
+      "TimeToMake": 180,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_26",
+      "RecipeType": {
+        "English": "Processor Setting: Fermentation",
+        "SimplifiedChinese": "加工设置：发酵",
+        "TencentChinese": "加工设置：发酵",
+        "TraditionalChinese": "處理器設定：發酵"
+      },
+      "RecipeName": {
+        "English": "Fermentation",
+        "SimplifiedChinese": "发酵",
+        "TraditionalChinese": "發酵"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_POOP",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wild Yeast",
+          "SimplifiedChinese": "野生酵母",
+          "TencentChinese": "野生酵母",
+          "TraditionalChinese": "野生酵母"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_79",
+      "RecipeType": {
+        "English": "Requested Operation: Alchemical Construction",
+        "SimplifiedChinese": "请求操作：炼金建造",
+        "TencentChinese": "请求操作：炼金建造",
+        "TraditionalChinese": "需執行作業：冶煉構築"
+      },
+      "RecipeName": {
+        "English": "Alchemical Construction",
+        "SimplifiedChinese": "炼金建造",
+        "TraditionalChinese": "冶煉構築"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "SPACEGUNK1": {
+          "Id": "SPACEGUNK1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Residual Goop",
+            "SimplifiedChinese": "剩余粘稠物",
+            "TencentChinese": "剩余粘稠物",
+            "TraditionalChinese": "殘餘黏液"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_161",
+      "RecipeType": {
+        "English": "Requested Operation: Pugneum Alchemy",
+        "SimplifiedChinese": "请求操作：普茵炼金",
+        "TencentChinese": "请求操作：普茵炼金",
+        "TraditionalChinese": "需執行作業：搏冶煉"
+      },
+      "RecipeName": {
+        "English": "Pugneum Alchemy",
+        "SimplifiedChinese": "普茵炼金",
+        "TraditionalChinese": "搏冶煉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    }
+  ]
 }

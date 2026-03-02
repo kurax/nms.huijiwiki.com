@@ -86,5 +86,996 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BIOSHIP_COMP1",
+      "Name": {
+        "English": "Consciousness Bridge",
+        "SimplifiedChinese": "意识桥",
+        "TraditionalChinese": "意識橋"
+      },
+      "Icon": "ui-frontend-icons-technology-bio-product.biocomp1.png",
+      "Requirements": [
+        {
+          "Id": "SPECIAL_POOP",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Hexite",
+            "SimplifiedChinese": "己糖醇",
+            "TencentChinese": "己糖醇",
+            "TraditionalChinese": "己糖醇"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hexcore.png"
+        },
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        },
+        {
+          "Id": "EXP_CURIO1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Korvax Casing",
+            "SimplifiedChinese": "科尔瓦克斯外壳",
+            "TencentChinese": "科尔瓦克斯外壳",
+            "TraditionalChinese": "科瓦族頭套"
+          },
+          "Icon": "ui-frontend-icons-products-product.korvaxcasing.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_ROBOTOY",
+      "Name": {
+        "English": "Robotic Companion",
+        "SimplifiedChinese": "机器同伴",
+        "TencentChinese": "机器同伴",
+        "TraditionalChinese": "機器人夥伴"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.robottoy.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        },
+        {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "S12_POI_SEED4",
+      "Name": {
+        "English": "Memory of the Void",
+        "SimplifiedChinese": "虚空的回忆",
+        "TraditionalChinese": "虛空記憶"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.5.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 99,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        },
+        {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 66,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 33,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_TOYJELLY",
+      "Name": {
+        "English": "Wriggling Companion",
+        "SimplifiedChinese": "蠕动同伴",
+        "TraditionalChinese": "蠕動同伴"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.toyjelly.png",
+      "Requirements": [
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        },
+        {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "ROGUE_CRAFTBOX",
+      "Name": {
+        "English": "Memory Fragment",
+        "SimplifiedChinese": "记忆碎片",
+        "TraditionalChinese": "記憶碎片"
+      },
+      "Icon": "ui-frontend-icons-u4products-proctech-roguetech.general.png",
+      "Requirements": [
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_10</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_10</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_10</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_332",
+      "RecipeType": {
+        "English": "Requested Operation: Reality Pollution",
+        "SimplifiedChinese": "请求操作：现实污染",
+        "TraditionalChinese": "需執行作業：現實污染"
+      },
+      "RecipeName": {
+        "English": "Reality Pollution",
+        "SimplifiedChinese": "现实污染",
+        "TraditionalChinese": "現實污染"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Runaway Mold",
+          "SimplifiedChinese": "失控的模具",
+          "TencentChinese": "失控的模具",
+          "TraditionalChinese": "狂生黴菌"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.2.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_331",
+      "RecipeType": {
+        "English": "Requested Operation: Restore Harmony",
+        "SimplifiedChinese": "请求操作：恢复和谐",
+        "TraditionalChinese": "需執行作業：恢復和諧"
+      },
+      "RecipeName": {
+        "English": "Restore Harmony",
+        "SimplifiedChinese": "恢复和谐",
+        "TraditionalChinese": "恢復和諧"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "ROBOT1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Pugneum",
+          "SimplifiedChinese": "普茵",
+          "TencentChinese": "普茵",
+          "TraditionalChinese": "搏"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_144",
+      "RecipeType": {
+        "English": "Requested Operation: Pugneum Washing",
+        "SimplifiedChinese": "请求操作：普茵清洗",
+        "TencentChinese": "请求操作：普茵清洗",
+        "TraditionalChinese": "需執行作業：搏清洗"
+      },
+      "RecipeName": {
+        "English": "Pugneum Washing",
+        "SimplifiedChinese": "普茵清洗",
+        "TraditionalChinese": "搏清洗"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_105",
+      "RecipeType": {
+        "English": "Requested Operation: Sentinel Canalization",
+        "SimplifiedChinese": "请求操作：护卫催化",
+        "TencentChinese": "请求操作：护卫催化",
+        "TraditionalChinese": "需執行作業：巡警催化"
+      },
+      "RecipeName": {
+        "English": "Sentinel Catalysation",
+        "SimplifiedChinese": "护卫催化",
+        "TraditionalChinese": "巡警催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_106",
+      "RecipeType": {
+        "English": "Requested Operation: Sentinel Canalization",
+        "SimplifiedChinese": "请求操作：护卫催化",
+        "TencentChinese": "请求操作：护卫催化",
+        "TraditionalChinese": "需執行作業：巡警催化"
+      },
+      "RecipeName": {
+        "English": "Sentinel Catalysation",
+        "SimplifiedChinese": "护卫催化",
+        "TraditionalChinese": "巡警催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_112",
+      "RecipeType": {
+        "English": "Requested Operation: Matter Expansion",
+        "SimplifiedChinese": "请求操作：物质扩张",
+        "TencentChinese": "请求操作：物质扩张",
+        "TraditionalChinese": "需執行作業：物質膨脹"
+      },
+      "RecipeName": {
+        "English": "Matter Expansion",
+        "SimplifiedChinese": "物质扩张",
+        "TraditionalChinese": "物質膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND3",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Magnetized Ferrite",
+          "SimplifiedChinese": "磁化铁氧体",
+          "TencentChinese": "磁化铁氧体",
+          "TraditionalChinese": "磁化鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+      },
+      "Ingredients": {
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_113",
+      "RecipeType": {
+        "English": "Requested Operation: Matter Expansion",
+        "SimplifiedChinese": "请求操作：物质扩张",
+        "TencentChinese": "请求操作：物质扩张",
+        "TraditionalChinese": "需執行作業：物質膨脹"
+      },
+      "RecipeName": {
+        "English": "Matter Expansion",
+        "SimplifiedChinese": "物质扩张",
+        "TraditionalChinese": "物質膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND3",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Magnetized Ferrite",
+          "SimplifiedChinese": "磁化铁氧体",
+          "TencentChinese": "磁化铁氧体",
+          "TraditionalChinese": "磁化鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+      },
+      "Ingredients": {
+        "LAND3": {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_143",
+      "RecipeType": {
+        "English": "Requested Operation: Pugneum Washing",
+        "SimplifiedChinese": "请求操作：普茵清洗",
+        "TencentChinese": "请求操作：普茵清洗",
+        "TraditionalChinese": "需執行作業：搏清洗"
+      },
+      "RecipeName": {
+        "English": "Pugneum Washing",
+        "SimplifiedChinese": "普茵清洗",
+        "TraditionalChinese": "搏清洗"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_111",
+      "RecipeType": {
+        "English": "Requested Operation: Matter Expansion",
+        "SimplifiedChinese": "请求操作：物质扩张",
+        "TencentChinese": "请求操作：物质扩张",
+        "TraditionalChinese": "需執行作業：物質膨脹"
+      },
+      "RecipeName": {
+        "English": "Matter Expansion",
+        "SimplifiedChinese": "物质扩张",
+        "TraditionalChinese": "物質膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Pure Ferrite",
+          "SimplifiedChinese": "纯铁氧体",
+          "TencentChinese": "纯铁氧体",
+          "TraditionalChinese": "純鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_12",
+      "RecipeType": {
+        "English": "Requested Operation: Reality Filtering",
+        "SimplifiedChinese": "请求操作：现实过滤",
+        "TencentChinese": "请求操作：现实过滤",
+        "TraditionalChinese": "需執行作業：現實過濾"
+      },
+      "RecipeName": {
+        "English": "Reality Filtering",
+        "SimplifiedChinese": "现实过滤",
+        "TraditionalChinese": "現實過濾"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_103",
+      "RecipeType": {
+        "English": "Requested Operation: Anomaly / Organic Hybridization",
+        "SimplifiedChinese": "请求操作：异象/有机杂化",
+        "TencentChinese": "请求操作：异象/有机杂化",
+        "TraditionalChinese": "需執行作業：異常／有機混合"
+      },
+      "RecipeName": {
+        "English": "Anomaly / Organic Hybridisation",
+        "SimplifiedChinese": "异象/有机杂化",
+        "TraditionalChinese": "異常/有機混成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_104",
+      "RecipeType": {
+        "English": "Requested Operation: Anomaly / Organic Hybridization",
+        "SimplifiedChinese": "请求操作：异象/有机杂化",
+        "TencentChinese": "请求操作：异象/有机杂化",
+        "TraditionalChinese": "需執行作業：異常／有機混合"
+      },
+      "RecipeName": {
+        "English": "Anomaly / Organic Hybridisation",
+        "SimplifiedChinese": "异象/有机杂化",
+        "TraditionalChinese": "異常/有機混成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_128",
+      "RecipeType": {
+        "English": "Requested Operation: Organic / Anomaly Synthesis",
+        "SimplifiedChinese": "请求操作：有机/异象合成",
+        "TencentChinese": "请求操作：有机/异象合成",
+        "TraditionalChinese": "需執行作業：有機／異常合成"
+      },
+      "RecipeName": {
+        "English": "Organic / Anomaly Synthesis",
+        "SimplifiedChinese": "有机/异象合成",
+        "TraditionalChinese": "有機/異常合成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_161",
+      "RecipeType": {
+        "English": "Requested Operation: Pugneum Alchemy",
+        "SimplifiedChinese": "请求操作：普茵炼金",
+        "TencentChinese": "请求操作：普茵炼金",
+        "TraditionalChinese": "需執行作業：搏冶煉"
+      },
+      "RecipeName": {
+        "English": "Pugneum Alchemy",
+        "SimplifiedChinese": "普茵炼金",
+        "TraditionalChinese": "搏冶煉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    }
+  ]
 }

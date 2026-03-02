@@ -82,5 +82,280 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1140",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_ALL_EPIC_L1": {
+          "Id": "F_ALL_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Colossal Shrimp",
+            "SimplifiedChinese": "巨虾",
+            "TraditionalChinese": "巨型大蝦"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.prawn.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1180",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_RAD_EPIC_S1": {
+          "Id": "F_RAD_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Geno-Prawn",
+            "SimplifiedChinese": "基因虾",
+            "TraditionalChinese": "基因轉殖蝦"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.prawn.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1191",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_M1": {
+          "Id": "F_HOT_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Boiled Snapper",
+            "SimplifiedChinese": "沸腾啮鱼",
+            "TraditionalChinese": "沸鯛"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.prawn.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1217",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_COLD_RARE_S2": {
+          "Id": "F_COLD_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Isopod",
+            "SimplifiedChinese": "冰冻大王具足虫",
+            "TraditionalChinese": "冰寒等足蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.prawn.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1307",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_GAS_COM_M1": {
+          "Id": "F_GAS_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jelly Prawn",
+            "SimplifiedChinese": "胶冻虾",
+            "TraditionalChinese": "果凍蝦"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.prawn.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1313",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_GAS_RARE_M1": {
+          "Id": "F_GAS_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metallic Shrimp",
+            "SimplifiedChinese": "金属虾",
+            "TraditionalChinese": "金屬蝦"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.prawn.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1335",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_M2": {
+          "Id": "F_DEEP_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Luminescent Coral",
+            "SimplifiedChinese": "发光珊瑚",
+            "TraditionalChinese": "發光珊瑚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.coral.3.png"
+        }
+      }
+    }
+  ]
 }

@@ -90,5 +90,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FRIG_BOOST_COM",
+      "Name": {
+        "English": "Explosive Drones",
+        "SimplifiedChinese": "炸弹无人机",
+        "TencentChinese": "迸裂无人机",
+        "TraditionalChinese": "炸藥無人機"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigboost.combat.png",
+      "Requirements": [
+        {
+          "Id": "WALKER_PROD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Walker Brain",
+            "SimplifiedChinese": "步行机脑",
+            "TencentChinese": "步行机脑",
+            "TraditionalChinese": "步行機腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.walkerbrain.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ]
 }

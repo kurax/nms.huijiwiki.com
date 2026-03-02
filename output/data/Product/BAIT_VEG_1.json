@@ -85,5 +85,117 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_547",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "BAIT_VEG_1": {
+          "Id": "BAIT_VEG_1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scented Herbs",
+            "SimplifiedChinese": "芳香牧草",
+            "TencentChinese": "芳香牧草",
+            "TraditionalChinese": "香味藥草"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.herbs.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_574",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "BAIT_VEG_1": {
+          "Id": "BAIT_VEG_1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scented Herbs",
+            "SimplifiedChinese": "芳香牧草",
+            "TencentChinese": "芳香牧草",
+            "TraditionalChinese": "香味藥草"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.herbs.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    }
+  ]
 }

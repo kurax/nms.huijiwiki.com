@@ -86,5 +86,628 @@
   "CookingIngredient": true,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FARMPROD4",
+      "Name": {
+        "English": "Heat Capacitor",
+        "SimplifiedChinese": "热电容",
+        "TencentChinese": "热电容",
+        "TraditionalChinese": "熱能電容器"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.4.png",
+      "Requirements": [
+        {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_82",
+      "RecipeType": {
+        "English": "Requested Operation: Sulphur Injection",
+        "SimplifiedChinese": "请求操作：注入硫磺",
+        "TencentChinese": "请求操作：注入硫磺",
+        "TraditionalChinese": "需執行作業：注入硫"
+      },
+      "RecipeName": {
+        "English": "Sulphur Injection",
+        "SimplifiedChinese": "注入硫磺",
+        "TraditionalChinese": "注入硫"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_HOT",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Solanium",
+          "SimplifiedChinese": "日光茄",
+          "TencentChinese": "日光茄",
+          "TraditionalChinese": "日光茄"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_123",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_HOT",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Solanium",
+          "SimplifiedChinese": "日光茄",
+          "TencentChinese": "日光茄",
+          "TraditionalChinese": "日光茄"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+      },
+      "Ingredients": {
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_184",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_HOT",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Solanium",
+          "SimplifiedChinese": "日光茄",
+          "TencentChinese": "日光茄",
+          "TraditionalChinese": "日光茄"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+      },
+      "Ingredients": {
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_222",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_HOT",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Solanium",
+          "SimplifiedChinese": "日光茄",
+          "TencentChinese": "日光茄",
+          "TraditionalChinese": "日光茄"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+      },
+      "Ingredients": {
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_392",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_HOT",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Solanium",
+          "SimplifiedChinese": "日光茄",
+          "TencentChinese": "日光茄",
+          "TraditionalChinese": "日光茄"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_241",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_556",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_62",
+      "RecipeType": {
+        "English": "Requested Operation: Burn Plantlife",
+        "SimplifiedChinese": "请求操作：植物群系滴定",
+        "TencentChinese": "请求操作：植物群系滴定",
+        "TraditionalChinese": "需執行作業：植物滴定"
+      },
+      "RecipeName": {
+        "English": "Burn Plantlife",
+        "SimplifiedChinese": "烧化植物",
+        "TraditionalChinese": "焚燒植物"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Carbon",
+          "SimplifiedChinese": "碳",
+          "TencentChinese": "碳",
+          "TraditionalChinese": "碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_201",
+      "RecipeType": {
+        "English": "Requested Operation: Floral Titration",
+        "SimplifiedChinese": "请求操作：植物群系滴定",
+        "TencentChinese": "请求操作：植物群系滴定",
+        "TraditionalChinese": "需執行作業：植物滴定"
+      },
+      "RecipeName": {
+        "English": "Floral Titration",
+        "SimplifiedChinese": "植物群系滴定",
+        "TraditionalChinese": "植物滴定"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "HOT1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Phosphorus",
+          "SimplifiedChinese": "磷",
+          "TencentChinese": "磷",
+          "TraditionalChinese": "磷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_21",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_HOTFARM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Solartillo",
+          "SimplifiedChinese": "索拉提洛",
+          "TencentChinese": "索拉提洛",
+          "TraditionalChinese": "索拉提洛"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_989",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_FLOWER",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Floral Wafer",
+          "SimplifiedChinese": "花草华夫饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "花草威化餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        }
+      }
+    }
+  ]
 }

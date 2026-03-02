@@ -85,5 +85,2453 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_302",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_V_CH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Vegetable Stew",
+          "SimplifiedChinese": "刺鼻炖蔬菜",
+          "TencentChinese": "刺鼻炖蔬菜",
+          "TraditionalChinese": "酸香燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_VEG_STEW": {
+          "Id": "FOOD_VEG_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fibrous Stew",
+            "SimplifiedChinese": "纤维炖菜",
+            "TencentChinese": "纤维炖菜",
+            "TraditionalChinese": "高纖燉菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_305",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_V_CR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cream of Vegetable Soup",
+          "SimplifiedChinese": "奶油蔬菜炖汤",
+          "TencentChinese": "奶油蔬菜炖汤",
+          "TraditionalChinese": "奶油蔬菜湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_VEG_STEW": {
+          "Id": "FOOD_VEG_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fibrous Stew",
+            "SimplifiedChinese": "纤维炖菜",
+            "TencentChinese": "纤维炖菜",
+            "TraditionalChinese": "高纖燉菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+        },
+        "FOOD_S_CREAM": {
+          "Id": "FOOD_S_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creamy Sauce",
+            "SimplifiedChinese": "奶油酱",
+            "TencentChinese": "奶油酱",
+            "TraditionalChinese": "鮮奶油醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_247",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_248",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_249",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_250",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_251",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_252",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_253",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_254",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_255",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        },
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_256",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        },
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_257",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_258",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_259",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_260",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_261",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_262",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        },
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_263",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_264",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_265",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_266",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_267",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_268",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_269",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_270",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_271",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_272",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_273",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_274",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_275",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_276",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_277",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_278",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_279",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_280",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_281",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_875",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        },
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_879",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_880",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_881",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_882",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        },
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_883",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        },
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_884",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        },
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_885",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_VEG_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fibrous Stew",
+          "SimplifiedChinese": "纤维炖菜",
+          "TencentChinese": "纤维炖菜",
+          "TraditionalChinese": "高纖燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_311",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_V_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicious Vegetable Stew",
+          "SimplifiedChinese": "美味炖蔬菜",
+          "TencentChinese": "美味炖蔬菜",
+          "TraditionalChinese": "美味燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_VEG_STEW": {
+          "Id": "FOOD_VEG_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fibrous Stew",
+            "SimplifiedChinese": "纤维炖菜",
+            "TencentChinese": "纤维炖菜",
+            "TraditionalChinese": "高纖燉菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_308",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_V_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fiery Vegetable Stew",
+          "SimplifiedChinese": "辣味炖蔬菜",
+          "TencentChinese": "辣味炖蔬菜",
+          "TraditionalChinese": "火辣燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_VEG_STEW": {
+          "Id": "FOOD_VEG_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fibrous Stew",
+            "SimplifiedChinese": "纤维炖菜",
+            "TencentChinese": "纤维炖菜",
+            "TraditionalChinese": "高纖燉菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+        },
+        "FOOD_S_HOT": {
+          "Id": "FOOD_S_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scorching Sauce",
+            "SimplifiedChinese": "炙热酱",
+            "TencentChinese": "炙热酱",
+            "TraditionalChinese": "嗆辣醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

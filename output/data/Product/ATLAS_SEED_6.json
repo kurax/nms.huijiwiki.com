@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_7",
+      "Name": {
+        "English": "State Phasure",
+        "SimplifiedChinese": "相位不定体",
+        "TencentChinese": "相位不定体",
+        "TraditionalChinese": "靜態非薛子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.7.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_6",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Photic Jade",
+            "SimplifiedChinese": "透光玉",
+            "TencentChinese": "透光玉",
+            "TraditionalChinese": "光子玉"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.6.png"
+        },
+        {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        }
+      ]
+    }
+  ]
 }

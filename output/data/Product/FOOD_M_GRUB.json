@@ -81,5 +81,96 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1124",
+      "RecipeType": {
+        "English": "Processor Setting: Purge by Fire",
+        "SimplifiedChinese": "加工设置：火焰净化",
+        "TraditionalChinese": "處理器設定：火焰淨化"
+      },
+      "RecipeName": {
+        "English": "Purge by Fire",
+        "SimplifiedChinese": "火焰净化",
+        "TraditionalChinese": "火焰淨化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_EVIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "The Worst Stew",
+          "SimplifiedChinese": "最难吃的炖菜",
+          "TraditionalChinese": "超難吃燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_GRUB": {
+          "Id": "FOOD_M_GRUB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Juicy Grub",
+            "SimplifiedChinese": "多汁的幼虫",
+            "TraditionalChinese": "肥嫩幼蟲"
+          },
+          "Icon": "ui-frontend-icons-products-product.buggrub.png"
+        },
+        "FOOD_M_HORROR": {
+          "Id": "FOOD_M_HORROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Rancid Flesh",
+            "SimplifiedChinese": "腐臭的肉",
+            "TraditionalChinese": "酸敗的肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1122",
+      "RecipeType": {
+        "English": "Processor Setting: Liquidate",
+        "SimplifiedChinese": "加工设置：液化",
+        "TraditionalChinese": "處理器設定：清算"
+      },
+      "RecipeName": {
+        "English": "Liquidation",
+        "SimplifiedChinese": "液化",
+        "TraditionalChinese": "清算"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_V_BUG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nourishing Slime",
+          "SimplifiedChinese": "营养黏质",
+          "TraditionalChinese": "營養軟泥怪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.animalgrease.png"
+      },
+      "Ingredients": {
+        "FOOD_M_GRUB": {
+          "Id": "FOOD_M_GRUB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Juicy Grub",
+            "SimplifiedChinese": "多汁的幼虫",
+            "TraditionalChinese": "肥嫩幼蟲"
+          },
+          "Icon": "ui-frontend-icons-products-product.buggrub.png"
+        }
+      }
+    }
+  ]
 }

@@ -85,5 +85,531 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_524",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_525",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_526",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_P_HOTWILD": {
+          "Id": "FOOD_P_HOTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fireberry",
+            "SimplifiedChinese": "火莓",
+            "TencentChinese": "火莓",
+            "TraditionalChinese": "火莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_527",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_P_HOTWILD": {
+          "Id": "FOOD_P_HOTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fireberry",
+            "SimplifiedChinese": "火莓",
+            "TencentChinese": "火莓",
+            "TraditionalChinese": "火莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_606",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_607",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_608",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_P_HOTWILD": {
+          "Id": "FOOD_P_HOTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fireberry",
+            "SimplifiedChinese": "火莓",
+            "TencentChinese": "火莓",
+            "TraditionalChinese": "火莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_609",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced Ice",
+          "SimplifiedChinese": "辛香冰淇淋",
+          "TencentChinese": "辛香冰淇淋",
+          "TraditionalChinese": "香料冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_P_HOTWILD": {
+          "Id": "FOOD_P_HOTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fireberry",
+            "SimplifiedChinese": "火莓",
+            "TencentChinese": "火莓",
+            "TraditionalChinese": "火莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotwild.png"
+        }
+      }
+    }
+  ]
 }

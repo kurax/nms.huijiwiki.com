@@ -106,5 +106,168 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FISHBAIT_3",
+      "Name": {
+        "English": "Bionic Lure",
+        "SimplifiedChinese": "仿生诱饵",
+        "TraditionalChinese": "仿生假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.3.png",
+      "Requirements": [
+        {
+          "Id": "BIO",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Amino Chamber",
+            "SimplifiedChinese": "氨基舱",
+            "TraditionalChinese": "胺基艙"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.bio.png"
+        },
+        {
+          "Id": "POWERCELL",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Ion Battery",
+            "SimplifiedChinese": "离子电池",
+            "TencentChinese": "离子电池",
+            "TraditionalChinese": "離子電池"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.powercell.png"
+        },
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ROBO_HEAD",
+      "Name": {
+        "English": "Construct Head",
+        "SimplifiedChinese": "构造体头部",
+        "TraditionalChinese": "構造頭部"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robothead.png",
+      "Requirements": [
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 4,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "POWERCELL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ion Battery",
+            "SimplifiedChinese": "离子电池",
+            "TencentChinese": "离子电池",
+            "TraditionalChinese": "離子電池"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.powercell.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_261",
+      "RecipeType": {
+        "English": "Requested Operation: Ion Capture",
+        "SimplifiedChinese": "请求操作：离子捕获",
+        "TencentChinese": "请求操作：离子捕获",
+        "TraditionalChinese": "需執行作業：離子捕捉"
+      },
+      "RecipeName": {
+        "English": "Ion Capture",
+        "SimplifiedChinese": "离子捕获",
+        "TraditionalChinese": "離子捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "POWERCELL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Ion Battery",
+          "SimplifiedChinese": "离子电池",
+          "TencentChinese": "离子电池",
+          "TraditionalChinese": "離子電池"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.powercell.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        }
+      }
+    }
+  ]
 }

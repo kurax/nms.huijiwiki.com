@@ -85,5 +85,276 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_428",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Soft Custard Fancy",
+          "SimplifiedChinese": "柔软蛋奶小糕点",
+          "TencentChinese": "柔软蛋奶小糕点",
+          "TraditionalChinese": "柔軟卡士達醬花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakefluffy.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_429",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Soft Custard Fancy",
+          "SimplifiedChinese": "柔软蛋奶小糕点",
+          "TencentChinese": "柔软蛋奶小糕点",
+          "TraditionalChinese": "柔軟卡士達醬花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakefluffy.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_FCUSTARD": {
+          "Id": "FOOD_R_FCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Custard",
+            "SimplifiedChinese": "咸蛋奶沙司",
+            "TencentChinese": "咸蛋奶沙司",
+            "TraditionalChinese": "鹹味卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_430",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Soft Custard Fancy",
+          "SimplifiedChinese": "柔软蛋奶小糕点",
+          "TencentChinese": "柔软蛋奶小糕点",
+          "TraditionalChinese": "柔軟卡士達醬花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakefluffy.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_MCUSTARD": {
+          "Id": "FOOD_R_MCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Monstrous Custard",
+            "SimplifiedChinese": "超大蛋奶沙司",
+            "TencentChinese": "超大蛋奶沙司",
+            "TraditionalChinese": "怪物卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_431",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Soft Custard Fancy",
+          "SimplifiedChinese": "柔软蛋奶小糕点",
+          "TencentChinese": "柔软蛋奶小糕点",
+          "TraditionalChinese": "柔軟卡士達醬花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakefluffy.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_SCUSTARD": {
+          "Id": "FOOD_R_SCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stellar Custard",
+            "SimplifiedChinese": "星球蛋奶沙司",
+            "TencentChinese": "星球蛋奶沙司",
+            "TraditionalChinese": "星星卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_655",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Soft Custard Fancy",
+          "SimplifiedChinese": "柔软蛋奶小糕点",
+          "TencentChinese": "柔软蛋奶小糕点",
+          "TraditionalChinese": "柔軟卡士達醬花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakefluffy.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

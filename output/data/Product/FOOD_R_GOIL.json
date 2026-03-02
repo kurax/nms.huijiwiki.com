@@ -85,5 +85,169 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_162",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_GREASE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Solidified Grease Pie",
+          "SimplifiedChinese": "凝脂馅饼",
+          "TencentChinese": "凝脂馅饼",
+          "TraditionalChinese": "凝脂派"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_R_GOIL": {
+          "Id": "FOOD_R_GOIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Oil",
+            "SimplifiedChinese": "原型型油",
+            "TencentChinese": "原型型油",
+            "TraditionalChinese": "原始油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cookinggrease.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_49",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Refining",
+        "SimplifiedChinese": "加工设置：完善营养",
+        "TencentChinese": "加工设置：完善营养",
+        "TraditionalChinese": "處理器設定：煉製營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Refining",
+        "SimplifiedChinese": "精炼营养",
+        "TraditionalChinese": "煉製營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_GOIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Oil",
+          "SimplifiedChinese": "原型型油",
+          "TencentChinese": "原型型油",
+          "TraditionalChinese": "原始油"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cookinggrease.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GBUTTER": {
+          "Id": "FOOD_R_GBUTTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Butter",
+            "SimplifiedChinese": "原型黄油",
+            "TencentChinese": "原型黄油",
+            "TraditionalChinese": "原始奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_70",
+      "RecipeType": {
+        "English": "Processor Setting: Accelerated Fry",
+        "SimplifiedChinese": "加工设置：加速煎炸",
+        "TencentChinese": "加工设置：加速煎炸",
+        "TraditionalChinese": "處理器設定：加速油炸"
+      },
+      "RecipeName": {
+        "English": "Accelerated Fry",
+        "SimplifiedChinese": "加速煎炸",
+        "TraditionalChinese": "加速油炸"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_GONUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Beignet",
+          "SimplifiedChinese": "原型煎饼",
+          "TencentChinese": "原型煎饼",
+          "TraditionalChinese": "原始貝涅餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GOIL": {
+          "Id": "FOOD_R_GOIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Oil",
+            "SimplifiedChinese": "原型型油",
+            "TencentChinese": "原型型油",
+            "TraditionalChinese": "原始油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cookinggrease.png"
+        },
+        "FOOD_R_DOUGH": {
+          "Id": "FOOD_R_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dough",
+            "SimplifiedChinese": "面团",
+            "TencentChinese": "面团",
+            "TraditionalChinese": "麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    }
+  ]
 }

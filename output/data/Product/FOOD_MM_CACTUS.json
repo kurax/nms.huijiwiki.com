@@ -85,5 +85,192 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_439",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fluffy Throatripper",
+          "SimplifiedChinese": "撕喉蓬松蛋糕",
+          "TencentChinese": "撕喉蓬松蛋糕",
+          "TraditionalChinese": "蓬鬆撕喉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_443",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fluffy Throatripper",
+          "SimplifiedChinese": "撕喉蓬松蛋糕",
+          "TencentChinese": "撕喉蓬松蛋糕",
+          "TraditionalChinese": "蓬鬆撕喉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_DUST": {
+          "Id": "FOOD_JAM_DUST",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Jelly",
+            "SimplifiedChinese": "仙人掌果冻",
+            "TencentChinese": "仙人掌果冻",
+            "TraditionalChinese": "仙人掌果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_705",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fluffy Throatripper",
+          "SimplifiedChinese": "撕喉蓬松蛋糕",
+          "TencentChinese": "撕喉蓬松蛋糕",
+          "TraditionalChinese": "蓬鬆撕喉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_DUST": {
+          "Id": "FOOD_JAM_DUST",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Jelly",
+            "SimplifiedChinese": "仙人掌果冻",
+            "TencentChinese": "仙人掌果冻",
+            "TraditionalChinese": "仙人掌果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    }
+  ]
 }

@@ -106,5 +106,55 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "MIND_ARC",
+      "Name": {
+        "English": "Mind Ark",
+        "SimplifiedChinese": "心灵方舟",
+        "TencentChinese": "心灵之弧",
+        "TraditionalChinese": "思維方舟"
+      },
+      "Icon": "ui-frontend-icons-update3-mindarc.png",
+      "Requirements": [
+        {
+          "Id": "SOUL_ENGINE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Soul Engine",
+            "SimplifiedChinese": "灵魂引擎",
+            "TencentChinese": "灵魂引擎",
+            "TraditionalChinese": "靈魂引擎"
+          },
+          "Icon": "ui-frontend-icons-update3-soulengine.png"
+        },
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    }
+  ]
 }

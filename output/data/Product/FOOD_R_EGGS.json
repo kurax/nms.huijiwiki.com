@@ -85,5 +85,175 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_32",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EGGS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Baked Eggs",
+          "SimplifiedChinese": "烤蛋",
+          "TencentChinese": "烤蛋",
+          "TraditionalChinese": "乾烤蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_33",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EGGS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Baked Eggs",
+          "SimplifiedChinese": "烤蛋",
+          "TencentChinese": "烤蛋",
+          "TraditionalChinese": "乾烤蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_EGG": {
+          "Id": "FOOD_V_EGG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creature Egg",
+            "SimplifiedChinese": "生物卵",
+            "TencentChinese": "生物卵",
+            "TraditionalChinese": "生物卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_34",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EGGS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Baked Eggs",
+          "SimplifiedChinese": "烤蛋",
+          "TencentChinese": "烤蛋",
+          "TraditionalChinese": "乾烤蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_STRIDER": {
+          "Id": "FOOD_V_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tall Eggs",
+            "SimplifiedChinese": "高卵",
+            "TencentChinese": "高卵",
+            "TraditionalChinese": "高卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_35",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EGGS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Baked Eggs",
+          "SimplifiedChinese": "烤蛋",
+          "TencentChinese": "烤蛋",
+          "TraditionalChinese": "乾烤蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    }
+  ]
 }

@@ -85,5 +85,61 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_393",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_FCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salt-Laced Honey Cake",
+          "SimplifiedChinese": "盐饰蜂蜜蛋糕",
+          "TencentChinese": "盐饰蜂蜜蛋糕",
+          "TraditionalChinese": "加鹽蜂蜜蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_FCUSTARD": {
+          "Id": "FOOD_R_FCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Custard",
+            "SimplifiedChinese": "咸蛋奶沙司",
+            "TencentChinese": "咸蛋奶沙司",
+            "TraditionalChinese": "鹹味卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

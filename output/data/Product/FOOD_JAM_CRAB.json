@@ -85,5 +85,1399 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_936",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Roll",
+          "SimplifiedChinese": "“苹果”卷",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "「蘋果」卷"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_427",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Angelic Fruitcake",
+          "SimplifiedChinese": "天使水果蛋糕",
+          "TencentChinese": "天使水果蛋糕",
+          "TraditionalChinese": "天使水果蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_700",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Angelic Fruitcake",
+          "SimplifiedChinese": "天使水果蛋糕",
+          "TencentChinese": "天使水果蛋糕",
+          "TraditionalChinese": "天使水果蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_445",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of Sin",
+          "SimplifiedChinese": "罪恶蛋糕",
+          "TencentChinese": "罪恶蛋糕",
+          "TraditionalChinese": "罪惡蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_707",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of Sin",
+          "SimplifiedChinese": "罪恶蛋糕",
+          "TencentChinese": "罪恶蛋糕",
+          "TraditionalChinese": "罪惡蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_510",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_511",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_592",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_593",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_409",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CM_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Cake of Lost Souls",
+          "SimplifiedChinese": "苹果失魂蛋糕",
+          "TencentChinese": "苹果失魂蛋糕",
+          "TraditionalChinese": "「蘋果」迷失靈魂蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_693",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CM_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Cake of Lost Souls",
+          "SimplifiedChinese": "苹果失魂蛋糕",
+          "TencentChinese": "苹果失魂蛋糕",
+          "TraditionalChinese": "「蘋果」迷失靈魂蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_373",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Curiosity",
+          "SimplifiedChinese": "苹果稀有物",
+          "TencentChinese": "苹果稀有物",
+          "TraditionalChinese": "「蘋果」古怪蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_679",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Curiosity",
+          "SimplifiedChinese": "苹果稀有物",
+          "TencentChinese": "苹果稀有物",
+          "TraditionalChinese": "「蘋果」古怪蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1105",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Candied 'Apples'",
+          "SimplifiedChinese": "蜜饯“苹果”",
+          "TraditionalChinese": "「蘋果」糖"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1120",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Candied 'Apples'",
+          "SimplifiedChinese": "蜜饯“苹果”",
+          "TraditionalChinese": "「蘋果」糖"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_89",
+      "RecipeType": {
+        "English": "Processor Setting: Preserve Fruit",
+        "SimplifiedChinese": "加工设置：水果保鲜",
+        "TencentChinese": "加工设置：水果保鲜",
+        "TraditionalChinese": "處理器設定：保存水果"
+      },
+      "RecipeName": {
+        "English": "Preserve Fruit",
+        "SimplifiedChinese": "保藏水果",
+        "TraditionalChinese": "保存水果"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_JAM_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wriggling Jam",
+          "SimplifiedChinese": "蠕动果酱",
+          "TencentChinese": "蠕动果酱",
+          "TraditionalChinese": "蠕動果醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+      },
+      "Ingredients": {
+        "FOOD_V_CRAB": {
+          "Id": "FOOD_V_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crab 'Apple'",
+            "SimplifiedChinese": "蟹肉“苹果”",
+            "TencentChinese": "蟹肉“苹果”",
+            "TraditionalChinese": "蟹肉「蘋果」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_170",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_CRABJ",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wriggling Tart",
+          "SimplifiedChinese": "蠕动果馅饼",
+          "TencentChinese": "蠕动果馅饼",
+          "TraditionalChinese": "蠕動塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_95",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_CJAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wriggling Doughnut",
+          "SimplifiedChinese": "蠕动甜甜圈",
+          "TencentChinese": "蠕动甜甜圈",
+          "TraditionalChinese": "蠕動甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_355",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced 'Apple' Cake",
+          "SimplifiedChinese": "辛香苹果蛋糕",
+          "TencentChinese": "辛香苹果蛋糕",
+          "TraditionalChinese": "香料「蘋果」蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CAKEMIX": {
+          "Id": "FOOD_R_CAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cake Batter",
+            "SimplifiedChinese": "蛋糕面糊",
+            "TencentChinese": "蛋糕面糊",
+            "TraditionalChinese": "蛋糕麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_672",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spiced 'Apple' Cake",
+          "SimplifiedChinese": "辛香苹果蛋糕",
+          "TencentChinese": "辛香苹果蛋糕",
+          "TraditionalChinese": "香料「蘋果」蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CAKEMIX": {
+          "Id": "FOOD_R_CAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cake Batter",
+            "SimplifiedChinese": "蛋糕面糊",
+            "TencentChinese": "蛋糕面糊",
+            "TraditionalChinese": "蛋糕麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_391",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Fruit Surprise",
+          "SimplifiedChinese": "黏腻水果奇味",
+          "TencentChinese": "黏腻水果奇味",
+          "TraditionalChinese": "黏糊糊水果驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_686",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Fruit Surprise",
+          "SimplifiedChinese": "黏腻水果奇味",
+          "TencentChinese": "黏腻水果奇味",
+          "TraditionalChinese": "黏糊糊水果驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    }
+  ]
 }

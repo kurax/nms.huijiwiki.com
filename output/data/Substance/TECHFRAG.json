@@ -82,5 +82,622 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": false
+  "EggModifierIngredient": false,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_1",
+      "RecipeType": {
+        "English": "Requested Operation: Nanite Extraction",
+        "SimplifiedChinese": "请求操作：纳米提取",
+        "TencentChinese": "请求操作：纳米提取",
+        "TraditionalChinese": "需執行作業：奈米機抽取"
+      },
+      "RecipeName": {
+        "English": "Nanite Extraction",
+        "SimplifiedChinese": "纳米星团提取",
+        "TraditionalChinese": "奈米機抽取"
+      },
+      "TimeToMake": 320,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 15,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "BP_SALVAGE": {
+          "Id": "BP_SALVAGE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salvaged Data",
+            "SimplifiedChinese": "已回收的数据",
+            "TencentChinese": "已回收的数据",
+            "TraditionalChinese": "回收資料"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.salvage.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_4",
+      "RecipeType": {
+        "English": "Requested Operation: Doom Cycling",
+        "SimplifiedChinese": "请求操作：厄运循环",
+        "TencentChinese": "请求操作：厄运循环",
+        "TraditionalChinese": "需執行作業：殞滅循環"
+      },
+      "RecipeName": {
+        "English": "Doom Cycling",
+        "SimplifiedChinese": "厄运循环",
+        "TraditionalChinese": "殞滅循環"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "FISHCORE": {
+          "Id": "FISHCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hadal Core",
+            "SimplifiedChinese": "超深渊核心",
+            "TencentChinese": "超深渊核心",
+            "TraditionalChinese": "海溝核心"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fishcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_6",
+      "RecipeType": {
+        "English": "Requested Operation: NOT RECOMMENDED",
+        "SimplifiedChinese": "请求操作：不建议",
+        "TencentChinese": "请求操作：不建议",
+        "TraditionalChinese": "需執行作業：不建議"
+      },
+      "RecipeName": {
+        "English": "NOT RECOMMENDED",
+        "SimplifiedChinese": "不推荐",
+        "TraditionalChinese": "不建議"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_11",
+      "RecipeType": {
+        "English": "Requested Operation: Reality Warping",
+        "SimplifiedChinese": "请求操作：现实曲速",
+        "TencentChinese": "请求操作：现实曲速",
+        "TraditionalChinese": "需執行作業：現實曲變"
+      },
+      "RecipeName": {
+        "English": "Reality Warping",
+        "SimplifiedChinese": "现实曲速飞行",
+        "TraditionalChinese": "現實跳躍"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "ASTEROID3": {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 35,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_12",
+      "RecipeType": {
+        "English": "Requested Operation: Reality Filtering",
+        "SimplifiedChinese": "请求操作：现实过滤",
+        "TencentChinese": "请求操作：现实过滤",
+        "TraditionalChinese": "需執行作業：現實過濾"
+      },
+      "RecipeName": {
+        "English": "Reality Filtering",
+        "SimplifiedChinese": "现实过滤",
+        "TraditionalChinese": "現實過濾"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_52",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK2": {
+          "Id": "SPACEGUNK2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Runaway Mold",
+            "SimplifiedChinese": "失控的模具",
+            "TencentChinese": "失控的模具",
+            "TraditionalChinese": "狂生黴菌"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_78",
+      "RecipeType": {
+        "English": "Requested Operation: Alchemical Construction",
+        "SimplifiedChinese": "请求操作：炼金建造",
+        "TencentChinese": "请求操作：炼金建造",
+        "TraditionalChinese": "需執行作業：冶煉構築"
+      },
+      "RecipeName": {
+        "English": "Alchemical Construction",
+        "SimplifiedChinese": "炼金建造",
+        "TraditionalChinese": "冶煉構築"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "SPECIAL_POOP": {
+          "Id": "SPECIAL_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexite",
+            "SimplifiedChinese": "己糖醇",
+            "TencentChinese": "己糖醇",
+            "TraditionalChinese": "己糖醇"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hexcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_228",
+      "RecipeType": {
+        "English": "Requested Operation: Transmutation",
+        "SimplifiedChinese": "请求操作：蜕变",
+        "TencentChinese": "请求操作：蜕变",
+        "TraditionalChinese": "需執行作業：衰變"
+      },
+      "RecipeName": {
+        "English": "Transmutation",
+        "SimplifiedChinese": "蜕变",
+        "TraditionalChinese": "變化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "ASTEROID3": {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_324",
+      "RecipeType": {
+        "English": "Requested Operation: Doom Cycling",
+        "SimplifiedChinese": "请求操作：厄运循环",
+        "TencentChinese": "请求操作：厄运循环",
+        "TraditionalChinese": "需執行作業：殞滅循環"
+      },
+      "RecipeName": {
+        "English": "Doom Cycling",
+        "SimplifiedChinese": "厄运循环",
+        "TraditionalChinese": "殞滅循環"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "AF_METAL": {
+          "Id": "AF_METAL",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Tainted Metal",
+            "SimplifiedChinese": "污染的金属",
+            "TraditionalChinese": "遭汙染的金屬"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.taintedmetal.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_326",
+      "RecipeType": {
+        "English": "Requested Operation: Loosen Bonds",
+        "SimplifiedChinese": "请求操作：松开束缚",
+        "TencentChinese": "请求操作：松开束缚",
+        "TraditionalChinese": "需執行作業：鬆開鍵"
+      },
+      "RecipeName": {
+        "English": "Loosen Bonds",
+        "SimplifiedChinese": "松开束缚",
+        "TraditionalChinese": "鬆散紐帶"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "WORMPROD": {
+          "Id": "WORMPROD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Vile Spawn",
+            "SimplifiedChinese": "邪恶滋生",
+            "TraditionalChinese": "汙穢之卵"
+          },
+          "Icon": "ui-frontend-icons-products-wormspawn.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_327",
+      "RecipeType": {
+        "English": "Requested Operation: Loosen Bonds",
+        "SimplifiedChinese": "请求操作：松开束缚",
+        "TencentChinese": "请求操作：松开束缚",
+        "TraditionalChinese": "需執行作業：鬆開鍵"
+      },
+      "RecipeName": {
+        "English": "Loosen Bonds",
+        "SimplifiedChinese": "松开束缚",
+        "TraditionalChinese": "鬆散紐帶"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "WORMCORE": {
+          "Id": "WORMCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flesh Rope",
+            "SimplifiedChinese": "血肉之绳",
+            "TraditionalChinese": "血肉之繩"
+          },
+          "Icon": "ui-frontend-icons-products-wormcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_328",
+      "RecipeType": {
+        "English": "Requested Operation: Subjugation of Glass",
+        "SimplifiedChinese": "请求操作：玻璃的臣服",
+        "TraditionalChinese": "需執行作業：馴服玻璃"
+      },
+      "RecipeName": {
+        "English": "Subjugation of Glass",
+        "SimplifiedChinese": "玻璃的臣服",
+        "TraditionalChinese": "馴服玻璃"
+      },
+      "TimeToMake": 1800,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "DRONE_SHARD": {
+          "Id": "DRONE_SHARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Radiant Shard",
+            "SimplifiedChinese": "光耀碎片",
+            "TraditionalChinese": "發光裂片"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.droneshard.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_329",
+      "RecipeType": {
+        "English": "Requested Operation: Purge Corruption",
+        "SimplifiedChinese": "请求操作：净化腐败",
+        "TraditionalChinese": "需執行作業：淨化腐蝕"
+      },
+      "RecipeName": {
+        "English": "Purge Corruption",
+        "SimplifiedChinese": "净化腐败",
+        "TraditionalChinese": "淨化腐蝕"
+      },
+      "TimeToMake": 2200,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 95,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "DRONE_SALVAGE": {
+          "Id": "DRONE_SALVAGE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Inverted Mirror",
+            "SimplifiedChinese": "反转镜面",
+            "TraditionalChinese": "反轉鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.dronesalvage.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_330",
+      "RecipeType": {
+        "English": "Requested Operation: Sentience Extraction",
+        "SimplifiedChinese": "请求操作：提取智慧",
+        "TraditionalChinese": "需執行作業：智慧生物抽取"
+      },
+      "RecipeName": {
+        "English": "Sentience Extraction",
+        "SimplifiedChinese": "提取智慧",
+        "TraditionalChinese": "智慧生物抽取"
+      },
+      "TimeToMake": 3200,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 230,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "SHIPBRAIN": {
+          "Id": "SHIPBRAIN",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hyaline Brain",
+            "SimplifiedChinese": "透明质脑部",
+            "TraditionalChinese": "透明大腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.sentinelshipbrain.png"
+        }
+      }
+    }
+  ]
 }

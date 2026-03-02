@@ -85,5 +85,360 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_57",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_GCHEESE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "ProtoCheese",
+          "SimplifiedChinese": "原芝士",
+          "TencentChinese": "原芝士",
+          "TraditionalChinese": "原始乳酪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCREAM": {
+          "Id": "FOOD_R_GCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Cream",
+            "SimplifiedChinese": "原型奶油",
+            "TencentChinese": "原型奶油",
+            "TraditionalChinese": "原始鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        },
+        "FOOD_P_POOP": {
+          "Id": "FOOD_P_POOP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wild Yeast",
+            "SimplifiedChinese": "野生酵母",
+            "TencentChinese": "野生酵母",
+            "TraditionalChinese": "野生酵母"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_956",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Questionable Cookie",
+          "SimplifiedChinese": "可疑饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "可疑餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_P_POOP": {
+          "Id": "FOOD_P_POOP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wild Yeast",
+            "SimplifiedChinese": "野生酵母",
+            "TencentChinese": "野生酵母",
+            "TraditionalChinese": "野生酵母"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1",
+      "RecipeType": {
+        "English": "Processor Setting: Fermentation",
+        "SimplifiedChinese": "加工设置：发酵",
+        "TencentChinese": "加工设置：发酵",
+        "TraditionalChinese": "處理器設定：發酵"
+      },
+      "RecipeName": {
+        "English": "Fermentation",
+        "SimplifiedChinese": "发酵",
+        "TraditionalChinese": "發酵"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_POOP",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wild Yeast",
+          "SimplifiedChinese": "野生酵母",
+          "TencentChinese": "野生酵母",
+          "TraditionalChinese": "野生酵母"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+      },
+      "Ingredients": {
+        "FOOD_P_POOP": {
+          "Id": "FOOD_P_POOP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wild Yeast",
+            "SimplifiedChinese": "野生酵母",
+            "TencentChinese": "野生酵母",
+            "TraditionalChinese": "野生酵母"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_26",
+      "RecipeType": {
+        "English": "Processor Setting: Fermentation",
+        "SimplifiedChinese": "加工设置：发酵",
+        "TencentChinese": "加工设置：发酵",
+        "TraditionalChinese": "處理器設定：發酵"
+      },
+      "RecipeName": {
+        "English": "Fermentation",
+        "SimplifiedChinese": "发酵",
+        "TraditionalChinese": "發酵"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_POOP",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wild Yeast",
+          "SimplifiedChinese": "野生酵母",
+          "TencentChinese": "野生酵母",
+          "TraditionalChinese": "野生酵母"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_64",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_DOUGH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dough",
+          "SimplifiedChinese": "面团",
+          "TencentChinese": "面团",
+          "TraditionalChinese": "麵團"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_P_POOP": {
+          "Id": "FOOD_P_POOP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wild Yeast",
+            "SimplifiedChinese": "野生酵母",
+            "TencentChinese": "野生酵母",
+            "TraditionalChinese": "野生酵母"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_56",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_CHEESE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Cheese",
+          "SimplifiedChinese": "香浓芝士",
+          "TencentChinese": "香浓芝士",
+          "TraditionalChinese": "香濃乳酪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        },
+        "FOOD_P_POOP": {
+          "Id": "FOOD_P_POOP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wild Yeast",
+            "SimplifiedChinese": "野生酵母",
+            "TencentChinese": "野生酵母",
+            "TraditionalChinese": "野生酵母"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_583",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BCHEESE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Cheese",
+          "SimplifiedChinese": "骨质奶酪",
+          "TraditionalChinese": "骨頭乳酪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        },
+        "FOOD_P_POOP": {
+          "Id": "FOOD_P_POOP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wild Yeast",
+            "SimplifiedChinese": "野生酵母",
+            "TencentChinese": "野生酵母",
+            "TraditionalChinese": "野生酵母"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.poopwild.png"
+        }
+      }
+    }
+  ]
 }

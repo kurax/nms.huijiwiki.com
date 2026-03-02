@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_10",
+      "Name": {
+        "English": "Heart of the Sun",
+        "SimplifiedChinese": "太阳之心",
+        "TencentChinese": "太阳之心",
+        "TraditionalChinese": "太陽之心"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.10.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_9",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Modified Quanta",
+            "SimplifiedChinese": "改造过的量子",
+            "TencentChinese": "改造过的量子",
+            "TraditionalChinese": "修正量子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.9.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ]
 }

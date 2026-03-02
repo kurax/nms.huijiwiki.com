@@ -85,5 +85,61 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_417",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_CHOC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chocolate Dream",
+          "SimplifiedChinese": "巧克力梦之味",
+          "TencentChinese": "巧克力梦之味",
+          "TraditionalChinese": "巧克力夢幻甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CHOC": {
+          "Id": "FOOD_R_CHOC",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bittersweet Cocoa",
+            "SimplifiedChinese": "甜中带苦的可可",
+            "TencentChinese": "甜中带苦的可可",
+            "TraditionalChinese": "苦甜可可"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.chocolate.png"
+        }
+      }
+    }
+  ]
 }

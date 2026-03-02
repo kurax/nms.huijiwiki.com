@@ -83,5 +83,59 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_753",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_DIG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "The Pie Of Knowledge",
+          "SimplifiedChinese": "知识馅饼",
+          "TraditionalChinese": "知識之派"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_M_DIGGER": {
+          "Id": "FOOD_M_DIGGER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dirty Meat",
+            "SimplifiedChinese": "肮脏的肉",
+            "TraditionalChinese": "骯髒肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    }
+  ]
 }

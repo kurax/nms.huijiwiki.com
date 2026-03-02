@@ -82,5 +82,397 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1127",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_ALL_COM_S3": {
+          "Id": "F_ALL_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pondskipper",
+            "SimplifiedChinese": "池鲤",
+            "TraditionalChinese": "池鰹"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1159",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_TOX_EPIC_S1": {
+          "Id": "F_TOX_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Waspfish",
+            "SimplifiedChinese": "黄蜂鱼",
+            "TraditionalChinese": "真裸皮鮋"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1169",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_RAD_COM_S3": {
+          "Id": "F_RAD_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Field's Dartfish",
+            "SimplifiedChinese": "菲尔德镖鱼",
+            "TraditionalChinese": "菲爾德雷達魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.small.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1189",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_S2": {
+          "Id": "F_HOT_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Common Sunfish",
+            "SimplifiedChinese": "普通太阳鱼",
+            "TraditionalChinese": "普通翻車魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1209",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_COLD_COM_S1": {
+          "Id": "F_COLD_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ice Darter",
+            "SimplifiedChinese": "冰镖鱼",
+            "TraditionalChinese": "冰鏢鱸魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.small.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1230",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_LUSH_COM_S1": {
+          "Id": "F_LUSH_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Shadowfin",
+            "SimplifiedChinese": "影鳍鱼",
+            "TraditionalChinese": "影鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1237",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_LUSH_RARE_S1": {
+          "Id": "F_LUSH_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetwater Minnow",
+            "SimplifiedChinese": "甜水鲦鱼",
+            "TraditionalChinese": "淡水米諾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1252",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_S2": {
+          "Id": "F_DUST_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lesser Dustfin",
+            "SimplifiedChinese": "小尘鳍",
+            "TraditionalChinese": "小型灰鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1272",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_ODD_COM_S1": {
+          "Id": "F_ODD_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Vectorfin",
+            "SimplifiedChinese": "矢量鳍",
+            "TraditionalChinese": "向量鰭"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.small.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1332",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whitebait",
+          "SimplifiedChinese": "银鱼",
+          "TraditionalChinese": "銀魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_S1": {
+          "Id": "F_DEEP_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Spratfin",
+            "SimplifiedChinese": "黍鲱",
+            "TraditionalChinese": "斯帕特鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.default.png"
+        }
+      }
+    }
+  ]
 }

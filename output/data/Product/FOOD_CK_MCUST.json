@@ -85,5 +85,384 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_358",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_MCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying, Gooey Delight",
+          "SimplifiedChinese": "恐怖黏腻小蛋糕",
+          "TencentChinese": "吓人黏腻小蛋糕",
+          "TraditionalChinese": "可怕黏糊糊喜悅料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CAKEMIX": {
+          "Id": "FOOD_R_CAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cake Batter",
+            "SimplifiedChinese": "蛋糕面糊",
+            "TencentChinese": "蛋糕面糊",
+            "TraditionalChinese": "蛋糕麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_MCUSTARD": {
+          "Id": "FOOD_R_MCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Monstrous Custard",
+            "SimplifiedChinese": "超大蛋奶沙司",
+            "TencentChinese": "超大蛋奶沙司",
+            "TraditionalChinese": "怪物卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_376",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_MCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying, Gooey Delight",
+          "SimplifiedChinese": "恐怖黏腻小蛋糕",
+          "TencentChinese": "吓人黏腻小蛋糕",
+          "TraditionalChinese": "可怕黏糊糊喜悅料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_MCUSTARD": {
+          "Id": "FOOD_R_MCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Monstrous Custard",
+            "SimplifiedChinese": "超大蛋奶沙司",
+            "TencentChinese": "超大蛋奶沙司",
+            "TraditionalChinese": "怪物卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_410",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_MCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying, Gooey Delight",
+          "SimplifiedChinese": "恐怖黏腻小蛋糕",
+          "TencentChinese": "吓人黏腻小蛋糕",
+          "TraditionalChinese": "可怕黏糊糊喜悅料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_411",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_MCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying, Gooey Delight",
+          "SimplifiedChinese": "恐怖黏腻小蛋糕",
+          "TencentChinese": "吓人黏腻小蛋糕",
+          "TraditionalChinese": "可怕黏糊糊喜悅料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_FCUSTARD": {
+          "Id": "FOOD_R_FCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Custard",
+            "SimplifiedChinese": "咸蛋奶沙司",
+            "TencentChinese": "咸蛋奶沙司",
+            "TraditionalChinese": "鹹味卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_412",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_MCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying, Gooey Delight",
+          "SimplifiedChinese": "恐怖黏腻小蛋糕",
+          "TencentChinese": "吓人黏腻小蛋糕",
+          "TraditionalChinese": "可怕黏糊糊喜悅料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_MCUSTARD": {
+          "Id": "FOOD_R_MCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Monstrous Custard",
+            "SimplifiedChinese": "超大蛋奶沙司",
+            "TencentChinese": "超大蛋奶沙司",
+            "TraditionalChinese": "怪物卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_413",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_MCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying, Gooey Delight",
+          "SimplifiedChinese": "恐怖黏腻小蛋糕",
+          "TencentChinese": "吓人黏腻小蛋糕",
+          "TraditionalChinese": "可怕黏糊糊喜悅料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_SCUSTARD": {
+          "Id": "FOOD_R_SCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stellar Custard",
+            "SimplifiedChinese": "星球蛋奶沙司",
+            "TencentChinese": "星球蛋奶沙司",
+            "TraditionalChinese": "星星卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_656",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_MCUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying, Gooey Delight",
+          "SimplifiedChinese": "恐怖黏腻小蛋糕",
+          "TencentChinese": "吓人黏腻小蛋糕",
+          "TraditionalChinese": "可怕黏糊糊喜悅料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

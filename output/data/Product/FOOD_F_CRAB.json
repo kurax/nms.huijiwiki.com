@@ -82,5 +82,358 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1126",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ALL_COM_S2": {
+          "Id": "F_ALL_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mud Crab",
+            "SimplifiedChinese": "泥蟹",
+            "TraditionalChinese": "泥蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1205",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_HOT_LEG_S1": {
+          "Id": "F_HOT_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Starshell Crab",
+            "SimplifiedChinese": "星壳蟹",
+            "TraditionalChinese": "星殼蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product3.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1215",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_COLD_COM_XL": {
+          "Id": "F_COLD_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Hairy Crab",
+            "SimplifiedChinese": "大毛蟹",
+            "TraditionalChinese": "巨型大閘蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1261",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_DUST_RARE_M2": {
+          "Id": "F_DUST_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Silicate Crab",
+            "SimplifiedChinese": "硅蟹",
+            "TraditionalChinese": "矽酸蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1286",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ODD_EPIC_M1": {
+          "Id": "F_ODD_EPIC_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Screaming Crab",
+            "SimplifiedChinese": "尖叫蟹",
+            "TraditionalChinese": "尖叫蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1290",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ODD_LEG_M1": {
+          "Id": "F_ODD_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Atlantidian Crab",
+            "SimplifiedChinese": "阿特兰蒂蟹",
+            "TraditionalChinese": "亞特蘭提德蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1318",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_EPIC_M1": {
+          "Id": "F_GAS_EPIC_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quartzshell Crab",
+            "SimplifiedChinese": "晶壳蟹",
+            "TraditionalChinese": "石英殼蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1339",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_DEEP_EPIC_M1": {
+          "Id": "F_DEEP_EPIC_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Abyssal Crab",
+            "SimplifiedChinese": "深渊蟹",
+            "TraditionalChinese": "深淵蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.crab.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1342",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_DEEP_LEG_S1": {
+          "Id": "F_DEEP_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sentient Crab",
+            "SimplifiedChinese": "智慧螃蟹",
+            "TraditionalChinese": "知能蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.crab.png"
+        }
+      }
+    }
+  ]
 }

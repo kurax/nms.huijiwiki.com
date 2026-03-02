@@ -94,5 +94,90 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "HYPERFUEL2",
+      "Name": {
+        "English": "Warp Hypercore",
+        "SimplifiedChinese": "曲速超核心",
+        "TencentChinese": "曲速超核心",
+        "TraditionalChinese": "空間跳躍超核心"
+      },
+      "Icon": "ui-frontend-icons-products-product.warpcell2.png",
+      "Requirements": [
+        {
+          "Id": "ANTIMATTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Antimatter",
+            "SimplifiedChinese": "反物质",
+            "TencentChinese": "反物质",
+            "TraditionalChinese": "反物質"
+          },
+          "Icon": "ui-frontend-icons-products-product.antimatter.png"
+        },
+        {
+          "Id": "STORM_CRYSTAL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Storm Crystal",
+            "SimplifiedChinese": "风暴水晶",
+            "TencentChinese": "风暴水晶",
+            "TraditionalChinese": "風暴晶"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.stormcrystal.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE1",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_4</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_4</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_4</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice1.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "STORM_CRYSTAL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Storm Crystal",
+            "SimplifiedChinese": "风暴水晶",
+            "TencentChinese": "风暴水晶",
+            "TraditionalChinese": "風暴晶"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.stormcrystal.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ]
 }

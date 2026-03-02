@@ -106,5 +106,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FARMPROD9",
+      "Name": {
+        "English": "Circuit Board",
+        "SimplifiedChinese": "电路板",
+        "TencentChinese": "电路板",
+        "TraditionalChinese": "電路板"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.9.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD4",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Heat Capacitor",
+            "SimplifiedChinese": "热电容",
+            "TencentChinese": "热电容",
+            "TraditionalChinese": "熱能電容器"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.4.png"
+        },
+        {
+          "Id": "FARMPROD5",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Poly Fiber",
+            "SimplifiedChinese": "聚乙烯纤维",
+            "TencentChinese": "聚乙烯纤维",
+            "TraditionalChinese": "聚纖維"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.5.png"
+        }
+      ]
+    }
+  ]
 }

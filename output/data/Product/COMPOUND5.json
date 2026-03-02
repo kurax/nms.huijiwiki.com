@@ -106,5 +106,78 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "STAFF_PART_C",
+      "Name": {
+        "English": "Concentric Transducer",
+        "SimplifiedChinese": "同心换能器",
+        "TraditionalChinese": "同心換能器"
+      },
+      "Icon": "ui-frontend-icons-products-staffpartc.png",
+      "Requirements": [
+        {
+          "Id": "COMPOUND5",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Superconductor",
+            "SimplifiedChinese": "超导体",
+            "TencentChinese": "超导体",
+            "TraditionalChinese": "超導體"
+          },
+          "Icon": "ui-frontend-icons-update3-compound.5.png"
+        },
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "MEGAPROD2",
+      "Name": {
+        "English": "Quantum Processor",
+        "SimplifiedChinese": "量子处理器",
+        "TencentChinese": "量子处理器",
+        "TraditionalChinese": "量子處理器"
+      },
+      "Icon": "ui-frontend-icons-update3-megaprod.2.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD9",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Circuit Board",
+            "SimplifiedChinese": "电路板",
+            "TencentChinese": "电路板",
+            "TraditionalChinese": "電路板"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.9.png"
+        },
+        {
+          "Id": "COMPOUND5",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Superconductor",
+            "SimplifiedChinese": "超导体",
+            "TencentChinese": "超导体",
+            "TraditionalChinese": "超導體"
+          },
+          "Icon": "ui-frontend-icons-update3-compound.5.png"
+        }
+      ]
+    }
+  ]
 }

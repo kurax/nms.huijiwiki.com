@@ -86,5 +86,2582 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "GRENFUEL1",
+      "Name": {
+        "English": "Unstable Plasma",
+        "SimplifiedChinese": "不稳定的等离子",
+        "TencentChinese": "不稳定的等离子",
+        "TraditionalChinese": "不穩定電漿"
+      },
+      "Icon": "ui-frontend-icons-products-product.plasma1.png",
+      "Requirements": [
+        {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        }
+      ]
+    },
+    {
+      "Id": "AM_HOUSING",
+      "Name": {
+        "English": "Antimatter Housing",
+        "SimplifiedChinese": "反物质外壳",
+        "TencentChinese": "反物质外壳",
+        "TraditionalChinese": "反物質容器"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.amhousing.png",
+      "Requirements": [
+        {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_253",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_254",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_255",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_256",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_180",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_DUST",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Cactus Flesh",
+          "SimplifiedChinese": "仙人掌肉",
+          "TencentChinese": "仙人掌肉",
+          "TraditionalChinese": "仙人掌肉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.dusty.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_182",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_RADIO",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Gamma Root",
+          "SimplifiedChinese": "伽马根",
+          "TencentChinese": "伽马根",
+          "TraditionalChinese": "伽瑪根"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.radio.png"
+      },
+      "Ingredients": {
+        "RADIO1": {
+          "Id": "RADIO1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Uranium",
+            "SimplifiedChinese": "铀",
+            "TencentChinese": "铀",
+            "TraditionalChinese": "鈾"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_183",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_SNOW",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Frost Crystal",
+          "SimplifiedChinese": "冰霜水晶",
+          "TencentChinese": "冰霜水晶",
+          "TraditionalChinese": "霜晶"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_142",
+      "RecipeType": {
+        "English": "Requested Operation: Oxygenate Microbes",
+        "SimplifiedChinese": "请求操作：氧化微生物",
+        "TencentChinese": "请求操作：氧化微生物",
+        "TraditionalChinese": "需執行作業：氧化微生物"
+      },
+      "RecipeName": {
+        "English": "Oxygenate Microbes",
+        "SimplifiedChinese": "氧化微生物",
+        "TraditionalChinese": "微生物氧化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_184",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_HOT",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Solanium",
+          "SimplifiedChinese": "日光茄",
+          "TencentChinese": "日光茄",
+          "TraditionalChinese": "日光茄"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+      },
+      "Ingredients": {
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_179",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_LUSH",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Star Bulb",
+          "SimplifiedChinese": "星辰朵",
+          "TencentChinese": "星辰朵",
+          "TraditionalChinese": "星球莖"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.lush.png"
+      },
+      "Ingredients": {
+        "LUSH1": {
+          "Id": {
+            "English": "Rainy %PLANETCLASS%",
+            "SimplifiedChinese": "多雨%PLANETCLASS%",
+            "TencentChinese": "多雨%PLANETCLASS%",
+            "TraditionalChinese": "多雨%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 2
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_132",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Radon",
+          "SimplifiedChinese": "氡",
+          "TencentChinese": "氡",
+          "TraditionalChinese": "氡"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.2.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_65",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Micro-Bubbles",
+        "SimplifiedChinese": "请求操作：提取微气泡",
+        "TencentChinese": "请求操作：提取微气泡",
+        "TraditionalChinese": "需執行作業：萃取微泡"
+      },
+      "RecipeName": {
+        "English": "Extract Micro-Bubbles",
+        "SimplifiedChinese": "提取微气泡",
+        "TraditionalChinese": "萃取微泡"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_146",
+      "RecipeType": {
+        "English": "Requested Operation: Release Captured Oxygen",
+        "SimplifiedChinese": "请求操作：释放捕获的氧",
+        "TencentChinese": "请求操作：释放捕获的氧",
+        "TraditionalChinese": "需執行作業：釋放捕獲氧"
+      },
+      "RecipeName": {
+        "English": "Release Captured Oxygen",
+        "SimplifiedChinese": "释放捕获的氧",
+        "TraditionalChinese": "釋放捕獲氧"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_152",
+      "RecipeType": {
+        "English": "Requested Operation: Release Captured Oxygen",
+        "SimplifiedChinese": "请求操作：释放捕获的氧",
+        "TencentChinese": "请求操作：释放捕获的氧",
+        "TraditionalChinese": "需執行作業：釋放捕獲氧"
+      },
+      "RecipeName": {
+        "English": "Release Captured Oxygen",
+        "SimplifiedChinese": "释放捕获的氧",
+        "TraditionalChinese": "釋放捕獲氧"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_238",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_239",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_240",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_DUST": {
+          "Id": "PLANT_DUST",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Flesh",
+            "SimplifiedChinese": "仙人掌肉",
+            "TencentChinese": "仙人掌肉",
+            "TraditionalChinese": "仙人掌肉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.dusty.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_241",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_242",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_RADIO": {
+          "Id": "PLANT_RADIO",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gamma Root",
+            "SimplifiedChinese": "伽马根",
+            "TencentChinese": "伽马根",
+            "TraditionalChinese": "伽瑪根"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.radio.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_243",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_LUSH": {
+          "Id": "PLANT_LUSH",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Star Bulb",
+            "SimplifiedChinese": "星辰朵",
+            "TencentChinese": "星辰朵",
+            "TraditionalChinese": "星球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.lush.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_133",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen",
+          "SimplifiedChinese": "氮",
+          "TencentChinese": "氮",
+          "TraditionalChinese": "氮"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.1.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_380",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen",
+          "SimplifiedChinese": "氮",
+          "TencentChinese": "氮",
+          "TraditionalChinese": "氮"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.1.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_124",
+      "RecipeType": {
+        "English": "Requested Operation: Efficient Salt Evaporation",
+        "SimplifiedChinese": "请求操作：高效盐蒸发",
+        "TencentChinese": "请求操作：高效盐蒸发",
+        "TraditionalChinese": "需執行作業：高效鹽分蒸發"
+      },
+      "RecipeName": {
+        "English": "Efficient Salt Evaporation",
+        "SimplifiedChinese": "高效盐蒸发",
+        "TraditionalChinese": "高效鹽分蒸發"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 5,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_125",
+      "RecipeType": {
+        "English": "Requested Operation: Chlorine Expansion",
+        "SimplifiedChinese": "请求操作：氯扩张",
+        "TencentChinese": "请求操作：氯扩张",
+        "TraditionalChinese": "需執行作業：膨脹氯"
+      },
+      "RecipeName": {
+        "English": "Chlorine Expansion",
+        "SimplifiedChinese": "氯扩张",
+        "TraditionalChinese": "氯膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 6,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_141",
+      "RecipeType": {
+        "English": "Requested Operation: Bonded Chlorine Extraction",
+        "SimplifiedChinese": "请求操作：提取粘结氯",
+        "TencentChinese": "请求操作：提取粘结氯",
+        "TraditionalChinese": "需執行作業：鍵結氯萃取"
+      },
+      "RecipeName": {
+        "English": "Bonded Chlorine Extraction",
+        "SimplifiedChinese": "提取粘结氯",
+        "TraditionalChinese": "鍵結氯萃取"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_95",
+      "RecipeType": {
+        "English": "Requested Operation: Oxygenate Carbon",
+        "SimplifiedChinese": "请求操作：氧化碳",
+        "TencentChinese": "请求操作：氧化碳",
+        "TraditionalChinese": "需執行作業：將碳氧化"
+      },
+      "RecipeName": {
+        "English": "Oxygenate Carbon",
+        "SimplifiedChinese": "氧化碳",
+        "TraditionalChinese": "將碳氧化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 5,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_96",
+      "RecipeType": {
+        "English": "Requested Operation: Oxygenate Carbon",
+        "SimplifiedChinese": "请求操作：氧化碳",
+        "TencentChinese": "请求操作：氧化碳",
+        "TraditionalChinese": "需執行作業：將碳氧化"
+      },
+      "RecipeName": {
+        "English": "Oxygenate Carbon",
+        "SimplifiedChinese": "氧化碳",
+        "TraditionalChinese": "將碳氧化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 6,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_93",
+      "RecipeType": {
+        "English": "Requested Operation: Oxidize Metal",
+        "SimplifiedChinese": "请求操作：氧化金属",
+        "TencentChinese": "请求操作：氧化金属",
+        "TraditionalChinese": "需執行作業：氧化金屬"
+      },
+      "RecipeName": {
+        "English": "Oxidise Metal",
+        "SimplifiedChinese": "氧化金属",
+        "TraditionalChinese": "金屬氧化"
+      },
+      "TimeToMake": 100,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK3",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Rusted Metal",
+          "SimplifiedChinese": "生锈的金属",
+          "TencentChinese": "生锈的金属",
+          "TraditionalChinese": "生鏽的金屬"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.3.png"
+      },
+      "Ingredients": {
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_94",
+      "RecipeType": {
+        "English": "Requested Operation: Oxidize Metal",
+        "SimplifiedChinese": "请求操作：氧化金属",
+        "TencentChinese": "请求操作：氧化金属",
+        "TraditionalChinese": "需執行作業：氧化金屬"
+      },
+      "RecipeName": {
+        "English": "Oxidise Metal",
+        "SimplifiedChinese": "氧化金属",
+        "TraditionalChinese": "金屬氧化"
+      },
+      "TimeToMake": 100,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Rusted Metal",
+          "SimplifiedChinese": "生锈的金属",
+          "TencentChinese": "生锈的金属",
+          "TraditionalChinese": "生鏽的金屬"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.3.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_85",
+      "RecipeType": {
+        "English": "Requested Operation: Rapid Formation / Evaporation",
+        "SimplifiedChinese": "请求操作：快速成型/蒸发",
+        "TencentChinese": "请求操作：快速成型/蒸发",
+        "TraditionalChinese": "需執行作業：快速形成／蒸發"
+      },
+      "RecipeName": {
+        "English": "Rapid Formation / Evaporation",
+        "SimplifiedChinese": "快速成型/蒸发",
+        "TraditionalChinese": "快速形成/蒸發"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Salt",
+          "SimplifiedChinese": "盐",
+          "TencentChinese": "盐",
+          "TraditionalChinese": "鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_181",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_TOXIC",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Fungal Mold",
+          "SimplifiedChinese": "真菌霉",
+          "TencentChinese": "真菌霉",
+          "TraditionalChinese": "蕈模"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 2
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_97",
+      "RecipeType": {
+        "English": "Requested Operation: Oxygenate Sodium",
+        "SimplifiedChinese": "请求操作：氧化钠",
+        "TencentChinese": "请求操作：氧化钠",
+        "TraditionalChinese": "需執行作業：氧化鈉"
+      },
+      "RecipeName": {
+        "English": "Oxygenate Sodium",
+        "SimplifiedChinese": "氧化钠",
+        "TraditionalChinese": "將鈉氧化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_98",
+      "RecipeType": {
+        "English": "Requested Operation: Oxygenate Sodium",
+        "SimplifiedChinese": "请求操作：氧化钠",
+        "TencentChinese": "请求操作：氧化钠",
+        "TraditionalChinese": "需執行作業：氧化鈉"
+      },
+      "RecipeName": {
+        "English": "Oxygenate Sodium",
+        "SimplifiedChinese": "氧化钠",
+        "TraditionalChinese": "將鈉氧化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_134",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Sulphurine",
+          "SimplifiedChinese": "硫磺",
+          "TencentChinese": "硫磺",
+          "TraditionalChinese": "硫氣"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.3.png"
+      },
+      "Ingredients": {
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_14",
+      "RecipeType": {
+        "English": "Requested Operation: Inefficient Burn",
+        "SimplifiedChinese": "请求操作：不充分燃烧",
+        "TencentChinese": "请求操作：不充分燃烧",
+        "TraditionalChinese": "需執行作業：低效燃燒"
+      },
+      "RecipeName": {
+        "English": "Inefficient Burn",
+        "SimplifiedChinese": "不充分燃烧",
+        "TraditionalChinese": "低效燃燒"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Carbon",
+          "SimplifiedChinese": "碳",
+          "TencentChinese": "碳",
+          "TraditionalChinese": "碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_131",
+      "RecipeType": {
+        "English": "Requested Operation: Mineral Alchemy",
+        "SimplifiedChinese": "请求操作：矿物炼金",
+        "TencentChinese": "请求操作：矿物炼金",
+        "TraditionalChinese": "需執行作業：礦物冶煉"
+      },
+      "RecipeName": {
+        "English": "Mineral Alchemy",
+        "SimplifiedChinese": "配方：矿物炼金",
+        "TraditionalChinese": "礦物冶煉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND3",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Magnetized Ferrite",
+          "SimplifiedChinese": "磁化铁氧体",
+          "TencentChinese": "磁化铁氧体",
+          "TraditionalChinese": "磁化鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+      },
+      "Ingredients": {
+        "ASTEROID3": {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_126",
+      "RecipeType": {
+        "English": "Requested Operation: Efficient Cobalt Ionization",
+        "SimplifiedChinese": "请求操作：高效钴电离",
+        "TencentChinese": "请求操作：高效钴电离",
+        "TraditionalChinese": "需執行作業：高效鈷離子化"
+      },
+      "RecipeName": {
+        "English": "Efficient Cobalt Ionisation",
+        "SimplifiedChinese": "高效钴电离",
+        "TraditionalChinese": "高效鈷離子化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 5,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_127",
+      "RecipeType": {
+        "English": "Requested Operation: Efficient Cobalt Ionization",
+        "SimplifiedChinese": "请求操作：高效钴电离",
+        "TencentChinese": "请求操作：高效钴电离",
+        "TraditionalChinese": "需執行作業：高效鈷離子化"
+      },
+      "RecipeName": {
+        "English": "Efficient Cobalt Ionisation",
+        "SimplifiedChinese": "高效钴电离",
+        "TraditionalChinese": "高效鈷離子化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 6,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_140",
+      "RecipeType": {
+        "English": "Requested Operation: Bonded Cobalt Extraction",
+        "SimplifiedChinese": "请求操作：提取粘结钴",
+        "TencentChinese": "请求操作：提取粘结钴",
+        "TraditionalChinese": "需執行作業：鍵結鈷萃取"
+      },
+      "RecipeName": {
+        "English": "Bonded Cobalt Extraction",
+        "SimplifiedChinese": "提取粘结钴",
+        "TraditionalChinese": "鍵結鈷萃取"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_257",
+      "RecipeType": {
+        "English": "Requested Operation: Advanced Oxygen Capture",
+        "SimplifiedChinese": "请求操作：高级氧气捕获",
+        "TencentChinese": "请求操作：高级氧气捕获",
+        "TraditionalChinese": "需執行作業：先進氧捕捉"
+      },
+      "RecipeName": {
+        "English": "Advanced Oxygen Capture",
+        "SimplifiedChinese": "高级氧气捕获",
+        "TraditionalChinese": "先進氧捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PRODFUEL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Life Support Gel",
+          "SimplifiedChinese": "维生凝胶",
+          "TencentChinese": "维生凝胶",
+          "TraditionalChinese": "維生膠"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.oxygengel.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_248",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Alchemy",
+        "SimplifiedChinese": "请求操作：有色炼金",
+        "TencentChinese": "请求操作：有色炼金",
+        "TraditionalChinese": "需執行作業：有色冶煉"
+      },
+      "RecipeName": {
+        "English": "Chromatic Alchemy",
+        "SimplifiedChinese": "有色炼金",
+        "TraditionalChinese": "有色冶煉"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_249",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Alchemy",
+        "SimplifiedChinese": "请求操作：有色炼金",
+        "TencentChinese": "请求操作：有色炼金",
+        "TraditionalChinese": "需執行作業：有色冶煉"
+      },
+      "RecipeName": {
+        "English": "Chromatic Alchemy",
+        "SimplifiedChinese": "有色炼金",
+        "TraditionalChinese": "有色冶煉"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID3",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Platinum",
+          "SimplifiedChinese": "铂",
+          "TencentChinese": "铂",
+          "TraditionalChinese": "鉑"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_130",
+      "RecipeType": {
+        "English": "Requested Operation: Mineral Alchemy",
+        "SimplifiedChinese": "请求操作：矿物炼金",
+        "TencentChinese": "请求操作：矿物炼金",
+        "TraditionalChinese": "需執行作業：礦物冶煉"
+      },
+      "RecipeName": {
+        "English": "Mineral Alchemy",
+        "SimplifiedChinese": "配方：矿物炼金",
+        "TraditionalChinese": "礦物冶煉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "DUSTY1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Pyrite",
+          "SimplifiedChinese": "黄铁矿",
+          "TencentChinese": "黄铁矿",
+          "TraditionalChinese": "黃鐵礦"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+      },
+      "Ingredients": {
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_129",
+      "RecipeType": {
+        "English": "Requested Operation: Mineral Alchemy",
+        "SimplifiedChinese": "请求操作：矿物炼金",
+        "TencentChinese": "请求操作：矿物炼金",
+        "TraditionalChinese": "需執行作業：礦物冶煉"
+      },
+      "RecipeName": {
+        "English": "Mineral Alchemy",
+        "SimplifiedChinese": "配方：矿物炼金",
+        "TraditionalChinese": "礦物冶煉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": {
+          "English": "Rainy %PLANETCLASS%",
+          "SimplifiedChinese": "多雨%PLANETCLASS%",
+          "TencentChinese": "多雨%PLANETCLASS%",
+          "TraditionalChinese": "多雨%PLANETCLASS%"
+        },
+        "Type": "Substance",
+        "Amount": 2
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    }
+  ]
 }

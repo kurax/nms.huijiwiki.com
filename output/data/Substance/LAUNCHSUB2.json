@@ -86,5 +86,115 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_92",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Cycling",
+        "SimplifiedChinese": "请求操作：循环二氢",
+        "TencentChinese": "请求操作：循环二氢",
+        "TraditionalChinese": "需執行作業：回收二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Cycling",
+        "SimplifiedChinese": "二氢循环",
+        "TraditionalChinese": "二氫循環"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Deuterium",
+          "SimplifiedChinese": "氘",
+          "TencentChinese": "氘",
+          "TraditionalChinese": "氘"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.2.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_336",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Cycling",
+        "SimplifiedChinese": "请求操作：循环二氢",
+        "TencentChinese": "请求操作：循环二氢",
+        "TraditionalChinese": "需執行作業：回收二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Cycling",
+        "SimplifiedChinese": "二氢循环",
+        "TraditionalChinese": "二氫循環"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Deuterium",
+          "SimplifiedChinese": "氘",
+          "TencentChinese": "氘",
+          "TraditionalChinese": "氘"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.2.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "SAND1": {
+          "Id": "SAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silicate Powder",
+            "SimplifiedChinese": "硅酸盐粉末",
+            "TencentChinese": "硅酸盐粉末",
+            "TraditionalChinese": "矽酸粉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.sand.1.png"
+        }
+      }
+    }
+  ]
 }

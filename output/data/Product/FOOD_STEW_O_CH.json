@@ -85,5 +85,220 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_301",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Organ Surprise",
+          "SimplifiedChinese": "刺鼻内脏奇味",
+          "TencentChinese": "刺鼻内脏奇味",
+          "TraditionalChinese": "酸香燉內臟驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_ORGAN_STEW": {
+          "Id": "FOOD_ORGAN_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stewed Organs",
+            "SimplifiedChinese": "炖内脏",
+            "TencentChinese": "炖内脏",
+            "TraditionalChinese": "燉內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_771",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Organ Surprise",
+          "SimplifiedChinese": "刺鼻内脏奇味",
+          "TencentChinese": "刺鼻内脏奇味",
+          "TraditionalChinese": "酸香燉內臟驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BONE": {
+          "Id": "FOOD_STEW_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystalline Soup",
+            "SimplifiedChinese": "晶体汤",
+            "TraditionalChinese": "結晶湯"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_773",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Organ Surprise",
+          "SimplifiedChinese": "刺鼻内脏奇味",
+          "TencentChinese": "刺鼻内脏奇味",
+          "TraditionalChinese": "酸香燉內臟驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BEET": {
+          "Id": "FOOD_STEW_BEET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Goop",
+            "SimplifiedChinese": "胶质粘稠物",
+            "TraditionalChinese": "膠狀黏稠物"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_775",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Organ Surprise",
+          "SimplifiedChinese": "刺鼻内脏奇味",
+          "TencentChinese": "刺鼻内脏奇味",
+          "TraditionalChinese": "酸香燉內臟驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BALL": {
+          "Id": "FOOD_STEW_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy 'Dumpling' Stew",
+            "SimplifiedChinese": "耐嚼炖“饺”",
+            "TraditionalChinese": "Q彈「麵疙瘩」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

@@ -106,5 +106,122 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ROBO_BODY",
+      "Name": {
+        "English": "Construct Shell",
+        "SimplifiedChinese": "构造体外壳",
+        "TraditionalChinese": "構造殼體"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotbody.png",
+      "Requirements": [
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 210,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        },
+        {
+          "Id": "VENTGEM",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Crystal Sulphide",
+            "SimplifiedChinese": "硫化晶体",
+            "TencentChinese": "硫化晶体",
+            "TraditionalChinese": "水晶硫化物"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.ventgem.png"
+        },
+        {
+          "Id": "PRODFUEL2",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Life Support Gel",
+            "SimplifiedChinese": "维生凝胶",
+            "TencentChinese": "维生凝胶",
+            "TraditionalChinese": "維生膠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.oxygengel.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_257",
+      "RecipeType": {
+        "English": "Requested Operation: Advanced Oxygen Capture",
+        "SimplifiedChinese": "请求操作：高级氧气捕获",
+        "TencentChinese": "请求操作：高级氧气捕获",
+        "TraditionalChinese": "需執行作業：先進氧捕捉"
+      },
+      "RecipeName": {
+        "English": "Advanced Oxygen Capture",
+        "SimplifiedChinese": "高级氧气捕获",
+        "TraditionalChinese": "先進氧捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PRODFUEL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Life Support Gel",
+          "SimplifiedChinese": "维生凝胶",
+          "TencentChinese": "维生凝胶",
+          "TraditionalChinese": "維生膠"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.oxygengel.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    }
+  ]
 }

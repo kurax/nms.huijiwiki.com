@@ -86,5 +86,2764 @@
   "CookingIngredient": true,
   "GoodForSelling": false,
   "EasyToRefine": true,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BLD_PLANET_HOLO",
+      "Name": {
+        "English": "Holographic Chart Projector",
+        "SimplifiedChinese": "全息星图投影仪",
+        "TraditionalChinese": "全像星系圖投影儀"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.planethologram.png",
+      "Requirements": [
+        {
+          "Id": "ANTIMATTER",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Antimatter",
+            "SimplifiedChinese": "反物质",
+            "TencentChinese": "反物质",
+            "TraditionalChinese": "反物質"
+          },
+          "Icon": "ui-frontend-icons-products-product.antimatter.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BIOSHIP_COMP3",
+      "Name": {
+        "English": "Impossible Membrane",
+        "SimplifiedChinese": "匪夷所思的膜",
+        "TraditionalChinese": "不可思議黏膜"
+      },
+      "Icon": "ui-frontend-icons-technology-bio-product.biocomp3.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        {
+          "Id": "EXOTIC_BIOPROD",
+          "Type": "Product",
+          "Amount": 150,
+          "Name": {
+            "English": "Living Water",
+            "SimplifiedChinese": "活体水",
+            "TraditionalChinese": "活水"
+          },
+          "Icon": "ui-frontend-icons-technology-bio-product.bioexotic.png"
+        }
+      ]
+    },
+    {
+      "Id": "ANTIMATTER",
+      "Name": {
+        "English": "Antimatter",
+        "SimplifiedChinese": "反物质",
+        "TencentChinese": "反物质",
+        "TraditionalChinese": "反物質"
+      },
+      "Icon": "ui-frontend-icons-products-product.antimatter.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_TOYCORE",
+      "Name": {
+        "English": "Pocket Reality Generator",
+        "SimplifiedChinese": "口袋现实生成器",
+        "TencentChinese": "口袋现实生成器",
+        "TraditionalChinese": "可攜式現實生成器"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.toycore.png",
+      "Requirements": [
+        {
+          "Id": "ANTIMATTER",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Antimatter",
+            "SimplifiedChinese": "反物质",
+            "TencentChinese": "反物质",
+            "TraditionalChinese": "反物質"
+          },
+          "Icon": "ui-frontend-icons-products-product.antimatter.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "MIRROR",
+      "Name": {
+        "English": "Solar Mirror",
+        "SimplifiedChinese": "太阳能镜",
+        "TraditionalChinese": "日鏡"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.mirror.png",
+      "Requirements": [
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ATLAS_SEED5",
+      "Name": {
+        "English": "Seed of Hope",
+        "SimplifiedChinese": "希望之种",
+        "TraditionalChinese": "希望種子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.9.png",
+      "Requirements": [
+        {
+          "Id": "S10_ATLAS_SEED4",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Seed of Life",
+            "SimplifiedChinese": "生命之种",
+            "TraditionalChinese": "生命種子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.5.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "S12_POI_SEED2",
+      "Name": {
+        "English": "Memory of Conquest",
+        "SimplifiedChinese": "征服的回忆",
+        "TraditionalChinese": "征服記憶"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.7.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 99,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 66,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        },
+        {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 33,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "MICROCHIP",
+      "Name": {
+        "English": "Microprocessor",
+        "SimplifiedChinese": "微处理器",
+        "TencentChinese": "微处理器",
+        "TraditionalChinese": "微處理機"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.microchip.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        }
+      ]
+    },
+    {
+      "Id": "ATLAS_SEED_1",
+      "Name": {
+        "English": "Captured Nanode",
+        "SimplifiedChinese": "捕获的纳米节点",
+        "TencentChinese": "捕获的纳米节点",
+        "TraditionalChinese": "捕到的訥結"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.1.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ATLAS_SEED1",
+      "Name": {
+        "English": "Seed of Dreams",
+        "SimplifiedChinese": "梦想之种",
+        "TraditionalChinese": "夢境種子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.10.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "PORTAL_JUICE",
+      "Name": {
+        "English": "Elixir of Quicksilver",
+        "SimplifiedChinese": "水银灵药",
+        "TraditionalChinese": "水銀靈藥"
+      },
+      "Icon": "ui-frontend-icons-products-product.portaljuice.png",
+      "Requirements": [
+        {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 33,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "GAS_BRAIN_LOC",
+      "Name": {
+        "English": "Deep-Space Lure",
+        "SimplifiedChinese": "深空诱饵",
+        "TraditionalChinese": "深空誘餌"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.locator.gaspoi.png",
+      "Requirements": [
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "ROGUE_FINDER",
+      "Name": {
+        "English": "Memory Resonator",
+        "SimplifiedChinese": "记忆共振器",
+        "TraditionalChinese": "記憶共振器"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.roguefinder.png",
+      "Requirements": [
+        {
+          "Id": "TIMEMILK",
+          "Type": "Substance",
+          "Amount": 16,
+          "Name": {
+            "English": "Ancestral Memories",
+            "SimplifiedChinese": "先祖记忆",
+            "TraditionalChinese": "祖傳記憶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.timemilk.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "S19_TP",
+      "Name": {
+        "English": "Orbital Uplink",
+        "SimplifiedChinese": "轨道上行链路",
+        "TraditionalChinese": "軌道通信鏈路"
+      },
+      "Icon": "ui-frontend-icons-products-product.2025.s19_tp.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "COMPUTER",
+      "Name": {
+        "English": "Quantum Computer",
+        "SimplifiedChinese": "量子电脑",
+        "TraditionalChinese": "量子電腦"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.computer.png",
+      "Requirements": [
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        },
+        {
+          "Id": "ANTIMATTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Antimatter",
+            "SimplifiedChinese": "反物质",
+            "TencentChinese": "反物质",
+            "TraditionalChinese": "反物質"
+          },
+          "Icon": "ui-frontend-icons-products-product.antimatter.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE2",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_9</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_9</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_9</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice2.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "ATLAS_SEED_5",
+      "Name": {
+        "English": "Dawn's End",
+        "SimplifiedChinese": "黎明之末",
+        "TencentChinese": "黎明之末",
+        "TraditionalChinese": "黎明之終"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.5.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_4",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dark Matter",
+            "SimplifiedChinese": "暗物质",
+            "TencentChinese": "暗物质",
+            "TraditionalChinese": "暗物質"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.4.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_250",
+      "RecipeType": {
+        "English": "Requested Operation: Antimatter Bypass",
+        "SimplifiedChinese": "请求操作：反物质绕道",
+        "TencentChinese": "请求操作：反物质绕道",
+        "TraditionalChinese": "需執行作業：反物質繞道"
+      },
+      "RecipeName": {
+        "English": "Antimatter Bypass",
+        "SimplifiedChinese": "反物质绕道",
+        "TraditionalChinese": "反物質旁路"
+      },
+      "TimeToMake": 600,
+      "Cooking": false,
+      "Result": {
+        "Id": "HYPERFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Warp Cell",
+          "SimplifiedChinese": "曲速电池",
+          "TencentChinese": "曲速电池",
+          "TraditionalChinese": "跳躍能量包"
+        },
+        "Icon": "ui-frontend-icons-products-product.warpcell.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_251",
+      "RecipeType": {
+        "English": "Requested Operation: Antimatter Bypass",
+        "SimplifiedChinese": "请求操作：反物质绕道",
+        "TencentChinese": "请求操作：反物质绕道",
+        "TraditionalChinese": "需執行作業：反物質繞道"
+      },
+      "RecipeName": {
+        "English": "Antimatter Bypass",
+        "SimplifiedChinese": "反物质绕道",
+        "TraditionalChinese": "反物質旁路"
+      },
+      "TimeToMake": 600,
+      "Cooking": false,
+      "Result": {
+        "Id": "HYPERFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Warp Cell",
+          "SimplifiedChinese": "曲速电池",
+          "TencentChinese": "曲速电池",
+          "TraditionalChinese": "跳躍能量包"
+        },
+        "Icon": "ui-frontend-icons-products-product.warpcell.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_252",
+      "RecipeType": {
+        "English": "Requested Operation: Antimatter Bypass",
+        "SimplifiedChinese": "请求操作：反物质绕道",
+        "TencentChinese": "请求操作：反物质绕道",
+        "TraditionalChinese": "需執行作業：反物質繞道"
+      },
+      "RecipeName": {
+        "English": "Antimatter Bypass",
+        "SimplifiedChinese": "反物质绕道",
+        "TraditionalChinese": "反物質旁路"
+      },
+      "TimeToMake": 600,
+      "Cooking": false,
+      "Result": {
+        "Id": "HYPERFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Warp Cell",
+          "SimplifiedChinese": "曲速电池",
+          "TencentChinese": "曲速电池",
+          "TraditionalChinese": "跳躍能量包"
+        },
+        "Icon": "ui-frontend-icons-products-product.warpcell.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_32",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 70,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "RED2": {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_33",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 25,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "BLUE2": {
+          "Id": "BLUE2",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Indium",
+            "SimplifiedChinese": "铟",
+            "TencentChinese": "铟",
+            "TraditionalChinese": "銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.blue.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_34",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_35",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "YELLOW2": {
+          "Id": "YELLOW2",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Copper",
+            "SimplifiedChinese": "铜",
+            "TencentChinese": "铜",
+            "TraditionalChinese": "銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_36",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 50,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_RED": {
+          "Id": "EX_RED",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Cadmium",
+            "SimplifiedChinese": "活性镉",
+            "TencentChinese": "活性镉",
+            "TraditionalChinese": "活性鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exred.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_37",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_BLUE": {
+          "Id": "EX_BLUE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Indium",
+            "SimplifiedChinese": "活性铟",
+            "TencentChinese": "活性铟",
+            "TraditionalChinese": "活性銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exblue.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_38",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_GREEN": {
+          "Id": "EX_GREEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Emeril",
+            "SimplifiedChinese": "活性艾梅里尔",
+            "TencentChinese": "活性艾梅里尔",
+            "TraditionalChinese": "活性砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exgreen.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_39",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_YELLOW": {
+          "Id": "EX_YELLOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Copper",
+            "SimplifiedChinese": "活性铜",
+            "TencentChinese": "活性铜",
+            "TraditionalChinese": "活性銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exyellow.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_167",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "RED2": {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_168",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_169",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "YELLOW2": {
+          "Id": "YELLOW2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Copper",
+            "SimplifiedChinese": "铜",
+            "TencentChinese": "铜",
+            "TraditionalChinese": "銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_170",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "BLUE2": {
+          "Id": "BLUE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Indium",
+            "SimplifiedChinese": "铟",
+            "TencentChinese": "铟",
+            "TraditionalChinese": "銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.blue.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_175",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_RED": {
+          "Id": "EX_RED",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Cadmium",
+            "SimplifiedChinese": "活性镉",
+            "TencentChinese": "活性镉",
+            "TraditionalChinese": "活性鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exred.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_176",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 8,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_BLUE": {
+          "Id": "EX_BLUE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Indium",
+            "SimplifiedChinese": "活性铟",
+            "TencentChinese": "活性铟",
+            "TraditionalChinese": "活性銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exblue.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_177",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 6,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_GREEN": {
+          "Id": "EX_GREEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Emeril",
+            "SimplifiedChinese": "活性艾梅里尔",
+            "TencentChinese": "活性艾梅里尔",
+            "TraditionalChinese": "活性砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exgreen.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_178",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_YELLOW": {
+          "Id": "EX_YELLOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Copper",
+            "SimplifiedChinese": "活性铜",
+            "TencentChinese": "活性铜",
+            "TraditionalChinese": "活性銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exyellow.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_244",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Stellar Fusion",
+        "SimplifiedChinese": "请求操作：有色星球熔合",
+        "TencentChinese": "请求操作：有色星球熔合",
+        "TraditionalChinese": "需執行作業：有色星體熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Stellar Fusion",
+        "SimplifiedChinese": "有色星球熔合",
+        "TraditionalChinese": "有色星體熔合"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 5,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "YELLOW2": {
+          "Id": "YELLOW2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Copper",
+            "SimplifiedChinese": "铜",
+            "TencentChinese": "铜",
+            "TraditionalChinese": "銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_245",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Stellar Fusion",
+        "SimplifiedChinese": "请求操作：有色星球熔合",
+        "TencentChinese": "请求操作：有色星球熔合",
+        "TraditionalChinese": "需執行作業：有色星體熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Stellar Fusion",
+        "SimplifiedChinese": "有色星球熔合",
+        "TraditionalChinese": "有色星體熔合"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "RED2": {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_246",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Stellar Fusion",
+        "SimplifiedChinese": "请求操作：有色星球熔合",
+        "TencentChinese": "请求操作：有色星球熔合",
+        "TraditionalChinese": "需執行作業：有色星體熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Stellar Fusion",
+        "SimplifiedChinese": "有色星球熔合",
+        "TraditionalChinese": "有色星體熔合"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 20,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_247",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Stellar Fusion",
+        "SimplifiedChinese": "请求操作：有色星球熔合",
+        "TencentChinese": "请求操作：有色星球熔合",
+        "TraditionalChinese": "需執行作業：有色星體熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Stellar Fusion",
+        "SimplifiedChinese": "有色星球熔合",
+        "TraditionalChinese": "有色星體熔合"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 30,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "BLUE2": {
+          "Id": "BLUE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Indium",
+            "SimplifiedChinese": "铟",
+            "TencentChinese": "铟",
+            "TraditionalChinese": "銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.blue.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_337",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_339",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 8,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_340",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 25,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "PURPLE2": {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_343",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "PURPLE2": {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_344",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Stellar Fusion",
+        "SimplifiedChinese": "请求操作：有色星球熔合",
+        "TencentChinese": "请求操作：有色星球熔合",
+        "TraditionalChinese": "需執行作業：有色星體熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Stellar Fusion",
+        "SimplifiedChinese": "有色星球熔合",
+        "TraditionalChinese": "有色星體熔合"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 30,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "PURPLE2": {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_135",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Canalization",
+        "SimplifiedChinese": "请求操作：气体催化",
+        "TencentChinese": "请求操作：气体催化",
+        "TraditionalChinese": "需執行作業：氣體催化"
+      },
+      "RecipeName": {
+        "English": "Gas Catalysation",
+        "SimplifiedChinese": "气体催化",
+        "TraditionalChinese": "氣體催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Radon",
+          "SimplifiedChinese": "氡",
+          "TencentChinese": "氡",
+          "TraditionalChinese": "氡"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.2.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_136",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Canalization",
+        "SimplifiedChinese": "请求操作：气体催化",
+        "TencentChinese": "请求操作：气体催化",
+        "TraditionalChinese": "需執行作業：氣體催化"
+      },
+      "RecipeName": {
+        "English": "Gas Catalysation",
+        "SimplifiedChinese": "气体催化",
+        "TraditionalChinese": "氣體催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen",
+          "SimplifiedChinese": "氮",
+          "TencentChinese": "氮",
+          "TraditionalChinese": "氮"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.1.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_381",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Canalization",
+        "SimplifiedChinese": "请求操作：气体催化",
+        "TencentChinese": "请求操作：气体催化",
+        "TraditionalChinese": "需執行作業：氣體催化"
+      },
+      "RecipeName": {
+        "English": "Gas Catalysation",
+        "SimplifiedChinese": "气体催化",
+        "TraditionalChinese": "氣體催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen",
+          "SimplifiedChinese": "氮",
+          "TencentChinese": "氮",
+          "TraditionalChinese": "氮"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.1.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_341",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Expansion",
+        "SimplifiedChinese": "请求操作：有色扩张",
+        "TencentChinese": "请求操作：有色扩张",
+        "TraditionalChinese": "需執行作業：有色膨脹"
+      },
+      "RecipeName": {
+        "English": "Chromatic Expansion",
+        "SimplifiedChinese": "有色扩张",
+        "TraditionalChinese": "有色膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PURPLE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Quartzite",
+          "SimplifiedChinese": "石英岩",
+          "TraditionalChinese": "石英岩"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+      },
+      "Ingredients": {
+        "PURPLE2": {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_2",
+      "RecipeType": {
+        "English": "Processor Setting: Chromatic Yolk Formation",
+        "SimplifiedChinese": "加工设置：生成彩色蛋黄",
+        "TencentChinese": "加工设置：生成彩色蛋黄",
+        "TraditionalChinese": "處理器設定：組成有色蛋黃"
+      },
+      "RecipeName": {
+        "English": "Chromatic Yolk Formation",
+        "SimplifiedChinese": "生成彩色蛋黄",
+        "TraditionalChinese": "組成有色蛋黃"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_STELLAR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Silicon Egg",
+          "SimplifiedChinese": "硅卵",
+          "TencentChinese": "硅卵",
+          "TraditionalChinese": "矽卵"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.stellarwild.png"
+      },
+      "Ingredients": {
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_137",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Canalization",
+        "SimplifiedChinese": "请求操作：气体催化",
+        "TencentChinese": "请求操作：气体催化",
+        "TraditionalChinese": "需執行作業：氣體催化"
+      },
+      "RecipeName": {
+        "English": "Gas Catalysation",
+        "SimplifiedChinese": "气体催化",
+        "TraditionalChinese": "氣體催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Sulphurine",
+          "SimplifiedChinese": "硫磺",
+          "TencentChinese": "硫磺",
+          "TraditionalChinese": "硫氣"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.3.png"
+      },
+      "Ingredients": {
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_116",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Expansion",
+        "SimplifiedChinese": "请求操作：有色扩张",
+        "TencentChinese": "请求操作：有色扩张",
+        "TraditionalChinese": "需執行作業：有色膨脹"
+      },
+      "RecipeName": {
+        "English": "Chromatic Expansion",
+        "SimplifiedChinese": "有色扩张",
+        "TraditionalChinese": "有色膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GREEN2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Emeril",
+          "SimplifiedChinese": "艾梅里尔",
+          "TencentChinese": "艾梅里尔",
+          "TraditionalChinese": "砪"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+      },
+      "Ingredients": {
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_249",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Alchemy",
+        "SimplifiedChinese": "请求操作：有色炼金",
+        "TencentChinese": "请求操作：有色炼金",
+        "TraditionalChinese": "需執行作業：有色冶煉"
+      },
+      "RecipeName": {
+        "English": "Chromatic Alchemy",
+        "SimplifiedChinese": "有色炼金",
+        "TraditionalChinese": "有色冶煉"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID3",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Platinum",
+          "SimplifiedChinese": "铂",
+          "TencentChinese": "铂",
+          "TraditionalChinese": "鉑"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_117",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Expansion",
+        "SimplifiedChinese": "请求操作：有色扩张",
+        "TencentChinese": "请求操作：有色扩张",
+        "TraditionalChinese": "需執行作業：有色膨脹"
+      },
+      "RecipeName": {
+        "English": "Chromatic Expansion",
+        "SimplifiedChinese": "有色扩张",
+        "TraditionalChinese": "有色膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "YELLOW2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Copper",
+          "SimplifiedChinese": "铜",
+          "TencentChinese": "铜",
+          "TraditionalChinese": "銅"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+      },
+      "Ingredients": {
+        "YELLOW2": {
+          "Id": "YELLOW2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Copper",
+            "SimplifiedChinese": "铜",
+            "TencentChinese": "铜",
+            "TraditionalChinese": "銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_115",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Expansion",
+        "SimplifiedChinese": "请求操作：有色扩张",
+        "TencentChinese": "请求操作：有色扩张",
+        "TraditionalChinese": "需執行作業：有色膨脹"
+      },
+      "RecipeName": {
+        "English": "Chromatic Expansion",
+        "SimplifiedChinese": "有色扩张",
+        "TraditionalChinese": "有色膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "BLUE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Indium",
+          "SimplifiedChinese": "铟",
+          "TencentChinese": "铟",
+          "TraditionalChinese": "銦"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.blue.2.png"
+      },
+      "Ingredients": {
+        "BLUE2": {
+          "Id": "BLUE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Indium",
+            "SimplifiedChinese": "铟",
+            "TencentChinese": "铟",
+            "TraditionalChinese": "銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.blue.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_114",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Expansion",
+        "SimplifiedChinese": "请求操作：有色扩张",
+        "TencentChinese": "请求操作：有色扩张",
+        "TraditionalChinese": "需執行作業：有色膨脹"
+      },
+      "RecipeName": {
+        "English": "Chromatic Expansion",
+        "SimplifiedChinese": "有色扩张",
+        "TraditionalChinese": "有色膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "RED2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Cadmium",
+          "SimplifiedChinese": "镉",
+          "TencentChinese": "镉",
+          "TraditionalChinese": "鎘"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+      },
+      "Ingredients": {
+        "RED2": {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    }
+  ]
 }

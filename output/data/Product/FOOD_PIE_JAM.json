@@ -85,5 +85,115 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_167",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jam Tart",
+          "SimplifiedChinese": "果酱馅饼",
+          "TencentChinese": "果酱馅饼",
+          "TraditionalChinese": "果醬塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_JAM_RAD": {
+          "Id": "FOOD_JAM_RAD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahj'am",
+            "SimplifiedChinese": "格拉果酱",
+            "TencentChinese": "格拉果酱",
+            "TraditionalChinese": "嘎啦果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_168",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jam Tart",
+          "SimplifiedChinese": "果酱馅饼",
+          "TencentChinese": "果酱馅饼",
+          "TraditionalChinese": "果醬塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_JAM_DUST": {
+          "Id": "FOOD_JAM_DUST",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Jelly",
+            "SimplifiedChinese": "仙人掌果冻",
+            "TencentChinese": "仙人掌果冻",
+            "TraditionalChinese": "仙人掌果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    }
+  ]
 }

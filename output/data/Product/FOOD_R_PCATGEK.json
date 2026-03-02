@@ -83,5 +83,59 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1075",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_PCATGEK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Syrupy Proto-Butter",
+          "SimplifiedChinese": "糖浆原型黄油",
+          "TraditionalChinese": "糖漿原始奶油"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GBUTTER": {
+          "Id": "FOOD_R_GBUTTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Butter",
+            "SimplifiedChinese": "原型黄油",
+            "TencentChinese": "原型黄油",
+            "TraditionalChinese": "原始奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_V_PCAT": {
+          "Id": "FOOD_V_PCAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Nectar",
+            "SimplifiedChinese": "糖浆花蜜",
+            "TraditionalChinese": "瓊漿玉液"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    }
+  ]
 }

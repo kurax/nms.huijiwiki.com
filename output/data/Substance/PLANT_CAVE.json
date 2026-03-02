@@ -86,5 +86,845 @@
   "CookingIngredient": true,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_996",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Healthy Wheatblock",
+          "SimplifiedChinese": "健康麦饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "健康小麥塊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_571",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_148",
+      "RecipeType": {
+        "English": "Requested Operation: Harness Organic Nitrogen",
+        "SimplifiedChinese": "请求操作：控制有机氮",
+        "TencentChinese": "请求操作：控制有机氮",
+        "TraditionalChinese": "需執行作業：利用有機氮"
+      },
+      "RecipeName": {
+        "English": "Harness Organic Nitrogren",
+        "SimplifiedChinese": "控制有机氮",
+        "TraditionalChinese": "利用有機氮"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_154",
+      "RecipeType": {
+        "English": "Requested Operation: Harness Organic Nitrogen",
+        "SimplifiedChinese": "请求操作：控制有机氮",
+        "TencentChinese": "请求操作：控制有机氮",
+        "TraditionalChinese": "需執行作業：利用有機氮"
+      },
+      "RecipeName": {
+        "English": "Harness Organic Nitrogren",
+        "SimplifiedChinese": "控制有机氮",
+        "TraditionalChinese": "利用有機氮"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_140",
+      "RecipeType": {
+        "English": "Requested Operation: Bonded Cobalt Extraction",
+        "SimplifiedChinese": "请求操作：提取粘结钴",
+        "TencentChinese": "请求操作：提取粘结钴",
+        "TraditionalChinese": "需執行作業：鍵結鈷萃取"
+      },
+      "RecipeName": {
+        "English": "Bonded Cobalt Extraction",
+        "SimplifiedChinese": "提取粘结钴",
+        "TraditionalChinese": "鍵結鈷萃取"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_143",
+      "RecipeType": {
+        "English": "Requested Operation: Pugneum Washing",
+        "SimplifiedChinese": "请求操作：普茵清洗",
+        "TencentChinese": "请求操作：普茵清洗",
+        "TraditionalChinese": "需執行作業：搏清洗"
+      },
+      "RecipeName": {
+        "English": "Pugneum Washing",
+        "SimplifiedChinese": "普茵清洗",
+        "TraditionalChinese": "搏清洗"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_157",
+      "RecipeType": {
+        "English": "Requested Operation: Ionize Bulbs",
+        "SimplifiedChinese": "请求操作：电离鳞茎",
+        "TencentChinese": "请求操作：电离鳞茎",
+        "TraditionalChinese": "需執行作業：將球莖離子化"
+      },
+      "RecipeName": {
+        "English": "Ionise Bulbs",
+        "SimplifiedChinese": "电离鳞茎",
+        "TraditionalChinese": "球莖離子化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_159",
+      "RecipeType": {
+        "English": "Requested Operation: Ionize Bulbs",
+        "SimplifiedChinese": "请求操作：电离鳞茎",
+        "TencentChinese": "请求操作：电离鳞茎",
+        "TraditionalChinese": "需執行作業：將球莖離子化"
+      },
+      "RecipeName": {
+        "English": "Ionise Bulbs",
+        "SimplifiedChinese": "电离鳞茎",
+        "TraditionalChinese": "球莖離子化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CAVE2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Ionized Cobalt",
+          "SimplifiedChinese": "离子钴",
+          "TencentChinese": "离子钴",
+          "TraditionalChinese": "離子化鈷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_109",
+      "RecipeType": {
+        "English": "Requested Operation: Fertilizer Synthesis",
+        "SimplifiedChinese": "请求操作：化肥合成",
+        "TencentChinese": "请求操作：化肥合成",
+        "TraditionalChinese": "需執行作業：肥料合成"
+      },
+      "RecipeName": {
+        "English": "Fertiliser Synthesis",
+        "SimplifiedChinese": "化肥合成",
+        "TraditionalChinese": "肥料合成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_CAVE",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Marrow Bulb",
+          "SimplifiedChinese": "葫芦朵",
+          "TencentChinese": "葫芦朵",
+          "TraditionalChinese": "葫蘆球莖"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+      },
+      "Ingredients": {
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_110",
+      "RecipeType": {
+        "English": "Requested Operation: Fertilizer Synthesis",
+        "SimplifiedChinese": "请求操作：化肥合成",
+        "TencentChinese": "请求操作：化肥合成",
+        "TraditionalChinese": "需執行作業：肥料合成"
+      },
+      "RecipeName": {
+        "English": "Fertiliser Synthesis",
+        "SimplifiedChinese": "化肥合成",
+        "TraditionalChinese": "肥料合成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_CAVE",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Marrow Bulb",
+          "SimplifiedChinese": "葫芦朵",
+          "TencentChinese": "葫芦朵",
+          "TraditionalChinese": "葫蘆球莖"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+      },
+      "Ingredients": {
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_224",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_CAVE",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Marrow Bulb",
+          "SimplifiedChinese": "葫芦朵",
+          "TencentChinese": "葫芦朵",
+          "TraditionalChinese": "葫蘆球莖"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+      },
+      "Ingredients": {
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_394",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_CAVE",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Marrow Bulb",
+          "SimplifiedChinese": "葫芦朵",
+          "TencentChinese": "葫芦朵",
+          "TraditionalChinese": "葫蘆球莖"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "GASGIANT1": {
+          "Id": {
+            "English": "Gas Giant",
+            "SimplifiedChinese": "气态巨星",
+            "TraditionalChinese": "氣態巨行星"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_64",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Organic Sodium",
+        "SimplifiedChinese": "请求操作：提取有机钠",
+        "TencentChinese": "请求操作：提取有机钠",
+        "TraditionalChinese": "需執行作業：萃取有機鈉"
+      },
+      "RecipeName": {
+        "English": "Extract Organic Sodium",
+        "SimplifiedChinese": "提取有机钠",
+        "TraditionalChinese": "萃取有機鈉"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Sodium",
+          "SimplifiedChinese": "钠",
+          "TencentChinese": "钠",
+          "TraditionalChinese": "鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_145",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Organic Sodium",
+        "SimplifiedChinese": "请求操作：提取有机钠",
+        "TencentChinese": "请求操作：提取有机钠",
+        "TraditionalChinese": "需執行作業：萃取有機鈉"
+      },
+      "RecipeName": {
+        "English": "Extract Organic Sodium",
+        "SimplifiedChinese": "提取有机钠",
+        "TraditionalChinese": "萃取有機鈉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium",
+          "SimplifiedChinese": "钠",
+          "TencentChinese": "钠",
+          "TraditionalChinese": "鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_151",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Organic Sodium",
+        "SimplifiedChinese": "请求操作：提取有机钠",
+        "TencentChinese": "请求操作：提取有机钠",
+        "TraditionalChinese": "需執行作業：萃取有機鈉"
+      },
+      "RecipeName": {
+        "English": "Extract Organic Sodium",
+        "SimplifiedChinese": "提取有机钠",
+        "TraditionalChinese": "萃取有機鈉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium",
+          "SimplifiedChinese": "钠",
+          "TencentChinese": "钠",
+          "TraditionalChinese": "鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_28",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_CAVE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marrow Flesh",
+          "SimplifiedChinese": "骨髓肉",
+          "TencentChinese": "骨髓肉",
+          "TraditionalChinese": "骨髓肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.cavewild.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        }
+      }
+    }
+  ]
 }

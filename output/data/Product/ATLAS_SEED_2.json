@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_3",
+      "Name": {
+        "English": "Noospheric Orb",
+        "SimplifiedChinese": "捕获球体",
+        "TencentChinese": "捕获球体",
+        "TraditionalChinese": "智慧球"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.3.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Englobed Shade",
+            "SimplifiedChinese": "球中的阴影",
+            "TencentChinese": "球中的阴影",
+            "TraditionalChinese": "球狀影"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.2.png"
+        },
+        {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        }
+      ]
+    }
+  ]
 }

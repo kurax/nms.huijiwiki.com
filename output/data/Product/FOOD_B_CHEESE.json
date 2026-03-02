@@ -85,5 +85,226 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_907",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_CHEESE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Curdy Cracker",
+          "SimplifiedChinese": "凝乳饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "凝乳餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_CHEESE": {
+          "Id": "FOOD_R_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tangy Cheese",
+            "SimplifiedChinese": "香浓芝士",
+            "TencentChinese": "香浓芝士",
+            "TraditionalChinese": "香濃乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_908",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_CHEESE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Curdy Cracker",
+          "SimplifiedChinese": "凝乳饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "凝乳餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_909",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_CHEESE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Curdy Cracker",
+          "SimplifiedChinese": "凝乳饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "凝乳餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_910",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_CHEESE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Curdy Cracker",
+          "SimplifiedChinese": "凝乳饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "凝乳餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_BCHEESE": {
+          "Id": "FOOD_R_BCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cheese",
+            "SimplifiedChinese": "骨质奶酪",
+            "TraditionalChinese": "骨頭乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    }
+  ]
 }

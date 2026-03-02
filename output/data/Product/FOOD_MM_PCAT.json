@@ -83,5 +83,111 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1067",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_PCAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Ambrosial Curse",
+          "SimplifiedChinese": "美味诅咒",
+          "TraditionalChinese": "美饌詛咒"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_V_PCAT": {
+          "Id": "FOOD_V_PCAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Nectar",
+            "SimplifiedChinese": "糖浆花蜜",
+            "TraditionalChinese": "瓊漿玉液"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1076",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_PCAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Ambrosial Curse",
+          "SimplifiedChinese": "美味诅咒",
+          "TraditionalChinese": "美饌詛咒"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_PCATBUT": {
+          "Id": "FOOD_R_PCATBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Butter Syrup",
+            "SimplifiedChinese": "黄油糖浆",
+            "TraditionalChinese": "奶油糖漿"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    }
+  ]
 }

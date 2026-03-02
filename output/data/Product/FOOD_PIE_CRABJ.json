@@ -85,5 +85,115 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_164",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_CRABJ",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wriggling Tart",
+          "SimplifiedChinese": "蠕动果馅饼",
+          "TencentChinese": "蠕动果馅饼",
+          "TraditionalChinese": "蠕動塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_V_CRAB": {
+          "Id": "FOOD_V_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crab 'Apple'",
+            "SimplifiedChinese": "蟹肉“苹果”",
+            "TencentChinese": "蟹肉“苹果”",
+            "TraditionalChinese": "蟹肉「蘋果」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_170",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_CRABJ",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wriggling Tart",
+          "SimplifiedChinese": "蠕动果馅饼",
+          "TencentChinese": "蠕动果馅饼",
+          "TraditionalChinese": "蠕動塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    }
+  ]
 }

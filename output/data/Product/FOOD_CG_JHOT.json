@@ -85,5 +85,138 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_369",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_JHOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Startling Fancy",
+          "SimplifiedChinese": "惊人小糕点",
+          "TencentChinese": "惊人小糕点",
+          "TraditionalChinese": "驚嚇花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_675",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_JHOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Startling Fancy",
+          "SimplifiedChinese": "惊人小糕点",
+          "TencentChinese": "惊人小糕点",
+          "TraditionalChinese": "驚嚇花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    }
+  ]
 }

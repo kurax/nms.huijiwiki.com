@@ -83,5 +83,1038 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_775",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Organ Surprise",
+          "SimplifiedChinese": "刺鼻内脏奇味",
+          "TencentChinese": "刺鼻内脏奇味",
+          "TraditionalChinese": "酸香燉內臟驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BALL": {
+          "Id": "FOOD_STEW_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy 'Dumpling' Stew",
+            "SimplifiedChinese": "耐嚼炖“饺”",
+            "TraditionalChinese": "Q彈「麵疙瘩」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_780",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamed Organ Soup",
+          "SimplifiedChinese": "奶油内脏炖汤",
+          "TencentChinese": "奶油内脏炖汤",
+          "TraditionalChinese": "奶油內臟湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BALL": {
+          "Id": "FOOD_STEW_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy 'Dumpling' Stew",
+            "SimplifiedChinese": "耐嚼炖“饺”",
+            "TraditionalChinese": "Q彈「麵疙瘩」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CREAM": {
+          "Id": "FOOD_S_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creamy Sauce",
+            "SimplifiedChinese": "奶油酱",
+            "TencentChinese": "奶油酱",
+            "TraditionalChinese": "鮮奶油醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_790",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Organs",
+          "SimplifiedChinese": "美味炖内脏",
+          "TencentChinese": "美味炖内脏",
+          "TraditionalChinese": "鮮味內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BALL": {
+          "Id": "FOOD_STEW_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy 'Dumpling' Stew",
+            "SimplifiedChinese": "耐嚼炖“饺”",
+            "TraditionalChinese": "Q彈「麵疙瘩」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_829",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_830",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_R_MEAT": {
+          "Id": "FOOD_R_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Meat",
+            "SimplifiedChinese": "加工肉类",
+            "TencentChinese": "加工肉类",
+            "TraditionalChinese": "加工肉品"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meat.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_831",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_MEAT": {
+          "Id": "FOOD_M_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meaty Chunks",
+            "SimplifiedChinese": "肉块",
+            "TencentChinese": "肉块",
+            "TraditionalChinese": "肉塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_832",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_R_SMOKED": {
+          "Id": "FOOD_R_SMOKED",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Smoked Meat",
+            "SimplifiedChinese": "熏肉",
+            "TencentChinese": "熏肉",
+            "TraditionalChinese": "熏肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.smokedmeat.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_833",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_FISH": {
+          "Id": "FOOD_M_FISH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Chunks",
+            "SimplifiedChinese": "盐块",
+            "TencentChinese": "咸手指",
+            "TraditionalChinese": "鹹肉塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_834",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_FLYER": {
+          "Id": "FOOD_M_FLYER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meaty Wings",
+            "SimplifiedChinese": "肉翅",
+            "TencentChinese": "肉翅",
+            "TraditionalChinese": "肉翅"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_835",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_FIEND": {
+          "Id": "FOOD_M_FIEND",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fiendish Roe",
+            "SimplifiedChinese": "恶魔卵",
+            "TencentChinese": "恶魔卵",
+            "TraditionalChinese": "惡魔卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_836",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_BLOB": {
+          "Id": "FOOD_M_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Offal Sac",
+            "SimplifiedChinese": "内脏囊",
+            "TencentChinese": "内脏囊",
+            "TraditionalChinese": "內臟囊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_837",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_GEK": {
+          "Id": "FOOD_M_GEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoSausage",
+            "SimplifiedChinese": "原始香肠",
+            "TencentChinese": "原始香肠",
+            "TraditionalChinese": "原始香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_838",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_DIPLO": {
+          "Id": "FOOD_M_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Diplo Chunks",
+            "SimplifiedChinese": "迪普洛块",
+            "TencentChinese": "迪普洛块",
+            "TraditionalChinese": "迪普洛塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_839",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_REX": {
+          "Id": "FOOD_M_REX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scaly Meat",
+            "SimplifiedChinese": "鳞肉",
+            "TencentChinese": "鳞肉",
+            "TraditionalChinese": "鱗肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_840",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_CAT": {
+          "Id": "FOOD_M_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Feline Liver",
+            "SimplifiedChinese": "猫科肝",
+            "TencentChinese": "猫科肝",
+            "TraditionalChinese": "貓科肝"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_841",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_STRIDER": {
+          "Id": "FOOD_M_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Strider Sausage",
+            "SimplifiedChinese": "水黾香肠",
+            "TencentChinese": "水黾香肠",
+            "TraditionalChinese": "水黽香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_842",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_COW": {
+          "Id": "FOOD_M_COW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Raw Steak",
+            "SimplifiedChinese": "生肉排",
+            "TencentChinese": "生肉排",
+            "TraditionalChinese": "生牛排"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_843",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_CRAB": {
+          "Id": "FOOD_M_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Leg Meat",
+            "SimplifiedChinese": "腿肉",
+            "TencentChinese": "腿肉",
+            "TraditionalChinese": "腿肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1026",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_BALL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chewy 'Dumpling' Stew",
+          "SimplifiedChinese": "耐嚼炖“饺”",
+          "TraditionalChinese": "Q彈「麵疙瘩」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_BUG": {
+          "Id": "FOOD_M_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Juicy Thorax",
+            "SimplifiedChinese": "多汁的胸腔",
+            "TraditionalChinese": "多汁的胸腔"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_785",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Devilled Organs",
+          "SimplifiedChinese": "辣味炖内脏",
+          "TencentChinese": "辣味炖内脏",
+          "TraditionalChinese": "魔鬼鑲內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BALL": {
+          "Id": "FOOD_STEW_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy 'Dumpling' Stew",
+            "SimplifiedChinese": "耐嚼炖“饺”",
+            "TraditionalChinese": "Q彈「麵疙瘩」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_HOT": {
+          "Id": "FOOD_S_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scorching Sauce",
+            "SimplifiedChinese": "炙热酱",
+            "TencentChinese": "炙热酱",
+            "TraditionalChinese": "嗆辣醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

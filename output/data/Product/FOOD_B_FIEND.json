@@ -85,5 +85,172 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_917",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_FIEND",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Haunted Wafer",
+          "SimplifiedChinese": "幽灵华夫饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "鬼影威化餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_918",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_FIEND",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Haunted Wafer",
+          "SimplifiedChinese": "幽灵华夫饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "鬼影威化餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_967",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_FIEND",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Haunted Wafer",
+          "SimplifiedChinese": "幽灵华夫饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "鬼影威化餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_M_FIEND": {
+          "Id": "FOOD_M_FIEND",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fiendish Roe",
+            "SimplifiedChinese": "恶魔卵",
+            "TencentChinese": "恶魔卵",
+            "TraditionalChinese": "惡魔卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    }
+  ]
 }

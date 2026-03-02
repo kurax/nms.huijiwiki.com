@@ -86,5 +86,860 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": true,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BIO",
+      "Name": {
+        "English": "Amino Chamber",
+        "SimplifiedChinese": "氨基舱",
+        "TraditionalChinese": "胺基艙"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.bio.png",
+      "Requirements": [
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        },
+        {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_319",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen Salt",
+          "SimplifiedChinese": "氮盐",
+          "TencentChinese": "氮盐",
+          "TraditionalChinese": "氮鹽"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.3.png"
+      },
+      "Ingredients": {
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_322",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen Salt",
+          "SimplifiedChinese": "氮盐",
+          "TencentChinese": "氮盐",
+          "TraditionalChinese": "氮鹽"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.3.png"
+      },
+      "Ingredients": {
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_46",
+      "RecipeType": {
+        "English": "Requested Operation: Concentrate Salt",
+        "SimplifiedChinese": "请求操作：浓缩盐",
+        "TencentChinese": "请求操作：浓缩盐",
+        "TraditionalChinese": "需執行作業：將鹽濃縮"
+      },
+      "RecipeName": {
+        "English": "Concentrate Salt",
+        "SimplifiedChinese": "浓缩盐",
+        "TraditionalChinese": "濃縮鹽"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_124",
+      "RecipeType": {
+        "English": "Requested Operation: Efficient Salt Evaporation",
+        "SimplifiedChinese": "请求操作：高效盐蒸发",
+        "TencentChinese": "请求操作：高效盐蒸发",
+        "TraditionalChinese": "需執行作業：高效鹽分蒸發"
+      },
+      "RecipeName": {
+        "English": "Efficient Salt Evaporation",
+        "SimplifiedChinese": "高效盐蒸发",
+        "TraditionalChinese": "高效鹽分蒸發"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 5,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_125",
+      "RecipeType": {
+        "English": "Requested Operation: Chlorine Expansion",
+        "SimplifiedChinese": "请求操作：氯扩张",
+        "TencentChinese": "请求操作：氯扩张",
+        "TraditionalChinese": "需執行作業：膨脹氯"
+      },
+      "RecipeName": {
+        "English": "Chlorine Expansion",
+        "SimplifiedChinese": "氯扩张",
+        "TraditionalChinese": "氯膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 6,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_141",
+      "RecipeType": {
+        "English": "Requested Operation: Bonded Chlorine Extraction",
+        "SimplifiedChinese": "请求操作：提取粘结氯",
+        "TencentChinese": "请求操作：提取粘结氯",
+        "TraditionalChinese": "需執行作業：鍵結氯萃取"
+      },
+      "RecipeName": {
+        "English": "Bonded Chlorine Extraction",
+        "SimplifiedChinese": "提取粘结氯",
+        "TraditionalChinese": "鍵結氯萃取"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_144",
+      "RecipeType": {
+        "English": "Requested Operation: Pugneum Washing",
+        "SimplifiedChinese": "请求操作：普茵清洗",
+        "TencentChinese": "请求操作：普茵清洗",
+        "TraditionalChinese": "需執行作業：搏清洗"
+      },
+      "RecipeName": {
+        "English": "Pugneum Washing",
+        "SimplifiedChinese": "普茵清洗",
+        "TraditionalChinese": "搏清洗"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_158",
+      "RecipeType": {
+        "English": "Requested Operation: Dissolve Natural Salts",
+        "SimplifiedChinese": "请求操作：溶解自然盐",
+        "TencentChinese": "请求操作：溶解自然盐",
+        "TraditionalChinese": "需執行作業：溶解天然鹽"
+      },
+      "RecipeName": {
+        "English": "Dissolve Natural Salts",
+        "SimplifiedChinese": "溶解自然盐",
+        "TraditionalChinese": "溶解天然鹽"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_160",
+      "RecipeType": {
+        "English": "Requested Operation: Dissolve Natural Salts",
+        "SimplifiedChinese": "请求操作：溶解自然盐",
+        "TencentChinese": "请求操作：溶解自然盐",
+        "TraditionalChinese": "需執行作業：溶解天然鹽"
+      },
+      "RecipeName": {
+        "English": "Dissolve Natural Salts",
+        "SimplifiedChinese": "溶解自然盐",
+        "TraditionalChinese": "溶解天然鹽"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_318",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Enriched Carbon",
+          "SimplifiedChinese": "浓化碳",
+          "TencentChinese": "浓化碳",
+          "TraditionalChinese": "濃化碳"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.2.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_321",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Enriched Carbon",
+          "SimplifiedChinese": "浓化碳",
+          "TencentChinese": "浓化碳",
+          "TraditionalChinese": "濃化碳"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.2.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_317",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Thermic Condensate",
+          "SimplifiedChinese": "热凝物",
+          "TencentChinese": "热凝物",
+          "TraditionalChinese": "導熱凝液"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.1.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_320",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Thermic Condensate",
+          "SimplifiedChinese": "热凝物",
+          "TencentChinese": "热凝物",
+          "TraditionalChinese": "導熱凝液"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.1.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_47",
+      "RecipeType": {
+        "English": "Requested Operation: Salt Production",
+        "SimplifiedChinese": "请求操作：盐制品",
+        "TencentChinese": "请求操作：盐制品",
+        "TraditionalChinese": "需執行作業：製鹽"
+      },
+      "RecipeName": {
+        "English": "Salt Production",
+        "SimplifiedChinese": "盐制品",
+        "TraditionalChinese": "製鹽"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Salt",
+          "SimplifiedChinese": "盐",
+          "TencentChinese": "盐",
+          "TraditionalChinese": "鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+      },
+      "Ingredients": {
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    }
+  ]
 }

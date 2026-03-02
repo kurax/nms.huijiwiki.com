@@ -85,5 +85,768 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_301",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tangy Organ Surprise",
+          "SimplifiedChinese": "刺鼻内脏奇味",
+          "TencentChinese": "刺鼻内脏奇味",
+          "TraditionalChinese": "酸香燉內臟驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_ORGAN_STEW": {
+          "Id": "FOOD_ORGAN_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stewed Organs",
+            "SimplifiedChinese": "炖内脏",
+            "TencentChinese": "炖内脏",
+            "TraditionalChinese": "燉內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CHEESE": {
+          "Id": "FOOD_S_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Partially-Liquid Cheese",
+            "SimplifiedChinese": "充液芝士",
+            "TencentChinese": "充液芝士",
+            "TraditionalChinese": "半液態乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_304",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamed Organ Soup",
+          "SimplifiedChinese": "奶油内脏炖汤",
+          "TencentChinese": "奶油内脏炖汤",
+          "TraditionalChinese": "奶油內臟湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_ORGAN_STEW": {
+          "Id": "FOOD_ORGAN_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stewed Organs",
+            "SimplifiedChinese": "炖内脏",
+            "TencentChinese": "炖内脏",
+            "TraditionalChinese": "燉內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CREAM": {
+          "Id": "FOOD_S_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creamy Sauce",
+            "SimplifiedChinese": "奶油酱",
+            "TencentChinese": "奶油酱",
+            "TraditionalChinese": "鮮奶油醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_205",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BLOB": {
+          "Id": "FOOD_M_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Offal Sac",
+            "SimplifiedChinese": "内脏囊",
+            "TencentChinese": "内脏囊",
+            "TraditionalChinese": "內臟囊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_206",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_CAT": {
+          "Id": "FOOD_M_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Feline Liver",
+            "SimplifiedChinese": "猫科肝",
+            "TencentChinese": "猫科肝",
+            "TraditionalChinese": "貓科肝"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_207",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BLOB": {
+          "Id": "FOOD_M_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Offal Sac",
+            "SimplifiedChinese": "内脏囊",
+            "TencentChinese": "内脏囊",
+            "TraditionalChinese": "內臟囊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_CAT": {
+          "Id": "FOOD_M_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Feline Liver",
+            "SimplifiedChinese": "猫科肝",
+            "TencentChinese": "猫科肝",
+            "TraditionalChinese": "貓科肝"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_791",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_792",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_CAT": {
+          "Id": "FOOD_M_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Feline Liver",
+            "SimplifiedChinese": "猫科肝",
+            "TencentChinese": "猫科肝",
+            "TraditionalChinese": "貓科肝"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_793",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_BLOB": {
+          "Id": "FOOD_M_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Offal Sac",
+            "SimplifiedChinese": "内脏囊",
+            "TencentChinese": "内脏囊",
+            "TraditionalChinese": "內臟囊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_794",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_BONE": {
+          "Id": "FOOD_M_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystal Flesh",
+            "SimplifiedChinese": "水晶肉",
+            "TraditionalChinese": "晶狀肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_795",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_DRILL": {
+          "Id": "FOOD_M_DRILL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Latticed Sinew",
+            "SimplifiedChinese": "缀合肌腱",
+            "TraditionalChinese": "晶格筋"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_796",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_BEETLE": {
+          "Id": "FOOD_M_BEETLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crunchy Wings",
+            "SimplifiedChinese": "松脆的翅膀",
+            "TraditionalChinese": "酥脆翅"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_797",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_798",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ORGAN_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Stewed Organs",
+          "SimplifiedChinese": "炖内脏",
+          "TencentChinese": "炖内脏",
+          "TraditionalChinese": "燉內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_M_DIGGER": {
+          "Id": "FOOD_M_DIGGER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dirty Meat",
+            "SimplifiedChinese": "肮脏的肉",
+            "TraditionalChinese": "骯髒肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_310",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Organs",
+          "SimplifiedChinese": "美味炖内脏",
+          "TencentChinese": "美味炖内脏",
+          "TraditionalChinese": "鮮味內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_ORGAN_STEW": {
+          "Id": "FOOD_ORGAN_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stewed Organs",
+            "SimplifiedChinese": "炖内脏",
+            "TencentChinese": "炖内脏",
+            "TraditionalChinese": "燉內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_307",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_HOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Devilled Organs",
+          "SimplifiedChinese": "辣味炖内脏",
+          "TencentChinese": "辣味炖内脏",
+          "TraditionalChinese": "魔鬼鑲內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_ORGAN_STEW": {
+          "Id": "FOOD_ORGAN_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stewed Organs",
+            "SimplifiedChinese": "炖内脏",
+            "TencentChinese": "炖内脏",
+            "TraditionalChinese": "燉內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_HOT": {
+          "Id": "FOOD_S_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scorching Sauce",
+            "SimplifiedChinese": "炙热酱",
+            "TencentChinese": "炙热酱",
+            "TraditionalChinese": "嗆辣醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

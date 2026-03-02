@@ -85,5 +85,159 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_951",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Healthy Wheatblock",
+          "SimplifiedChinese": "健康麦饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "健康小麥塊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_P_ALL1": {
+          "Id": "FOOD_P_ALL1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Heptaploid Wheat",
+            "SimplifiedChinese": "七倍体小麦",
+            "TencentChinese": "七倍体小麦",
+            "TraditionalChinese": "七倍體小麥"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all1wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_551",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL1": {
+          "Id": "FOOD_P_ALL1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Heptaploid Wheat",
+            "SimplifiedChinese": "七倍体小麦",
+            "TencentChinese": "七倍体小麦",
+            "TraditionalChinese": "七倍體小麥"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all1wild.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_10",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Refining",
+        "SimplifiedChinese": "加工设置：完善营养",
+        "TencentChinese": "加工设置：完善营养",
+        "TraditionalChinese": "處理器設定：煉製營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Refining",
+        "SimplifiedChinese": "精炼营养",
+        "TraditionalChinese": "煉製營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_FLOUR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Refined Flour",
+          "SimplifiedChinese": "精制面粉",
+          "TencentChinese": "精制面粉",
+          "TraditionalChinese": "精製麵粉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+      },
+      "Ingredients": {
+        "FOOD_P_ALL1": {
+          "Id": "FOOD_P_ALL1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Heptaploid Wheat",
+            "SimplifiedChinese": "七倍体小麦",
+            "TencentChinese": "七倍体小麦",
+            "TraditionalChinese": "七倍體小麥"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all1wild.png"
+        }
+      }
+    }
+  ]
 }

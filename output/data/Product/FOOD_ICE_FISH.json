@@ -85,5 +85,115 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_498",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_FISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Briney Rime",
+          "SimplifiedChinese": "布兰尼冰淇淋",
+          "TencentChinese": "布兰尼冰淇淋",
+          "TraditionalChinese": "鹹濕魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FCUSTARD": {
+          "Id": "FOOD_R_FCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Custard",
+            "SimplifiedChinese": "咸蛋奶沙司",
+            "TencentChinese": "咸蛋奶沙司",
+            "TraditionalChinese": "鹹味卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_499",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_FISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Briney Rime",
+          "SimplifiedChinese": "布兰尼冰淇淋",
+          "TencentChinese": "布兰尼冰淇淋",
+          "TraditionalChinese": "鹹濕魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FCUSTARD": {
+          "Id": "FOOD_R_FCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Custard",
+            "SimplifiedChinese": "咸蛋奶沙司",
+            "TencentChinese": "咸蛋奶沙司",
+            "TraditionalChinese": "鹹味卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        }
+      }
+    }
+  ]
 }

@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1223",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_TURTLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Boiled Flipper",
+          "SimplifiedChinese": "水煮鳍足",
+          "TraditionalChinese": "川燙鰭足"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_COLD_EPIC_M1": {
+          "Id": "F_COLD_EPIC_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Iceshell Turtle",
+            "SimplifiedChinese": "冰壳龟",
+            "TraditionalChinese": "冰殼龜"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.turtle.png"
+        }
+      }
+    }
+  ]
 }

@@ -85,5 +85,531 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_508",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_V_CRAB": {
+          "Id": "FOOD_V_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crab 'Apple'",
+            "SimplifiedChinese": "蟹肉“苹果”",
+            "TencentChinese": "蟹肉“苹果”",
+            "TraditionalChinese": "蟹肉「蘋果」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_509",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_V_CRAB": {
+          "Id": "FOOD_V_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crab 'Apple'",
+            "SimplifiedChinese": "蟹肉“苹果”",
+            "TencentChinese": "蟹肉“苹果”",
+            "TraditionalChinese": "蟹肉「蘋果」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_510",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_511",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_590",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_V_CRAB": {
+          "Id": "FOOD_V_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crab 'Apple'",
+            "SimplifiedChinese": "蟹肉“苹果”",
+            "TencentChinese": "蟹肉“苹果”",
+            "TraditionalChinese": "蟹肉「蘋果」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_591",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_V_CRAB": {
+          "Id": "FOOD_V_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crab 'Apple'",
+            "SimplifiedChinese": "蟹肉“苹果”",
+            "TencentChinese": "蟹肉“苹果”",
+            "TraditionalChinese": "蟹肉「蘋果」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_592",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_593",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "'Apple' Ice Cream",
+          "SimplifiedChinese": "苹果冰淇淋",
+          "TencentChinese": "苹果冰淇淋",
+          "TraditionalChinese": "「蘋果」冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    }
+  ]
 }

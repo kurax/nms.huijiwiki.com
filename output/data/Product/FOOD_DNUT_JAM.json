@@ -85,5 +85,223 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_91",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jam Doughnut",
+          "SimplifiedChinese": "果酱甜甜圈",
+          "TencentChinese": "果酱甜甜圈",
+          "TraditionalChinese": "果醬甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_92",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jam Doughnut",
+          "SimplifiedChinese": "果酱甜甜圈",
+          "TencentChinese": "果酱甜甜圈",
+          "TraditionalChinese": "果醬甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_JAM_RAD": {
+          "Id": "FOOD_JAM_RAD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahj'am",
+            "SimplifiedChinese": "格拉果酱",
+            "TencentChinese": "格拉果酱",
+            "TraditionalChinese": "嘎啦果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_93",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jam Doughnut",
+          "SimplifiedChinese": "果酱甜甜圈",
+          "TencentChinese": "果酱甜甜圈",
+          "TraditionalChinese": "果醬甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_JAM_DUST": {
+          "Id": "FOOD_JAM_DUST",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Jelly",
+            "SimplifiedChinese": "仙人掌果冻",
+            "TencentChinese": "仙人掌果冻",
+            "TraditionalChinese": "仙人掌果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_94",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jam Doughnut",
+          "SimplifiedChinese": "果酱甜甜圈",
+          "TencentChinese": "果酱甜甜圈",
+          "TraditionalChinese": "果醬甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_JAM_CAT": {
+          "Id": "FOOD_JAM_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Furball Jelly",
+            "SimplifiedChinese": "毛球果冻",
+            "TencentChinese": "毛球果冻",
+            "TraditionalChinese": "毛球果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        }
+      }
+    }
+  ]
 }

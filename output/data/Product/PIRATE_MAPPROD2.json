@@ -92,5 +92,51 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "PIRATE_MAPWHOLE",
+      "Name": {
+        "English": "Pirate Map",
+        "SimplifiedChinese": "海盗地图",
+        "TraditionalChinese": "海盜地圖"
+      },
+      "Icon": "ui-frontend-icons-products-piratemapwhole.png",
+      "Requirements": [
+        {
+          "Id": "PIRATE_MAPPROD0",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pirate Map Fragment 1 of 3",
+            "SimplifiedChinese": "海盗地图碎片3片中的第1片",
+            "TraditionalChinese": "海盜地圖碎片 1/3"
+          },
+          "Icon": "ui-frontend-icons-products-piratemap0.png"
+        },
+        {
+          "Id": "PIRATE_MAPPROD1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pirate Map Fragment 2 of 3",
+            "SimplifiedChinese": "海盗地图碎片3片中的第2片",
+            "TraditionalChinese": "海盜地圖碎片 2/3"
+          },
+          "Icon": "ui-frontend-icons-products-piratemap1.png"
+        },
+        {
+          "Id": "PIRATE_MAPPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pirate Map Fragment 3 of 3",
+            "SimplifiedChinese": "海盗地图碎片3片中的第3片",
+            "TraditionalChinese": "海盜地圖碎片 3/3"
+          },
+          "Icon": "ui-frontend-icons-products-piratemap2.png"
+        }
+      ]
+    }
+  ]
 }

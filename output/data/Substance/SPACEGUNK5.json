@@ -77,5 +77,91 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_55",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK4",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Living Slime",
+          "SimplifiedChinese": "活体黏质",
+          "TencentChinese": "活体黏质",
+          "TraditionalChinese": "活軟泥"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK5": {
+          "Id": "SPACEGUNK5",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Fluids",
+            "SimplifiedChinese": "粘性流质",
+            "TencentChinese": "粘性流质",
+            "TraditionalChinese": "黏稠液體"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.5.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_51",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK5",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Viscous Fluids",
+          "SimplifiedChinese": "粘性流质",
+          "TencentChinese": "粘性流质",
+          "TraditionalChinese": "黏稠液體"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.5.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK1": {
+          "Id": "SPACEGUNK1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Residual Goop",
+            "SimplifiedChinese": "剩余粘稠物",
+            "TencentChinese": "剩余粘稠物",
+            "TraditionalChinese": "殘餘黏液"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.1.png"
+        }
+      }
+    }
+  ]
 }

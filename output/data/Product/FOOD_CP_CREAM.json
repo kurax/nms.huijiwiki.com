@@ -83,5 +83,110 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1093",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_CREAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamy Clouds of Nectar",
+          "SimplifiedChinese": "绵软花蜜云",
+          "TraditionalChinese": "綿密玉液雲朵"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1114",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_CREAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamy Clouds of Nectar",
+          "SimplifiedChinese": "绵软花蜜云",
+          "TraditionalChinese": "綿密玉液雲朵"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    }
+  ]
 }

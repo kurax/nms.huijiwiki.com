@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1335",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_M2": {
+          "Id": "F_DEEP_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Luminescent Coral",
+            "SimplifiedChinese": "发光珊瑚",
+            "TraditionalChinese": "發光珊瑚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.coral.3.png"
+        }
+      }
+    }
+  ]
 }

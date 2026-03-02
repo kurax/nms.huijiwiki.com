@@ -85,5 +85,114 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_392",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Custard Fancy",
+          "SimplifiedChinese": "黏腻蛋奶小糕点",
+          "TencentChinese": "黏腻蛋奶小糕点",
+          "TraditionalChinese": "黏糊糊卡士達醬花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_653",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Custard Fancy",
+          "SimplifiedChinese": "黏腻蛋奶小糕点",
+          "TencentChinese": "黏腻蛋奶小糕点",
+          "TraditionalChinese": "黏糊糊卡士達醬花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

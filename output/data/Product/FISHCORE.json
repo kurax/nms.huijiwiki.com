@@ -95,5 +95,156 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_894",
+      "RecipeType": {
+        "English": "Processor Setting: Preserve Flesh",
+        "SimplifiedChinese": "加工设置：肉类保鲜",
+        "TencentChinese": "加工设置：肉类保鲜",
+        "TraditionalChinese": "處理器設定：保存肉品"
+      },
+      "RecipeName": {
+        "English": "Preserve Flesh",
+        "SimplifiedChinese": "保藏肉类",
+        "TraditionalChinese": "保存肉品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nightmare Sausage",
+          "SimplifiedChinese": "噩梦香肠",
+          "TraditionalChinese": "夢魘香腸"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+      },
+      "Ingredients": {
+        "FOOD_W_CASE": {
+          "Id": "FOOD_W_CASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Membrane",
+            "SimplifiedChinese": "凝胶薄膜",
+            "TraditionalChinese": "膠狀黏膜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        },
+        "FISHCORE": {
+          "Id": "FISHCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hadal Core",
+            "SimplifiedChinese": "超深渊核心",
+            "TencentChinese": "超深渊核心",
+            "TraditionalChinese": "海溝核心"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fishcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_4",
+      "RecipeType": {
+        "English": "Requested Operation: Doom Cycling",
+        "SimplifiedChinese": "请求操作：厄运循环",
+        "TencentChinese": "请求操作：厄运循环",
+        "TraditionalChinese": "需執行作業：殞滅循環"
+      },
+      "RecipeName": {
+        "English": "Doom Cycling",
+        "SimplifiedChinese": "厄运循环",
+        "TraditionalChinese": "殞滅循環"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "FISHCORE": {
+          "Id": "FISHCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hadal Core",
+            "SimplifiedChinese": "超深渊核心",
+            "TencentChinese": "超深渊核心",
+            "TraditionalChinese": "海溝核心"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fishcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_913",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_FISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Biscuit",
+          "SimplifiedChinese": "鱼饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "魚餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FISHCORE": {
+          "Id": "FISHCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hadal Core",
+            "SimplifiedChinese": "超深渊核心",
+            "TencentChinese": "超深渊核心",
+            "TraditionalChinese": "海溝核心"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fishcore.png"
+        }
+      }
+    }
+  ]
 }

@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FARMPROD7",
+      "Name": {
+        "English": "Liquid Explosive",
+        "SimplifiedChinese": "液体炸弹",
+        "TencentChinese": "液体炸弹",
+        "TraditionalChinese": "液體炸彈"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.7.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Acid",
+            "SimplifiedChinese": "酸",
+            "TencentChinese": "酸",
+            "TraditionalChinese": "酸劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.1.png"
+        },
+        {
+          "Id": "FARMPROD6",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Unstable Gel",
+            "SimplifiedChinese": "不稳定的凝胶",
+            "TencentChinese": "不稳定的凝胶",
+            "TraditionalChinese": "不穩定凝膠"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.6.png"
+        }
+      ]
+    }
+  ]
 }

@@ -106,5 +106,205 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_258",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Capture",
+        "SimplifiedChinese": "请求操作：捕获二氢",
+        "TencentChinese": "请求操作：捕获二氢",
+        "TraditionalChinese": "需執行作業：擷取二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Capture",
+        "SimplifiedChinese": "二氢捕获",
+        "TraditionalChinese": "二氫捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHFUEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Starship Launch Fuel",
+          "SimplifiedChinese": "飞船发射燃料",
+          "TencentChinese": "飞船发射燃料",
+          "TraditionalChinese": "太空船啟動燃料"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.launchfuel.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_259",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Capture",
+        "SimplifiedChinese": "请求操作：捕获二氢",
+        "TencentChinese": "请求操作：捕获二氢",
+        "TraditionalChinese": "需執行作業：擷取二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Capture",
+        "SimplifiedChinese": "二氢捕获",
+        "TraditionalChinese": "二氫捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHFUEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Starship Launch Fuel",
+          "SimplifiedChinese": "飞船发射燃料",
+          "TencentChinese": "飞船发射燃料",
+          "TraditionalChinese": "太空船啟動燃料"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.launchfuel.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_260",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Capture",
+        "SimplifiedChinese": "请求操作：捕获二氢",
+        "TencentChinese": "请求操作：捕获二氢",
+        "TraditionalChinese": "需執行作業：擷取二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Capture",
+        "SimplifiedChinese": "二氢捕获",
+        "TraditionalChinese": "二氫捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHFUEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Starship Launch Fuel",
+          "SimplifiedChinese": "飞船发射燃料",
+          "TencentChinese": "飞船发射燃料",
+          "TraditionalChinese": "太空船啟動燃料"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.launchfuel.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "LAND3": {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    }
+  ]
 }

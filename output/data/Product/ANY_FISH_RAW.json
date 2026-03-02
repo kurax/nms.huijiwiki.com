@@ -86,5 +86,85 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1302",
+      "RecipeType": {
+        "English": "Processor Setting: Roe Extraction",
+        "SimplifiedChinese": "加工设置：鱼籽提取",
+        "TraditionalChinese": "處理器設定：萃取魚卵"
+      },
+      "RecipeName": {
+        "English": "Roe Extraction",
+        "SimplifiedChinese": "鱼籽提取",
+        "TraditionalChinese": "萃取魚卵"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EGGS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Assorted Roe",
+          "SimplifiedChinese": "什锦鱼子",
+          "TraditionalChinese": "綜合魚卵"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "ANY_FISH_RAW": {
+          "Id": "ANY_FISH_RAW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Raw Seafood",
+            "SimplifiedChinese": "任何生海鲜",
+            "TraditionalChinese": "任何生海鮮"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1296",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salty Platter",
+          "SimplifiedChinese": "咸味拼盘",
+          "TraditionalChinese": "鹹味拼盤"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "ANY_FISH_RAW": {
+          "Id": "ANY_FISH_RAW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Raw Seafood",
+            "SimplifiedChinese": "任何生海鲜",
+            "TraditionalChinese": "任何生海鮮"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        }
+      }
+    }
+  ]
 }

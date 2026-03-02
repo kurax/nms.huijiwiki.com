@@ -80,5 +80,97 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": false
+  "EggModifierIngredient": false,
+  "[RELATED]Products": [
+    {
+      "Id": "ROGUE_FINDER",
+      "Name": {
+        "English": "Memory Resonator",
+        "SimplifiedChinese": "记忆共振器",
+        "TraditionalChinese": "記憶共振器"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.roguefinder.png",
+      "Requirements": [
+        {
+          "Id": "TIMEMILK",
+          "Type": "Substance",
+          "Amount": 16,
+          "Name": {
+            "English": "Ancestral Memories",
+            "SimplifiedChinese": "先祖记忆",
+            "TraditionalChinese": "祖傳記憶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.timemilk.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "ROGUE_BEACON",
+      "Name": {
+        "English": "Whalesong Flute",
+        "SimplifiedChinese": "鲸鱼之歌长笛",
+        "TraditionalChinese": "鯨歌長笛"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.roguebeacon.png",
+      "Requirements": [
+        {
+          "Id": "SUNGOLD",
+          "Type": "Substance",
+          "Amount": 32,
+          "Name": {
+            "English": "Liquid Sun",
+            "SimplifiedChinese": "液体太阳",
+            "TraditionalChinese": "液體太陽"
+          },
+          "Icon": "ui-frontend-icons-u4products-sub.sungold.png"
+        },
+        {
+          "Id": "TIMEMILK",
+          "Type": "Substance",
+          "Amount": 32,
+          "Name": {
+            "English": "Ancestral Memories",
+            "SimplifiedChinese": "先祖记忆",
+            "TraditionalChinese": "祖傳記憶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.timemilk.png"
+        },
+        {
+          "Id": "TIMEDUST",
+          "Type": "Substance",
+          "Amount": 32,
+          "Name": {
+            "English": "Somnal Dust",
+            "SimplifiedChinese": "索姆纳尔灰尘",
+            "TraditionalChinese": "睡眠塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.timedust.png"
+        }
+      ]
+    }
+  ]
 }

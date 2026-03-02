@@ -82,5 +82,397 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1125",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_ALL_COM_S1": {
+          "Id": "F_ALL_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tiny Scuttlefish",
+            "SimplifiedChinese": "微型墨鱼",
+            "TraditionalChinese": "小烏賊"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1147",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_TOX_COM_S2": {
+          "Id": "F_TOX_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Venomous Triggerfin",
+            "SimplifiedChinese": "带毒扳机鳍",
+            "TraditionalChinese": "劇毒扳機鰭"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1168",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_RAD_COM_S2": {
+          "Id": "F_RAD_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Spotted Protofin",
+            "SimplifiedChinese": "斑点原鳍",
+            "TraditionalChinese": "斑紋原鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1188",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_S1": {
+          "Id": "F_HOT_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Oilfin",
+            "SimplifiedChinese": "油鳍鱼",
+            "TraditionalChinese": "油鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1196",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_HOT_RARE_S2": {
+          "Id": "F_HOT_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pyrefin",
+            "SimplifiedChinese": "炎鳍鱼",
+            "TraditionalChinese": "炎鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1222",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_COLD_EPIC_S1": {
+          "Id": "F_COLD_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Rimescale Snapper",
+            "SimplifiedChinese": "环鳞啮鱼",
+            "TraditionalChinese": "霜鱗鯛"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.xl.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1232",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_LUSH_COM_S3": {
+          "Id": "F_LUSH_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Common Shimmertail",
+            "SimplifiedChinese": "普通闪尾鱼",
+            "TraditionalChinese": "普通閃尾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1251",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_S1": {
+          "Id": "F_DUST_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fool's Goldfish",
+            "SimplifiedChinese": "愚者金鱼",
+            "TraditionalChinese": "愚人金魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1268",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_DUST_LEG_S1": {
+          "Id": "F_DUST_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fragile Icthyoscale",
+            "SimplifiedChinese": "脆鳞鱼",
+            "TraditionalChinese": "脆鱗魚龍"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1326",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish Fry",
+          "SimplifiedChinese": "炸鱼",
+          "TraditionalChinese": "炸魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_DEEP_COM_S2": {
+          "Id": "F_DEEP_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Deepwater Minnow",
+            "SimplifiedChinese": "深水鲦鱼",
+            "TraditionalChinese": "深水米諾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.3.png"
+        }
+      }
+    }
+  ]
 }

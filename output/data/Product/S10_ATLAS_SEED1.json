@@ -92,5 +92,41 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ATLAS_SEED2",
+      "Name": {
+        "English": "Seed of Power",
+        "SimplifiedChinese": "力量之种",
+        "TraditionalChinese": "能量種子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.7.png",
+      "Requirements": [
+        {
+          "Id": "S10_ATLAS_SEED1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Seed of Dreams",
+            "SimplifiedChinese": "梦想之种",
+            "TraditionalChinese": "夢境種子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.10.png"
+        },
+        {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      ]
+    }
+  ]
 }

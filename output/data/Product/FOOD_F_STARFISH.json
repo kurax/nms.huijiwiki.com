@@ -82,5 +82,319 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1133",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_ALL_RARE_S2": {
+          "Id": "F_ALL_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Spiny Starfish",
+            "SimplifiedChinese": "棘海星",
+            "TraditionalChinese": "棘皮海星"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.starfish.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1153",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_TOX_RARE_S1": {
+          "Id": "F_TOX_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Caustic Urchin",
+            "SimplifiedChinese": "腐蚀海胆",
+            "TraditionalChinese": "腐蝕海膽"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.starfish.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1163",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_TOX_LEG_S1": {
+          "Id": "F_TOX_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril Sunstar",
+            "SimplifiedChinese": "艾梅里尔阳星",
+            "TraditionalChinese": "艾默里爾太陽海星"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.starfish.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1259",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DUST_RARE_S2": {
+          "Id": "F_DUST_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Shalebound Starfish",
+            "SimplifiedChinese": "页岩海星",
+            "TraditionalChinese": "頁岩海星"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.starfish.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1264",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DUST_EPIC_S1": {
+          "Id": "F_DUST_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Golden Urchin",
+            "SimplifiedChinese": "黄金海胆",
+            "TraditionalChinese": "黃金海膽"
+          },
+          "Icon": "ui-frontend-icons-fish-product3.fish.starfish.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1279",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_ODD_RARE_S1": {
+          "Id": "F_ODD_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Anemone Anomaly",
+            "SimplifiedChinese": "异常海葵",
+            "TraditionalChinese": "異常海葵"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.starfish.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1312",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_GAS_RARE_S2": {
+          "Id": "F_GAS_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulp Urchin",
+            "SimplifiedChinese": "纸浆海胆",
+            "TraditionalChinese": "黏漿海膽"
+          },
+          "Icon": "ui-frontend-icons-fish-product3.fish.starfish.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1340",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DEEP_EPIC_L1": {
+          "Id": "F_DEEP_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ocean's Star",
+            "SimplifiedChinese": "海洋之星",
+            "TraditionalChinese": "海洋之星"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.starfish.png"
+        }
+      }
+    }
+  ]
 }

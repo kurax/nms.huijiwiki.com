@@ -86,5 +86,53 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BIOSHIP_COMP3",
+      "Name": {
+        "English": "Impossible Membrane",
+        "SimplifiedChinese": "匪夷所思的膜",
+        "TraditionalChinese": "不可思議黏膜"
+      },
+      "Icon": "ui-frontend-icons-technology-bio-product.biocomp3.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        {
+          "Id": "EXOTIC_BIOPROD",
+          "Type": "Product",
+          "Amount": 150,
+          "Name": {
+            "English": "Living Water",
+            "SimplifiedChinese": "活体水",
+            "TraditionalChinese": "活水"
+          },
+          "Icon": "ui-frontend-icons-technology-bio-product.bioexotic.png"
+        }
+      ]
+    }
+  ]
 }

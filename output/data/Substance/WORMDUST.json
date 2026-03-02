@@ -80,5 +80,48 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": false
+  "EggModifierIngredient": false,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_325",
+      "RecipeType": {
+        "English": "Requested Operation: Doom Cycling",
+        "SimplifiedChinese": "请求操作：厄运循环",
+        "TencentChinese": "请求操作：厄运循环",
+        "TraditionalChinese": "需執行作業：殞滅循環"
+      },
+      "RecipeName": {
+        "English": "Doom Cycling",
+        "SimplifiedChinese": "厄运循环",
+        "TraditionalChinese": "殞滅循環"
+      },
+      "TimeToMake": 10,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Residual Goop",
+          "SimplifiedChinese": "剩余粘稠物",
+          "TencentChinese": "剩余粘稠物",
+          "TraditionalChinese": "殘餘黏液"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.1.png"
+      },
+      "Ingredients": {
+        "WORMDUST": {
+          "Id": "WORMDUST",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Cursed Dust",
+            "SimplifiedChinese": "诅咒之尘",
+            "TraditionalChinese": "受詛咒塵土"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.wormdust.png"
+        }
+      }
+    }
+  ]
 }

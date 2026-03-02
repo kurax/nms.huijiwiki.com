@@ -85,5 +85,197 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_955",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Healthy Wheatblock",
+          "SimplifiedChinese": "健康麦饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "健康小麥塊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_P_WATER": {
+          "Id": "FOOD_P_WATER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Rice",
+            "SimplifiedChinese": "海藻米",
+            "TencentChinese": "海藻米",
+            "TraditionalChinese": "海藻米"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.waterwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_29",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_WATER",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Kelp Rice",
+          "SimplifiedChinese": "海藻米",
+          "TencentChinese": "海藻米",
+          "TraditionalChinese": "海藻米"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.waterwild.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_30",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_FLOUR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Refined Flour",
+          "SimplifiedChinese": "精制面粉",
+          "TencentChinese": "精制面粉",
+          "TraditionalChinese": "精製麵粉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+      },
+      "Ingredients": {
+        "FOOD_P_WATER": {
+          "Id": "FOOD_P_WATER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Rice",
+            "SimplifiedChinese": "海藻米",
+            "TencentChinese": "海藻米",
+            "TraditionalChinese": "海藻米"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.waterwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1298",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_RICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish and Rice",
+          "SimplifiedChinese": "鱼肉配米饭",
+          "TraditionalChinese": "魚肉拌飯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "ANY_FISH": {
+          "Id": "ANY_FISH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Seafood",
+            "SimplifiedChinese": "任何海鲜",
+            "TraditionalChinese": "任何海鮮"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        },
+        "FOOD_P_WATER": {
+          "Id": "FOOD_P_WATER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Rice",
+            "SimplifiedChinese": "海藻米",
+            "TencentChinese": "海藻米",
+            "TraditionalChinese": "海藻米"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.waterwild.png"
+        }
+      }
+    }
+  ]
 }

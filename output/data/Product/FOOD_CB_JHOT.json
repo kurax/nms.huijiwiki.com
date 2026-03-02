@@ -85,5 +85,138 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_387",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_JHOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Mouthburner",
+          "SimplifiedChinese": "黏腻烫嘴物",
+          "TencentChinese": "黏腻烫嘴物",
+          "TraditionalChinese": "黏糊糊燒嘴料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_682",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_JHOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Mouthburner",
+          "SimplifiedChinese": "黏腻烫嘴物",
+          "TencentChinese": "黏腻烫嘴物",
+          "TraditionalChinese": "黏糊糊燒嘴料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    }
+  ]
 }

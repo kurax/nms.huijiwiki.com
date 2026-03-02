@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1277",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_ODD_COM_L1": {
+          "Id": "F_ODD_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Shimmering Lashtail",
+            "SimplifiedChinese": "光环鞭尾鱼",
+            "TraditionalChinese": "閃爍鞭尾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.big.1.png"
+        }
+      }
+    }
+  ]
 }

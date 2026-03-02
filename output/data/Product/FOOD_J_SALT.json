@@ -83,5 +83,72 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_578",
+      "RecipeType": {
+        "English": "Processor Setting: Liquidize",
+        "SimplifiedChinese": "加工设置：化汁",
+        "TencentChinese": "加工设置：化汁",
+        "TraditionalChinese": "處理器設定：榨汁"
+      },
+      "RecipeName": {
+        "English": "Liquidise",
+        "SimplifiedChinese": "液化",
+        "TraditionalChinese": "液化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_J_SALT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salty Juice",
+          "SimplifiedChinese": "咸汁",
+          "TraditionalChinese": "鹹肉汁"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "PLANT_DUST": {
+          "Id": "PLANT_DUST",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Flesh",
+            "SimplifiedChinese": "仙人掌肉",
+            "TencentChinese": "仙人掌肉",
+            "TraditionalChinese": "仙人掌肉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.dusty.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        "FOOD_J_HOT": {
+          "Id": "FOOD_J_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fire Water",
+            "SimplifiedChinese": "烈酒",
+            "TencentChinese": "浓酿",
+            "TraditionalChinese": "火水"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

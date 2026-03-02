@@ -85,5 +85,115 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_414",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Honey Puff",
+          "SimplifiedChinese": "黏腻蜂蜜泡芙",
+          "TencentChinese": "黏腻蜂蜜泡芙",
+          "TraditionalChinese": "黏糊糊蜂蜜泡芙"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_V_BLOB": {
+          "Id": "FOOD_V_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sticky 'Honey'",
+            "SimplifiedChinese": "粘性蜂蜜",
+            "TencentChinese": "粘性蜂蜜",
+            "TraditionalChinese": "黏性「蜂蜜」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_416",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Honey Puff",
+          "SimplifiedChinese": "黏腻蜂蜜泡芙",
+          "TencentChinese": "黏腻蜂蜜泡芙",
+          "TraditionalChinese": "黏糊糊蜂蜜泡芙"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    }
+  ]
 }

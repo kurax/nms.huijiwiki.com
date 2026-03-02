@@ -82,5 +82,475 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1138",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ALL_EPIC_S1": {
+          "Id": "F_ALL_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Shrieking Oyster",
+            "SimplifiedChinese": "尖叫牡蛎",
+            "TraditionalChinese": "尖叫牡蠣"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1154",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_TOX_RARE_S2": {
+          "Id": "F_TOX_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Weltscale Clam",
+            "SimplifiedChinese": "肿胀鳞蛤",
+            "TraditionalChinese": "痕鱗蛤蠣"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1174",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_RAD_RARE_S1": {
+          "Id": "F_RAD_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ionized Clam",
+            "SimplifiedChinese": "离子蛤蜊",
+            "TraditionalChinese": "離子蛤蠣"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1201",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_HOT_EPIC_S1": {
+          "Id": "F_HOT_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cadmium Pearlcase",
+            "SimplifiedChinese": "镉珠壳",
+            "TraditionalChinese": "鎘珍珠殼"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1210",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_COLD_COM_S2": {
+          "Id": "F_COLD_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Whelk",
+            "SimplifiedChinese": "冰冻蛾螺",
+            "TraditionalChinese": "冰寒蛾螺"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1216",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_COLD_RARE_S1": {
+          "Id": "F_COLD_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frostshell Clam",
+            "SimplifiedChinese": "霜壳蛤",
+            "TraditionalChinese": "霜殼蛤蠣"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1280",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ODD_RARE_S2": {
+          "Id": "F_ODD_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Erased Clam",
+            "SimplifiedChinese": "被抹除的蛤蜊",
+            "TraditionalChinese": "抹滅蛤蠣"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1305",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_COM_S2": {
+          "Id": "F_GAS_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pressurised Clam",
+            "SimplifiedChinese": "高压蛤蜊",
+            "TraditionalChinese": "加壓蛤蠣"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1306",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_COM_S3": {
+          "Id": "F_GAS_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Inert Whelk",
+            "SimplifiedChinese": "惰性蛾螺",
+            "TraditionalChinese": "惰性蛾螺"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1311",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_RARE_S1": {
+          "Id": "F_GAS_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ionised Oyster",
+            "SimplifiedChinese": "离子牡蛎",
+            "TraditionalChinese": "離子牡蠣"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1322",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_LEG_M1": {
+          "Id": "F_GAS_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mother-of-Quicksilver",
+            "SimplifiedChinese": "水银之母",
+            "TraditionalChinese": "水銀之母"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.clam.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1323",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CLAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Mollusc Flesh",
+          "SimplifiedChinese": "软体动物肉",
+          "TraditionalChinese": "軟體動物生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_LEG_L1": {
+          "Id": "F_GAS_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hyper-cockle",
+            "SimplifiedChinese": "超鸟蛤",
+            "TraditionalChinese": "超級鳥蛤"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.clam.png"
+        }
+      }
+    }
+  ]
 }

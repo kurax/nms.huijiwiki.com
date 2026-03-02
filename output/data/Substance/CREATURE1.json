@@ -86,5 +86,1911 @@
   "CookingIngredient": true,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BLD_BUGHEAD3",
+      "Name": {
+        "English": "Broodling Trophy",
+        "SimplifiedChinese": "幼虫奖杯",
+        "TraditionalChinese": "幼蟲獎盃"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.expedition.bughead3.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_BUGHEAD1",
+      "Name": {
+        "English": "Monstrous Trophy",
+        "SimplifiedChinese": "怪异奖杯",
+        "TraditionalChinese": "怪物獎盃"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.expedition.bughead1.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_BUGHEAD2",
+      "Name": {
+        "English": "Mounted Mandibles",
+        "SimplifiedChinese": "悬挂下颚骨",
+        "TraditionalChinese": "固定下顎甲"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.expedition.bughead2.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "BIOSHIP_COMP2",
+      "Name": {
+        "English": "Pulsating Core",
+        "SimplifiedChinese": "搏动的核心",
+        "TraditionalChinese": "脈動核心"
+      },
+      "Icon": "ui-frontend-icons-technology-bio-product.biocomp2.png",
+      "Requirements": [
+        {
+          "Id": "SUNGOLD",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Liquid Sun",
+            "SimplifiedChinese": "液体太阳",
+            "TraditionalChinese": "液體太陽"
+          },
+          "Icon": "ui-frontend-icons-u4products-sub.sungold.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_BUGHEAD5",
+      "Name": {
+        "English": "Prized Exoskeleton",
+        "SimplifiedChinese": "珍贵外骨骼",
+        "TraditionalChinese": "珍稀外殼"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.expedition.bughead5.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_TERRARIUM",
+      "Name": {
+        "English": "Terrarium",
+        "SimplifiedChinese": "生物育养箱",
+        "TencentChinese": "生物育养箱",
+        "TraditionalChinese": "飼養缸"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.terrarium.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_2",
+      "Name": {
+        "English": "Spicy Chum",
+        "SimplifiedChinese": "辣味鱼食",
+        "TraditionalChinese": "辣味魚餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.2.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 90,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_BUGHEAD4",
+      "Name": {
+        "English": "Vile Taxidermy",
+        "SimplifiedChinese": "邪恶标本",
+        "TraditionalChinese": "邪惡標本剝製術"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.expedition.bughead4.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "FARMPROD1",
+      "Name": {
+        "English": "Acid",
+        "SimplifiedChinese": "酸",
+        "TencentChinese": "酸",
+        "TraditionalChinese": "酸劑"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.1.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 600,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE4",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_0</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_0</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_0</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice4.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "SQUIDFRAG",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Shattered Qualia",
+            "SimplifiedChinese": "残缺感质",
+            "TraditionalChinese": "破碎感質"
+          },
+          "Icon": "ui-frontend-icons-u4products-sub.soulfrag.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_10</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_10</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_10</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE3",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_11</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_11</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_11</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice3.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE1",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_4</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_4</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_4</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice1.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "STORM_CRYSTAL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Storm Crystal",
+            "SimplifiedChinese": "风暴水晶",
+            "TencentChinese": "风暴水晶",
+            "TraditionalChinese": "風暴晶"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.stormcrystal.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE2",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_9</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_9</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_9</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice2.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_995",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Questionable Cookie",
+          "SimplifiedChinese": "可疑饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "可疑餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_13",
+      "RecipeType": {
+        "English": "Requested Operation: Assisted Decomposition",
+        "SimplifiedChinese": "请求操作：辅助分解",
+        "TencentChinese": "请求操作：辅助分解",
+        "TraditionalChinese": "需執行作業：協助分解"
+      },
+      "RecipeName": {
+        "English": "Assisted Decomposition",
+        "SimplifiedChinese": "辅助分解",
+        "TraditionalChinese": "協助分解"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_107",
+      "RecipeType": {
+        "English": "Requested Operation: Runaway Decomposition",
+        "SimplifiedChinese": "请求操作：失控分解",
+        "TencentChinese": "请求操作：失控分解",
+        "TraditionalChinese": "需執行作業：失速分解"
+      },
+      "RecipeName": {
+        "English": "Runaway Decomposition",
+        "SimplifiedChinese": "失控分解",
+        "TraditionalChinese": "逸散分解"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_108",
+      "RecipeType": {
+        "English": "Requested Operation: Runaway Decomposition",
+        "SimplifiedChinese": "请求操作：失控分解",
+        "TencentChinese": "请求操作：失控分解",
+        "TraditionalChinese": "需執行作業：失速分解"
+      },
+      "RecipeName": {
+        "English": "Runaway Decomposition",
+        "SimplifiedChinese": "失控分解",
+        "TraditionalChinese": "逸散分解"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_396",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_333",
+      "RecipeType": {
+        "English": "Requested Operation: Reanimation",
+        "SimplifiedChinese": "请求操作：复苏",
+        "TraditionalChinese": "需執行作業：復活"
+      },
+      "RecipeName": {
+        "English": "Slime/Echo Infusion",
+        "SimplifiedChinese": "黏质/回音融合",
+        "TraditionalChinese": "軟泥/回音灌注"
+      },
+      "TimeToMake": 3600,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK4",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Living Slime",
+          "SimplifiedChinese": "活体黏质",
+          "TencentChinese": "活体黏质",
+          "TraditionalChinese": "活軟泥"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_162",
+      "RecipeType": {
+        "English": "Requested Operation: Feed Microbes",
+        "SimplifiedChinese": "请求操作：喂养微生物",
+        "TencentChinese": "请求操作：喂养微生物",
+        "TraditionalChinese": "需執行作業：餵食微生物"
+      },
+      "RecipeName": {
+        "English": "Feed Microbes",
+        "SimplifiedChinese": "喂养微生物",
+        "TraditionalChinese": "餵食微生物"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_540",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_CRAB": {
+          "Id": "FOOD_M_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Leg Meat",
+            "SimplifiedChinese": "腿肉",
+            "TencentChinese": "腿肉",
+            "TraditionalChinese": "腿肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_541",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "NANOTUBES": {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_542",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_GEK": {
+          "Id": "FOOD_M_GEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoSausage",
+            "SimplifiedChinese": "原始香肠",
+            "TencentChinese": "原始香肠",
+            "TraditionalChinese": "原始香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_543",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_DIPLO": {
+          "Id": "FOOD_M_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Diplo Chunks",
+            "SimplifiedChinese": "迪普洛块",
+            "TencentChinese": "迪普洛块",
+            "TraditionalChinese": "迪普洛塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_544",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_REX": {
+          "Id": "FOOD_M_REX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scaly Meat",
+            "SimplifiedChinese": "鳞肉",
+            "TencentChinese": "鳞肉",
+            "TraditionalChinese": "鱗肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_545",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_COW": {
+          "Id": "FOOD_M_COW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Raw Steak",
+            "SimplifiedChinese": "生肉排",
+            "TencentChinese": "生肉排",
+            "TraditionalChinese": "生牛排"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_546",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_MEAT": {
+          "Id": "FOOD_M_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meaty Chunks",
+            "SimplifiedChinese": "肉块",
+            "TencentChinese": "肉块",
+            "TraditionalChinese": "肉塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_547",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "BAIT_VEG_1": {
+          "Id": "BAIT_VEG_1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scented Herbs",
+            "SimplifiedChinese": "芳香牧草",
+            "TencentChinese": "芳香牧草",
+            "TraditionalChinese": "香味藥草"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.herbs.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_548",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "BAIT_VEG_2": {
+          "Id": "BAIT_VEG_2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Enzyme Fluid",
+            "SimplifiedChinese": "酶液",
+            "TencentChinese": "酶液",
+            "TraditionalChinese": "酵素液"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.fluid.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_549",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_BLOB": {
+          "Id": "FOOD_M_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Offal Sac",
+            "SimplifiedChinese": "内脏囊",
+            "TencentChinese": "内脏囊",
+            "TraditionalChinese": "內臟囊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_550",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_M_CAT": {
+          "Id": "FOOD_M_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Feline Liver",
+            "SimplifiedChinese": "猫科肝",
+            "TencentChinese": "猫科肝",
+            "TraditionalChinese": "貓科肝"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_27",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_DEATH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Meat Flakes",
+          "SimplifiedChinese": "肉薄片",
+          "TencentChinese": "肉薄片",
+          "TraditionalChinese": "肉片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.deathwild.png"
+      },
+      "Ingredients": {
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_66",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Reassembly",
+        "SimplifiedChinese": "请求操作：有机重组",
+        "TencentChinese": "请求操作：有机重组",
+        "TraditionalChinese": "需執行作業：有機重組"
+      },
+      "RecipeName": {
+        "English": "Organic Reassembly",
+        "SimplifiedChinese": "有机重组",
+        "TraditionalChinese": "有機重組"
+      },
+      "TimeToMake": 180,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_87",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Reassembly",
+        "SimplifiedChinese": "请求操作：有机重组",
+        "TencentChinese": "请求操作：有机重组",
+        "TraditionalChinese": "需執行作業：有機重組"
+      },
+      "RecipeName": {
+        "English": "Organic Reassembly",
+        "SimplifiedChinese": "有机重组",
+        "TraditionalChinese": "有機重組"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_103",
+      "RecipeType": {
+        "English": "Requested Operation: Anomaly / Organic Hybridization",
+        "SimplifiedChinese": "请求操作：异象/有机杂化",
+        "TencentChinese": "请求操作：异象/有机杂化",
+        "TraditionalChinese": "需執行作業：異常／有機混合"
+      },
+      "RecipeName": {
+        "English": "Anomaly / Organic Hybridisation",
+        "SimplifiedChinese": "异象/有机杂化",
+        "TraditionalChinese": "異常/有機混成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_104",
+      "RecipeType": {
+        "English": "Requested Operation: Anomaly / Organic Hybridization",
+        "SimplifiedChinese": "请求操作：异象/有机杂化",
+        "TencentChinese": "请求操作：异象/有机杂化",
+        "TraditionalChinese": "需執行作業：異常／有機混合"
+      },
+      "RecipeName": {
+        "English": "Anomaly / Organic Hybridisation",
+        "SimplifiedChinese": "异象/有机杂化",
+        "TraditionalChinese": "異常/有機混成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_109",
+      "RecipeType": {
+        "English": "Requested Operation: Fertilizer Synthesis",
+        "SimplifiedChinese": "请求操作：化肥合成",
+        "TencentChinese": "请求操作：化肥合成",
+        "TraditionalChinese": "需執行作業：肥料合成"
+      },
+      "RecipeName": {
+        "English": "Fertiliser Synthesis",
+        "SimplifiedChinese": "化肥合成",
+        "TraditionalChinese": "肥料合成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_CAVE",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Marrow Bulb",
+          "SimplifiedChinese": "葫芦朵",
+          "TencentChinese": "葫芦朵",
+          "TraditionalChinese": "葫蘆球莖"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+      },
+      "Ingredients": {
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_110",
+      "RecipeType": {
+        "English": "Requested Operation: Fertilizer Synthesis",
+        "SimplifiedChinese": "请求操作：化肥合成",
+        "TencentChinese": "请求操作：化肥合成",
+        "TraditionalChinese": "需執行作業：肥料合成"
+      },
+      "RecipeName": {
+        "English": "Fertiliser Synthesis",
+        "SimplifiedChinese": "化肥合成",
+        "TraditionalChinese": "肥料合成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_CAVE",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Marrow Bulb",
+          "SimplifiedChinese": "葫芦朵",
+          "TencentChinese": "葫芦朵",
+          "TraditionalChinese": "葫蘆球莖"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+      },
+      "Ingredients": {
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_128",
+      "RecipeType": {
+        "English": "Requested Operation: Organic / Anomaly Synthesis",
+        "SimplifiedChinese": "请求操作：有机/异象合成",
+        "TencentChinese": "请求操作：有机/异象合成",
+        "TraditionalChinese": "需執行作業：有機／異常合成"
+      },
+      "RecipeName": {
+        "English": "Organic / Anomaly Synthesis",
+        "SimplifiedChinese": "有机/异象合成",
+        "TraditionalChinese": "有機/異常合成"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    }
+  ]
 }

@@ -86,5 +86,1204 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ALLOY6",
+      "Name": {
+        "English": "Grantine",
+        "SimplifiedChinese": "格兰丁",
+        "TencentChinese": "格兰丁",
+        "TraditionalChinese": "大鋰"
+      },
+      "Icon": "ui-frontend-icons-products-product.metallic.6.png",
+      "Requirements": [
+        {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_101",
+      "RecipeType": {
+        "English": "Requested Operation: Advanced Carbon Processing",
+        "SimplifiedChinese": "请求操作：高级碳加工",
+        "TencentChinese": "请求操作：高级碳加工",
+        "TraditionalChinese": "需執行作業：先進碳加工"
+      },
+      "RecipeName": {
+        "English": "Advanced Carbon Processing",
+        "SimplifiedChinese": "高级碳加工",
+        "TraditionalChinese": "先進碳加工"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "COLD1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Dioxite",
+          "SimplifiedChinese": "二氧化物",
+          "TencentChinese": "二氧化物",
+          "TraditionalChinese": "二氧化物"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_102",
+      "RecipeType": {
+        "English": "Requested Operation: Advanced Carbon Processing",
+        "SimplifiedChinese": "请求操作：高级碳加工",
+        "TencentChinese": "请求操作：高级碳加工",
+        "TraditionalChinese": "需執行作業：先進碳加工"
+      },
+      "RecipeName": {
+        "English": "Advanced Carbon Processing",
+        "SimplifiedChinese": "高级碳加工",
+        "TraditionalChinese": "先進碳加工"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "COLD1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Dioxite",
+          "SimplifiedChinese": "二氧化物",
+          "TencentChinese": "二氧化物",
+          "TraditionalChinese": "二氧化物"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_187",
+      "RecipeType": {
+        "English": "Requested Operation: Environmental Element Transfer",
+        "SimplifiedChinese": "请求操作：环境元素转移",
+        "TencentChinese": "请求操作：环境元素转移",
+        "TraditionalChinese": "需執行作業：傳送環境元素"
+      },
+      "RecipeName": {
+        "English": "Environmental Element Transfer",
+        "SimplifiedChinese": "环境元素转移",
+        "TraditionalChinese": "環境元素傳送"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "COLD1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Dioxite",
+          "SimplifiedChinese": "二氧化物",
+          "TencentChinese": "二氧化物",
+          "TraditionalChinese": "二氧化物"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 2
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_193",
+      "RecipeType": {
+        "English": "Requested Operation: Environmental Element Transfer",
+        "SimplifiedChinese": "请求操作：环境元素转移",
+        "TencentChinese": "请求操作：环境元素转移",
+        "TraditionalChinese": "需執行作業：傳送環境元素"
+      },
+      "RecipeName": {
+        "English": "Environmental Element Transfer",
+        "SimplifiedChinese": "环境元素转移",
+        "TraditionalChinese": "環境元素傳送"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "COLD1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Dioxite",
+          "SimplifiedChinese": "二氧化物",
+          "TencentChinese": "二氧化物",
+          "TraditionalChinese": "二氧化物"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 2
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_198",
+      "RecipeType": {
+        "English": "Requested Operation: Floral Titration",
+        "SimplifiedChinese": "请求操作：植物群系滴定",
+        "TencentChinese": "请求操作：植物群系滴定",
+        "TraditionalChinese": "需執行作業：植物滴定"
+      },
+      "RecipeName": {
+        "English": "Floral Titration",
+        "SimplifiedChinese": "植物群系滴定",
+        "TraditionalChinese": "植物滴定"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "COLD1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Dioxite",
+          "SimplifiedChinese": "二氧化物",
+          "TencentChinese": "二氧化物",
+          "TraditionalChinese": "二氧化物"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+      },
+      "Ingredients": {
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_122",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_SNOW",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Frost Crystal",
+          "SimplifiedChinese": "冰霜水晶",
+          "TencentChinese": "冰霜水晶",
+          "TraditionalChinese": "霜晶"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_183",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_SNOW",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Frost Crystal",
+          "SimplifiedChinese": "冰霜水晶",
+          "TencentChinese": "冰霜水晶",
+          "TraditionalChinese": "霜晶"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_219",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_SNOW",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Frost Crystal",
+          "SimplifiedChinese": "冰霜水晶",
+          "TencentChinese": "冰霜水晶",
+          "TraditionalChinese": "霜晶"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_389",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_SNOW",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Frost Crystal",
+          "SimplifiedChinese": "冰霜水晶",
+          "TencentChinese": "冰霜水晶",
+          "TraditionalChinese": "霜晶"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_303",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_304",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_305",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_306",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_307",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_308",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_309",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ASTEROID3": {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_310",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ASTEROID3": {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_189",
+      "RecipeType": {
+        "English": "Requested Operation: Environmental Element Transfer",
+        "SimplifiedChinese": "请求操作：环境元素转移",
+        "TencentChinese": "请求操作：环境元素转移",
+        "TraditionalChinese": "需執行作業：傳送環境元素"
+      },
+      "RecipeName": {
+        "English": "Environmental Element Transfer",
+        "SimplifiedChinese": "环境元素转移",
+        "TraditionalChinese": "環境元素傳送"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "HOT1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Phosphorus",
+          "SimplifiedChinese": "磷",
+          "TencentChinese": "磷",
+          "TraditionalChinese": "磷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_195",
+      "RecipeType": {
+        "English": "Requested Operation: Environmental Element Transfer",
+        "SimplifiedChinese": "请求操作：环境元素转移",
+        "TencentChinese": "请求操作：环境元素转移",
+        "TraditionalChinese": "需執行作業：傳送環境元素"
+      },
+      "RecipeName": {
+        "English": "Environmental Element Transfer",
+        "SimplifiedChinese": "环境元素转移",
+        "TraditionalChinese": "環境元素傳送"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "HOT1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Phosphorus",
+          "SimplifiedChinese": "磷",
+          "TencentChinese": "磷",
+          "TraditionalChinese": "磷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_44",
+      "RecipeType": {
+        "English": "Requested Operation: Ferrite Dust Extraction",
+        "SimplifiedChinese": "请求操作：提取铁氧体粉末",
+        "TencentChinese": "请求操作：提取铁氧体粉末",
+        "TraditionalChinese": "需執行作業：抽取鐵氧體粉塵"
+      },
+      "RecipeName": {
+        "English": "Ferrite Dust Extraction",
+        "SimplifiedChinese": "提取铁氧体粉末",
+        "TraditionalChinese": "鐵氧體粉塵抽取"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Ferrite Dust",
+          "SimplifiedChinese": "铁氧体粉末",
+          "TencentChinese": "铁氧体粉末",
+          "TraditionalChinese": "鐵氧體粉塵"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        }
+      }
+    }
+  ]
 }

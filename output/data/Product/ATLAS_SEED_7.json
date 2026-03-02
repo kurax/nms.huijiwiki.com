@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_8",
+      "Name": {
+        "English": "Novae Reclaiment",
+        "SimplifiedChinese": "新星残留物",
+        "TencentChinese": "新星残留物",
+        "TraditionalChinese": "超新星殘骸"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.8.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_7",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "State Phasure",
+            "SimplifiedChinese": "相位不定体",
+            "TencentChinese": "相位不定体",
+            "TraditionalChinese": "靜態非薛子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.7.png"
+        },
+        {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      ]
+    }
+  ]
 }

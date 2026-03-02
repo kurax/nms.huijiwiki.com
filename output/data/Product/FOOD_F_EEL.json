@@ -82,5 +82,525 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1301",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JEELS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellied Eel",
+          "SimplifiedChinese": "鳗鱼冻",
+          "TraditionalChinese": "鰻魚肉凍"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "FOOD_F_JELLY": {
+          "Id": "FOOD_F_JELLY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jellymeat",
+            "SimplifiedChinese": "水母肉",
+            "TraditionalChinese": "水母肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+        },
+        "FOOD_F_EEL": {
+          "Id": "FOOD_F_EEL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fleshy Cylinder",
+            "SimplifiedChinese": "鳗鱼肉卷",
+            "TraditionalChinese": "鮮肉管"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1128",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ALL_COM_M1": {
+          "Id": "F_ALL_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Reef Eel",
+            "SimplifiedChinese": "礁鳗",
+            "TraditionalChinese": "礁鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1149",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_TOX_COM_M1": {
+          "Id": "F_TOX_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Blistering Eel",
+            "SimplifiedChinese": "脓包鳗",
+            "TraditionalChinese": "灼燒鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1162",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_TOX_EPIC_XL": {
+          "Id": "F_TOX_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viper Eel",
+            "SimplifiedChinese": "毒蛇鳗",
+            "TraditionalChinese": "毒蛇鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1182",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_RAD_EPIC_L1": {
+          "Id": "F_RAD_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cyclopic Eel",
+            "SimplifiedChinese": "独眼鳗",
+            "TraditionalChinese": "獨眼鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1197",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_HOT_RARE_M1": {
+          "Id": "F_HOT_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flashfire Eel",
+            "SimplifiedChinese": "火爆鳗",
+            "TraditionalChinese": "閃燃鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product3.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1212",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_COLD_COM_M1": {
+          "Id": "F_COLD_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Midnight Eel",
+            "SimplifiedChinese": "午夜鳗",
+            "TraditionalChinese": "午夜鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1236",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_LUSH_COM_XL": {
+          "Id": "F_LUSH_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Warden Eel",
+            "SimplifiedChinese": "看守鳗",
+            "TraditionalChinese": "看守鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1248",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_LUSH_LEG_M1": {
+          "Id": "F_LUSH_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mist Serpent",
+            "SimplifiedChinese": "雾蛇",
+            "TraditionalChinese": "迷霧狡蛇"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1260",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_DUST_RARE_M1": {
+          "Id": "F_DUST_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Electric Eel",
+            "SimplifiedChinese": "电鳗",
+            "TraditionalChinese": "電鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1284",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ODD_RARE_XL": {
+          "Id": "F_ODD_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sunspot Eel",
+            "SimplifiedChinese": "黑子鳗",
+            "TraditionalChinese": "太陽黑子鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product3.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1310",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_GAS_COM_XL": {
+          "Id": "F_GAS_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cyclonic Eel",
+            "SimplifiedChinese": "独眼鳗",
+            "TraditionalChinese": "氣旋鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.eel.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1334",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_M1": {
+          "Id": "F_DEEP_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bloated Eel",
+            "SimplifiedChinese": "膨胀鳗鱼",
+            "TraditionalChinese": "發脹鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    }
+  ]
 }

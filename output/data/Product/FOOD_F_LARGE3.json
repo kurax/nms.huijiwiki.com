@@ -82,5 +82,358 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1144",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_ALL_LEG_L1": {
+          "Id": "F_ALL_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dragonfish",
+            "SimplifiedChinese": "龙鱼",
+            "TraditionalChinese": "龍魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1165",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_TOX_LEG_L1": {
+          "Id": "F_TOX_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bleached Bonefish",
+            "SimplifiedChinese": "漂白骨鱼",
+            "TraditionalChinese": "褪色白骨魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1193",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_L1": {
+          "Id": "F_HOT_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurfish",
+            "SimplifiedChinese": "硫磺鱼",
+            "TraditionalChinese": "硫磺魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.medium.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1214",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_COLD_COM_L1": {
+          "Id": "F_COLD_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glacier Carp",
+            "SimplifiedChinese": "冰川鲤鱼",
+            "TraditionalChinese": "冰川鯉魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.medium.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1228",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_COLD_LEG_L1": {
+          "Id": "F_COLD_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Iceblood Gulper",
+            "SimplifiedChinese": "冰血大嘴鱼",
+            "TraditionalChinese": "冰血大嘴鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.xl.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1245",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_LUSH_EPIC_L1": {
+          "Id": "F_LUSH_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sunspine Basker",
+            "SimplifiedChinese": "日脊姥鲨",
+            "TraditionalChinese": "日脊姥鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1262",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DUST_RARE_L1": {
+          "Id": "F_DUST_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mantis Ray",
+            "SimplifiedChinese": "螳螂鳐",
+            "TraditionalChinese": "螳螂魟"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.ray.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1277",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_ODD_COM_L1": {
+          "Id": "F_ODD_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Shimmering Lashtail",
+            "SimplifiedChinese": "光环鞭尾鱼",
+            "TraditionalChinese": "閃爍鞭尾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1344",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seared Fillet",
+          "SimplifiedChinese": "煎鱼排",
+          "TraditionalChinese": "香煎魚片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DEEP_LEG_L1": {
+          "Id": "F_DEEP_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "The Hunter Below",
+            "SimplifiedChinese": "深海猎人",
+            "TraditionalChinese": "淵底獵人"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.xl.2.png"
+        }
+      }
+    }
+  ]
 }

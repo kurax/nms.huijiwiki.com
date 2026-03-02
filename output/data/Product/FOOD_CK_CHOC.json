@@ -85,5 +85,61 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_345",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_CHOC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Chocolate Cake",
+          "SimplifiedChinese": "巧克力蛋糕",
+          "TencentChinese": "巧克力蛋糕",
+          "TraditionalChinese": "巧克力蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CAKEMIX": {
+          "Id": "FOOD_R_CAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cake Batter",
+            "SimplifiedChinese": "蛋糕面糊",
+            "TencentChinese": "蛋糕面糊",
+            "TraditionalChinese": "蛋糕麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CHOC": {
+          "Id": "FOOD_R_CHOC",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bittersweet Cocoa",
+            "SimplifiedChinese": "甜中带苦的可可",
+            "TencentChinese": "甜中带苦的可可",
+            "TraditionalChinese": "苦甜可可"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.chocolate.png"
+        }
+      }
+    }
+  ]
 }

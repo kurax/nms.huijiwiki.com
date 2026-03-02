@@ -83,5 +83,59 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1097",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_HONEY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Ambrosial Wonder",
+          "SimplifiedChinese": "美味奇观",
+          "TraditionalChinese": "美饌奇蹟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_HONEY": {
+          "Id": "FOOD_R_HONEY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Synthetic Honey",
+            "SimplifiedChinese": "合成蜂蜜",
+            "TencentChinese": "合成蜂蜜",
+            "TraditionalChinese": "合成蜂蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    }
+  ]
 }

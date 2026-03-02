@@ -82,5 +82,436 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1130",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_ALL_COM_L1": {
+          "Id": "F_ALL_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Greenscale Bloater",
+            "SimplifiedChinese": "绿鳞鲱鱼",
+            "TraditionalChinese": "綠鱗鯡魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1157",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_TOX_RARE_L1": {
+          "Id": "F_TOX_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Venomtooth Wriggler",
+            "SimplifiedChinese": "毒牙孑孓",
+            "TraditionalChinese": "毒牙孑孓"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1172",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_RAD_COM_L1": {
+          "Id": "F_RAD_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glowing Catfish",
+            "SimplifiedChinese": "发光鲶鱼",
+            "TraditionalChinese": "發光鯰魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1199",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_HOT_RARE_L1": {
+          "Id": "F_HOT_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fumarole Gulper",
+            "SimplifiedChinese": "气孔大嘴鱼",
+            "TraditionalChinese": "噴氣大嘴鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.ray.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1220",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_COLD_RARE_L1": {
+          "Id": "F_COLD_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Knifejaw",
+            "SimplifiedChinese": "冷冻刀颌",
+            "TraditionalChinese": "冰寒刀顎魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1235",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_LUSH_COM_L1": {
+          "Id": "F_LUSH_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flourishing Shalefish",
+            "SimplifiedChinese": "繁岩鱼",
+            "TraditionalChinese": "活力頁岩魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1249",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_LUSH_LEG_L1": {
+          "Id": "F_LUSH_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Reef Guardian",
+            "SimplifiedChinese": "珊瑚礁守护者",
+            "TraditionalChinese": "珊瑚礁守護者"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1266",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_DUST_EPIC_L1": {
+          "Id": "F_DUST_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Bowfin",
+            "SimplifiedChinese": "铁氧弓鳍鱼",
+            "TraditionalChinese": "鐵氧弓鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1283",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_ODD_RARE_L1": {
+          "Id": "F_ODD_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Euclidean Flatfish",
+            "SimplifiedChinese": "非欧几里德比目鱼",
+            "TraditionalChinese": "非歐氏幾何比目魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.medium.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1319",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_GAS_EPIC_L1": {
+          "Id": "F_GAS_EPIC_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tendrilla",
+            "SimplifiedChinese": "须鱼",
+            "TraditionalChinese": "卷鬚魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.octopus.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1336",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_L1": {
+          "Id": "F_DEEP_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Shrieking Flatfish",
+            "SimplifiedChinese": "尖叫比目鱼",
+            "TraditionalChinese": "尖叫比目魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.ray.png"
+        }
+      }
+    }
+  ]
 }

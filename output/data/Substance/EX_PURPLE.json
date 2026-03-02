@@ -80,5 +80,542 @@
   "CookingIngredient": false,
   "GoodForSelling": true,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_337",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_339",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 8,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_357",
+      "RecipeType": {
+        "English": "Requested Operation: Loosen Bonds",
+        "SimplifiedChinese": "请求操作：松开束缚",
+        "TencentChinese": "请求操作：松开束缚",
+        "TraditionalChinese": "需執行作業：鬆開鍵"
+      },
+      "RecipeName": {
+        "English": "Loosen Bonds",
+        "SimplifiedChinese": "松开束缚",
+        "TraditionalChinese": "鬆散紐帶"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "EX_PURPLE",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Activated Quartzite",
+          "SimplifiedChinese": "活性石英岩",
+          "TraditionalChinese": "活性石英岩"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+      },
+      "Ingredients": {
+        "PURPLE2": {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        },
+        "GASGIANT1": {
+          "Id": {
+            "English": "Gas Giant",
+            "SimplifiedChinese": "气态巨星",
+            "TraditionalChinese": "氣態巨行星"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        },
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_371",
+      "RecipeType": {
+        "English": "Requested Operation: Loosen Bonds",
+        "SimplifiedChinese": "请求操作：松开束缚",
+        "TencentChinese": "请求操作：松开束缚",
+        "TraditionalChinese": "需執行作業：鬆開鍵"
+      },
+      "RecipeName": {
+        "English": "Loosen Bonds",
+        "SimplifiedChinese": "松开束缚",
+        "TraditionalChinese": "鬆散紐帶"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "EX_PURPLE",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Activated Quartzite",
+          "SimplifiedChinese": "活性石英岩",
+          "TraditionalChinese": "活性石英岩"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+      },
+      "Ingredients": {
+        "PURPLE2": {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        },
+        "WATERWORLD1": {
+          "Id": {
+            "English": "Waterworld",
+            "SimplifiedChinese": "水世界",
+            "TraditionalChinese": "水世界"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        },
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_398",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Alchemy",
+        "SimplifiedChinese": "请求操作：有色炼金",
+        "TencentChinese": "请求操作：有色炼金",
+        "TraditionalChinese": "需執行作業：有色冶煉"
+      },
+      "RecipeName": {
+        "English": "Chromatic Alchemy",
+        "SimplifiedChinese": "有色炼金",
+        "TraditionalChinese": "有色冶煉"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PURPLE2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Quartzite",
+          "SimplifiedChinese": "石英岩",
+          "TraditionalChinese": "石英岩"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_358",
+      "RecipeType": {
+        "English": "Requested Operation: Loosen Bonds",
+        "SimplifiedChinese": "请求操作：松开束缚",
+        "TencentChinese": "请求操作：松开束缚",
+        "TraditionalChinese": "需執行作業：鬆開鍵"
+      },
+      "RecipeName": {
+        "English": "Loosen Bonds",
+        "SimplifiedChinese": "松开束缚",
+        "TraditionalChinese": "鬆散紐帶"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "GASGIANT1": {
+          "Id": {
+            "English": "Gas Giant",
+            "SimplifiedChinese": "气态巨星",
+            "TraditionalChinese": "氣態巨行星"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        },
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_374",
+      "RecipeType": {
+        "English": "Requested Operation: Loosen Bonds",
+        "SimplifiedChinese": "请求操作：松开束缚",
+        "TencentChinese": "请求操作：松开束缚",
+        "TraditionalChinese": "需執行作業：鬆開鍵"
+      },
+      "RecipeName": {
+        "English": "Loosen Bonds",
+        "SimplifiedChinese": "松开束缚",
+        "TraditionalChinese": "鬆散紐帶"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "WATERWORLD1": {
+          "Id": {
+            "English": "Waterworld",
+            "SimplifiedChinese": "水世界",
+            "TraditionalChinese": "水世界"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        },
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_338",
+      "RecipeType": {
+        "English": "Requested Operation: Stellar / Metal Fusion",
+        "SimplifiedChinese": "请求操作：星球/金属熔合",
+        "TencentChinese": "请求操作：星球/金属熔合",
+        "TraditionalChinese": "需執行作業：星體／金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND3",
+        "Type": "Substance",
+        "Amount": 8,
+        "Name": {
+          "English": "Magnetized Ferrite",
+          "SimplifiedChinese": "磁化铁氧体",
+          "TencentChinese": "磁化铁氧体",
+          "TraditionalChinese": "磁化鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_349",
+      "RecipeType": {
+        "English": "Requested Operation: Environmental Element Transfer",
+        "SimplifiedChinese": "请求操作：环境元素转移",
+        "TencentChinese": "请求操作：环境元素转移",
+        "TraditionalChinese": "需執行作業：傳送環境元素"
+      },
+      "RecipeName": {
+        "English": "Environmental Element Transfer",
+        "SimplifiedChinese": "环境元素转移",
+        "TraditionalChinese": "環境元素傳送"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": {
+          "English": "Waterworld",
+          "SimplifiedChinese": "水世界",
+          "TraditionalChinese": "水世界"
+        },
+        "Type": "Substance",
+        "Amount": 2
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "GASGIANT1": {
+          "Id": {
+            "English": "Gas Giant",
+            "SimplifiedChinese": "气态巨星",
+            "TraditionalChinese": "氣態巨行星"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_365",
+      "RecipeType": {
+        "English": "Requested Operation: Environmental Element Transfer",
+        "SimplifiedChinese": "请求操作：环境元素转移",
+        "TencentChinese": "请求操作：环境元素转移",
+        "TraditionalChinese": "需執行作業：傳送環境元素"
+      },
+      "RecipeName": {
+        "English": "Environmental Element Transfer",
+        "SimplifiedChinese": "环境元素转移",
+        "TraditionalChinese": "環境元素傳送"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": {
+          "English": "Gas Giant",
+          "SimplifiedChinese": "气态巨星",
+          "TraditionalChinese": "氣態巨行星"
+        },
+        "Type": "Substance",
+        "Amount": 2
+      },
+      "Ingredients": {
+        "EX_PURPLE": {
+          "Id": "EX_PURPLE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Quartzite",
+            "SimplifiedChinese": "活性石英岩",
+            "TraditionalChinese": "活性石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.expurple.2.png"
+        },
+        "WATERWORLD1": {
+          "Id": {
+            "English": "Waterworld",
+            "SimplifiedChinese": "水世界",
+            "TraditionalChinese": "水世界"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        }
+      }
+    }
+  ]
 }

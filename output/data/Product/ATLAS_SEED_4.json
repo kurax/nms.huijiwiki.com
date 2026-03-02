@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_5",
+      "Name": {
+        "English": "Dawn's End",
+        "SimplifiedChinese": "黎明之末",
+        "TencentChinese": "黎明之末",
+        "TraditionalChinese": "黎明之終"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.5.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_4",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dark Matter",
+            "SimplifiedChinese": "暗物质",
+            "TencentChinese": "暗物质",
+            "TraditionalChinese": "暗物質"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.4.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    }
+  ]
 }

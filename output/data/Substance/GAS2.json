@@ -86,5 +86,998 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "REACTION2",
+      "Name": {
+        "English": "Enriched Carbon",
+        "SimplifiedChinese": "浓化碳",
+        "TencentChinese": "浓化碳",
+        "TraditionalChinese": "濃化碳"
+      },
+      "Icon": "ui-frontend-icons-update3-reaction.2.png",
+      "Requirements": [
+        {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_220",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_RADIO",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Gamma Root",
+          "SimplifiedChinese": "伽马根",
+          "TencentChinese": "伽马根",
+          "TraditionalChinese": "伽瑪根"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.radio.png"
+      },
+      "Ingredients": {
+        "RADIO1": {
+          "Id": "RADIO1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Uranium",
+            "SimplifiedChinese": "铀",
+            "TencentChinese": "铀",
+            "TraditionalChinese": "鈾"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+        },
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_219",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_SNOW",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Frost Crystal",
+          "SimplifiedChinese": "冰霜水晶",
+          "TencentChinese": "冰霜水晶",
+          "TraditionalChinese": "霜晶"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_48",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Radon",
+          "SimplifiedChinese": "氡",
+          "TencentChinese": "氡",
+          "TraditionalChinese": "氡"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.2.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_132",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Radon",
+          "SimplifiedChinese": "氡",
+          "TencentChinese": "氡",
+          "TraditionalChinese": "氡"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.2.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_135",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Canalization",
+        "SimplifiedChinese": "请求操作：气体催化",
+        "TencentChinese": "请求操作：气体催化",
+        "TraditionalChinese": "需執行作業：氣體催化"
+      },
+      "RecipeName": {
+        "English": "Gas Catalysation",
+        "SimplifiedChinese": "气体催化",
+        "TraditionalChinese": "氣體催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Radon",
+          "SimplifiedChinese": "氡",
+          "TencentChinese": "氡",
+          "TraditionalChinese": "氡"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.2.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_49",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen",
+          "SimplifiedChinese": "氮",
+          "TencentChinese": "氮",
+          "TraditionalChinese": "氮"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.1.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_133",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Transfer",
+        "SimplifiedChinese": "请求操作：气体转移",
+        "TencentChinese": "请求操作：气体转移",
+        "TraditionalChinese": "需執行作業：傳送氣體"
+      },
+      "RecipeName": {
+        "English": "Gas Transfer",
+        "SimplifiedChinese": "气体传输",
+        "TraditionalChinese": "傳送氣體"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen",
+          "SimplifiedChinese": "氮",
+          "TencentChinese": "氮",
+          "TraditionalChinese": "氮"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.1.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_136",
+      "RecipeType": {
+        "English": "Requested Operation: Gas Canalization",
+        "SimplifiedChinese": "请求操作：气体催化",
+        "TencentChinese": "请求操作：气体催化",
+        "TraditionalChinese": "需執行作業：氣體催化"
+      },
+      "RecipeName": {
+        "English": "Gas Catalysation",
+        "SimplifiedChinese": "气体催化",
+        "TraditionalChinese": "氣體催化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nitrogen",
+          "SimplifiedChinese": "氮",
+          "TencentChinese": "氮",
+          "TraditionalChinese": "氮"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.1.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_312",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Enriched Carbon",
+          "SimplifiedChinese": "浓化碳",
+          "TencentChinese": "浓化碳",
+          "TraditionalChinese": "濃化碳"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.2.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_315",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Enriched Carbon",
+          "SimplifiedChinese": "浓化碳",
+          "TencentChinese": "浓化碳",
+          "TraditionalChinese": "濃化碳"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.2.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_318",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Enriched Carbon",
+          "SimplifiedChinese": "浓化碳",
+          "TencentChinese": "浓化碳",
+          "TraditionalChinese": "濃化碳"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.2.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_321",
+      "RecipeType": {
+        "English": "Requested Operation: High-Speed Sublimation",
+        "SimplifiedChinese": "请求操作：高速升华",
+        "TencentChinese": "请求操作：高速升华",
+        "TraditionalChinese": "需執行作業：高速昇華"
+      },
+      "RecipeName": {
+        "English": "High-Speed Sublimation",
+        "SimplifiedChinese": "高速升华",
+        "TraditionalChinese": "高速昇華"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "REACTION2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Enriched Carbon",
+          "SimplifiedChinese": "浓化碳",
+          "TencentChinese": "浓化碳",
+          "TraditionalChinese": "濃化碳"
+        },
+        "Icon": "ui-frontend-icons-update3-reaction.2.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_387",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Fusion",
+        "SimplifiedChinese": "请求操作：有机熔合",
+        "TencentChinese": "请求操作：有机熔合",
+        "TraditionalChinese": "需執行作業：有機融合"
+      },
+      "RecipeName": {
+        "English": "Organic Fusion",
+        "SimplifiedChinese": "有机熔合",
+        "TraditionalChinese": "有機融合"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "GAS4",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Methane",
+          "SimplifiedChinese": "甲烷",
+          "TraditionalChinese": "甲烷"
+        },
+        "Icon": "ui-frontend-icons-update3-gas.4.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 3,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_83",
+      "RecipeType": {
+        "English": "Requested Operation: Catalyze Radiation",
+        "SimplifiedChinese": "请求操作：催化辐射",
+        "TencentChinese": "请求操作：催化辐射",
+        "TraditionalChinese": "需執行作業：催化輻射"
+      },
+      "RecipeName": {
+        "English": "Catalyse Radiation",
+        "SimplifiedChinese": "催化辐射",
+        "TraditionalChinese": "催化輻射"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "RADIO1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Uranium",
+          "SimplifiedChinese": "铀",
+          "TencentChinese": "铀",
+          "TraditionalChinese": "鈾"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_210",
+      "RecipeType": {
+        "English": "Requested Operation: Metal Enrichment",
+        "SimplifiedChinese": "请求操作：金属富集",
+        "TencentChinese": "请求操作：金属富集",
+        "TraditionalChinese": "需執行作業：加強金屬"
+      },
+      "RecipeName": {
+        "English": "Metal Enrichment",
+        "SimplifiedChinese": "金属富集",
+        "TraditionalChinese": "金屬濃化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "RADIO1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Uranium",
+          "SimplifiedChinese": "铀",
+          "TencentChinese": "铀",
+          "TraditionalChinese": "鈾"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_213",
+      "RecipeType": {
+        "English": "Requested Operation: Metal Enrichment",
+        "SimplifiedChinese": "请求操作：金属富集",
+        "TencentChinese": "请求操作：金属富集",
+        "TraditionalChinese": "需執行作業：加強金屬"
+      },
+      "RecipeName": {
+        "English": "Metal Enrichment",
+        "SimplifiedChinese": "金属富集",
+        "TraditionalChinese": "金屬濃化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "RADIO1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Uranium",
+          "SimplifiedChinese": "铀",
+          "TencentChinese": "铀",
+          "TraditionalChinese": "鈾"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_216",
+      "RecipeType": {
+        "English": "Requested Operation: Metal Enrichment",
+        "SimplifiedChinese": "请求操作：金属富集",
+        "TencentChinese": "请求操作：金属富集",
+        "TraditionalChinese": "需執行作業：加強金屬"
+      },
+      "RecipeName": {
+        "English": "Metal Enrichment",
+        "SimplifiedChinese": "金属富集",
+        "TraditionalChinese": "金屬濃化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "RADIO1",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Uranium",
+          "SimplifiedChinese": "铀",
+          "TencentChinese": "铀",
+          "TraditionalChinese": "鈾"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "LAND3": {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        }
+      }
+    }
+  ]
 }

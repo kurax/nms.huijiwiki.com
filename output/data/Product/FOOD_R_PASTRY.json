@@ -85,5 +85,210 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_66",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_PASTRY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pastry",
+          "SimplifiedChinese": "油酥面团",
+          "TencentChinese": "油酥面团",
+          "TraditionalChinese": "糕點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_R_BUTTER": {
+          "Id": "FOOD_R_BUTTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Churned Butter",
+            "SimplifiedChinese": "已搅拌的黄油",
+            "TencentChinese": "已搅拌的黄油",
+            "TraditionalChinese": "攪拌奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_67",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_PASTRY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pastry",
+          "SimplifiedChinese": "油酥面团",
+          "TencentChinese": "油酥面团",
+          "TraditionalChinese": "糕點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_R_GBUTTER": {
+          "Id": "FOOD_R_GBUTTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Butter",
+            "SimplifiedChinese": "原型黄油",
+            "TencentChinese": "原型黄油",
+            "TraditionalChinese": "原始奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_628",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_PASTRY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pastry",
+          "SimplifiedChinese": "油酥面团",
+          "TencentChinese": "油酥面团",
+          "TraditionalChinese": "糕點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_R_BBUTTER": {
+          "Id": "FOOD_R_BBUTTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Butter",
+            "SimplifiedChinese": "骨黄油",
+            "TraditionalChinese": "骨頭奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_132",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_PIECASE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pie Case",
+          "SimplifiedChinese": "馅饼盒",
+          "TencentChinese": "馅饼盒",
+          "TraditionalChinese": "派皮"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PASTRY": {
+          "Id": "FOOD_R_PASTRY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pastry",
+            "SimplifiedChinese": "油酥面团",
+            "TencentChinese": "油酥面团",
+            "TraditionalChinese": "糕點"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        }
+      }
+    }
+  ]
 }

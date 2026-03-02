@@ -102,5 +102,98 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ROBO_LEGS",
+      "Name": {
+        "English": "Construct Legs",
+        "SimplifiedChinese": "构造体腿部",
+        "TraditionalChinese": "構造腿部"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotlegs.png",
+      "Requirements": [
+        {
+          "Id": "HYDRALIC",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Hydraulic Wiring",
+            "SimplifiedChinese": "水力线路",
+            "TraditionalChinese": "液壓線路"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hydralic.png"
+        },
+        {
+          "Id": "MAGNET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetic Resonator",
+            "SimplifiedChinese": "磁性共振器",
+            "TraditionalChinese": "磁力共振器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.magnet.png"
+        },
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_STORM",
+      "Name": {
+        "English": "Magpulse Lure",
+        "SimplifiedChinese": "磁脉冲诱饵",
+        "TraditionalChinese": "磁脈衝假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.storm.png",
+      "Requirements": [
+        {
+          "Id": "MAGNET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetic Resonator",
+            "SimplifiedChinese": "磁性共振器",
+            "TraditionalChinese": "磁力共振器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.magnet.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 90,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    }
+  ]
 }

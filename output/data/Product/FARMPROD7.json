@@ -106,5 +106,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "MEGAPROD1",
+      "Name": {
+        "English": "Portable Reactor",
+        "SimplifiedChinese": "便携式反应器",
+        "TencentChinese": "便携式反应器",
+        "TraditionalChinese": "可攜式反應器"
+      },
+      "Icon": "ui-frontend-icons-update3-megaprod.1.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD7",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Liquid Explosive",
+            "SimplifiedChinese": "液体炸弹",
+            "TencentChinese": "液体炸弹",
+            "TraditionalChinese": "液體炸彈"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.7.png"
+        },
+        {
+          "Id": "COMPOUND4",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fusion Accelerant",
+            "SimplifiedChinese": "熔合触媒",
+            "TencentChinese": "熔合触媒",
+            "TraditionalChinese": "融合加速器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fusionaccelerant.png"
+        }
+      ]
+    }
+  ]
 }

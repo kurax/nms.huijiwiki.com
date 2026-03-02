@@ -86,5 +86,43 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ALLOY3",
+      "Name": {
+        "English": "Herox",
+        "SimplifiedChinese": "赫罗克斯",
+        "TencentChinese": "赫罗克斯",
+        "TraditionalChinese": "赫羅克斯"
+      },
+      "Icon": "ui-frontend-icons-products-product.metallic.3.png",
+      "Requirements": [
+        {
+          "Id": "TOXIC1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Ammonia",
+            "SimplifiedChinese": "氨",
+            "TencentChinese": "氨",
+            "TraditionalChinese": "氨"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.toxic.png"
+        },
+        {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        }
+      ]
+    }
+  ]
 }

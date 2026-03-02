@@ -85,5 +85,61 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_399",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CM_CHOC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Haunted Chocolate Dreams",
+          "SimplifiedChinese": "闹鬼巧克力蛋糕",
+          "TencentChinese": "异样巧克力蛋糕",
+          "TraditionalChinese": "鬼影巧克力夢幻甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CHOC": {
+          "Id": "FOOD_R_CHOC",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bittersweet Cocoa",
+            "SimplifiedChinese": "甜中带苦的可可",
+            "TencentChinese": "甜中带苦的可可",
+            "TraditionalChinese": "苦甜可可"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.chocolate.png"
+        }
+      }
+    }
+  ]
 }

@@ -106,5 +106,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "COMPOUND4",
+      "Name": {
+        "English": "Fusion Accelerant",
+        "SimplifiedChinese": "熔合触媒",
+        "TencentChinese": "熔合触媒",
+        "TraditionalChinese": "融合加速器"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.fusionaccelerant.png",
+      "Requirements": [
+        {
+          "Id": "COMPOUND1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Organic Catalyst",
+            "SimplifiedChinese": "有机催化剂",
+            "TencentChinese": "有机催化剂",
+            "TraditionalChinese": "有機催化劑"
+          },
+          "Icon": "ui-frontend-icons-update3-compound.1.png"
+        },
+        {
+          "Id": "REACTION3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen Salt",
+            "SimplifiedChinese": "氮盐",
+            "TencentChinese": "氮盐",
+            "TraditionalChinese": "氮鹽"
+          },
+          "Icon": "ui-frontend-icons-update3-reaction.3.png"
+        }
+      ]
+    }
+  ]
 }

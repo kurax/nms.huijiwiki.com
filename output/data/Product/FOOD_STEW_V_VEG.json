@@ -85,5 +85,61 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_311",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_V_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicious Vegetable Stew",
+          "SimplifiedChinese": "美味炖蔬菜",
+          "TencentChinese": "美味炖蔬菜",
+          "TraditionalChinese": "美味燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "FOOD_VEG_STEW": {
+          "Id": "FOOD_VEG_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fibrous Stew",
+            "SimplifiedChinese": "纤维炖菜",
+            "TencentChinese": "纤维炖菜",
+            "TraditionalChinese": "高纖燉菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

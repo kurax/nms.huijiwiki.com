@@ -90,5 +90,53 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ROBO_CORE",
+      "Name": {
+        "English": "Atlantid Reactor",
+        "SimplifiedChinese": "阿特兰蒂反应堆",
+        "TraditionalChinese": "亞特蘭提德反應爐"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotcore.png",
+      "Requirements": [
+        {
+          "Id": "AM_HOUSING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Antimatter Housing",
+            "SimplifiedChinese": "反物质外壳",
+            "TencentChinese": "反物质外壳",
+            "TraditionalChinese": "反物質容器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.amhousing.png"
+        },
+        {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 75,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        {
+          "Id": "SPIDER_PROD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystallized Heart",
+            "SimplifiedChinese": "结晶心脏",
+            "TraditionalChinese": "結晶心臟"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.spidercrystal.png"
+        }
+      ]
+    }
+  ]
 }

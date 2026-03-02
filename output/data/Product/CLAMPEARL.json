@@ -95,5 +95,135 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BASE_AQUARIUM",
+      "Name": {
+        "English": "Small Aquarium",
+        "SimplifiedChinese": "小型水族箱",
+        "TencentChinese": "小型水族箱",
+        "TraditionalChinese": "小型水族箱"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.aquarium.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "CLAMPEARL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Pearl",
+            "SimplifiedChinese": "活体珍珠",
+            "TencentChinese": "活体珍珠",
+            "TraditionalChinese": "活珍珠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.clampearl.png"
+        }
+      ]
+    },
+    {
+      "Id": "SOUL_ENGINE",
+      "Name": {
+        "English": "Soul Engine",
+        "SimplifiedChinese": "灵魂引擎",
+        "TencentChinese": "灵魂引擎",
+        "TraditionalChinese": "靈魂引擎"
+      },
+      "Icon": "ui-frontend-icons-update3-soulengine.png",
+      "Requirements": [
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "CLAMPEARL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Pearl",
+            "SimplifiedChinese": "活体珍珠",
+            "TencentChinese": "活体珍珠",
+            "TraditionalChinese": "活珍珠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.clampearl.png"
+        },
+        {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_2",
+      "RecipeType": {
+        "English": "Requested Operation: Calcite Transmutation",
+        "SimplifiedChinese": "请求操作：方解石炼制",
+        "TencentChinese": "请求操作：方解石炼制",
+        "TraditionalChinese": "需執行作業：方解石衰變"
+      },
+      "RecipeName": {
+        "English": "Calcite Transmutation",
+        "SimplifiedChinese": "方解石炼制",
+        "TraditionalChinese": "方解石變化"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 100,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "CLAMPEARL": {
+          "Id": "CLAMPEARL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Pearl",
+            "SimplifiedChinese": "活体珍珠",
+            "TencentChinese": "活体珍珠",
+            "TraditionalChinese": "活珍珠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.clampearl.png"
+        }
+      }
+    }
+  ]
 }

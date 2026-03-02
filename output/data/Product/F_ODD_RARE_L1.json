@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1283",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marine Steak",
+          "SimplifiedChinese": "海鲜肉排",
+          "TraditionalChinese": "海鮮肉排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_ODD_RARE_L1": {
+          "Id": "F_ODD_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Euclidean Flatfish",
+            "SimplifiedChinese": "非欧几里德比目鱼",
+            "TraditionalChinese": "非歐氏幾何比目魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.medium.3.png"
+        }
+      }
+    }
+  ]
 }

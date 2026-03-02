@@ -82,5 +82,436 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1132",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_ALL_RARE_S1": {
+          "Id": "F_ALL_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Needlefish",
+            "SimplifiedChinese": "针鱼",
+            "TraditionalChinese": "頜針魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1167",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_RAD_COM_S1": {
+          "Id": "F_RAD_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bulging Snapper",
+            "SimplifiedChinese": "肿胀鲷鱼",
+            "TraditionalChinese": "膨鯛"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1175",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_RAD_RARE_S2": {
+          "Id": "F_RAD_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nucleic Skipper",
+            "SimplifiedChinese": "单核鲤",
+            "TraditionalChinese": "核輻射鰹魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1195",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_HOT_RARE_S1": {
+          "Id": "F_HOT_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lamptip Ray",
+            "SimplifiedChinese": "灯尖鳐",
+            "TraditionalChinese": "燈頭魟"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.ray.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1211",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_COLD_COM_S3": {
+          "Id": "F_COLD_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frostscale Trout",
+            "SimplifiedChinese": "霜鳞鳟鱼",
+            "TraditionalChinese": "霜鱗鱒魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.medium.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1231",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_LUSH_COM_S2": {
+          "Id": "F_LUSH_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Warty Frogfish",
+            "SimplifiedChinese": "疣躄鱼",
+            "TraditionalChinese": "大疣躄魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1243",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_LUSH_EPIC_S1": {
+          "Id": "F_LUSH_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wispscale Darter",
+            "SimplifiedChinese": "鬼鳞镖鱼",
+            "TraditionalChinese": "輕鱗鱸魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1258",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DUST_RARE_S1": {
+          "Id": "F_DUST_RARE_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bladdersac",
+            "SimplifiedChinese": "皮囊鱼",
+            "TraditionalChinese": "鰾囊魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1273",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_ODD_COM_S2": {
+          "Id": "F_ODD_COM_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexscale Minnow",
+            "SimplifiedChinese": "六鳞鲦鱼",
+            "TraditionalChinese": "六鱗米諾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.small.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1327",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DEEP_COM_S3": {
+          "Id": "F_DEEP_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sac-fish",
+            "SimplifiedChinese": "囊鱼",
+            "TraditionalChinese": "囊魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1338",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DEEP_EPIC_S1": {
+          "Id": "F_DEEP_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ghost Skipper",
+            "SimplifiedChinese": "幽灵鲤",
+            "TraditionalChinese": "幽靈鰹"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.small.3.png"
+        }
+      }
+    }
+  ]
 }

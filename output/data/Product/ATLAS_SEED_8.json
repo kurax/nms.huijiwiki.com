@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_9",
+      "Name": {
+        "English": "Modified Quanta",
+        "SimplifiedChinese": "改造过的量子",
+        "TencentChinese": "改造过的量子",
+        "TraditionalChinese": "修正量子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.9.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_8",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Novae Reclaiment",
+            "SimplifiedChinese": "新星残留物",
+            "TencentChinese": "新星残留物",
+            "TraditionalChinese": "超新星殘骸"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.8.png"
+        },
+        {
+          "Id": "BLUE2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Indium",
+            "SimplifiedChinese": "铟",
+            "TencentChinese": "铟",
+            "TraditionalChinese": "銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.blue.2.png"
+        }
+      ]
+    }
+  ]
 }

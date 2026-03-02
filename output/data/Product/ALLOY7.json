@@ -111,5 +111,99 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ULTRAPROD1",
+      "Name": {
+        "English": "Fusion Ignitor",
+        "SimplifiedChinese": "核融起爆机",
+        "TencentChinese": "核融触发机",
+        "TraditionalChinese": "融合點火器"
+      },
+      "Icon": "ui-frontend-icons-update3-ultraprod.1.png",
+      "Requirements": [
+        {
+          "Id": "MEGAPROD1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Portable Reactor",
+            "SimplifiedChinese": "便携式反应器",
+            "TencentChinese": "便携式反应器",
+            "TraditionalChinese": "可攜式反應器"
+          },
+          "Icon": "ui-frontend-icons-update3-megaprod.1.png"
+        },
+        {
+          "Id": "MEGAPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Processor",
+            "SimplifiedChinese": "量子处理器",
+            "TencentChinese": "量子处理器",
+            "TraditionalChinese": "量子處理器"
+          },
+          "Icon": "ui-frontend-icons-update3-megaprod.2.png"
+        },
+        {
+          "Id": "ALLOY7",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Geodesite",
+            "SimplifiedChinese": "晶土矿",
+            "TencentChinese": "晶土矿",
+            "TraditionalChinese": "晶球岩"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.7.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_73",
+      "RecipeType": {
+        "English": "Requested Operation: Extreme Alloy Separation",
+        "SimplifiedChinese": "请求操作：极端合金分离",
+        "TencentChinese": "请求操作：极端合金分离",
+        "TraditionalChinese": "需執行作業：分離極度合金"
+      },
+      "RecipeName": {
+        "English": "Extreme Alloy Separation",
+        "SimplifiedChinese": "极端合金分离",
+        "TraditionalChinese": "極度合金分離"
+      },
+      "TimeToMake": 300,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID3",
+        "Type": "Substance",
+        "Amount": 250,
+        "Name": {
+          "English": "Platinum",
+          "SimplifiedChinese": "铂",
+          "TencentChinese": "铂",
+          "TraditionalChinese": "鉑"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+      },
+      "Ingredients": {
+        "ALLOY7": {
+          "Id": "ALLOY7",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Geodesite",
+            "SimplifiedChinese": "晶土矿",
+            "TencentChinese": "晶土矿",
+            "TraditionalChinese": "晶球岩"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.7.png"
+        }
+      }
+    }
+  ]
 }

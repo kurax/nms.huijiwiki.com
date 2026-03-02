@@ -171,6 +171,21 @@ const technologies = await processData('NMS_REALITY_GCTECHNOLOGYTABLE.MXML');
 const proceduralTechnologies = await processData('NMS_REALITY_GCPROCEDURALTECHNOLOGYTABLE.MXML');
 const products = await processData('NMS_REALITY_GCPRODUCTTABLE.MXML');
 
+const getRef = (type: string, id: string) => {
+    let entry: any;
+    if (type === 'Substance') entry = substances.table[id];
+    else if (type === 'Product') entry = products.table[id];
+    // else if (type === 'Technology') entry = technologies.table[id];
+    // else if (type === 'ProceduralTechnology') entry = proceduralTechnologies.table[id];
+    return { Name: entry?.NameLower, Icon: entry?.Icon };
+};
+
+for (const recipe of Object.values(recipes.table) as any[]) {
+    if (recipe.Result) recipe.Result = { ...recipe.Result, ...getRef(recipe.Result?.Type, recipe.Result?.Id) };
+    if (recipe.Ingredients)
+        for (const key in recipe.Ingredients) recipe.Ingredients[key] = { ...recipe.Ingredients[key], ...getRef(recipe.Ingredients[key]?.Type, recipe.Ingredients[key]?.Id) };
+}
+
 // Procedural Technology 后处理
 for (const id in proceduralTechnologies.table) {
     const entry = proceduralTechnologies.table[id];
@@ -199,6 +214,42 @@ for (const id in proceduralTechnologies.table) {
         entry.Name = _.isEmpty(localizedName) ? entry.Name : localizedName;
     }
 }
+
+// 关联产品数据
+const relateToProducts = (type: string, table: Record<string, any>) => {
+    for (const id in table) {
+        const relatedProducts = Object.values(products.table).filter((product: any) =>
+            Object.values(product.Requirements ?? {}).some((req: any) => req.Type === type && req.ID === id)
+        );
+        if (relatedProducts.length === 0) continue;
+        table[id]['[RELATED]Products'] = _.sortBy(
+            relatedProducts.map((product: any) => ({
+                Id: product.ID,
+                Name: product.NameLower,
+                Icon: product.Icon,
+                Requirements: Object.values(product.Requirements).map((req: any) => ({ Id: req.ID, ..._.omit(req, 'ID'), ...getRef(req.Type, req.ID) }))
+            })),
+            p => p.Name?.SimplifiedChinese
+        );
+    }
+};
+relateToProducts('Product', products.table);
+relateToProducts('Substance', substances.table);
+
+// 关联配方数据
+const relateToRecipes = (type: string, table: Record<string, any>) => {
+    for (const id in table) {
+        const relatedRecipes = Object.values(recipes.table).filter(
+            (recipe: any) =>
+                (recipe.Result?.Type === type && recipe.Result?.Id === id) ||
+                Object.values(recipe.Ingredients).some((ingredient: any) => ingredient.Type === type && ingredient.Id === id)
+        );
+        if (relatedRecipes.length === 0) continue;
+        table[id]['[RELATED]Recipes'] = _.sortBy(relatedRecipes, r => r['Result']?.Name?.SimplifiedChinese);
+    }
+};
+relateToRecipes('Product', products.table);
+relateToRecipes('Substance', substances.table);
 
 writeTableData(substances);
 writeTableData(technologies);

@@ -101,5 +101,129 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "PRODFUEL2",
+      "Name": {
+        "English": "Life Support Gel",
+        "SimplifiedChinese": "维生凝胶",
+        "TencentChinese": "维生凝胶",
+        "TraditionalChinese": "維生膠"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.oxygengel.png",
+      "Requirements": [
+        {
+          "Id": "JELLY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen Jelly",
+            "SimplifiedChinese": "二氢凝胶",
+            "TencentChinese": "二氢凝胶",
+            "TraditionalChinese": "二氫膠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.jelly.png"
+        },
+        {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_22",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Cycling",
+        "SimplifiedChinese": "请求操作：循环二氢",
+        "TencentChinese": "请求操作：循环二氢",
+        "TraditionalChinese": "需執行作業：回收二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Cycling",
+        "SimplifiedChinese": "二氢循环",
+        "TraditionalChinese": "二氫循環"
+      },
+      "TimeToMake": 1000,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB",
+        "Type": "Substance",
+        "Amount": 40,
+        "Name": {
+          "English": "Di-hydrogen",
+          "SimplifiedChinese": "二氢",
+          "TencentChinese": "二氢",
+          "TraditionalChinese": "二氫"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+      },
+      "Ingredients": {
+        "JELLY": {
+          "Id": "JELLY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen Jelly",
+            "SimplifiedChinese": "二氢凝胶",
+            "TencentChinese": "二氢凝胶",
+            "TraditionalChinese": "二氫膠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_15",
+      "RecipeType": {
+        "English": "Requested Operation: Condense Di-hydrogen",
+        "SimplifiedChinese": "请求操作：浓缩二氢",
+        "TencentChinese": "请求操作：浓缩二氢",
+        "TraditionalChinese": "請求操作：濃縮二氫"
+      },
+      "RecipeName": {
+        "English": "Condense Di-hydrogen",
+        "SimplifiedChinese": "浓缩二氢",
+        "TraditionalChinese": "濃縮二氫"
+      },
+      "TimeToMake": 120,
+      "Cooking": false,
+      "Result": {
+        "Id": "JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Di-hydrogen Jelly",
+          "SimplifiedChinese": "二氢凝胶",
+          "TencentChinese": "二氢凝胶",
+          "TraditionalChinese": "二氫膠"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.jelly.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    }
+  ]
 }

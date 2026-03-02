@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1288",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SQUID",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Rubber",
+          "SimplifiedChinese": "清蒸橡胶肉",
+          "TraditionalChinese": "清蒸橡膠"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ODD_EPIC_XL": {
+          "Id": "F_ODD_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Void Squid",
+            "SimplifiedChinese": "虚空鱿鱼",
+            "TraditionalChinese": "虛空魷魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.squid.png"
+        }
+      }
+    }
+  ]
 }

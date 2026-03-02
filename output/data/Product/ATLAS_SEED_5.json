@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_6",
+      "Name": {
+        "English": "Photic Jade",
+        "SimplifiedChinese": "透光玉",
+        "TencentChinese": "透光玉",
+        "TraditionalChinese": "光子玉"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.6.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_5",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dawn's End",
+            "SimplifiedChinese": "黎明之末",
+            "TencentChinese": "黎明之末",
+            "TraditionalChinese": "黎明之終"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.5.png"
+        },
+        {
+          "Id": "YELLOW2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Copper",
+            "SimplifiedChinese": "铜",
+            "TencentChinese": "铜",
+            "TraditionalChinese": "銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+        }
+      ]
+    }
+  ]
 }

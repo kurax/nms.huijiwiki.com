@@ -81,5 +81,111 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_334",
+      "RecipeType": {
+        "English": "Requested Operation: Volcanic Transmutation",
+        "SimplifiedChinese": "请求操作：火山岩炼制",
+        "TraditionalChinese": "需執行作業：火山變化"
+      },
+      "RecipeName": {
+        "English": "Volcanic Transmutation",
+        "SimplifiedChinese": "火山岩炼制",
+        "TraditionalChinese": "火山變化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAVA1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Basalt",
+          "SimplifiedChinese": "玄武岩",
+          "TraditionalChinese": "玄武岩"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.lava.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND3": {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_335",
+      "RecipeType": {
+        "English": "Requested Operation: Volcanic Transmutation",
+        "SimplifiedChinese": "请求操作：火山岩炼制",
+        "TraditionalChinese": "需執行作業：火山變化"
+      },
+      "RecipeName": {
+        "English": "Volcanic Transmutation",
+        "SimplifiedChinese": "火山岩炼制",
+        "TraditionalChinese": "火山變化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAVA1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Basalt",
+          "SimplifiedChinese": "玄武岩",
+          "TraditionalChinese": "玄武岩"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.lava.png"
+      },
+      "Ingredients": {
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        "LAND3": {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        }
+      }
+    }
+  ]
 }

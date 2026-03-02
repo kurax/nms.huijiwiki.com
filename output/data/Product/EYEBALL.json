@@ -90,5 +90,2006 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BIOSHIP_COMP3",
+      "Name": {
+        "English": "Impossible Membrane",
+        "SimplifiedChinese": "匪夷所思的膜",
+        "TraditionalChinese": "不可思議黏膜"
+      },
+      "Icon": "ui-frontend-icons-technology-bio-product.biocomp3.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        {
+          "Id": "EXOTIC_BIOPROD",
+          "Type": "Product",
+          "Amount": 150,
+          "Name": {
+            "English": "Living Water",
+            "SimplifiedChinese": "活体水",
+            "TraditionalChinese": "活水"
+          },
+          "Icon": "ui-frontend-icons-technology-bio-product.bioexotic.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_492",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Iced Screams",
+          "SimplifiedChinese": "冰叫淋",
+          "TencentChinese": "冰叫淋",
+          "TraditionalChinese": "尖叫冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_494",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Iced Screams",
+          "SimplifiedChinese": "冰叫淋",
+          "TencentChinese": "冰叫淋",
+          "TraditionalChinese": "尖叫冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_450",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEBALLS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying Mush",
+          "SimplifiedChinese": "可怕的糊糊",
+          "TencentChinese": "可怕的糊糊",
+          "TraditionalChinese": "可怕爛糊"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_893",
+      "RecipeType": {
+        "English": "Processor Setting: Preserve Flesh",
+        "SimplifiedChinese": "加工设置：肉类保鲜",
+        "TencentChinese": "加工设置：肉类保鲜",
+        "TraditionalChinese": "處理器設定：保存肉品"
+      },
+      "RecipeName": {
+        "English": "Preserve Flesh",
+        "SimplifiedChinese": "保藏肉类",
+        "TraditionalChinese": "保存肉品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nightmare Sausage",
+          "SimplifiedChinese": "噩梦香肠",
+          "TraditionalChinese": "夢魘香腸"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+      },
+      "Ingredients": {
+        "FOOD_W_CASE": {
+          "Id": "FOOD_W_CASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Membrane",
+            "SimplifiedChinese": "凝胶薄膜",
+            "TraditionalChinese": "膠狀黏膜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        },
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_918",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_FIEND",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Haunted Wafer",
+          "SimplifiedChinese": "幽灵华夫饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "鬼影威化餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_3",
+      "RecipeType": {
+        "English": "Requested Operation: Biological Purge",
+        "SimplifiedChinese": "请求操作：生物净化",
+        "TencentChinese": "请求操作：生物净化",
+        "TraditionalChinese": "需執行作業：生物清除"
+      },
+      "RecipeName": {
+        "English": "Biological Purge",
+        "SimplifiedChinese": "生物净化",
+        "TraditionalChinese": "生物清除"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK4",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Living Slime",
+          "SimplifiedChinese": "活体黏质",
+          "TencentChinese": "活体黏质",
+          "TraditionalChinese": "活軟泥"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_451",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_452",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_R_EYEBALLS": {
+          "Id": "FOOD_R_EYEBALLS",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Horrifying Mush",
+            "SimplifiedChinese": "可怕的糊糊",
+            "TencentChinese": "可怕的糊糊",
+            "TraditionalChinese": "可怕爛糊"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_473",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_R_MEAT": {
+          "Id": "FOOD_R_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Meat",
+            "SimplifiedChinese": "加工肉类",
+            "TencentChinese": "加工肉类",
+            "TraditionalChinese": "加工肉品"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meat.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_474",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_R_SMOKED": {
+          "Id": "FOOD_R_SMOKED",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Smoked Meat",
+            "SimplifiedChinese": "熏肉",
+            "TencentChinese": "熏肉",
+            "TraditionalChinese": "熏肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.smokedmeat.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_475",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_MEAT": {
+          "Id": "FOOD_M_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meaty Chunks",
+            "SimplifiedChinese": "肉块",
+            "TencentChinese": "肉块",
+            "TraditionalChinese": "肉塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_476",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_BLOB": {
+          "Id": "FOOD_M_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Offal Sac",
+            "SimplifiedChinese": "内脏囊",
+            "TencentChinese": "内脏囊",
+            "TraditionalChinese": "內臟囊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_477",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_CAT": {
+          "Id": "FOOD_M_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Feline Liver",
+            "SimplifiedChinese": "猫科肝",
+            "TencentChinese": "猫科肝",
+            "TraditionalChinese": "貓科肝"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_478",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_FLYER": {
+          "Id": "FOOD_M_FLYER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meaty Wings",
+            "SimplifiedChinese": "肉翅",
+            "TencentChinese": "肉翅",
+            "TraditionalChinese": "肉翅"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_479",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_GEK": {
+          "Id": "FOOD_M_GEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoSausage",
+            "SimplifiedChinese": "原始香肠",
+            "TencentChinese": "原始香肠",
+            "TraditionalChinese": "原始香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_480",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_DIPLO": {
+          "Id": "FOOD_M_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Diplo Chunks",
+            "SimplifiedChinese": "迪普洛块",
+            "TencentChinese": "迪普洛块",
+            "TraditionalChinese": "迪普洛塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_481",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_REX": {
+          "Id": "FOOD_M_REX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scaly Meat",
+            "SimplifiedChinese": "鳞肉",
+            "TencentChinese": "鳞肉",
+            "TraditionalChinese": "鱗肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_482",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_STRIDER": {
+          "Id": "FOOD_M_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Strider Sausage",
+            "SimplifiedChinese": "水黾香肠",
+            "TencentChinese": "水黾香肠",
+            "TraditionalChinese": "水黽香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_483",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_COW": {
+          "Id": "FOOD_M_COW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Raw Steak",
+            "SimplifiedChinese": "生肉排",
+            "TencentChinese": "生肉排",
+            "TraditionalChinese": "生牛排"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_484",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_R_VEG": {
+          "Id": "FOOD_R_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Steamed Vegetables",
+            "SimplifiedChinese": "清蒸蔬菜",
+            "TencentChinese": "清蒸蔬菜",
+            "TraditionalChinese": "清蒸蔬菜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_485",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_LUSHWILD": {
+          "Id": "FOOD_P_LUSHWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Impulse Beans",
+            "SimplifiedChinese": "脉冲豆",
+            "TencentChinese": "脉冲豆",
+            "TraditionalChinese": "脈衝豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.lushwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_486",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_HOTFARM": {
+          "Id": "FOOD_P_HOTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solartillo",
+            "SimplifiedChinese": "索拉提洛",
+            "TencentChinese": "索拉提洛",
+            "TraditionalChinese": "索拉提洛"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.hotfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_487",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_TOXWILD": {
+          "Id": "FOOD_P_TOXWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jade Peas",
+            "SimplifiedChinese": "玉豌豆",
+            "TencentChinese": "玉豌豆",
+            "TraditionalChinese": "玉豌豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_488",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_489",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_RADFARM": {
+          "Id": "FOOD_P_RADFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sievert Beans",
+            "SimplifiedChinese": "希沃特豆",
+            "TencentChinese": "希沃特豆",
+            "TraditionalChinese": "希沃特豆"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.radfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_490",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_ALL2": {
+          "Id": "FOOD_P_ALL2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetroot",
+            "SimplifiedChinese": "甜根",
+            "TencentChinese": "甜根",
+            "TraditionalChinese": "甜根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all2wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_491",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_P_ALL3": {
+          "Id": "FOOD_P_ALL3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pulpy Roots",
+            "SimplifiedChinese": "浆根",
+            "TencentChinese": "浆根",
+            "TraditionalChinese": "漿根"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.all3wild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_763",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_BONE": {
+          "Id": "FOOD_M_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystal Flesh",
+            "SimplifiedChinese": "水晶肉",
+            "TraditionalChinese": "晶狀肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_764",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_DRILL": {
+          "Id": "FOOD_M_DRILL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Latticed Sinew",
+            "SimplifiedChinese": "缀合肌腱",
+            "TraditionalChinese": "晶格筋"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_765",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_BEETLE": {
+          "Id": "FOOD_M_BEETLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crunchy Wings",
+            "SimplifiedChinese": "松脆的翅膀",
+            "TraditionalChinese": "酥脆翅"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_766",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_BALL": {
+          "Id": "FOOD_M_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpy Brainstem",
+            "SimplifiedChinese": "块状脑干",
+            "TraditionalChinese": "顆粒狀腦幹"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_767",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_DIGGER": {
+          "Id": "FOOD_M_DIGGER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dirty Meat",
+            "SimplifiedChinese": "肮脏的肉",
+            "TraditionalChinese": "骯髒肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_768",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_MOLE": {
+          "Id": "FOOD_M_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Scooped Innards",
+            "SimplifiedChinese": "舀出的内脏",
+            "TraditionalChinese": "舀出的內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_769",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_770",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_V_BONE": {
+          "Id": "FOOD_V_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Nuggets",
+            "SimplifiedChinese": "骨块",
+            "TraditionalChinese": "骨塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1002",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_V_BUG": {
+          "Id": "FOOD_V_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nourishing Slime",
+            "SimplifiedChinese": "营养黏质",
+            "TraditionalChinese": "營養軟泥怪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.animalgrease.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1029",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYESTEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Abyssal Stew",
+          "SimplifiedChinese": "深渊炖菜",
+          "TencentChinese": "深渊炖菜",
+          "TraditionalChinese": "深淵燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        },
+        "FOOD_M_BUG": {
+          "Id": "FOOD_M_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Juicy Thorax",
+            "SimplifiedChinese": "多汁的胸腔",
+            "TraditionalChinese": "多汁的胸腔"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    }
+  ]
 }

@@ -86,5 +86,1279 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "JELLY",
+      "Name": {
+        "English": "Di-hydrogen Jelly",
+        "SimplifiedChinese": "二氢凝胶",
+        "TencentChinese": "二氢凝胶",
+        "TraditionalChinese": "二氫膠"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.jelly.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "FRIGATE_FUEL_2",
+      "Name": {
+        "English": "Frigate Fuel (100 Tonnes)",
+        "SimplifiedChinese": "护卫舰燃料（100 吨）",
+        "TencentChinese": "护卫舰燃料（100 吨）",
+        "TraditionalChinese": "巡防艦燃料（100噸）"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigfuel100.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    },
+    {
+      "Id": "FRIGATE_FUEL_3",
+      "Name": {
+        "English": "Frigate Fuel (200 Tonnes)",
+        "SimplifiedChinese": "护卫舰燃料（200 吨）",
+        "TencentChinese": "护卫舰燃料（200 吨）",
+        "TraditionalChinese": "巡防艦燃料（200噸）"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigfuel200.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    },
+    {
+      "Id": "FRIGATE_FUEL_1",
+      "Name": {
+        "English": "Frigate Fuel (50 Tonnes)",
+        "SimplifiedChinese": "护卫舰燃料（50 吨）",
+        "TencentChinese": "护卫舰燃料（50 吨）",
+        "TraditionalChinese": "巡防艦燃料（50噸）"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigfuel50.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    },
+    {
+      "Id": "HYDRALIC",
+      "Name": {
+        "English": "Hydraulic Wiring",
+        "SimplifiedChinese": "水力线路",
+        "TraditionalChinese": "液壓線路"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.hydralic.png",
+      "Requirements": [
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        },
+        {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "SPOOK_JUICE",
+      "Name": {
+        "English": "Elixir of Glass",
+        "SimplifiedChinese": "玻璃灵药",
+        "TraditionalChinese": "玻璃靈藥"
+      },
+      "Icon": "ui-frontend-icons-products-product.spookjuice.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "SQUIDFRAG",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Shattered Qualia",
+            "SimplifiedChinese": "残缺感质",
+            "TraditionalChinese": "破碎感質"
+          },
+          "Icon": "ui-frontend-icons-u4products-sub.soulfrag.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_2",
+      "Name": {
+        "English": "Spicy Chum",
+        "SimplifiedChinese": "辣味鱼食",
+        "TraditionalChinese": "辣味魚餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.2.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 90,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "LAUNCHFUEL",
+      "Name": {
+        "English": "Starship Launch Fuel",
+        "SimplifiedChinese": "飞船发射燃料",
+        "TencentChinese": "飞船发射燃料",
+        "TraditionalChinese": "太空船啟動燃料"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.launchfuel.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        }
+      ]
+    },
+    {
+      "Id": "S12_POI_SEED3",
+      "Name": {
+        "English": "Memory of Bones",
+        "SimplifiedChinese": "骸骨的回忆",
+        "TraditionalChinese": "骨骸記憶"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.6.png",
+      "Requirements": [
+        {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 99,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        },
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 66,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 33,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_22",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Cycling",
+        "SimplifiedChinese": "请求操作：循环二氢",
+        "TencentChinese": "请求操作：循环二氢",
+        "TraditionalChinese": "需執行作業：回收二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Cycling",
+        "SimplifiedChinese": "二氢循环",
+        "TraditionalChinese": "二氫循環"
+      },
+      "TimeToMake": 1000,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB",
+        "Type": "Substance",
+        "Amount": 40,
+        "Name": {
+          "English": "Di-hydrogen",
+          "SimplifiedChinese": "二氢",
+          "TencentChinese": "二氢",
+          "TraditionalChinese": "二氫"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+      },
+      "Ingredients": {
+        "JELLY": {
+          "Id": "JELLY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen Jelly",
+            "SimplifiedChinese": "二氢凝胶",
+            "TencentChinese": "二氢凝胶",
+            "TraditionalChinese": "二氫膠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_56",
+      "RecipeType": {
+        "English": "Requested Operation: Tritium Cycling",
+        "SimplifiedChinese": "请求操作：氚循环",
+        "TencentChinese": "请求操作：氚循环",
+        "TraditionalChinese": "請求操作：氚循環"
+      },
+      "RecipeName": {
+        "English": "Tritium Cycling",
+        "SimplifiedChinese": "氚循环",
+        "TraditionalChinese": "氚循環"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Di-hydrogen",
+          "SimplifiedChinese": "二氢",
+          "TencentChinese": "二氢",
+          "TraditionalChinese": "二氫"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+      },
+      "Ingredients": {
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_15",
+      "RecipeType": {
+        "English": "Requested Operation: Condense Di-hydrogen",
+        "SimplifiedChinese": "请求操作：浓缩二氢",
+        "TencentChinese": "请求操作：浓缩二氢",
+        "TraditionalChinese": "請求操作：濃縮二氫"
+      },
+      "RecipeName": {
+        "English": "Condense Di-hydrogen",
+        "SimplifiedChinese": "浓缩二氢",
+        "TraditionalChinese": "濃縮二氫"
+      },
+      "TimeToMake": 120,
+      "Cooking": false,
+      "Result": {
+        "Id": "JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Di-hydrogen Jelly",
+          "SimplifiedChinese": "二氢凝胶",
+          "TencentChinese": "二氢凝胶",
+          "TraditionalChinese": "二氫膠"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.jelly.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_86",
+      "RecipeType": {
+        "English": "Requested Operation: Assisted Decomposition",
+        "SimplifiedChinese": "请求操作：辅助分解",
+        "TencentChinese": "请求操作：辅助分解",
+        "TraditionalChinese": "需執行作業：協助分解"
+      },
+      "RecipeName": {
+        "English": "Assisted Decomposition",
+        "SimplifiedChinese": "辅助分解",
+        "TraditionalChinese": "協助分解"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_POOP",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Faecium",
+          "SimplifiedChinese": "屎球菌",
+          "TencentChinese": "屎球菌",
+          "TraditionalChinese": "屎菌"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_82",
+      "RecipeType": {
+        "English": "Requested Operation: Sulphur Injection",
+        "SimplifiedChinese": "请求操作：注入硫磺",
+        "TencentChinese": "请求操作：注入硫磺",
+        "TraditionalChinese": "需執行作業：注入硫"
+      },
+      "RecipeName": {
+        "English": "Sulphur Injection",
+        "SimplifiedChinese": "注入硫磺",
+        "TraditionalChinese": "注入硫"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_HOT",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Solanium",
+          "SimplifiedChinese": "日光茄",
+          "TencentChinese": "日光茄",
+          "TraditionalChinese": "日光茄"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+      },
+      "Ingredients": {
+        "GAS1": {
+          "Id": "GAS1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sulphurine",
+            "SimplifiedChinese": "硫磺",
+            "TencentChinese": "硫磺",
+            "TraditionalChinese": "硫氣"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.3.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_92",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Cycling",
+        "SimplifiedChinese": "请求操作：循环二氢",
+        "TencentChinese": "请求操作：循环二氢",
+        "TraditionalChinese": "需執行作業：回收二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Cycling",
+        "SimplifiedChinese": "二氢循环",
+        "TraditionalChinese": "二氫循環"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Deuterium",
+          "SimplifiedChinese": "氘",
+          "TencentChinese": "氘",
+          "TraditionalChinese": "氘"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.2.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_336",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Cycling",
+        "SimplifiedChinese": "请求操作：循环二氢",
+        "TencentChinese": "请求操作：循环二氢",
+        "TraditionalChinese": "需執行作業：回收二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Cycling",
+        "SimplifiedChinese": "二氢循环",
+        "TraditionalChinese": "二氫循環"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Deuterium",
+          "SimplifiedChinese": "氘",
+          "TencentChinese": "氘",
+          "TraditionalChinese": "氘"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.2.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "SAND1": {
+          "Id": "SAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silicate Powder",
+            "SimplifiedChinese": "硅酸盐粉末",
+            "TencentChinese": "硅酸盐粉末",
+            "TraditionalChinese": "矽酸粉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.sand.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_81",
+      "RecipeType": {
+        "English": "Requested Operation: Harness Energy",
+        "SimplifiedChinese": "请求操作：控制能量",
+        "TencentChinese": "请求操作：控制能量",
+        "TraditionalChinese": "需執行作業：利用能量"
+      },
+      "RecipeName": {
+        "English": "Harness Energy",
+        "SimplifiedChinese": "控制能量",
+        "TraditionalChinese": "利用能量"
+      },
+      "TimeToMake": 10,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "RADIO1": {
+          "Id": "RADIO1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Uranium",
+            "SimplifiedChinese": "铀",
+            "TencentChinese": "铀",
+            "TraditionalChinese": "鈾"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_85",
+      "RecipeType": {
+        "English": "Requested Operation: Rapid Formation / Evaporation",
+        "SimplifiedChinese": "请求操作：快速成型/蒸发",
+        "TencentChinese": "请求操作：快速成型/蒸发",
+        "TraditionalChinese": "需執行作業：快速形成／蒸發"
+      },
+      "RecipeName": {
+        "English": "Rapid Formation / Evaporation",
+        "SimplifiedChinese": "快速成型/蒸发",
+        "TraditionalChinese": "快速形成/蒸發"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Salt",
+          "SimplifiedChinese": "盐",
+          "TencentChinese": "盐",
+          "TraditionalChinese": "鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_379",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Fusion",
+        "SimplifiedChinese": "请求操作：有机熔合",
+        "TencentChinese": "请求操作：有机熔合",
+        "TraditionalChinese": "需執行作業：有機融合"
+      },
+      "RecipeName": {
+        "English": "Organic Fusion",
+        "SimplifiedChinese": "有机熔合",
+        "TraditionalChinese": "有機融合"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "HOT1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Phosphorus",
+          "SimplifiedChinese": "磷",
+          "TencentChinese": "磷",
+          "TraditionalChinese": "磷"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_257",
+      "RecipeType": {
+        "English": "Requested Operation: Advanced Oxygen Capture",
+        "SimplifiedChinese": "请求操作：高级氧气捕获",
+        "TencentChinese": "请求操作：高级氧气捕获",
+        "TraditionalChinese": "需執行作業：先進氧捕捉"
+      },
+      "RecipeName": {
+        "English": "Advanced Oxygen Capture",
+        "SimplifiedChinese": "高级氧气捕获",
+        "TraditionalChinese": "先進氧捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PRODFUEL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Life Support Gel",
+          "SimplifiedChinese": "维生凝胶",
+          "TencentChinese": "维生凝胶",
+          "TraditionalChinese": "維生膠"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.oxygengel.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_87",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Reassembly",
+        "SimplifiedChinese": "请求操作：有机重组",
+        "TencentChinese": "请求操作：有机重组",
+        "TraditionalChinese": "需執行作業：有機重組"
+      },
+      "RecipeName": {
+        "English": "Organic Reassembly",
+        "SimplifiedChinese": "有机重组",
+        "TraditionalChinese": "有機重組"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "CREATURE1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Mordite",
+          "SimplifiedChinese": "腐藤",
+          "TencentChinese": "腐藤",
+          "TraditionalChinese": "歿鹽"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_83",
+      "RecipeType": {
+        "English": "Requested Operation: Catalyze Radiation",
+        "SimplifiedChinese": "请求操作：催化辐射",
+        "TencentChinese": "请求操作：催化辐射",
+        "TraditionalChinese": "需執行作業：催化輻射"
+      },
+      "RecipeName": {
+        "English": "Catalyse Radiation",
+        "SimplifiedChinese": "催化辐射",
+        "TraditionalChinese": "催化輻射"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "RADIO1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Uranium",
+          "SimplifiedChinese": "铀",
+          "TencentChinese": "铀",
+          "TraditionalChinese": "鈾"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+      },
+      "Ingredients": {
+        "GAS2": {
+          "Id": "GAS2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Radon",
+            "SimplifiedChinese": "氡",
+            "TencentChinese": "氡",
+            "TraditionalChinese": "氡"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.2.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_258",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Capture",
+        "SimplifiedChinese": "请求操作：捕获二氢",
+        "TencentChinese": "请求操作：捕获二氢",
+        "TraditionalChinese": "需執行作業：擷取二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Capture",
+        "SimplifiedChinese": "二氢捕获",
+        "TraditionalChinese": "二氫捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHFUEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Starship Launch Fuel",
+          "SimplifiedChinese": "飞船发射燃料",
+          "TencentChinese": "飞船发射燃料",
+          "TraditionalChinese": "太空船啟動燃料"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.launchfuel.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_259",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Capture",
+        "SimplifiedChinese": "请求操作：捕获二氢",
+        "TencentChinese": "请求操作：捕获二氢",
+        "TraditionalChinese": "需執行作業：擷取二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Capture",
+        "SimplifiedChinese": "二氢捕获",
+        "TraditionalChinese": "二氫捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHFUEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Starship Launch Fuel",
+          "SimplifiedChinese": "飞船发射燃料",
+          "TencentChinese": "飞船发射燃料",
+          "TraditionalChinese": "太空船啟動燃料"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.launchfuel.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_260",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Capture",
+        "SimplifiedChinese": "请求操作：捕获二氢",
+        "TencentChinese": "请求操作：捕获二氢",
+        "TraditionalChinese": "需執行作業：擷取二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Capture",
+        "SimplifiedChinese": "二氢捕获",
+        "TraditionalChinese": "二氫捕捉"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHFUEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Starship Launch Fuel",
+          "SimplifiedChinese": "飞船发射燃料",
+          "TencentChinese": "飞船发射燃料",
+          "TraditionalChinese": "太空船啟動燃料"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.launchfuel.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "LAND3": {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_84",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Fusion",
+        "SimplifiedChinese": "请求操作：有机熔合",
+        "TencentChinese": "请求操作：有机熔合",
+        "TraditionalChinese": "需執行作業：有機融合"
+      },
+      "RecipeName": {
+        "English": "Organic Fusion",
+        "SimplifiedChinese": "有机熔合",
+        "TraditionalChinese": "有機融合"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": {
+          "English": "Toxic %PLANETCLASS%",
+          "SimplifiedChinese": "剧毒%PLANETCLASS%",
+          "TencentChinese": "剧毒%PLANETCLASS%",
+          "TraditionalChinese": "劇毒%PLANETCLASS%"
+        },
+        "Type": "Substance",
+        "Amount": 1
+      },
+      "Ingredients": {
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        },
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      }
+    }
+  ]
 }

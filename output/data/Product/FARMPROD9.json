@@ -106,5 +106,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "MEGAPROD2",
+      "Name": {
+        "English": "Quantum Processor",
+        "SimplifiedChinese": "量子处理器",
+        "TencentChinese": "量子处理器",
+        "TraditionalChinese": "量子處理器"
+      },
+      "Icon": "ui-frontend-icons-update3-megaprod.2.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD9",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Circuit Board",
+            "SimplifiedChinese": "电路板",
+            "TencentChinese": "电路板",
+            "TraditionalChinese": "電路板"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.9.png"
+        },
+        {
+          "Id": "COMPOUND5",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Superconductor",
+            "SimplifiedChinese": "超导体",
+            "TencentChinese": "超导体",
+            "TraditionalChinese": "超導體"
+          },
+          "Icon": "ui-frontend-icons-update3-compound.5.png"
+        }
+      ]
+    }
+  ]
 }

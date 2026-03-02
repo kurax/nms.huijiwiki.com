@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1327",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DEEP_COM_S3": {
+          "Id": "F_DEEP_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sac-fish",
+            "SimplifiedChinese": "囊鱼",
+            "TraditionalChinese": "囊魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.small.1.png"
+        }
+      }
+    }
+  ]
 }

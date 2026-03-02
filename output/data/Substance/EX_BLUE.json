@@ -86,5 +86,157 @@
   "CookingIngredient": false,
   "GoodForSelling": true,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_37",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 4,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_BLUE": {
+          "Id": "EX_BLUE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Indium",
+            "SimplifiedChinese": "活性铟",
+            "TencentChinese": "活性铟",
+            "TraditionalChinese": "活性銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exblue.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_176",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 8,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "EX_BLUE": {
+          "Id": "EX_BLUE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Indium",
+            "SimplifiedChinese": "活性铟",
+            "TencentChinese": "活性铟",
+            "TraditionalChinese": "活性銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exblue.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_172",
+      "RecipeType": {
+        "English": "Requested Operation: Stellar / Metal Fusion",
+        "SimplifiedChinese": "请求操作：星球/金属熔合",
+        "TencentChinese": "请求操作：星球/金属熔合",
+        "TraditionalChinese": "需執行作業：星體／金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND3",
+        "Type": "Substance",
+        "Amount": 8,
+        "Name": {
+          "English": "Magnetized Ferrite",
+          "SimplifiedChinese": "磁化铁氧体",
+          "TencentChinese": "磁化铁氧体",
+          "TraditionalChinese": "磁化鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+      },
+      "Ingredients": {
+        "EX_BLUE": {
+          "Id": "EX_BLUE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Activated Indium",
+            "SimplifiedChinese": "活性铟",
+            "TencentChinese": "活性铟",
+            "TraditionalChinese": "活性銦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.exblue.2.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        }
+      }
+    }
+  ]
 }

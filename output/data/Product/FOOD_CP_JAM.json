@@ -83,5 +83,261 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1102",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jammy Burster",
+          "SimplifiedChinese": "爆破果酱",
+          "TraditionalChinese": "爆醬果醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_RAD": {
+          "Id": "FOOD_JAM_RAD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahj'am",
+            "SimplifiedChinese": "格拉果酱",
+            "TencentChinese": "格拉果酱",
+            "TraditionalChinese": "嘎啦果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1104",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jammy Burster",
+          "SimplifiedChinese": "爆破果酱",
+          "TraditionalChinese": "爆醬果醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CAT": {
+          "Id": "FOOD_JAM_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Furball Jelly",
+            "SimplifiedChinese": "毛球果冻",
+            "TencentChinese": "毛球果冻",
+            "TraditionalChinese": "毛球果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1117",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jammy Burster",
+          "SimplifiedChinese": "爆破果酱",
+          "TraditionalChinese": "爆醬果醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_RAD": {
+          "Id": "FOOD_JAM_RAD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahj'am",
+            "SimplifiedChinese": "格拉果酱",
+            "TencentChinese": "格拉果酱",
+            "TraditionalChinese": "嘎啦果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1119",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jammy Burster",
+          "SimplifiedChinese": "爆破果酱",
+          "TraditionalChinese": "爆醬果醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CAT": {
+          "Id": "FOOD_JAM_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Furball Jelly",
+            "SimplifiedChinese": "毛球果冻",
+            "TencentChinese": "毛球果冻",
+            "TraditionalChinese": "毛球果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    }
+  ]
 }

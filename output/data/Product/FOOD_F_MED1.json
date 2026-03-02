@@ -82,5 +82,436 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1129",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_ALL_COM_M2": {
+          "Id": "F_ALL_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Rockfin",
+            "SimplifiedChinese": "岩鳍鱼",
+            "TraditionalChinese": "石鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1156",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_TOX_RARE_M2": {
+          "Id": "F_TOX_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Toxic Stonefish",
+            "SimplifiedChinese": "毒石鱼",
+            "TraditionalChinese": "毒石魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.default.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1171",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_RAD_COM_M2": {
+          "Id": "F_RAD_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Inverted Snapper",
+            "SimplifiedChinese": "倒置鲷鱼",
+            "TraditionalChinese": "翻轉鯛"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1181",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_RAD_EPIC_M1": {
+          "Id": "F_RAD_EPIC_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Immortal Flatfish",
+            "SimplifiedChinese": "不朽比目鱼",
+            "TraditionalChinese": "不朽比目魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1198",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_HOT_RARE_M2": {
+          "Id": "F_HOT_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Roach",
+            "SimplifiedChinese": "日光蟑螂",
+            "TraditionalChinese": "日光大蠊"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1218",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_COLD_RARE_M1": {
+          "Id": "F_COLD_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Brineskipper",
+            "SimplifiedChinese": "咸水鲤",
+            "TraditionalChinese": "鹹水鰹魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.medium.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1233",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_LUSH_COM_M1": {
+          "Id": "F_LUSH_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wandering Kelpfin",
+            "SimplifiedChinese": "流浪藻鳍鱼",
+            "TraditionalChinese": "漫遊藻鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.medium.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1240",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_LUSH_RARE_M2": {
+          "Id": "F_LUSH_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jungle Redfin",
+            "SimplifiedChinese": "丛林红鳍鱼",
+            "TraditionalChinese": "叢林紅鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1255",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_M2": {
+          "Id": "F_DUST_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweeperfish",
+            "SimplifiedChinese": "清道夫鱼",
+            "TraditionalChinese": "清道夫"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1275",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_ODD_COM_M1": {
+          "Id": "F_ODD_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Murmurfish",
+            "SimplifiedChinese": "低语鱼",
+            "TraditionalChinese": "低語魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.small.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1328",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Edible Chum",
+          "SimplifiedChinese": "可食用鱼食",
+          "TraditionalChinese": "食用魚餌"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_DEEP_COM_M1": {
+          "Id": "F_DEEP_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Silent Angler",
+            "SimplifiedChinese": "沉默垂钓者",
+            "TraditionalChinese": "沉默垂釣者"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.big.1.png"
+        }
+      }
+    }
+  ]
 }

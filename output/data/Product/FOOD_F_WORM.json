@@ -82,5 +82,397 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1146",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_TOX_COM_S1": {
+          "Id": "F_TOX_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bileworm",
+            "SimplifiedChinese": "胆汁虫",
+            "TraditionalChinese": "膽汁蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1148",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_TOX_COM_S3": {
+          "Id": "F_TOX_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sea Cucumber",
+            "SimplifiedChinese": "海参",
+            "TraditionalChinese": "海參"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1253",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_S3": {
+          "Id": "F_DUST_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Briny Worm",
+            "SimplifiedChinese": "咸水虫",
+            "TraditionalChinese": "鹹水蠕蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1281",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_ODD_RARE_M1": {
+          "Id": "F_ODD_RARE_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing Brainworm",
+            "SimplifiedChinese": "扭动的脑虫",
+            "TraditionalChinese": "蠕動腦蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1285",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_ODD_EPIC_S1": {
+          "Id": "F_ODD_EPIC_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "All-Seeing Worm",
+            "SimplifiedChinese": "全视蠕虫",
+            "TraditionalChinese": "全視蠕蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1304",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_GAS_COM_S1": {
+          "Id": "F_GAS_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gas-Worm",
+            "SimplifiedChinese": "气体蠕虫",
+            "TraditionalChinese": "氣蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1308",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_GAS_COM_M2": {
+          "Id": "F_GAS_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Encrusted Worm",
+            "SimplifiedChinese": "带壳蠕虫",
+            "TraditionalChinese": "結殼蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1321",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_GAS_LEG_S1": {
+          "Id": "F_GAS_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mandelbrot Worm",
+            "SimplifiedChinese": "曼德博蠕虫",
+            "TraditionalChinese": "曼德布羅特蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1333",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_S2": {
+          "Id": "F_DEEP_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Marine Glowworm",
+            "SimplifiedChinese": "海洋萤火虫",
+            "TraditionalChinese": "海洋螢火蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.worm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1343",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DEEP_LEG_M1": {
+          "Id": "F_DEEP_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Brain Eel",
+            "SimplifiedChinese": "脑鳗",
+            "TraditionalChinese": "腦鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.eel.png"
+        }
+      }
+    }
+  ]
 }

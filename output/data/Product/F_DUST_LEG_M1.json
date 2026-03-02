@@ -86,5 +86,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1269",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DUST_LEG_M1": {
+          "Id": "F_DUST_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Titanworm Larva",
+            "SimplifiedChinese": "泰坦蠕虫幼虫",
+            "TraditionalChinese": "泰坦巨蟲幼蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.3.png"
+        }
+      }
+    }
+  ]
 }

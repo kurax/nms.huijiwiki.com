@@ -101,5 +101,405 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "GRENFUEL1",
+      "Name": {
+        "English": "Unstable Plasma",
+        "SimplifiedChinese": "不稳定的等离子",
+        "TencentChinese": "不稳定的等离子",
+        "TraditionalChinese": "不穩定電漿"
+      },
+      "Icon": "ui-frontend-icons-products-product.plasma1.png",
+      "Requirements": [
+        {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_DAY",
+      "Name": {
+        "English": "Dangling Orb",
+        "SimplifiedChinese": "悬垂球体",
+        "TraditionalChinese": "懸垂球"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.day.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 65,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_NIGHT",
+      "Name": {
+        "English": "Shadow Lure",
+        "SimplifiedChinese": "暗影诱饵",
+        "TraditionalChinese": "暗影假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.night.png",
+      "Requirements": [
+        {
+          "Id": "ANTIMATTER",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Antimatter",
+            "SimplifiedChinese": "反物质",
+            "TencentChinese": "反物质",
+            "TraditionalChinese": "反物質"
+          },
+          "Icon": "ui-frontend-icons-products-product.antimatter.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ROBO_HEAD",
+      "Name": {
+        "English": "Construct Head",
+        "SimplifiedChinese": "构造体头部",
+        "TraditionalChinese": "構造頭部"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robothead.png",
+      "Requirements": [
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 4,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "POWERCELL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ion Battery",
+            "SimplifiedChinese": "离子电池",
+            "TencentChinese": "离子电池",
+            "TraditionalChinese": "離子電池"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.powercell.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    },
+    {
+      "Id": "BIO",
+      "Name": {
+        "English": "Amino Chamber",
+        "SimplifiedChinese": "氨基舱",
+        "TraditionalChinese": "胺基艙"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.bio.png",
+      "Requirements": [
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        },
+        {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "SOUL_ENGINE",
+      "Name": {
+        "English": "Soul Engine",
+        "SimplifiedChinese": "灵魂引擎",
+        "TencentChinese": "灵魂引擎",
+        "TraditionalChinese": "靈魂引擎"
+      },
+      "Icon": "ui-frontend-icons-update3-soulengine.png",
+      "Requirements": [
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "CLAMPEARL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Pearl",
+            "SimplifiedChinese": "活体珍珠",
+            "TencentChinese": "活体珍珠",
+            "TraditionalChinese": "活珍珠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.clampearl.png"
+        },
+        {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "BIGGS_POI_LOC",
+      "Name": {
+        "English": "Debris Rangefinder",
+        "SimplifiedChinese": "碎片测距仪",
+        "TraditionalChinese": "殘骸測距儀"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.locator.biggspoi.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "COMPUTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Computer",
+            "SimplifiedChinese": "量子电脑",
+            "TraditionalChinese": "量子電腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.computer.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_STORM",
+      "Name": {
+        "English": "Magpulse Lure",
+        "SimplifiedChinese": "磁脉冲诱饵",
+        "TraditionalChinese": "磁脈衝假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.storm.png",
+      "Requirements": [
+        {
+          "Id": "MAGNET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetic Resonator",
+            "SimplifiedChinese": "磁性共振器",
+            "TraditionalChinese": "磁力共振器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.magnet.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 90,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    },
+    {
+      "Id": "LAUNCHFUEL",
+      "Name": {
+        "English": "Starship Launch Fuel",
+        "SimplifiedChinese": "飞船发射燃料",
+        "TencentChinese": "飞船发射燃料",
+        "TraditionalChinese": "太空船啟動燃料"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.launchfuel.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        }
+      ]
+    }
+  ]
 }

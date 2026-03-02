@@ -86,5 +86,1078 @@
   "CookingIngredient": true,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_997",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_SALT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Salty Cruncher",
+          "SimplifiedChinese": "咸味脆饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "鹹味脆餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_65",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Micro-Bubbles",
+        "SimplifiedChinese": "请求操作：提取微气泡",
+        "TencentChinese": "请求操作：提取微气泡",
+        "TraditionalChinese": "需執行作業：萃取微泡"
+      },
+      "RecipeName": {
+        "English": "Extract Micro-Bubbles",
+        "SimplifiedChinese": "提取微气泡",
+        "TraditionalChinese": "萃取微泡"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_146",
+      "RecipeType": {
+        "English": "Requested Operation: Release Captured Oxygen",
+        "SimplifiedChinese": "请求操作：释放捕获的氧",
+        "TencentChinese": "请求操作：释放捕获的氧",
+        "TraditionalChinese": "需執行作業：釋放捕獲氧"
+      },
+      "RecipeName": {
+        "English": "Release Captured Oxygen",
+        "SimplifiedChinese": "释放捕获的氧",
+        "TraditionalChinese": "釋放捕獲氧"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_152",
+      "RecipeType": {
+        "English": "Requested Operation: Release Captured Oxygen",
+        "SimplifiedChinese": "请求操作：释放捕获的氧",
+        "TencentChinese": "请求操作：释放捕获的氧",
+        "TraditionalChinese": "需執行作業：釋放捕獲氧"
+      },
+      "RecipeName": {
+        "English": "Release Captured Oxygen",
+        "SimplifiedChinese": "释放捕获的氧",
+        "TraditionalChinese": "釋放捕獲氧"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_238",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_239",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_240",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_DUST": {
+          "Id": "PLANT_DUST",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Flesh",
+            "SimplifiedChinese": "仙人掌肉",
+            "TencentChinese": "仙人掌肉",
+            "TraditionalChinese": "仙人掌肉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.dusty.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_241",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_HOT": {
+          "Id": "PLANT_HOT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Solanium",
+            "SimplifiedChinese": "日光茄",
+            "TencentChinese": "日光茄",
+            "TraditionalChinese": "日光茄"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.hot.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_242",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_RADIO": {
+          "Id": "PLANT_RADIO",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gamma Root",
+            "SimplifiedChinese": "伽马根",
+            "TencentChinese": "伽马根",
+            "TraditionalChinese": "伽瑪根"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.radio.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_243",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_LUSH": {
+          "Id": "PLANT_LUSH",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Star Bulb",
+            "SimplifiedChinese": "星辰朵",
+            "TencentChinese": "星辰朵",
+            "TraditionalChinese": "星球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.lush.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_141",
+      "RecipeType": {
+        "English": "Requested Operation: Bonded Chlorine Extraction",
+        "SimplifiedChinese": "请求操作：提取粘结氯",
+        "TencentChinese": "请求操作：提取粘结氯",
+        "TraditionalChinese": "需執行作業：鍵結氯萃取"
+      },
+      "RecipeName": {
+        "English": "Bonded Chlorine Extraction",
+        "SimplifiedChinese": "提取粘结氯",
+        "TraditionalChinese": "鍵結氯萃取"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_144",
+      "RecipeType": {
+        "English": "Requested Operation: Pugneum Washing",
+        "SimplifiedChinese": "请求操作：普茵清洗",
+        "TencentChinese": "请求操作：普茵清洗",
+        "TraditionalChinese": "需執行作業：搏清洗"
+      },
+      "RecipeName": {
+        "English": "Pugneum Washing",
+        "SimplifiedChinese": "普茵清洗",
+        "TraditionalChinese": "搏清洗"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_158",
+      "RecipeType": {
+        "English": "Requested Operation: Dissolve Natural Salts",
+        "SimplifiedChinese": "请求操作：溶解自然盐",
+        "TencentChinese": "请求操作：溶解自然盐",
+        "TraditionalChinese": "需執行作業：溶解天然鹽"
+      },
+      "RecipeName": {
+        "English": "Dissolve Natural Salts",
+        "SimplifiedChinese": "溶解自然盐",
+        "TraditionalChinese": "溶解天然鹽"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_160",
+      "RecipeType": {
+        "English": "Requested Operation: Dissolve Natural Salts",
+        "SimplifiedChinese": "请求操作：溶解自然盐",
+        "TencentChinese": "请求操作：溶解自然盐",
+        "TraditionalChinese": "需執行作業：溶解天然鹽"
+      },
+      "RecipeName": {
+        "English": "Dissolve Natural Salts",
+        "SimplifiedChinese": "溶解自然盐",
+        "TraditionalChinese": "溶解天然鹽"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "WATER2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Chlorine",
+          "SimplifiedChinese": "氯",
+          "TencentChinese": "氯",
+          "TraditionalChinese": "氯"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "WATER2": {
+          "Id": "WATER2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chlorine",
+            "SimplifiedChinese": "氯",
+            "TencentChinese": "氯",
+            "TraditionalChinese": "氯"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_29",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_WATER",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Kelp Rice",
+          "SimplifiedChinese": "海藻米",
+          "TencentChinese": "海藻米",
+          "TraditionalChinese": "海藻米"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.waterwild.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_225",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_WATER",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Kelp Sac",
+          "SimplifiedChinese": "海藻袋",
+          "TencentChinese": "海藻袋",
+          "TraditionalChinese": "巨藻囊"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+      },
+      "Ingredients": {
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_395",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_WATER",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Kelp Sac",
+          "SimplifiedChinese": "海藻袋",
+          "TencentChinese": "海藻袋",
+          "TraditionalChinese": "巨藻囊"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "WATERWORLD1": {
+          "Id": {
+            "English": "Waterworld",
+            "SimplifiedChinese": "水世界",
+            "TraditionalChinese": "水世界"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_149",
+      "RecipeType": {
+        "English": "Requested Operation: Harness Organic Nitrogen",
+        "SimplifiedChinese": "请求操作：控制有机氮",
+        "TencentChinese": "请求操作：控制有机氮",
+        "TraditionalChinese": "需執行作業：利用有機氮"
+      },
+      "RecipeName": {
+        "English": "Harness Organic Nitrogren",
+        "SimplifiedChinese": "控制有机氮",
+        "TraditionalChinese": "利用有機氮"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_155",
+      "RecipeType": {
+        "English": "Requested Operation: Harness Organic Nitrogen",
+        "SimplifiedChinese": "请求操作：控制有机氮",
+        "TencentChinese": "请求操作：控制有机氮",
+        "TraditionalChinese": "需執行作業：利用有機氮"
+      },
+      "RecipeName": {
+        "English": "Harness Organic Nitrogren",
+        "SimplifiedChinese": "控制有机氮",
+        "TraditionalChinese": "利用有機氮"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      }
+    }
+  ]
 }

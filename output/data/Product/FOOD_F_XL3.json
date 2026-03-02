@@ -82,5 +82,397 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1141",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_ALL_EPIC_XL": {
+          "Id": "F_ALL_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thunderfin",
+            "SimplifiedChinese": "雷鳍鱼",
+            "TraditionalChinese": "雷鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1158",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_TOX_RARE_XL": {
+          "Id": "F_TOX_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bitterscale Ray",
+            "SimplifiedChinese": "苦鳞鳐",
+            "TraditionalChinese": "苦鱗魟"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.ray.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1179",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_RAD_RARE_XL": {
+          "Id": "F_RAD_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Boiling Shark",
+            "SimplifiedChinese": "沸腾鲨",
+            "TraditionalChinese": "沸騰鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.shark.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1200",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_HOT_RARE_XL": {
+          "Id": "F_HOT_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Colossal Meltfin",
+            "SimplifiedChinese": "巨型熔鳍鱼",
+            "TraditionalChinese": "巨型熔鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1221",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_COLD_RARE_XL": {
+          "Id": "F_COLD_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Icefin",
+            "SimplifiedChinese": "巨冰鳍",
+            "TraditionalChinese": "巨型冰鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1246",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_LUSH_EPIC_XL": {
+          "Id": "F_LUSH_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Colossal Mossback",
+            "SimplifiedChinese": "巨苔背鱼",
+            "TraditionalChinese": "巨型苔背魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1263",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DUST_RARE_XL": {
+          "Id": "F_DUST_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Saltscale Bloater",
+            "SimplifiedChinese": "盐鳞鲱鱼",
+            "TraditionalChinese": "鹽鱗鯡魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1292",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_ODD_LEG_XL": {
+          "Id": "F_ODD_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Many-Mouthed Lunker",
+            "SimplifiedChinese": "万众之口的巨鱼",
+            "TraditionalChinese": "眾口巨魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1316",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_GAS_RARE_XL": {
+          "Id": "F_GAS_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystalfin Shark",
+            "SimplifiedChinese": "晶鳍鲨",
+            "TraditionalChinese": "晶鰭鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1345",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood 'Feast'",
+          "SimplifiedChinese": "海鲜盛宴",
+          "TraditionalChinese": "海鮮「盛宴」"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DEEP_LEG_XL": {
+          "Id": "F_DEEP_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Leviathan Spawn",
+            "SimplifiedChinese": "巨兽子嗣",
+            "TraditionalChinese": "龐然大物幼體"
+          },
+          "Icon": "ui-frontend-icons-fish-product.leviathanfish.png"
+        }
+      }
+    }
+  ]
 }

@@ -90,5 +90,30 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BUILDCHAIR4",
+      "Name": {
+        "English": "Classic Chair",
+        "SimplifiedChinese": "古典椅子",
+        "TraditionalChinese": "經典椅子"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.chair004.png",
+      "Requirements": [
+        {
+          "Id": "TRA_COMMODITY2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Star Silk",
+            "SimplifiedChinese": "星绸",
+            "TencentChinese": "星绸",
+            "TraditionalChinese": "星絲"
+          },
+          "Icon": "ui-frontend-icons-update3-tradeprod.commodity2.png"
+        }
+      ]
+    }
+  ]
 }

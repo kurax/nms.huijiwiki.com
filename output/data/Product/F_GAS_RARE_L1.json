@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1315",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_LARGE2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Brined Flesh",
+          "SimplifiedChinese": "咸水鱼肉",
+          "TraditionalChinese": "醃漬生肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_GAS_RARE_L1": {
+          "Id": "F_GAS_RARE_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Vapourfin",
+            "SimplifiedChinese": "蒸气鱼",
+            "TraditionalChinese": "蒸氣鰭魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png"
+        }
+      }
+    }
+  ]
 }

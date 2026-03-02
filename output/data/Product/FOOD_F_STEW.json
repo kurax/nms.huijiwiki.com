@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1294",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STEW",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Seafood Stew",
+          "SimplifiedChinese": "海鲜汤",
+          "TraditionalChinese": "海鮮燉菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegstew.png"
+      },
+      "Ingredients": {
+        "ANY_FISH_COOKED": {
+          "Id": "ANY_FISH_COOKED",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Cooked Seafood",
+            "SimplifiedChinese": "任何烹饪过的海鲜",
+            "TraditionalChinese": "任何熟海鮮"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        }
+      }
+    }
+  ]
 }

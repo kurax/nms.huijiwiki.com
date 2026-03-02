@@ -85,5 +85,947 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_87",
+      "RecipeType": {
+        "English": "Processor Setting: Preserve Fruit",
+        "SimplifiedChinese": "加工设置：水果保鲜",
+        "TencentChinese": "加工设置：水果保鲜",
+        "TraditionalChinese": "處理器設定：保存水果"
+      },
+      "RecipeName": {
+        "English": "Preserve Fruit",
+        "SimplifiedChinese": "保藏水果",
+        "TraditionalChinese": "保存水果"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_JAM_DUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cactus Jelly",
+          "SimplifiedChinese": "仙人掌果冻",
+          "TencentChinese": "仙人掌果冻",
+          "TraditionalChinese": "仙人掌果凍"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+      },
+      "Ingredients": {
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_25",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_DUSTFARM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cactus Nectar",
+          "SimplifiedChinese": "仙人掌花蜜",
+          "TencentChinese": "仙人掌花蜜",
+          "TraditionalChinese": "仙人掌花蜜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+      },
+      "Ingredients": {
+        "PLANT_DUST": {
+          "Id": "PLANT_DUST",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Flesh",
+            "SimplifiedChinese": "仙人掌肉",
+            "TencentChinese": "仙人掌肉",
+            "TraditionalChinese": "仙人掌肉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.dusty.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_367",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Prickly Curiosity",
+          "SimplifiedChinese": "刺刺稀有物",
+          "TencentChinese": "刺刺稀有物",
+          "TraditionalChinese": "多刺古怪蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_916",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tooth Pickers",
+          "SimplifiedChinese": "剔牙棒",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "牙籤餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_18",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Refining",
+        "SimplifiedChinese": "加工设置：完善营养",
+        "TencentChinese": "加工设置：完善营养",
+        "TraditionalChinese": "處理器設定：煉製營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Refining",
+        "SimplifiedChinese": "精炼营养",
+        "TraditionalChinese": "煉製營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_SUGAR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Processed Sugar",
+          "SimplifiedChinese": "加工糖",
+          "TencentChinese": "加工糖",
+          "TraditionalChinese": "加工糖"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+      },
+      "Ingredients": {
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_403",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Choking Monstrosity Cake",
+          "SimplifiedChinese": "噎人怪物蛋糕",
+          "TencentChinese": "噎人怪物蛋糕",
+          "TraditionalChinese": "嗆人怪物蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_156",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spikey Tart",
+          "SimplifiedChinese": "带刺的馅饼",
+          "TencentChinese": "带刺的馅饼",
+          "TraditionalChinese": "針刺塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_385",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CB_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Honied Throat-Sticker",
+          "SimplifiedChinese": "戳喉蜂蜜蛋糕",
+          "TencentChinese": "戳喉蜂蜜蛋糕",
+          "TraditionalChinese": "蜂蜜卡喉甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_439",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fluffy Throatripper",
+          "SimplifiedChinese": "撕喉蓬松蛋糕",
+          "TencentChinese": "撕喉蓬松蛋糕",
+          "TraditionalChinese": "蓬鬆撕喉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_532",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_FRUIT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fruity Ice Cream",
+          "SimplifiedChinese": "果味冰淇淋",
+          "TencentChinese": "果味冰淇淋",
+          "TraditionalChinese": "水果冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_533",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_FRUIT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fruity Ice Cream",
+          "SimplifiedChinese": "果味冰淇淋",
+          "TencentChinese": "果味冰淇淋",
+          "TraditionalChinese": "水果冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_614",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_FRUIT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fruity Ice Cream",
+          "SimplifiedChinese": "果味冰淇淋",
+          "TencentChinese": "果味冰淇淋",
+          "TraditionalChinese": "水果冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_P_COLDWILD": {
+          "Id": "FOOD_P_COLDWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Frozen Tubers",
+            "SimplifiedChinese": "冷冻块茎",
+            "TencentChinese": "冷冻块茎",
+            "TraditionalChinese": "冷凍塊莖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.coldwild.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_615",
+      "RecipeType": {
+        "English": "Processor Setting: Rapid Chilling",
+        "SimplifiedChinese": "加工设置：快速冷却",
+        "TencentChinese": "加工设置：快速冷却",
+        "TraditionalChinese": "處理器設定：快速冷卻"
+      },
+      "RecipeName": {
+        "English": "Rapid Chilling",
+        "SimplifiedChinese": "快速冷却",
+        "TraditionalChinese": "快速冷卻"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_ICE_FRUIT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fruity Ice Cream",
+          "SimplifiedChinese": "果味冰淇淋",
+          "TencentChinese": "果味冰淇淋",
+          "TraditionalChinese": "水果冰淇淋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.icecream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_421",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Soft and Spiky Surprise",
+          "SimplifiedChinese": "柔软多刺奇味",
+          "TencentChinese": "柔软多刺奇味",
+          "TraditionalChinese": "柔軟尖刺驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakefluffy.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1099",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CP_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Hybrid Cake",
+          "SimplifiedChinese": "混合蛋糕",
+          "TraditionalChinese": "綜合口味蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_563",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_349",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Esophageal Surprise",
+          "SimplifiedChinese": "食管奇味",
+          "TencentChinese": "食管奇味",
+          "TraditionalChinese": "食道驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CAKEMIX": {
+          "Id": "FOOD_R_CAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cake Batter",
+            "SimplifiedChinese": "蛋糕面糊",
+            "TencentChinese": "蛋糕面糊",
+            "TraditionalChinese": "蛋糕麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    }
+  ]
 }

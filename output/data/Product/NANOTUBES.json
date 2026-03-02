@@ -101,5 +101,282 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "MICROCHIP",
+      "Name": {
+        "English": "Microprocessor",
+        "SimplifiedChinese": "微处理器",
+        "TencentChinese": "微处理器",
+        "TraditionalChinese": "微處理機"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.microchip.png",
+      "Requirements": [
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        },
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ROBO_ARMS",
+      "Name": {
+        "English": "Construct Limbs",
+        "SimplifiedChinese": "构造体肢体",
+        "TraditionalChinese": "構造肢幹"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotarms.png",
+      "Requirements": [
+        {
+          "Id": "QUAD_PROD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quad Servo",
+            "SimplifiedChinese": "四足机甲伺服系统",
+            "TencentChinese": "四足机甲伺服系统",
+            "TraditionalChinese": "四核伺服"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.quadservo.png"
+        },
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        },
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        }
+      ]
+    },
+    {
+      "Id": "HYDRALIC",
+      "Name": {
+        "English": "Hydraulic Wiring",
+        "SimplifiedChinese": "水力线路",
+        "TraditionalChinese": "液壓線路"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.hydralic.png",
+      "Requirements": [
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        },
+        {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "STAFF_PART_A",
+      "Name": {
+        "English": "Fiberglass Grip",
+        "SimplifiedChinese": "玻璃纤维握柄",
+        "TraditionalChinese": "玻璃纖維握把"
+      },
+      "Icon": "ui-frontend-icons-products-staffparta.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_541",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "NANOTUBES": {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_889",
+      "RecipeType": {
+        "English": "Requested Operation: NOT RECOMMENDED",
+        "SimplifiedChinese": "请求操作：不建议",
+        "TencentChinese": "请求操作：不建议",
+        "TraditionalChinese": "需執行作業：不建議"
+      },
+      "RecipeName": {
+        "English": "NOT RECOMMENDED",
+        "SimplifiedChinese": "不推荐",
+        "TraditionalChinese": "不建議"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "NANOTUBES",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Carbon Nanotubes",
+          "SimplifiedChinese": "碳纳米管",
+          "TencentChinese": "碳纳米管",
+          "TraditionalChinese": "奈米碳管"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+      },
+      "Ingredients": {
+        "FOOD_V_ROBOT": {
+          "Id": "FOOD_V_ROBOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy Wires",
+            "SimplifiedChinese": "耐嚼电线",
+            "TraditionalChinese": "Q彈電線"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.bait.worms.png"
+        }
+      }
+    }
+  ]
 }

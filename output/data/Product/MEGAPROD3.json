@@ -106,5 +106,55 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ULTRAPROD2",
+      "Name": {
+        "English": "Stasis Device",
+        "SimplifiedChinese": "休眠设备",
+        "TencentChinese": "休眠设备",
+        "TraditionalChinese": "休眠裝置"
+      },
+      "Icon": "ui-frontend-icons-update3-ultraprod.2.png",
+      "Requirements": [
+        {
+          "Id": "MEGAPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Processor",
+            "SimplifiedChinese": "量子处理器",
+            "TencentChinese": "量子处理器",
+            "TraditionalChinese": "量子處理器"
+          },
+          "Icon": "ui-frontend-icons-update3-megaprod.2.png"
+        },
+        {
+          "Id": "MEGAPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cryogenic Chamber",
+            "SimplifiedChinese": "低温舱",
+            "TencentChinese": "低温舱",
+            "TraditionalChinese": "低溫艙"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.cryochamber.png"
+        },
+        {
+          "Id": "ALLOY8",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Iridesite",
+            "SimplifiedChinese": "辐矿",
+            "TencentChinese": "辐矿",
+            "TraditionalChinese": "霓虹石"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.iridisite.png"
+        }
+      ]
+    }
+  ]
 }

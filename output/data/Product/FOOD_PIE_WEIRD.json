@@ -85,5 +85,115 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_157",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_WEIRD",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Anomalous Tart",
+          "SimplifiedChinese": "异常的馅饼",
+          "TencentChinese": "异常的馅饼",
+          "TraditionalChinese": "異常塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_P_GLITCH": {
+          "Id": "FOOD_P_GLITCH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexaberry",
+            "SimplifiedChinese": "六莓",
+            "TencentChinese": "六莓",
+            "TraditionalChinese": "六莓"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.glitchwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_165",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_WEIRD",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Anomalous Tart",
+          "SimplifiedChinese": "异常的馅饼",
+          "TencentChinese": "异常的馅饼",
+          "TraditionalChinese": "異常塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_JAM_GLITCH": {
+          "Id": "FOOD_JAM_GLITCH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Anomalous Jam",
+            "SimplifiedChinese": "异常的果酱",
+            "TencentChinese": "异常的果酱",
+            "TraditionalChinese": "異常果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

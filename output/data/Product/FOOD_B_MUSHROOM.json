@@ -85,5 +85,171 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_919",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MUSHROOM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spore Dunkers",
+          "SimplifiedChinese": "菌菇泡饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "孢子沾醬餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_P_TOXFARM": {
+          "Id": "FOOD_P_TOXFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Non-Toxic Mushroom",
+            "SimplifiedChinese": "无毒蘑菇",
+            "TencentChinese": "无毒蘑菇",
+            "TraditionalChinese": "無毒蘑菇"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_920",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MUSHROOM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spore Dunkers",
+          "SimplifiedChinese": "菌菇泡饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "孢子沾醬餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_991",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MUSHROOM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spore Dunkers",
+          "SimplifiedChinese": "菌菇泡饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "孢子沾醬餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        }
+      }
+    }
+  ]
 }

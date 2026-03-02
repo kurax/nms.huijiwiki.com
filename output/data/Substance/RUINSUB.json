@@ -80,5 +80,47 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_397",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Stone",
+        "SimplifiedChinese": "请求操作：回收石材",
+        "TraditionalChinese": "需執行作業：回收石頭"
+      },
+      "RecipeName": {
+        "English": "Recycle Stone",
+        "SimplifiedChinese": "回收石材",
+        "TraditionalChinese": "回收石頭"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Pure Ferrite",
+          "SimplifiedChinese": "纯铁氧体",
+          "TencentChinese": "纯铁氧体",
+          "TraditionalChinese": "純鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+      },
+      "Ingredients": {
+        "RUINSUB": {
+          "Id": "RUINSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Polished Stone",
+            "SimplifiedChinese": "抛光石材",
+            "TraditionalChinese": "透光石"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.4.png"
+        }
+      }
+    }
+  ]
 }

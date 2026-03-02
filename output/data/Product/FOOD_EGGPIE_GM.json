@@ -85,5 +85,61 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_195",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_GM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Parasitic Omelets",
+          "SimplifiedChinese": "寄生物煎蛋卷",
+          "TencentChinese": "寄生物煎蛋卷",
+          "TraditionalChinese": "寄生歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    }
+  ]
 }

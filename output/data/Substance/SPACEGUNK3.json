@@ -77,5 +77,157 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_93",
+      "RecipeType": {
+        "English": "Requested Operation: Oxidize Metal",
+        "SimplifiedChinese": "请求操作：氧化金属",
+        "TencentChinese": "请求操作：氧化金属",
+        "TraditionalChinese": "需執行作業：氧化金屬"
+      },
+      "RecipeName": {
+        "English": "Oxidise Metal",
+        "SimplifiedChinese": "氧化金属",
+        "TraditionalChinese": "金屬氧化"
+      },
+      "TimeToMake": 100,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK3",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Rusted Metal",
+          "SimplifiedChinese": "生锈的金属",
+          "TencentChinese": "生锈的金属",
+          "TraditionalChinese": "生鏽的金屬"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.3.png"
+      },
+      "Ingredients": {
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_94",
+      "RecipeType": {
+        "English": "Requested Operation: Oxidize Metal",
+        "SimplifiedChinese": "请求操作：氧化金属",
+        "TencentChinese": "请求操作：氧化金属",
+        "TraditionalChinese": "需執行作業：氧化金屬"
+      },
+      "RecipeName": {
+        "English": "Oxidise Metal",
+        "SimplifiedChinese": "氧化金属",
+        "TraditionalChinese": "金屬氧化"
+      },
+      "TimeToMake": 100,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK3",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Rusted Metal",
+          "SimplifiedChinese": "生锈的金属",
+          "TencentChinese": "生锈的金属",
+          "TraditionalChinese": "生鏽的金屬"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.3.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_53",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 160,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Ferrite Dust",
+          "SimplifiedChinese": "铁氧体粉末",
+          "TencentChinese": "铁氧体粉末",
+          "TraditionalChinese": "鐵氧體粉塵"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK3": {
+          "Id": "SPACEGUNK3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Rusted Metal",
+            "SimplifiedChinese": "生锈的金属",
+            "TencentChinese": "生锈的金属",
+            "TraditionalChinese": "生鏽的金屬"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.3.png"
+        }
+      }
+    }
+  ]
 }

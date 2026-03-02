@@ -82,5 +82,241 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1164",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SQUID",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Rubber",
+          "SimplifiedChinese": "清蒸橡胶肉",
+          "TraditionalChinese": "清蒸橡膠"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_TOX_LEG_M1": {
+          "Id": "F_TOX_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Vampire Squid",
+            "SimplifiedChinese": "吸血乌贼",
+            "TraditionalChinese": "吸血魷"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.squid.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1183",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SQUID",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Rubber",
+          "SimplifiedChinese": "清蒸橡胶肉",
+          "TraditionalChinese": "清蒸橡膠"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_RAD_EPIC_XL": {
+          "Id": "F_RAD_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Alpha Squid",
+            "SimplifiedChinese": "阿尔法鱿鱼",
+            "TraditionalChinese": "阿爾法魷魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.squid.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1186",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SQUID",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Rubber",
+          "SimplifiedChinese": "清蒸橡胶肉",
+          "TraditionalChinese": "清蒸橡膠"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_RAD_LEG_L1": {
+          "Id": "F_RAD_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gamma Squid",
+            "SimplifiedChinese": "伽玛鱿鱼",
+            "TraditionalChinese": "伽瑪魷魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.squid.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1288",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SQUID",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Rubber",
+          "SimplifiedChinese": "清蒸橡胶肉",
+          "TraditionalChinese": "清蒸橡膠"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ODD_EPIC_XL": {
+          "Id": "F_ODD_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Void Squid",
+            "SimplifiedChinese": "虚空鱿鱼",
+            "TraditionalChinese": "虛空魷魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.squid.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1309",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SQUID",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Rubber",
+          "SimplifiedChinese": "清蒸橡胶肉",
+          "TraditionalChinese": "清蒸橡膠"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_GAS_COM_L1": {
+          "Id": "F_GAS_COM_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Plasmatic Squid",
+            "SimplifiedChinese": "等离子乌贼",
+            "TraditionalChinese": "電漿魷魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.squid.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1337",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SQUID",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Rubber",
+          "SimplifiedChinese": "清蒸橡胶肉",
+          "TraditionalChinese": "清蒸橡膠"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_XL": {
+          "Id": "F_DEEP_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Colossal Squid",
+            "SimplifiedChinese": "巨乌贼",
+            "TraditionalChinese": "巨型魷魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.squid.png"
+        }
+      }
+    }
+  ]
 }

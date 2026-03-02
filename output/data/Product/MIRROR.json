@@ -107,5 +107,167 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FRIG_BOOST_TRA",
+      "Name": {
+        "English": "Mind Control Device",
+        "SimplifiedChinese": "心智控制设备",
+        "TencentChinese": "心智控制设备",
+        "TraditionalChinese": "心靈控制器"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigboost.trade.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_DAY",
+      "Name": {
+        "English": "Dangling Orb",
+        "SimplifiedChinese": "悬垂球体",
+        "TraditionalChinese": "懸垂球"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.day.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 65,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "WHALE_BEACON",
+      "Name": {
+        "English": "Dream Aerial",
+        "SimplifiedChinese": "梦境飞行",
+        "TraditionalChinese": "夢境天線"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.whalebeacon.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "FARMPROD8",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Living Glass",
+            "SimplifiedChinese": "活体玻璃",
+            "TencentChinese": "活体玻璃",
+            "TraditionalChinese": "活玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.8.png"
+        }
+      ]
+    },
+    {
+      "Id": "BIGGS_POI_LOC",
+      "Name": {
+        "English": "Debris Rangefinder",
+        "SimplifiedChinese": "碎片测距仪",
+        "TraditionalChinese": "殘骸測距儀"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.locator.biggspoi.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "COMPUTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Computer",
+            "SimplifiedChinese": "量子电脑",
+            "TraditionalChinese": "量子電腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.computer.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        }
+      ]
+    }
+  ]
 }

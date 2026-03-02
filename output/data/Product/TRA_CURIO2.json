@@ -90,5 +90,99 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BLD_HOLOGEK",
+      "Name": {
+        "English": "Holographic Friend",
+        "SimplifiedChinese": "全息好友",
+        "TraditionalChinese": "全像圖好友"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.hologek.png",
+      "Requirements": [
+        {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        {
+          "Id": "TRA_CURIO2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "GekNip",
+            "SimplifiedChinese": "吉克小吸",
+            "TencentChinese": "吉克小吸",
+            "TraditionalChinese": "吉客餅"
+          },
+          "Icon": "ui-frontend-icons-products-product.geknip.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_940",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_HERB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Herbal Crunchie",
+          "SimplifiedChinese": "草药脆饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "藥草卡滋棒"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "TRA_CURIO2": {
+          "Id": "TRA_CURIO2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "GekNip",
+            "SimplifiedChinese": "吉克小吸",
+            "TencentChinese": "吉克小吸",
+            "TraditionalChinese": "吉客餅"
+          },
+          "Icon": "ui-frontend-icons-products-product.geknip.png"
+        }
+      }
+    }
+  ]
 }

@@ -86,5 +86,77 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "PURPM_LUSH_KEY",
+      "Name": {
+        "English": "Reality Anchor",
+        "SimplifiedChinese": "现实锚点",
+        "TraditionalChinese": "現實錨點"
+      },
+      "Icon": "ui-frontend-icons-products-product.2024.purplekey.png",
+      "Requirements": [
+        {
+          "Id": "LUSH1",
+          "Type": "Substance",
+          "Amount": 240,
+          "Name": {
+            "English": "Paraffinium",
+            "SimplifiedChinese": "矿脂",
+            "TencentChinese": "矿脂",
+            "TraditionalChinese": "鑞"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.lush.png"
+        },
+        {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 160,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "ALLOY1",
+      "Name": {
+        "English": "Aronium",
+        "SimplifiedChinese": "阿洛姆",
+        "TencentChinese": "阿洛姆",
+        "TraditionalChinese": "鑨"
+      },
+      "Icon": "ui-frontend-icons-products-product.metallic.1.png",
+      "Requirements": [
+        {
+          "Id": "LUSH1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Paraffinium",
+            "SimplifiedChinese": "矿脂",
+            "TencentChinese": "矿脂",
+            "TraditionalChinese": "鑞"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.lush.png"
+        },
+        {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        }
+      ]
+    }
+  ]
 }

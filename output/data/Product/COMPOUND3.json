@@ -106,5 +106,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "COMPOUND6",
+      "Name": {
+        "English": "Cryo-Pump",
+        "SimplifiedChinese": "冷沉淀泵",
+        "TencentChinese": "冷沉淀泵",
+        "TraditionalChinese": "低溫泵"
+      },
+      "Icon": "ui-frontend-icons-update3-compound.6.png",
+      "Requirements": [
+        {
+          "Id": "COMPOUND3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hot Ice",
+            "SimplifiedChinese": "热冰",
+            "TencentChinese": "热冰",
+            "TraditionalChinese": "炎冰"
+          },
+          "Icon": "ui-frontend-icons-update3-compound.3.png"
+        },
+        {
+          "Id": "REACTION1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thermic Condensate",
+            "SimplifiedChinese": "热凝物",
+            "TencentChinese": "热凝物",
+            "TraditionalChinese": "導熱凝液"
+          },
+          "Icon": "ui-frontend-icons-update3-reaction.1.png"
+        }
+      ]
+    }
+  ]
 }

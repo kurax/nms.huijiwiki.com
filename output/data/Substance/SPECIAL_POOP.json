@@ -86,5 +86,152 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BIOSHIP_COMP1",
+      "Name": {
+        "English": "Consciousness Bridge",
+        "SimplifiedChinese": "意识桥",
+        "TraditionalChinese": "意識橋"
+      },
+      "Icon": "ui-frontend-icons-technology-bio-product.biocomp1.png",
+      "Requirements": [
+        {
+          "Id": "SPECIAL_POOP",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Hexite",
+            "SimplifiedChinese": "己糖醇",
+            "TencentChinese": "己糖醇",
+            "TraditionalChinese": "己糖醇"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hexcore.png"
+        },
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        },
+        {
+          "Id": "EXP_CURIO1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Korvax Casing",
+            "SimplifiedChinese": "科尔瓦克斯外壳",
+            "TencentChinese": "科尔瓦克斯外壳",
+            "TraditionalChinese": "科瓦族頭套"
+          },
+          "Icon": "ui-frontend-icons-products-product.korvaxcasing.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_78",
+      "RecipeType": {
+        "English": "Requested Operation: Alchemical Construction",
+        "SimplifiedChinese": "请求操作：炼金建造",
+        "TencentChinese": "请求操作：炼金建造",
+        "TraditionalChinese": "需執行作業：冶煉構築"
+      },
+      "RecipeName": {
+        "English": "Alchemical Construction",
+        "SimplifiedChinese": "炼金建造",
+        "TraditionalChinese": "冶煉構築"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "SPECIAL_POOP": {
+          "Id": "SPECIAL_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexite",
+            "SimplifiedChinese": "己糖醇",
+            "TencentChinese": "己糖醇",
+            "TraditionalChinese": "己糖醇"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hexcore.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_8",
+      "RecipeType": {
+        "English": "Requested Operation: Alchemical Construction",
+        "SimplifiedChinese": "请求操作：炼金建造",
+        "TencentChinese": "请求操作：炼金建造",
+        "TraditionalChinese": "需執行作業：冶煉構築"
+      },
+      "RecipeName": {
+        "English": "Alchemical Construction",
+        "SimplifiedChinese": "炼金建造",
+        "TraditionalChinese": "冶煉構築"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "SPECIAL_POOP": {
+          "Id": "SPECIAL_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Hexite",
+            "SimplifiedChinese": "己糖醇",
+            "TencentChinese": "己糖醇",
+            "TraditionalChinese": "己糖醇"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hexcore.png"
+        }
+      }
+    }
+  ]
 }

@@ -83,5 +83,59 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_751",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_BEET",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Leathery Tart",
+          "SimplifiedChinese": "皮果馅饼",
+          "TraditionalChinese": "皮革塔"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_M_BEETLE": {
+          "Id": "FOOD_M_BEETLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crunchy Wings",
+            "SimplifiedChinese": "松脆的翅膀",
+            "TraditionalChinese": "酥脆翅"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+        }
+      }
+    }
+  ]
 }

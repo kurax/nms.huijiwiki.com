@@ -86,5 +86,564 @@
   "CookingIngredient": true,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FARMPROD1",
+      "Name": {
+        "English": "Acid",
+        "SimplifiedChinese": "酸",
+        "TencentChinese": "酸",
+        "TraditionalChinese": "酸劑"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.1.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 600,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_23",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_TOXFARM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Non-Toxic Mushroom",
+          "SimplifiedChinese": "无毒蘑菇",
+          "TencentChinese": "无毒蘑菇",
+          "TraditionalChinese": "無毒蘑菇"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.toxfarm.png"
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_238",
+      "RecipeType": {
+        "English": "Requested Operation: Artificial Photosynthesis",
+        "SimplifiedChinese": "请求操作：人工光合作用",
+        "TencentChinese": "请求操作：人工光合作用",
+        "TraditionalChinese": "需執行作業：人工光合作用"
+      },
+      "RecipeName": {
+        "English": "Artificial Photosynthesis",
+        "SimplifiedChinese": "人工光合作用",
+        "TraditionalChinese": "人工光合作用"
+      },
+      "TimeToMake": 900,
+      "Cooking": false,
+      "Result": {
+        "Id": "OXYGEN",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Oxygen",
+          "SimplifiedChinese": "氧气",
+          "TencentChinese": "氧气",
+          "TraditionalChinese": "氧"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        },
+        "PLANT_WATER": {
+          "Id": "PLANT_WATER",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Sac",
+            "SimplifiedChinese": "海藻袋",
+            "TencentChinese": "海藻袋",
+            "TraditionalChinese": "巨藻囊"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.water.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_562",
+      "RecipeType": {
+        "English": "Processor Setting: Prepare Bait",
+        "SimplifiedChinese": "处理器设置：准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "處理器設定：準備誘餌"
+      },
+      "RecipeName": {
+        "English": "Prepare Bait",
+        "SimplifiedChinese": "准备诱饵",
+        "TencentChinese": "处理器设置：准备诱饵",
+        "TraditionalChinese": "製作誘餌"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "BAIT_BASIC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creature Pellets",
+          "SimplifiedChinese": "生物颗粒",
+          "TencentChinese": "生物颗粒",
+          "TraditionalChinese": "生物顆粒飼料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bait.pellets.png"
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        },
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_120",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_TOXIC",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Fungal Mold",
+          "SimplifiedChinese": "真菌霉",
+          "TencentChinese": "真菌霉",
+          "TraditionalChinese": "蕈模"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        },
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_181",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_TOXIC",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Fungal Mold",
+          "SimplifiedChinese": "真菌霉",
+          "TencentChinese": "真菌霉",
+          "TraditionalChinese": "蕈模"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 2
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_218",
+      "RecipeType": {
+        "English": "Requested Operation: Encourage Growth",
+        "SimplifiedChinese": "请求操作：鼓励成长",
+        "TencentChinese": "请求操作：鼓励成长",
+        "TraditionalChinese": "需執行作業：促進生長"
+      },
+      "RecipeName": {
+        "English": "Encourage Growth",
+        "SimplifiedChinese": "鼓励成长",
+        "TraditionalChinese": "促進生長"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_TOXIC",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Fungal Mold",
+          "SimplifiedChinese": "真菌霉",
+          "TencentChinese": "真菌霉",
+          "TraditionalChinese": "蕈模"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        },
+        "GAS3": {
+          "Id": "GAS3",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Nitrogen",
+            "SimplifiedChinese": "氮",
+            "TencentChinese": "氮",
+            "TraditionalChinese": "氮"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_388",
+      "RecipeType": {
+        "English": "Requested Operation: Organic Expansion",
+        "SimplifiedChinese": "请求操作：有机扩张",
+        "TencentChinese": "请求操作：有机扩张",
+        "TraditionalChinese": "需執行作業：有機膨脹"
+      },
+      "RecipeName": {
+        "English": "Organic Expansion",
+        "SimplifiedChinese": "有机扩张",
+        "TraditionalChinese": "有機膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "PLANT_TOXIC",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Fungal Mold",
+          "SimplifiedChinese": "真菌霉",
+          "TencentChinese": "真菌霉",
+          "TraditionalChinese": "蕈模"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+      },
+      "Ingredients": {
+        "GAS4": {
+          "Id": "GAS4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Methane",
+            "SimplifiedChinese": "甲烷",
+            "TraditionalChinese": "甲烷"
+          },
+          "Icon": "ui-frontend-icons-update3-gas.4.png"
+        },
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 1
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_58",
+      "RecipeType": {
+        "English": "Requested Operation: Burn Plantlife",
+        "SimplifiedChinese": "请求操作：植物群系滴定",
+        "TencentChinese": "请求操作：植物群系滴定",
+        "TraditionalChinese": "需執行作業：植物滴定"
+      },
+      "RecipeName": {
+        "English": "Burn Plantlife",
+        "SimplifiedChinese": "烧化植物",
+        "TraditionalChinese": "焚燒植物"
+      },
+      "TimeToMake": 30,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL1",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Carbon",
+          "SimplifiedChinese": "碳",
+          "TencentChinese": "碳",
+          "TraditionalChinese": "碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_991",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MUSHROOM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Spore Dunkers",
+          "SimplifiedChinese": "菌菇泡饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "孢子沾醬餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_197",
+      "RecipeType": {
+        "English": "Requested Operation: Floral Titration",
+        "SimplifiedChinese": "请求操作：植物群系滴定",
+        "TencentChinese": "请求操作：植物群系滴定",
+        "TraditionalChinese": "需執行作業：植物滴定"
+      },
+      "RecipeName": {
+        "English": "Floral Titration",
+        "SimplifiedChinese": "植物群系滴定",
+        "TraditionalChinese": "植物滴定"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": {
+          "English": "Toxic %PLANETCLASS%",
+          "SimplifiedChinese": "剧毒%PLANETCLASS%",
+          "TencentChinese": "剧毒%PLANETCLASS%",
+          "TraditionalChinese": "劇毒%PLANETCLASS%"
+        },
+        "Type": "Substance",
+        "Amount": 1
+      },
+      "Ingredients": {
+        "PLANT_TOXIC": {
+          "Id": "PLANT_TOXIC",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Fungal Mold",
+            "SimplifiedChinese": "真菌霉",
+            "TencentChinese": "真菌霉",
+            "TraditionalChinese": "蕈模"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.toxic.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    }
+  ]
 }

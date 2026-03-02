@@ -85,5 +85,115 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_360",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Most Curious Cake",
+          "SimplifiedChinese": "最古怪蛋糕",
+          "TencentChinese": "最古怪蛋糕",
+          "TraditionalChinese": "真古怪蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakegek.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_V_BLOB": {
+          "Id": "FOOD_V_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sticky 'Honey'",
+            "SimplifiedChinese": "粘性蜂蜜",
+            "TencentChinese": "粘性蜂蜜",
+            "TraditionalChinese": "黏性「蜂蜜」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_362",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Most Curious Cake",
+          "SimplifiedChinese": "最古怪蛋糕",
+          "TencentChinese": "最古怪蛋糕",
+          "TraditionalChinese": "真古怪蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakegek.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    }
+  ]
 }

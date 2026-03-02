@@ -86,5 +86,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1248",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_EEL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fleshy Cylinder",
+          "SimplifiedChinese": "鳗鱼肉卷",
+          "TraditionalChinese": "鮮肉管"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_LUSH_LEG_M1": {
+          "Id": "F_LUSH_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mist Serpent",
+            "SimplifiedChinese": "雾蛇",
+            "TraditionalChinese": "迷霧狡蛇"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.eel.png"
+        }
+      }
+    }
+  ]
 }

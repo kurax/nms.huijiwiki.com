@@ -87,5 +87,85 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1346",
+      "RecipeType": {
+        "English": "Processor Setting: Stew Bones",
+        "SimplifiedChinese": "加工设置：炖骨头",
+        "TraditionalChinese": "處理器設定：熬煮骨頭"
+      },
+      "RecipeName": {
+        "English": "Stew Bones",
+        "SimplifiedChinese": "炖骨头",
+        "TraditionalChinese": "熬煮骨頭"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_FOSSIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Softened Marrow",
+          "SimplifiedChinese": "软化脊髓",
+          "TraditionalChinese": "軟化骨髓"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+      },
+      "Ingredients": {
+        "ANY_BONE": {
+          "Id": "ANY_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Edible Bone",
+            "SimplifiedChinese": "任意可食用骨头",
+            "TraditionalChinese": "任何可食用的骨頭"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1347",
+      "RecipeType": {
+        "English": "Processor Setting: Stew Bones",
+        "SimplifiedChinese": "加工设置：炖骨头",
+        "TraditionalChinese": "處理器設定：熬煮骨頭"
+      },
+      "RecipeName": {
+        "English": "Stew Bones",
+        "SimplifiedChinese": "炖骨头",
+        "TraditionalChinese": "熬煮骨頭"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BONEMILK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Milk",
+          "SimplifiedChinese": "骨乳",
+          "TraditionalChinese": "骨頭奶"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.milk.png"
+      },
+      "Ingredients": {
+        "ANY_BONE": {
+          "Id": "ANY_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Edible Bone",
+            "SimplifiedChinese": "任意可食用骨头",
+            "TraditionalChinese": "任何可食用的骨頭"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        }
+      }
+    }
+  ]
 }

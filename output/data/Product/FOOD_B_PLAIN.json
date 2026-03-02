@@ -85,5 +85,50 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_897",
+      "RecipeType": {
+        "English": "Processor Setting: Convection Heating",
+        "SimplifiedChinese": "加工设置：对流加热",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：對流加熱"
+      },
+      "RecipeName": {
+        "English": "Convection Heating",
+        "SimplifiedChinese": "对流加热",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "對流加熱"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_PLAIN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Simple Cookie",
+          "SimplifiedChinese": "朴素饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "簡易餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        }
+      }
+    }
+  ]
 }

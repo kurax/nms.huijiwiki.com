@@ -85,5 +85,49 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_8",
+      "RecipeType": {
+        "English": "Processor Setting: Liquidize",
+        "SimplifiedChinese": "加工设置：化汁",
+        "TencentChinese": "加工设置：化汁",
+        "TraditionalChinese": "處理器設定：榨汁"
+      },
+      "RecipeName": {
+        "English": "Liquidise",
+        "SimplifiedChinese": "液化",
+        "TraditionalChinese": "液化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_J_DUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Refreshing Drink",
+          "SimplifiedChinese": "清凉饮料",
+          "TencentChinese": "清凉饮料",
+          "TraditionalChinese": "清涼飲料"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_P_DUSTWILD": {
+          "Id": "FOOD_P_DUSTWILD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Aloe Flesh",
+            "SimplifiedChinese": "芦荟肉",
+            "TencentChinese": "芦荟肉",
+            "TraditionalChinese": "蘆薈肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustwild.png"
+        }
+      }
+    }
+  ]
 }

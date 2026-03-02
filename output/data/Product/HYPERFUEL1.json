@@ -106,5 +106,205 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_250",
+      "RecipeType": {
+        "English": "Requested Operation: Antimatter Bypass",
+        "SimplifiedChinese": "请求操作：反物质绕道",
+        "TencentChinese": "请求操作：反物质绕道",
+        "TraditionalChinese": "需執行作業：反物質繞道"
+      },
+      "RecipeName": {
+        "English": "Antimatter Bypass",
+        "SimplifiedChinese": "反物质绕道",
+        "TraditionalChinese": "反物質旁路"
+      },
+      "TimeToMake": 600,
+      "Cooking": false,
+      "Result": {
+        "Id": "HYPERFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Warp Cell",
+          "SimplifiedChinese": "曲速电池",
+          "TencentChinese": "曲速电池",
+          "TraditionalChinese": "跳躍能量包"
+        },
+        "Icon": "ui-frontend-icons-products-product.warpcell.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "CATALYST1": {
+          "Id": "CATALYST1",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Sodium",
+            "SimplifiedChinese": "钠",
+            "TencentChinese": "钠",
+            "TraditionalChinese": "鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.1.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_251",
+      "RecipeType": {
+        "English": "Requested Operation: Antimatter Bypass",
+        "SimplifiedChinese": "请求操作：反物质绕道",
+        "TencentChinese": "请求操作：反物质绕道",
+        "TraditionalChinese": "需執行作業：反物質繞道"
+      },
+      "RecipeName": {
+        "English": "Antimatter Bypass",
+        "SimplifiedChinese": "反物质绕道",
+        "TraditionalChinese": "反物質旁路"
+      },
+      "TimeToMake": 600,
+      "Cooking": false,
+      "Result": {
+        "Id": "HYPERFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Warp Cell",
+          "SimplifiedChinese": "曲速电池",
+          "TencentChinese": "曲速电池",
+          "TraditionalChinese": "跳躍能量包"
+        },
+        "Icon": "ui-frontend-icons-products-product.warpcell.png"
+      },
+      "Ingredients": {
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_252",
+      "RecipeType": {
+        "English": "Requested Operation: Antimatter Bypass",
+        "SimplifiedChinese": "请求操作：反物质绕道",
+        "TencentChinese": "请求操作：反物质绕道",
+        "TraditionalChinese": "需執行作業：反物質繞道"
+      },
+      "RecipeName": {
+        "English": "Antimatter Bypass",
+        "SimplifiedChinese": "反物质绕道",
+        "TraditionalChinese": "反物質旁路"
+      },
+      "TimeToMake": 600,
+      "Cooking": false,
+      "Result": {
+        "Id": "HYPERFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Warp Cell",
+          "SimplifiedChinese": "曲速电池",
+          "TencentChinese": "曲速电池",
+          "TraditionalChinese": "跳躍能量包"
+        },
+        "Icon": "ui-frontend-icons-products-product.warpcell.png"
+      },
+      "Ingredients": {
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "CATALYST2": {
+          "Id": "CATALYST2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Sodium Nitrate",
+            "SimplifiedChinese": "硝酸钠",
+            "TencentChinese": "硝酸钠",
+            "TraditionalChinese": "硝酸鈉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 250,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    }
+  ]
 }

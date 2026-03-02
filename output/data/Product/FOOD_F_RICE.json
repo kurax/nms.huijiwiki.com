@@ -82,5 +82,58 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1298",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_RICE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fish and Rice",
+          "SimplifiedChinese": "鱼肉配米饭",
+          "TraditionalChinese": "魚肉拌飯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "ANY_FISH": {
+          "Id": "ANY_FISH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Seafood",
+            "SimplifiedChinese": "任何海鲜",
+            "TraditionalChinese": "任何海鮮"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.default.png"
+        },
+        "FOOD_P_WATER": {
+          "Id": "FOOD_P_WATER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Kelp Rice",
+            "SimplifiedChinese": "海藻米",
+            "TencentChinese": "海藻米",
+            "TraditionalChinese": "海藻米"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.waterwild.png"
+        }
+      }
+    }
+  ]
 }

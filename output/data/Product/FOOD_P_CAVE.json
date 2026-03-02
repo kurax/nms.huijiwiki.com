@@ -85,5 +85,146 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_19",
+      "RecipeType": {
+        "English": "Processor Setting: Steam Plant Matter",
+        "SimplifiedChinese": "加工设置：蒸植物类",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：蒸煮植物物質"
+      },
+      "RecipeName": {
+        "English": "Steam Plant Matter",
+        "SimplifiedChinese": "蒸植物类",
+        "TraditionalChinese": "蒸煮植物物質"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Steamed Vegetables",
+          "SimplifiedChinese": "清蒸蔬菜",
+          "TencentChinese": "清蒸蔬菜",
+          "TraditionalChinese": "清蒸蔬菜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.veg.png"
+      },
+      "Ingredients": {
+        "FOOD_P_CAVE": {
+          "Id": "FOOD_P_CAVE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Flesh",
+            "SimplifiedChinese": "骨髓肉",
+            "TencentChinese": "骨髓肉",
+            "TraditionalChinese": "骨髓肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.cavewild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_954",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_FLOWER",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Floral Wafer",
+          "SimplifiedChinese": "花草华夫饼",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "花草威化餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_P_CAVE": {
+          "Id": "FOOD_P_CAVE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Flesh",
+            "SimplifiedChinese": "骨髓肉",
+            "TencentChinese": "骨髓肉",
+            "TraditionalChinese": "骨髓肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.cavewild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_28",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_CAVE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Marrow Flesh",
+          "SimplifiedChinese": "骨髓肉",
+          "TencentChinese": "骨髓肉",
+          "TraditionalChinese": "骨髓肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.cavewild.png"
+      },
+      "Ingredients": {
+        "PLANT_CAVE": {
+          "Id": "PLANT_CAVE",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Marrow Bulb",
+            "SimplifiedChinese": "葫芦朵",
+            "TencentChinese": "葫芦朵",
+            "TraditionalChinese": "葫蘆球莖"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.cave.png"
+        }
+      }
+    }
+  ]
 }

@@ -106,5 +106,255 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "STAFF_PART_B",
+      "Name": {
+        "English": "Atlantideum Chamber",
+        "SimplifiedChinese": "亚特拉迪姆室",
+        "TraditionalChinese": "亞特蘭提德鋼艙"
+      },
+      "Icon": "ui-frontend-icons-products-staffpartb.png",
+      "Requirements": [
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "DRONE_SHARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Radiant Shard",
+            "SimplifiedChinese": "光耀碎片",
+            "TraditionalChinese": "發光裂片"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.droneshard.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ROBO_HEAD",
+      "Name": {
+        "English": "Construct Head",
+        "SimplifiedChinese": "构造体头部",
+        "TraditionalChinese": "構造頭部"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robothead.png",
+      "Requirements": [
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 4,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "POWERCELL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ion Battery",
+            "SimplifiedChinese": "离子电池",
+            "TencentChinese": "离子电池",
+            "TraditionalChinese": "離子電池"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.powercell.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    },
+    {
+      "Id": "COMPUTER",
+      "Name": {
+        "English": "Quantum Computer",
+        "SimplifiedChinese": "量子电脑",
+        "TraditionalChinese": "量子電腦"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.computer.png",
+      "Requirements": [
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        },
+        {
+          "Id": "ANTIMATTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Antimatter",
+            "SimplifiedChinese": "反物质",
+            "TencentChinese": "反物质",
+            "TraditionalChinese": "反物質"
+          },
+          "Icon": "ui-frontend-icons-products-product.antimatter.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "ACCESS1",
+      "Name": {
+        "English": "AtlasPass v1",
+        "SimplifiedChinese": "阿特拉斯通行卡 V1",
+        "TencentChinese": "阿特拉斯通行卡1",
+        "TraditionalChinese": "寰宇證 V1"
+      },
+      "Icon": "ui-frontend-icons-products-product.atlaspass.png",
+      "Requirements": [
+        {
+          "Id": "YELLOW2",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Copper",
+            "SimplifiedChinese": "铜",
+            "TencentChinese": "铜",
+            "TraditionalChinese": "銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    },
+    {
+      "Id": "ACCESS2",
+      "Name": {
+        "English": "AtlasPass v2",
+        "SimplifiedChinese": "阿特拉斯通行卡 V2",
+        "TencentChinese": "阿特拉斯通行卡2",
+        "TraditionalChinese": "寰宇證 V2"
+      },
+      "Icon": "ui-frontend-icons-products-product.atlaspass.png",
+      "Requirements": [
+        {
+          "Id": "RED2",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Cadmium",
+            "SimplifiedChinese": "镉",
+            "TencentChinese": "镉",
+            "TraditionalChinese": "鎘"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.red.2.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    },
+    {
+      "Id": "ACCESS3",
+      "Name": {
+        "English": "AtlasPass v3",
+        "SimplifiedChinese": "阿特拉斯通行卡 V3",
+        "TencentChinese": "阿特拉斯通行卡3",
+        "TraditionalChinese": "寰宇證 V3"
+      },
+      "Icon": "ui-frontend-icons-products-product.atlaspass.png",
+      "Requirements": [
+        {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    }
+  ]
 }

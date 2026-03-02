@@ -106,5 +106,627 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ALLOY7",
+      "Name": {
+        "English": "Geodesite",
+        "SimplifiedChinese": "晶土矿",
+        "TencentChinese": "晶土矿",
+        "TraditionalChinese": "晶球岩"
+      },
+      "Icon": "ui-frontend-icons-products-product.metallic.7.png",
+      "Requirements": [
+        {
+          "Id": "ALLOY2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dirty Bronze",
+            "SimplifiedChinese": "肮脏青铜",
+            "TencentChinese": "肮脏青铜",
+            "TraditionalChinese": "汙銅"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+        },
+        {
+          "Id": "ALLOY3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Herox",
+            "SimplifiedChinese": "赫罗克斯",
+            "TencentChinese": "赫罗克斯",
+            "TraditionalChinese": "赫羅克斯"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.3.png"
+        },
+        {
+          "Id": "ALLOY4",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lemmium",
+            "SimplifiedChinese": "列米姆",
+            "TencentChinese": "列米姆",
+            "TraditionalChinese": "釢"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.4.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_271",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_272",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_273",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_274",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_275",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_276",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_277",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ASTEROID3": {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_278",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "ASTEROID3": {
+          "Id": "ASTEROID3",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Platinum",
+            "SimplifiedChinese": "铂",
+            "TencentChinese": "铂",
+            "TraditionalChinese": "鉑"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.3.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_68",
+      "RecipeType": {
+        "English": "Requested Operation: Extreme Alloy Separation",
+        "SimplifiedChinese": "请求操作：极端合金分离",
+        "TencentChinese": "请求操作：极端合金分离",
+        "TraditionalChinese": "需執行作業：分離極度合金"
+      },
+      "RecipeName": {
+        "English": "Extreme Alloy Separation",
+        "SimplifiedChinese": "极端合金分离",
+        "TraditionalChinese": "極度合金分離"
+      },
+      "TimeToMake": 300,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID1",
+        "Type": "Substance",
+        "Amount": 250,
+        "Name": {
+          "English": "Silver",
+          "SimplifiedChinese": "银",
+          "TencentChinese": "银",
+          "TraditionalChinese": "銀"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+      },
+      "Ingredients": {
+        "ALLOY2": {
+          "Id": "ALLOY2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dirty Bronze",
+            "SimplifiedChinese": "肮脏青铜",
+            "TencentChinese": "肮脏青铜",
+            "TraditionalChinese": "汙銅"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+        }
+      }
+    }
+  ]
 }

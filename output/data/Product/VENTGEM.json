@@ -95,5 +95,98 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ROBO_BODY",
+      "Name": {
+        "English": "Construct Shell",
+        "SimplifiedChinese": "构造体外壳",
+        "TraditionalChinese": "構造殼體"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotbody.png",
+      "Requirements": [
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 210,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        },
+        {
+          "Id": "VENTGEM",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Crystal Sulphide",
+            "SimplifiedChinese": "硫化晶体",
+            "TencentChinese": "硫化晶体",
+            "TraditionalChinese": "水晶硫化物"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.ventgem.png"
+        },
+        {
+          "Id": "PRODFUEL2",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Life Support Gel",
+            "SimplifiedChinese": "维生凝胶",
+            "TencentChinese": "维生凝胶",
+            "TraditionalChinese": "維生膠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.oxygengel.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_5",
+      "RecipeType": {
+        "English": "Requested Operation: Sulphur Release",
+        "SimplifiedChinese": "请求操作：硫磺释放",
+        "TencentChinese": "请求操作：硫磺释放",
+        "TraditionalChinese": "需執行作業：釋放硫"
+      },
+      "RecipeName": {
+        "English": "Sulphur Release",
+        "SimplifiedChinese": "硫磺释放",
+        "TraditionalChinese": "硫釋放"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "CATALYST2",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Sodium Nitrate",
+          "SimplifiedChinese": "硝酸钠",
+          "TencentChinese": "硝酸钠",
+          "TraditionalChinese": "硝酸鈉"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.catalyst.2.png"
+      },
+      "Ingredients": {
+        "VENTGEM": {
+          "Id": "VENTGEM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystal Sulphide",
+            "SimplifiedChinese": "硫化晶体",
+            "TencentChinese": "硫化晶体",
+            "TraditionalChinese": "水晶硫化物"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.ventgem.png"
+        }
+      }
+    }
+  ]
 }

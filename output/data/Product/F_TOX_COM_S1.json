@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1146",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_TOX_COM_S1": {
+          "Id": "F_TOX_COM_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bileworm",
+            "SimplifiedChinese": "胆汁虫",
+            "TraditionalChinese": "膽汁蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.worm.png"
+        }
+      }
+    }
+  ]
 }

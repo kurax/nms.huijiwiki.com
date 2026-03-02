@@ -85,5 +85,143 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_54",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Runaway Mold",
+          "SimplifiedChinese": "失控的模具",
+          "TencentChinese": "失控的模具",
+          "TraditionalChinese": "狂生黴菌"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.2.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK4": {
+          "Id": "SPACEGUNK4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Slime",
+            "SimplifiedChinese": "活体黏质",
+            "TencentChinese": "活体黏质",
+            "TraditionalChinese": "活軟泥"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_332",
+      "RecipeType": {
+        "English": "Requested Operation: Reality Pollution",
+        "SimplifiedChinese": "请求操作：现实污染",
+        "TraditionalChinese": "需執行作業：現實污染"
+      },
+      "RecipeName": {
+        "English": "Reality Pollution",
+        "SimplifiedChinese": "现实污染",
+        "TraditionalChinese": "現實污染"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Runaway Mold",
+          "SimplifiedChinese": "失控的模具",
+          "TencentChinese": "失控的模具",
+          "TraditionalChinese": "狂生黴菌"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.2.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        "ROBOT1": {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_52",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK2": {
+          "Id": "SPACEGUNK2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Runaway Mold",
+            "SimplifiedChinese": "失控的模具",
+            "TencentChinese": "失控的模具",
+            "TraditionalChinese": "狂生黴菌"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.2.png"
+        }
+      }
+    }
+  ]
 }

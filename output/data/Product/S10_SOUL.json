@@ -90,5 +90,40 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "PURPM_PACKET",
+      "Name": {
+        "English": "Memories of Atlantid",
+        "SimplifiedChinese": "阿特兰蒂的回忆",
+        "TraditionalChinese": "亞特蘭提德的記憶"
+      },
+      "Icon": "ui-frontend-icons-products-product.2024.purplepacket.png",
+      "Requirements": [
+        {
+          "Id": "S10_SOUL",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Echo Seed",
+            "SimplifiedChinese": "回音种子",
+            "TraditionalChinese": "回音種子"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.s10.soulseed.png"
+        },
+        {
+          "Id": "COMPUTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Computer",
+            "SimplifiedChinese": "量子电脑",
+            "TraditionalChinese": "量子電腦"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.computer.png"
+        }
+      ]
+    }
+  ]
 }

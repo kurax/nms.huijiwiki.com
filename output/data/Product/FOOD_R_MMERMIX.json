@@ -85,5 +85,1844 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_432",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Itching, Creeping Honey Sponge",
+          "SimplifiedChinese": "惊悚痒痒蜂蜜海绵蛋糕",
+          "TencentChinese": "惊悚痒痒蜂蜜海绵蛋糕",
+          "TraditionalChinese": "發癢悚然蜂蜜海綿"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_V_BLOB": {
+          "Id": "FOOD_V_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sticky 'Honey'",
+            "SimplifiedChinese": "粘性蜂蜜",
+            "TencentChinese": "粘性蜂蜜",
+            "TraditionalChinese": "黏性「蜂蜜」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_434",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Itching, Creeping Honey Sponge",
+          "SimplifiedChinese": "惊悚痒痒蜂蜜海绵蛋糕",
+          "TencentChinese": "惊悚痒痒蜂蜜海绵蛋糕",
+          "TraditionalChinese": "發癢悚然蜂蜜海綿"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_437",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_HONEY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Tortured Honey Cake",
+          "SimplifiedChinese": "拷打蜂蜜蛋糕",
+          "TencentChinese": "拷打蜂蜜蛋糕",
+          "TraditionalChinese": "凌虐蜂蜜蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_HONEY": {
+          "Id": "FOOD_R_HONEY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Synthetic Honey",
+            "SimplifiedChinese": "合成蜂蜜",
+            "TencentChinese": "合成蜂蜜",
+            "TraditionalChinese": "合成蜂蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_439",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fluffy Throatripper",
+          "SimplifiedChinese": "撕喉蓬松蛋糕",
+          "TencentChinese": "撕喉蓬松蛋糕",
+          "TraditionalChinese": "蓬鬆撕喉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_P_DUSTFARM": {
+          "Id": "FOOD_P_DUSTFARM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Nectar",
+            "SimplifiedChinese": "仙人掌花蜜",
+            "TencentChinese": "仙人掌花蜜",
+            "TraditionalChinese": "仙人掌花蜜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.dustfarm.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_443",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fluffy Throatripper",
+          "SimplifiedChinese": "撕喉蓬松蛋糕",
+          "TencentChinese": "撕喉蓬松蛋糕",
+          "TraditionalChinese": "蓬鬆撕喉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_DUST": {
+          "Id": "FOOD_JAM_DUST",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Jelly",
+            "SimplifiedChinese": "仙人掌果冻",
+            "TencentChinese": "仙人掌果冻",
+            "TraditionalChinese": "仙人掌果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_705",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CACTUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fluffy Throatripper",
+          "SimplifiedChinese": "撕喉蓬松蛋糕",
+          "TencentChinese": "撕喉蓬松蛋糕",
+          "TraditionalChinese": "蓬鬆撕喉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_DUST": {
+          "Id": "FOOD_JAM_DUST",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cactus Jelly",
+            "SimplifiedChinese": "仙人掌果冻",
+            "TencentChinese": "仙人掌果冻",
+            "TraditionalChinese": "仙人掌果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_435",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CHOC",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Volatile Chocolate Fancy",
+          "SimplifiedChinese": "易爆巧克力小糕点",
+          "TencentChinese": "不稳定巧克力小糕点",
+          "TraditionalChinese": "變幻莫測巧克力花哨甜點"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CHOC": {
+          "Id": "FOOD_R_CHOC",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bittersweet Cocoa",
+            "SimplifiedChinese": "甜中带苦的可可",
+            "TencentChinese": "甜中带苦的可可",
+            "TraditionalChinese": "苦甜可可"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.chocolate.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_433",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CREAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unbound Cream Horn",
+          "SimplifiedChinese": "松散奶油角",
+          "TencentChinese": "松散奶油角",
+          "TraditionalChinese": "無拘鮮奶油角"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_701",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CREAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unbound Cream Horn",
+          "SimplifiedChinese": "松散奶油角",
+          "TencentChinese": "松散奶油角",
+          "TraditionalChinese": "無拘鮮奶油角"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_440",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JGLITCH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unbound Monstrosity",
+          "SimplifiedChinese": "松散怪物糕",
+          "TencentChinese": "松散怪物糕",
+          "TraditionalChinese": "無拘怪物"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tartevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_GLITCH": {
+          "Id": "FOOD_JAM_GLITCH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Anomalous Jam",
+            "SimplifiedChinese": "异常的果酱",
+            "TencentChinese": "异常的果酱",
+            "TraditionalChinese": "異常果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_702",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JGLITCH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unbound Monstrosity",
+          "SimplifiedChinese": "松散怪物糕",
+          "TencentChinese": "松散怪物糕",
+          "TraditionalChinese": "無拘怪物"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tartevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_GLITCH": {
+          "Id": "FOOD_JAM_GLITCH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Anomalous Jam",
+            "SimplifiedChinese": "异常的果酱",
+            "TencentChinese": "异常的果酱",
+            "TraditionalChinese": "異常果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_441",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JHOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Burning Jam Surprise",
+          "SimplifiedChinese": "炙热果酱奇味",
+          "TencentChinese": "炙热果酱奇味",
+          "TraditionalChinese": "燃燒果醬驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_703",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JHOT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Burning Jam Surprise",
+          "SimplifiedChinese": "炙热果酱奇味",
+          "TencentChinese": "炙热果酱奇味",
+          "TraditionalChinese": "燃燒果醬驚奇料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tart.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_HOT": {
+          "Id": "FOOD_JAM_HOT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ever-burning Jam",
+            "SimplifiedChinese": "长明的果酱",
+            "TencentChinese": "长明的果酱",
+            "TraditionalChinese": "恆燃果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_436",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CARM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Caramelized Nightmare",
+          "SimplifiedChinese": "焦糖噩梦",
+          "TencentChinese": "焦糖噩梦",
+          "TraditionalChinese": "焦糖化夢魘"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.tartevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CARAMEL": {
+          "Id": "FOOD_R_CARAMEL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crunchy Caramel",
+            "SimplifiedChinese": "脆焦糖",
+            "TencentChinese": "脆焦糖",
+            "TraditionalChinese": "酥脆焦糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_438",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of Sin",
+          "SimplifiedChinese": "罪恶蛋糕",
+          "TencentChinese": "罪恶蛋糕",
+          "TraditionalChinese": "罪惡蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_V_CRAB": {
+          "Id": "FOOD_V_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crab 'Apple'",
+            "SimplifiedChinese": "蟹肉“苹果”",
+            "TencentChinese": "蟹肉“苹果”",
+            "TraditionalChinese": "蟹肉「蘋果」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_445",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of Sin",
+          "SimplifiedChinese": "罪恶蛋糕",
+          "TencentChinese": "罪恶蛋糕",
+          "TraditionalChinese": "罪惡蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_707",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_APPLE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of Sin",
+          "SimplifiedChinese": "罪恶蛋糕",
+          "TencentChinese": "罪恶蛋糕",
+          "TraditionalChinese": "罪惡蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CRAB": {
+          "Id": "FOOD_JAM_CRAB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wriggling Jam",
+            "SimplifiedChinese": "蠕动果酱",
+            "TencentChinese": "蠕动果酱",
+            "TraditionalChinese": "蠕動果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1067",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_PCAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Ambrosial Curse",
+          "SimplifiedChinese": "美味诅咒",
+          "TraditionalChinese": "美饌詛咒"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_V_PCAT": {
+          "Id": "FOOD_V_PCAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Nectar",
+            "SimplifiedChinese": "糖浆花蜜",
+            "TraditionalChinese": "瓊漿玉液"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1076",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_PCAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Ambrosial Curse",
+          "SimplifiedChinese": "美味诅咒",
+          "TraditionalChinese": "美饌詛咒"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_PCATBUT": {
+          "Id": "FOOD_R_PCATBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Butter Syrup",
+            "SimplifiedChinese": "黄油糖浆",
+            "TraditionalChinese": "奶油糖漿"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_442",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Writhing Jam Puff",
+          "SimplifiedChinese": "翻滚果酱泡芙",
+          "TencentChinese": "翻滚果酱泡芙",
+          "TraditionalChinese": "打滾果醬泡芙"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_RAD": {
+          "Id": "FOOD_JAM_RAD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahj'am",
+            "SimplifiedChinese": "格拉果酱",
+            "TencentChinese": "格拉果酱",
+            "TraditionalChinese": "嘎啦果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_444",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Writhing Jam Puff",
+          "SimplifiedChinese": "翻滚果酱泡芙",
+          "TencentChinese": "翻滚果酱泡芙",
+          "TraditionalChinese": "打滾果醬泡芙"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CAT": {
+          "Id": "FOOD_JAM_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Furball Jelly",
+            "SimplifiedChinese": "毛球果冻",
+            "TencentChinese": "毛球果冻",
+            "TraditionalChinese": "毛球果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_704",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Writhing Jam Puff",
+          "SimplifiedChinese": "翻滚果酱泡芙",
+          "TencentChinese": "翻滚果酱泡芙",
+          "TraditionalChinese": "打滾果醬泡芙"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_RAD": {
+          "Id": "FOOD_JAM_RAD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Grahj'am",
+            "SimplifiedChinese": "格拉果酱",
+            "TencentChinese": "格拉果酱",
+            "TraditionalChinese": "嘎啦果醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_706",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_JAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Writhing Jam Puff",
+          "SimplifiedChinese": "翻滚果酱泡芙",
+          "TencentChinese": "翻滚果酱泡芙",
+          "TraditionalChinese": "打滾果醬泡芙"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_CAT": {
+          "Id": "FOOD_JAM_CAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Furball Jelly",
+            "SimplifiedChinese": "毛球果冻",
+            "TencentChinese": "毛球果冻",
+            "TraditionalChinese": "毛球果凍"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_340",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MMERMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Writhing, Roiling Batter",
+          "SimplifiedChinese": "翻腾打滚面糊",
+          "TencentChinese": "翻腾打滚面糊",
+          "TraditionalChinese": "扭曲打滾麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERINGUE": {
+          "Id": "FOOD_R_MERINGUE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Delicate Meringue",
+            "SimplifiedChinese": "可口蛋白酥皮",
+            "TencentChinese": "可口蛋白酥皮",
+            "TraditionalChinese": "精緻蛋白霜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1005",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_BUGJAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Squirming Fancy",
+          "SimplifiedChinese": "蠕动的幻想",
+          "TraditionalChinese": "蠕動幻夢"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_BUG": {
+          "Id": "FOOD_JAM_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetened Mucous",
+            "SimplifiedChinese": "甜味黏液",
+            "TraditionalChinese": "蜜糖黏液"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_BCREAM": {
+          "Id": "FOOD_R_BCREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cream",
+            "SimplifiedChinese": "骨奶油",
+            "TraditionalChinese": "骨頭鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1011",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_BUGJAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Squirming Fancy",
+          "SimplifiedChinese": "蠕动的幻想",
+          "TraditionalChinese": "蠕動幻夢"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_JAM_BUG": {
+          "Id": "FOOD_JAM_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetened Mucous",
+            "SimplifiedChinese": "甜味黏液",
+            "TraditionalChinese": "蜜糖黏液"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.jam.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_446",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of the Lost",
+          "SimplifiedChinese": "迷失蛋糕",
+          "TencentChinese": "迷失蛋糕",
+          "TraditionalChinese": "迷失者的蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_CUSTARD": {
+          "Id": "FOOD_R_CUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Custard",
+            "SimplifiedChinese": "粘蛋奶沙司",
+            "TencentChinese": "粘蛋奶沙司",
+            "TraditionalChinese": "黏稠卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_447",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of the Lost",
+          "SimplifiedChinese": "迷失蛋糕",
+          "TencentChinese": "迷失蛋糕",
+          "TraditionalChinese": "迷失者的蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_FCUSTARD": {
+          "Id": "FOOD_R_FCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Salty Custard",
+            "SimplifiedChinese": "咸蛋奶沙司",
+            "TencentChinese": "咸蛋奶沙司",
+            "TraditionalChinese": "鹹味卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_448",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of the Lost",
+          "SimplifiedChinese": "迷失蛋糕",
+          "TencentChinese": "迷失蛋糕",
+          "TraditionalChinese": "迷失者的蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_MCUSTARD": {
+          "Id": "FOOD_R_MCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Monstrous Custard",
+            "SimplifiedChinese": "超大蛋奶沙司",
+            "TencentChinese": "超大蛋奶沙司",
+            "TraditionalChinese": "怪物卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_449",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of the Lost",
+          "SimplifiedChinese": "迷失蛋糕",
+          "TencentChinese": "迷失蛋糕",
+          "TraditionalChinese": "迷失者的蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_SCUSTARD": {
+          "Id": "FOOD_R_SCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stellar Custard",
+            "SimplifiedChinese": "星球蛋奶沙司",
+            "TencentChinese": "星球蛋奶沙司",
+            "TraditionalChinese": "星星卡士達醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_654",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_CUST",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake of the Lost",
+          "SimplifiedChinese": "迷失蛋糕",
+          "TencentChinese": "迷失蛋糕",
+          "TraditionalChinese": "迷失者的蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BCUSTARD": {
+          "Id": "FOOD_R_BCUSTARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Very Thick Custard",
+            "SimplifiedChinese": "特厚蛋奶酱",
+            "TraditionalChinese": "濃厚卡士達"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

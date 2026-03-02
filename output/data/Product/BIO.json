@@ -107,5 +107,53 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FISHBAIT_3",
+      "Name": {
+        "English": "Bionic Lure",
+        "SimplifiedChinese": "仿生诱饵",
+        "TraditionalChinese": "仿生假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.3.png",
+      "Requirements": [
+        {
+          "Id": "BIO",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Amino Chamber",
+            "SimplifiedChinese": "氨基舱",
+            "TraditionalChinese": "胺基艙"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.bio.png"
+        },
+        {
+          "Id": "POWERCELL",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Ion Battery",
+            "SimplifiedChinese": "离子电池",
+            "TencentChinese": "离子电池",
+            "TraditionalChinese": "離子電池"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.powercell.png"
+        },
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        }
+      ]
+    }
+  ]
 }

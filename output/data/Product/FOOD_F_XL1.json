@@ -82,5 +82,358 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1131",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_ALL_COM_XL": {
+          "Id": "F_ALL_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stonescale Shark",
+            "SimplifiedChinese": "石鳞鲨",
+            "TraditionalChinese": "石鱗鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.shark.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1145",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_ALL_LEG_XL": {
+          "Id": "F_ALL_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "The Lunker",
+            "SimplifiedChinese": "大鱼",
+            "TraditionalChinese": "魚中之王"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1166",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_TOX_LEG_XL": {
+          "Id": "F_TOX_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Translucent Gulper",
+            "SimplifiedChinese": "透明大嘴鱼",
+            "TraditionalChinese": "半透明大嘴鰻"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1187",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_RAD_LEG_XL": {
+          "Id": "F_RAD_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Helix Sawfish",
+            "SimplifiedChinese": "螺旋锯鳐",
+            "TraditionalChinese": "螺旋鋸鮫"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1204",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_HOT_EPIC_XL": {
+          "Id": "F_HOT_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hellion Bass",
+            "SimplifiedChinese": "地狱鲈鱼",
+            "TraditionalChinese": "惡魔鱸魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1225",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_COLD_EPIC_XL": {
+          "Id": "F_COLD_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Black-Eyed Shark",
+            "SimplifiedChinese": "黑眼鲨",
+            "TraditionalChinese": "黑眼鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.shark.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1250",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_LUSH_LEG_XL": {
+          "Id": "F_LUSH_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Blind Titancore",
+            "SimplifiedChinese": "盲眼泰坦之核",
+            "TraditionalChinese": "盲眼泰坦核心"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1267",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_DUST_EPIC_XL": {
+          "Id": "F_DUST_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cave Prowler",
+            "SimplifiedChinese": "洞穴徘徊者",
+            "TraditionalChinese": "洞穴潛伏者"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1324",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_GAS_LEG_XL": {
+          "Id": "F_GAS_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "The Maw of Titan",
+            "SimplifiedChinese": "泰坦之口",
+            "TraditionalChinese": "泰坦之喉"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.1.png"
+        }
+      }
+    }
+  ]
 }

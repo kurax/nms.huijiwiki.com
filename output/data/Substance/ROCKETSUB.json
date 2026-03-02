@@ -86,5 +86,1126 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S12_POI_SEED1",
+      "Name": {
+        "English": "Memory of Ocean",
+        "SimplifiedChinese": "大海的回忆",
+        "TraditionalChinese": "大海記憶"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.10.png",
+      "Requirements": [
+        {
+          "Id": "SAND1",
+          "Type": "Substance",
+          "Amount": 99,
+          "Name": {
+            "English": "Silicate Powder",
+            "SimplifiedChinese": "硅酸盐粉末",
+            "TencentChinese": "硅酸盐粉末",
+            "TraditionalChinese": "矽酸粉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.sand.1.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 66,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        },
+        {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 33,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "FRIGATE_FUEL_2",
+      "Name": {
+        "English": "Frigate Fuel (100 Tonnes)",
+        "SimplifiedChinese": "护卫舰燃料（100 吨）",
+        "TencentChinese": "护卫舰燃料（100 吨）",
+        "TraditionalChinese": "巡防艦燃料（100噸）"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigfuel100.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    },
+    {
+      "Id": "FRIGATE_FUEL_3",
+      "Name": {
+        "English": "Frigate Fuel (200 Tonnes)",
+        "SimplifiedChinese": "护卫舰燃料（200 吨）",
+        "TencentChinese": "护卫舰燃料（200 吨）",
+        "TraditionalChinese": "巡防艦燃料（200噸）"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigfuel200.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    },
+    {
+      "Id": "FRIGATE_FUEL_1",
+      "Name": {
+        "English": "Frigate Fuel (50 Tonnes)",
+        "SimplifiedChinese": "护卫舰燃料（50 吨）",
+        "TencentChinese": "护卫舰燃料（50 吨）",
+        "TraditionalChinese": "巡防艦燃料（50噸）"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigfuel50.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    },
+    {
+      "Id": "SHIPCHARGE",
+      "Name": {
+        "English": "Starshield Battery",
+        "SimplifiedChinese": "星盾电池",
+        "TencentChinese": "星盾电池",
+        "TraditionalChinese": "星盾電池"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.powercell2.png",
+      "Requirements": [
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_STORM",
+      "Name": {
+        "English": "Magpulse Lure",
+        "SimplifiedChinese": "磁脉冲诱饵",
+        "TraditionalChinese": "磁脈衝假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.storm.png",
+      "Requirements": [
+        {
+          "Id": "MAGNET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetic Resonator",
+            "SimplifiedChinese": "磁性共振器",
+            "TraditionalChinese": "磁力共振器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.magnet.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 90,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_56",
+      "RecipeType": {
+        "English": "Requested Operation: Tritium Cycling",
+        "SimplifiedChinese": "请求操作：氚循环",
+        "TencentChinese": "请求操作：氚循环",
+        "TraditionalChinese": "請求操作：氚循環"
+      },
+      "RecipeName": {
+        "English": "Tritium Cycling",
+        "SimplifiedChinese": "氚循环",
+        "TraditionalChinese": "氚循環"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Di-hydrogen",
+          "SimplifiedChinese": "二氢",
+          "TencentChinese": "二氢",
+          "TraditionalChinese": "二氫"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+      },
+      "Ingredients": {
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_287",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY4",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Lemmium",
+          "SimplifiedChinese": "列米姆",
+          "TencentChinese": "列米姆",
+          "TraditionalChinese": "釢"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.4.png"
+      },
+      "Ingredients": {
+        "RADIO1": {
+          "Id": "RADIO1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Uranium",
+            "SimplifiedChinese": "铀",
+            "TencentChinese": "铀",
+            "TraditionalChinese": "鈾"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_288",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY4",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Lemmium",
+          "SimplifiedChinese": "列米姆",
+          "TencentChinese": "列米姆",
+          "TraditionalChinese": "釢"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.4.png"
+      },
+      "Ingredients": {
+        "RADIO1": {
+          "Id": "RADIO1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Uranium",
+            "SimplifiedChinese": "铀",
+            "TencentChinese": "铀",
+            "TraditionalChinese": "鈾"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.radio.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_303",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_304",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY6",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grantine",
+          "SimplifiedChinese": "格兰丁",
+          "TencentChinese": "格兰丁",
+          "TraditionalChinese": "大鋰"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.6.png"
+      },
+      "Ingredients": {
+        "COLD1": {
+          "Id": "COLD1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Dioxite",
+            "SimplifiedChinese": "二氧化物",
+            "TencentChinese": "二氧化物",
+            "TraditionalChinese": "二氧化物"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.cold.png"
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_92",
+      "RecipeType": {
+        "English": "Requested Operation: Di-hydrogen Cycling",
+        "SimplifiedChinese": "请求操作：循环二氢",
+        "TencentChinese": "请求操作：循环二氢",
+        "TraditionalChinese": "需執行作業：回收二氫"
+      },
+      "RecipeName": {
+        "English": "Di-hydrogen Cycling",
+        "SimplifiedChinese": "二氢循环",
+        "TraditionalChinese": "二氫循環"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAUNCHSUB2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Deuterium",
+          "SimplifiedChinese": "氘",
+          "TencentChinese": "氘",
+          "TraditionalChinese": "氘"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.launchsub.2.png"
+      },
+      "Ingredients": {
+        "LAUNCHSUB": {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_271",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 120,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_272",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Dirty Bronze",
+          "SimplifiedChinese": "肮脏青铜",
+          "TencentChinese": "肮脏青铜",
+          "TraditionalChinese": "汙銅"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.2.png"
+      },
+      "Ingredients": {
+        "DUSTY1": {
+          "Id": "DUSTY1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Pyrite",
+            "SimplifiedChinese": "黄铁矿",
+            "TencentChinese": "黄铁矿",
+            "TraditionalChinese": "黃鐵礦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.dusty.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_279",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Herox",
+          "SimplifiedChinese": "赫罗克斯",
+          "TencentChinese": "赫罗克斯",
+          "TraditionalChinese": "赫羅克斯"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.3.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 30
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_280",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Herox",
+          "SimplifiedChinese": "赫罗克斯",
+          "TencentChinese": "赫罗克斯",
+          "TraditionalChinese": "赫羅克斯"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.3.png"
+      },
+      "Ingredients": {
+        "TOXIC1": {
+          "Id": {
+            "English": "Toxic %PLANETCLASS%",
+            "SimplifiedChinese": "剧毒%PLANETCLASS%",
+            "TencentChinese": "剧毒%PLANETCLASS%",
+            "TraditionalChinese": "劇毒%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 30
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_295",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY5",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Magno-Gold",
+          "SimplifiedChinese": "镍锰金",
+          "TencentChinese": "镍锰金",
+          "TraditionalChinese": "磁金"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.5.png"
+      },
+      "Ingredients": {
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_296",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY5",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Magno-Gold",
+          "SimplifiedChinese": "镍锰金",
+          "TencentChinese": "镍锰金",
+          "TraditionalChinese": "磁金"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.5.png"
+      },
+      "Ingredients": {
+        "HOT1": {
+          "Id": "HOT1",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Phosphorus",
+            "SimplifiedChinese": "磷",
+            "TencentChinese": "磷",
+            "TraditionalChinese": "磷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.hot.png"
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_263",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Aronium",
+          "SimplifiedChinese": "阿洛姆",
+          "TencentChinese": "阿洛姆",
+          "TraditionalChinese": "鑨"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.1.png"
+      },
+      "Ingredients": {
+        "LUSH1": {
+          "Id": {
+            "English": "Rainy %PLANETCLASS%",
+            "SimplifiedChinese": "多雨%PLANETCLASS%",
+            "TencentChinese": "多雨%PLANETCLASS%",
+            "TraditionalChinese": "多雨%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 30
+        },
+        "CAVE1": {
+          "Id": "CAVE1",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Cobalt",
+            "SimplifiedChinese": "钴",
+            "TencentChinese": "钴",
+            "TraditionalChinese": "鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.1.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_264",
+      "RecipeType": {
+        "English": "Requested Operation: Alloy Latticing",
+        "SimplifiedChinese": "请求操作：合金格构",
+        "TencentChinese": "请求操作：合金格构",
+        "TraditionalChinese": "需執行作業：合金重力格化"
+      },
+      "RecipeName": {
+        "English": "Alloy Latticing",
+        "SimplifiedChinese": "合金格构",
+        "TraditionalChinese": "合金晶格化"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "ALLOY1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Aronium",
+          "SimplifiedChinese": "阿洛姆",
+          "TencentChinese": "阿洛姆",
+          "TraditionalChinese": "鑨"
+        },
+        "Icon": "ui-frontend-icons-products-product.metallic.1.png"
+      },
+      "Ingredients": {
+        "LUSH1": {
+          "Id": {
+            "English": "Rainy %PLANETCLASS%",
+            "SimplifiedChinese": "多雨%PLANETCLASS%",
+            "TencentChinese": "多雨%PLANETCLASS%",
+            "TraditionalChinese": "多雨%PLANETCLASS%"
+          },
+          "Type": "Substance",
+          "Amount": 30
+        },
+        "CAVE2": {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        },
+        "ROCKETSUB": {
+          "Id": "ROCKETSUB",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Tritium",
+            "SimplifiedChinese": "氚",
+            "TencentChinese": "氚",
+            "TraditionalChinese": "氚"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.rocketsub.png"
+        }
+      }
+    }
+  ]
 }

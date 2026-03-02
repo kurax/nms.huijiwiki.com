@@ -106,5 +106,570 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BASE_BUBPIPE_L",
+      "Name": {
+        "English": "L-Shaped Bubble Duct",
+        "SimplifiedChinese": "L形泡泡导管",
+        "TraditionalChinese": "L 型泡泡導管"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.bubblepipe_l.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_BUBPIPE_T",
+      "Name": {
+        "English": "T-Shaped Bubble Duct",
+        "SimplifiedChinese": "T形泡泡导管",
+        "TraditionalChinese": "T 型泡泡導管"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.bubblepipe_t.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_BUBPIPE_X",
+      "Name": {
+        "English": "X-Shaped Bubble Duct",
+        "SimplifiedChinese": "X形泡泡导管",
+        "TraditionalChinese": "X 型泡泡導管"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.bubblepipe_x.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_AQUARIUM",
+      "Name": {
+        "English": "Small Aquarium",
+        "SimplifiedChinese": "小型水族箱",
+        "TencentChinese": "小型水族箱",
+        "TraditionalChinese": "小型水族箱"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.aquarium.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "CLAMPEARL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Pearl",
+            "SimplifiedChinese": "活体珍珠",
+            "TencentChinese": "活体珍珠",
+            "TraditionalChinese": "活珍珠"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.clampearl.png"
+        }
+      ]
+    },
+    {
+      "Id": "MIND_ARC",
+      "Name": {
+        "English": "Mind Ark",
+        "SimplifiedChinese": "心灵方舟",
+        "TencentChinese": "心灵之弧",
+        "TraditionalChinese": "思維方舟"
+      },
+      "Icon": "ui-frontend-icons-update3-mindarc.png",
+      "Requirements": [
+        {
+          "Id": "SOUL_ENGINE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Soul Engine",
+            "SimplifiedChinese": "灵魂引擎",
+            "TencentChinese": "灵魂引擎",
+            "TraditionalChinese": "靈魂引擎"
+          },
+          "Icon": "ui-frontend-icons-update3-soulengine.png"
+        },
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_DATASIGN",
+      "Name": {
+        "English": "Data Display Unit",
+        "SimplifiedChinese": "数据显示单元",
+        "TraditionalChinese": "資料顯示器"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.datasign.png",
+      "Requirements": [
+        {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_BUBPIPE",
+      "Name": {
+        "English": "Bubble Duct",
+        "SimplifiedChinese": "泡泡导管",
+        "TraditionalChinese": "泡泡導管"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.bubblepipe.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_BUBPIPE_S",
+      "Name": {
+        "English": "Bubble Duct",
+        "SimplifiedChinese": "泡泡导管",
+        "TraditionalChinese": "泡泡導管"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.bubblepipe.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_NEXUS3",
+      "Name": {
+        "English": "Bubble Vat",
+        "SimplifiedChinese": "泡泡缸",
+        "TraditionalChinese": "泡泡桶"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.nexusprop03.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "YELLOW2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Copper",
+            "SimplifiedChinese": "铜",
+            "TencentChinese": "铜",
+            "TraditionalChinese": "銅"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.yellow.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "FARMPROD8",
+      "Name": {
+        "English": "Living Glass",
+        "SimplifiedChinese": "活体玻璃",
+        "TencentChinese": "活体玻璃",
+        "TraditionalChinese": "活玻璃"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.8.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        },
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 5,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "STAFF_PART_A",
+      "Name": {
+        "English": "Fiberglass Grip",
+        "SimplifiedChinese": "玻璃纤维握柄",
+        "TraditionalChinese": "玻璃纖維握把"
+      },
+      "Icon": "ui-frontend-icons-products-staffparta.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        }
+      ]
+    },
+    {
+      "Id": "BLD_FLYJAR",
+      "Name": {
+        "English": "Bio-Lantern",
+        "SimplifiedChinese": "生物灯笼",
+        "TraditionalChinese": "生物燈"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.flyjar.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_TERRARIUM",
+      "Name": {
+        "English": "Terrarium",
+        "SimplifiedChinese": "生物育养箱",
+        "TencentChinese": "生物育养箱",
+        "TraditionalChinese": "飼養缸"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.terrarium.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        },
+        {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_9",
+      "RecipeType": {
+        "English": "Requested Operation: Polish Crystals",
+        "SimplifiedChinese": "请求操作：擦亮晶体",
+        "TencentChinese": "请求操作：擦亮晶体",
+        "TraditionalChinese": "需執行作業：晶體拋光"
+      },
+      "RecipeName": {
+        "English": "Polish Crystals",
+        "SimplifiedChinese": "晶体抛光",
+        "TraditionalChinese": "拋光水晶"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "FARMPROD3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Glass",
+          "SimplifiedChinese": "玻璃",
+          "TencentChinese": "玻璃",
+          "TraditionalChinese": "玻璃"
+        },
+        "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+      },
+      "Ingredients": {
+        "PLANT_SNOW": {
+          "Id": "PLANT_SNOW",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Frost Crystal",
+            "SimplifiedChinese": "冰霜水晶",
+            "TencentChinese": "冰霜水晶",
+            "TraditionalChinese": "霜晶"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.snow.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_76",
+      "RecipeType": {
+        "English": "Requested Operation: Salt Crystal Polishing",
+        "SimplifiedChinese": "请求操作：盐晶抛光",
+        "TencentChinese": "请求操作：盐晶抛光",
+        "TraditionalChinese": "需執行作業：鹽晶拋光"
+      },
+      "RecipeName": {
+        "English": "Salt Crystal Polishing",
+        "SimplifiedChinese": "盐晶抛光",
+        "TraditionalChinese": "鹽晶拋光"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "FARMPROD3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Glass",
+          "SimplifiedChinese": "玻璃",
+          "TencentChinese": "玻璃",
+          "TraditionalChinese": "玻璃"
+        },
+        "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+      },
+      "Ingredients": {
+        "WATERPLANT": {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_323",
+      "RecipeType": {
+        "English": "Requested Operation: Silicate Forging",
+        "SimplifiedChinese": "请求操作:硅酸盐制作",
+        "TencentChinese": "请求操作:硅酸盐制作",
+        "TraditionalChinese": "需執行作業：打造矽酸"
+      },
+      "RecipeName": {
+        "English": "Silicate Forging",
+        "SimplifiedChinese": "硅酸盐制作",
+        "TraditionalChinese": "矽酸製造"
+      },
+      "TimeToMake": 10,
+      "Cooking": false,
+      "Result": {
+        "Id": "FARMPROD3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Glass",
+          "SimplifiedChinese": "玻璃",
+          "TencentChinese": "玻璃",
+          "TraditionalChinese": "玻璃"
+        },
+        "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+      },
+      "Ingredients": {
+        "SAND1": {
+          "Id": "SAND1",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Silicate Powder",
+            "SimplifiedChinese": "硅酸盐粉末",
+            "TencentChinese": "硅酸盐粉末",
+            "TraditionalChinese": "矽酸粉"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.sand.1.png"
+        }
+      }
+    }
+  ]
 }

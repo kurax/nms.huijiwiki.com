@@ -85,5 +85,1292 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_198",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_G",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Omelets",
+          "SimplifiedChinese": "原型煎蛋卷",
+          "TencentChinese": "原型煎蛋卷",
+          "TraditionalChinese": "原始歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_326",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_GCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Batter",
+          "SimplifiedChinese": "原型面糊",
+          "TencentChinese": "原型面糊",
+          "TraditionalChinese": "原始麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_SWEETGEK": {
+          "Id": "FOOD_R_SWEETGEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetened Proto-Butter",
+            "SimplifiedChinese": "加糖原型黄油",
+            "TencentChinese": "加糖原型黄油",
+            "TraditionalChinese": "原始甜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_328",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_GCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Batter",
+          "SimplifiedChinese": "原型面糊",
+          "TencentChinese": "原型面糊",
+          "TraditionalChinese": "原始麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_HONEYGEK": {
+          "Id": "FOOD_R_HONEYGEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Honied Proto-Butter",
+            "SimplifiedChinese": "蜂蜜原型黄油",
+            "TencentChinese": "蜂蜜原型黄油",
+            "TraditionalChinese": "原始蜂蜜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_40",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERINGUE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Meringue",
+          "SimplifiedChinese": "可口蛋白酥皮",
+          "TencentChinese": "可口蛋白酥皮",
+          "TraditionalChinese": "精緻蛋白霜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_959",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MILK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Milky Cookie",
+          "SimplifiedChinese": "浓郁饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "營養強化餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_638",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_B",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Scrambled Marrow",
+          "SimplifiedChinese": "炒骨髓",
+          "TraditionalChinese": "炒骨髓"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_BCHEESE": {
+          "Id": "FOOD_R_BCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cheese",
+            "SimplifiedChinese": "骨质奶酪",
+            "TraditionalChinese": "骨頭乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_35",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EGGS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Baked Eggs",
+          "SimplifiedChinese": "烤蛋",
+          "TencentChinese": "烤蛋",
+          "TraditionalChinese": "乾烤蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_194",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Omelets",
+          "SimplifiedChinese": "煎蛋卷",
+          "TencentChinese": "煎蛋卷",
+          "TraditionalChinese": "歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_CHEESE": {
+          "Id": "FOOD_R_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tangy Cheese",
+            "SimplifiedChinese": "香浓芝士",
+            "TencentChinese": "香浓芝士",
+            "TraditionalChinese": "香濃乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_329",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Thick, Sweet Batter",
+          "SimplifiedChinese": "甜味稠面糊",
+          "TencentChinese": "甜味稠面糊",
+          "TraditionalChinese": "香甜濃麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BLOBGEK": {
+          "Id": "FOOD_R_BLOBGEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey ProtoButter",
+            "SimplifiedChinese": "黏腻原型黄油",
+            "TencentChinese": "黏腻原型黄油",
+            "TraditionalChinese": "黏糊糊原始奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_330",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Thick, Sweet Batter",
+          "SimplifiedChinese": "甜味稠面糊",
+          "TencentChinese": "甜味稠面糊",
+          "TraditionalChinese": "香甜濃麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_641",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_MU",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fungal Omelette",
+          "SimplifiedChinese": "真菌煎蛋卷",
+          "TraditionalChinese": "真菌歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_BCHEESE": {
+          "Id": "FOOD_R_BCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cheese",
+            "SimplifiedChinese": "骨质奶酪",
+            "TraditionalChinese": "骨頭乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_644",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_MU",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fungal Omelette",
+          "SimplifiedChinese": "真菌煎蛋卷",
+          "TraditionalChinese": "真菌歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_CHEESE": {
+          "Id": "FOOD_R_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tangy Cheese",
+            "SimplifiedChinese": "香浓芝士",
+            "TencentChinese": "香浓芝士",
+            "TraditionalChinese": "香濃乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_647",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_MU",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fungal Omelette",
+          "SimplifiedChinese": "真菌煎蛋卷",
+          "TraditionalChinese": "真菌歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_V_MOLE": {
+          "Id": "FOOD_V_MOLE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Foraged Mushrooms",
+            "SimplifiedChinese": "食用蘑菇",
+            "TraditionalChinese": "採集的蕈類"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.catfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_54",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_CUSTARD",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Viscous Custard",
+          "SimplifiedChinese": "粘蛋奶沙司",
+          "TencentChinese": "粘蛋奶沙司",
+          "TraditionalChinese": "黏稠卡士達醬"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_CREAM": {
+          "Id": "FOOD_R_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cream",
+            "SimplifiedChinese": "奶油",
+            "TencentChinese": "奶油",
+            "TraditionalChinese": "鮮奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1083",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_PCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Syrupy Batter",
+          "SimplifiedChinese": "糖浆面糊",
+          "TraditionalChinese": "糖漿麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCATBUT": {
+          "Id": "FOOD_R_PCATBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Butter Syrup",
+            "SimplifiedChinese": "黄油糖浆",
+            "TraditionalChinese": "奶油糖漿"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1052",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_BUG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bugs-in-a-Blanket",
+          "SimplifiedChinese": "虫包毯",
+          "TraditionalChinese": "蟲包毯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_BCHEESE": {
+          "Id": "FOOD_R_BCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Cheese",
+            "SimplifiedChinese": "骨质奶酪",
+            "TraditionalChinese": "骨頭乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_M_BUG": {
+          "Id": "FOOD_M_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Juicy Thorax",
+            "SimplifiedChinese": "多汁的胸腔",
+            "TraditionalChinese": "多汁的胸腔"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1055",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_BUG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bugs-in-a-Blanket",
+          "SimplifiedChinese": "虫包毯",
+          "TraditionalChinese": "蟲包毯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_CHEESE": {
+          "Id": "FOOD_R_CHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tangy Cheese",
+            "SimplifiedChinese": "香浓芝士",
+            "TencentChinese": "香浓芝士",
+            "TraditionalChinese": "香濃乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_M_BUG": {
+          "Id": "FOOD_M_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Juicy Thorax",
+            "SimplifiedChinese": "多汁的胸腔",
+            "TraditionalChinese": "多汁的胸腔"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1058",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_BUG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bugs-in-a-Blanket",
+          "SimplifiedChinese": "虫包毯",
+          "TraditionalChinese": "蟲包毯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_M_BUG": {
+          "Id": "FOOD_M_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Juicy Thorax",
+            "SimplifiedChinese": "多汁的胸腔",
+            "TraditionalChinese": "多汁的胸腔"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_325",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_CAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake Batter",
+          "SimplifiedChinese": "蛋糕面糊",
+          "TencentChinese": "蛋糕面糊",
+          "TraditionalChinese": "蛋糕麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_SWEETBUT": {
+          "Id": "FOOD_R_SWEETBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetened Butter",
+            "SimplifiedChinese": "加糖黄油",
+            "TencentChinese": "加糖黄油",
+            "TraditionalChinese": "甜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_327",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_CAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Cake Batter",
+          "SimplifiedChinese": "蛋糕面糊",
+          "TencentChinese": "蛋糕面糊",
+          "TraditionalChinese": "蛋糕麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_HONEYBUT": {
+          "Id": "FOOD_R_HONEYBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Honey Butter",
+            "SimplifiedChinese": "蜂蜜黄油",
+            "TencentChinese": "蜂蜜黄油",
+            "TraditionalChinese": "蜂蜜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_339",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Extra-Fluffy Batter",
+          "SimplifiedChinese": "超蓬松面糊",
+          "TencentChinese": "超蓬松面糊",
+          "TraditionalChinese": "超蓬鬆麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERINGUE": {
+          "Id": "FOOD_R_MERINGUE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Delicate Meringue",
+            "SimplifiedChinese": "可口蛋白酥皮",
+            "TencentChinese": "可口蛋白酥皮",
+            "TraditionalChinese": "精緻蛋白霜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    }
+  ]
 }

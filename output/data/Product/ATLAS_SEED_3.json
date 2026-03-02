@@ -101,5 +101,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_4",
+      "Name": {
+        "English": "Dark Matter",
+        "SimplifiedChinese": "暗物质",
+        "TencentChinese": "暗物质",
+        "TraditionalChinese": "暗物質"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.4.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Noospheric Orb",
+            "SimplifiedChinese": "捕获球体",
+            "TencentChinese": "捕获球体",
+            "TraditionalChinese": "智慧球"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.3.png"
+        },
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        }
+      ]
+    }
+  ]
 }

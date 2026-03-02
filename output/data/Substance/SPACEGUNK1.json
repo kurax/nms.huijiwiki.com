@@ -77,5 +77,144 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_325",
+      "RecipeType": {
+        "English": "Requested Operation: Doom Cycling",
+        "SimplifiedChinese": "请求操作：厄运循环",
+        "TencentChinese": "请求操作：厄运循环",
+        "TraditionalChinese": "需執行作業：殞滅循環"
+      },
+      "RecipeName": {
+        "English": "Doom Cycling",
+        "SimplifiedChinese": "厄运循环",
+        "TraditionalChinese": "殞滅循環"
+      },
+      "TimeToMake": 10,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK1",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Residual Goop",
+          "SimplifiedChinese": "剩余粘稠物",
+          "TencentChinese": "剩余粘稠物",
+          "TraditionalChinese": "殘餘黏液"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.1.png"
+      },
+      "Ingredients": {
+        "WORMDUST": {
+          "Id": "WORMDUST",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Cursed Dust",
+            "SimplifiedChinese": "诅咒之尘",
+            "TraditionalChinese": "受詛咒塵土"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.wormdust.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_51",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK5",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Viscous Fluids",
+          "SimplifiedChinese": "粘性流质",
+          "TencentChinese": "粘性流质",
+          "TraditionalChinese": "黏稠液體"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.5.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK1": {
+          "Id": "SPACEGUNK1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Residual Goop",
+            "SimplifiedChinese": "剩余粘稠物",
+            "TencentChinese": "剩余粘稠物",
+            "TraditionalChinese": "殘餘黏液"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_79",
+      "RecipeType": {
+        "English": "Requested Operation: Alchemical Construction",
+        "SimplifiedChinese": "请求操作：炼金建造",
+        "TencentChinese": "请求操作：炼金建造",
+        "TraditionalChinese": "需執行作業：冶煉構築"
+      },
+      "RecipeName": {
+        "English": "Alchemical Construction",
+        "SimplifiedChinese": "炼金建造",
+        "TraditionalChinese": "冶煉構築"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "PLANT_POOP": {
+          "Id": "PLANT_POOP",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Faecium",
+            "SimplifiedChinese": "屎球菌",
+            "TencentChinese": "屎球菌",
+            "TraditionalChinese": "屎菌"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.plant.poop.png"
+        },
+        "SPACEGUNK1": {
+          "Id": "SPACEGUNK1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Residual Goop",
+            "SimplifiedChinese": "剩余粘稠物",
+            "TencentChinese": "剩余粘稠物",
+            "TraditionalChinese": "殘餘黏液"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.1.png"
+        }
+      }
+    }
+  ]
 }

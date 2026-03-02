@@ -85,5 +85,146 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_957",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Questionable Cookie",
+          "SimplifiedChinese": "可疑饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "可疑餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_P_DEATH": {
+          "Id": "FOOD_P_DEATH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meat Flakes",
+            "SimplifiedChinese": "肉薄片",
+            "TencentChinese": "肉薄片",
+            "TraditionalChinese": "肉片"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.deathwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_96",
+      "RecipeType": {
+        "English": "Processor Setting: Incinerate Flesh",
+        "SimplifiedChinese": "加工设置：焚化肉类",
+        "TencentChinese": "加工设置：焚化肉类",
+        "TraditionalChinese": "處理器設定：焚燒肉品"
+      },
+      "RecipeName": {
+        "English": "Incinerate Flesh",
+        "SimplifiedChinese": "灸烤肉类",
+        "TraditionalChinese": "焚燒肉品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_M_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Meaty Chunks",
+          "SimplifiedChinese": "肉块",
+          "TencentChinese": "肉块",
+          "TraditionalChinese": "肉塊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.meat.raw.png"
+      },
+      "Ingredients": {
+        "FOOD_P_DEATH": {
+          "Id": "FOOD_P_DEATH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Meat Flakes",
+            "SimplifiedChinese": "肉薄片",
+            "TencentChinese": "肉薄片",
+            "TraditionalChinese": "肉片"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.plant.deathwild.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_27",
+      "RecipeType": {
+        "English": "Processor Setting: Extract Nutrients",
+        "SimplifiedChinese": "加工设置：提取营养",
+        "TencentChinese": "加工设置：提取营养",
+        "TraditionalChinese": "處理器設定：萃取營養素"
+      },
+      "RecipeName": {
+        "English": "Extract Nutrients",
+        "SimplifiedChinese": "提取养分",
+        "TraditionalChinese": "萃取營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_P_DEATH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Meat Flakes",
+          "SimplifiedChinese": "肉薄片",
+          "TencentChinese": "肉薄片",
+          "TraditionalChinese": "肉片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.plant.deathwild.png"
+      },
+      "Ingredients": {
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    }
+  ]
 }

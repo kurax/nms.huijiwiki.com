@@ -97,5 +97,41 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ATLAS_SEED4",
+      "Name": {
+        "English": "Seed of Life",
+        "SimplifiedChinese": "生命之种",
+        "TraditionalChinese": "生命種子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.5.png",
+      "Requirements": [
+        {
+          "Id": "S10_ATLAS_SEED3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Seed of Will",
+            "SimplifiedChinese": "意志之种",
+            "TraditionalChinese": "意志種子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.6.png"
+        },
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        }
+      ]
+    }
+  ]
 }

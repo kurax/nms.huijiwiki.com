@@ -86,5 +86,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1142",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SNAIL",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Snail Fillet",
+          "SimplifiedChinese": "蜗牛肉片",
+          "TraditionalChinese": "蝸牛切片"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_ALL_LEG_S1": {
+          "Id": "F_ALL_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Singing Sea-Snail",
+            "SimplifiedChinese": "歌唱海螺",
+            "TraditionalChinese": "歌唱海螺"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.snail.png"
+        }
+      }
+    }
+  ]
 }

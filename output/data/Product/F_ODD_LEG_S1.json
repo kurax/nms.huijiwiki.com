@@ -86,5 +86,47 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1289",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_EYEBALLS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Horrifying Mush",
+          "SimplifiedChinese": "可怕的糊糊",
+          "TencentChinese": "可怕的糊糊",
+          "TraditionalChinese": "可怕爛糊"
+        },
+        "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+      },
+      "Ingredients": {
+        "F_ODD_LEG_S1": {
+          "Id": "F_ODD_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Abyssal Horror Egg",
+            "SimplifiedChinese": "深渊惧物蛋",
+            "TraditionalChinese": "深淵懼獸蛋"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fishcore.png"
+        }
+      }
+    }
+  ]
 }

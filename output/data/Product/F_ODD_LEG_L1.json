@@ -86,5 +86,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1291",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ODD_LEG_L1": {
+          "Id": "F_ODD_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Child of Helios",
+            "SimplifiedChinese": "赫利俄斯之子",
+            "TraditionalChinese": "赫利奧斯之子"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.jelly.png"
+        }
+      }
+    }
+  ]
 }

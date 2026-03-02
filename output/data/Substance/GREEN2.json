@@ -86,5 +86,417 @@
   "CookingIngredient": false,
   "GoodForSelling": true,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_8",
+      "Name": {
+        "English": "Novae Reclaiment",
+        "SimplifiedChinese": "新星残留物",
+        "TencentChinese": "新星残留物",
+        "TraditionalChinese": "超新星殘骸"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.8.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_7",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "State Phasure",
+            "SimplifiedChinese": "相位不定体",
+            "TencentChinese": "相位不定体",
+            "TraditionalChinese": "靜態非薛子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.7.png"
+        },
+        {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "ACCESS3",
+      "Name": {
+        "English": "AtlasPass v3",
+        "SimplifiedChinese": "阿特拉斯通行卡 V3",
+        "TencentChinese": "阿特拉斯通行卡3",
+        "TraditionalChinese": "寰宇證 V3"
+      },
+      "Icon": "ui-frontend-icons-products-product.atlaspass.png",
+      "Requirements": [
+        {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 200,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_34",
+      "RecipeType": {
+        "English": "Requested Operation: Extract Chromatic Material",
+        "SimplifiedChinese": "请求操作：提取有色材料",
+        "TencentChinese": "请求操作：提取有色材料",
+        "TraditionalChinese": "需執行作業：萃取有色材料"
+      },
+      "RecipeName": {
+        "English": "Extract Chromatic Material",
+        "SimplifiedChinese": "提取有色材料",
+        "TraditionalChinese": "萃取有色材料"
+      },
+      "TimeToMake": 40,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 2,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_168",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Metal Fusion",
+        "SimplifiedChinese": "请求操作：有色金属熔合",
+        "TencentChinese": "请求操作：有色金属熔合",
+        "TraditionalChinese": "需執行作業：有色金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_246",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Stellar Fusion",
+        "SimplifiedChinese": "请求操作：有色星球熔合",
+        "TencentChinese": "请求操作：有色星球熔合",
+        "TraditionalChinese": "需執行作業：有色星體熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Stellar Fusion",
+        "SimplifiedChinese": "有色星球熔合",
+        "TraditionalChinese": "有色星體熔合"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "STELLAR2",
+        "Type": "Substance",
+        "Amount": 20,
+        "Name": {
+          "English": "Chromatic Metal",
+          "SimplifiedChinese": "有色金属",
+          "TencentChinese": "有色金属",
+          "TraditionalChinese": "有色金屬"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+      },
+      "Ingredients": {
+        "ASTEROID1": {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        "ASTEROID2": {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_165",
+      "RecipeType": {
+        "English": "Requested Operation: Stellar / Metal Fusion",
+        "SimplifiedChinese": "请求操作：星球/金属熔合",
+        "TencentChinese": "请求操作：星球/金属熔合",
+        "TraditionalChinese": "需執行作業：星體／金屬熔合"
+      },
+      "RecipeName": {
+        "English": "Chromatic Metal Fusion",
+        "SimplifiedChinese": "有色金属熔合",
+        "TraditionalChinese": "有色金屬熔合"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "LAND3",
+        "Type": "Substance",
+        "Amount": 3,
+        "Name": {
+          "English": "Magnetized Ferrite",
+          "SimplifiedChinese": "磁化铁氧体",
+          "TencentChinese": "磁化铁氧体",
+          "TraditionalChinese": "磁化鐵氧體"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+      },
+      "Ingredients": {
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_116",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Expansion",
+        "SimplifiedChinese": "请求操作：有色扩张",
+        "TencentChinese": "请求操作：有色扩张",
+        "TraditionalChinese": "需執行作業：有色膨脹"
+      },
+      "RecipeName": {
+        "English": "Chromatic Expansion",
+        "SimplifiedChinese": "有色扩张",
+        "TraditionalChinese": "有色膨脹"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GREEN2",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Emeril",
+          "SimplifiedChinese": "艾梅里尔",
+          "TencentChinese": "艾梅里尔",
+          "TraditionalChinese": "砪"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+      },
+      "Ingredients": {
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        },
+        "STELLAR2": {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_248",
+      "RecipeType": {
+        "English": "Requested Operation: Chromatic Alchemy",
+        "SimplifiedChinese": "请求操作：有色炼金",
+        "TencentChinese": "请求操作：有色炼金",
+        "TraditionalChinese": "需執行作業：有色冶煉"
+      },
+      "RecipeName": {
+        "English": "Chromatic Alchemy",
+        "SimplifiedChinese": "有色炼金",
+        "TraditionalChinese": "有色冶煉"
+      },
+      "TimeToMake": 1200,
+      "Cooking": false,
+      "Result": {
+        "Id": "ASTEROID2",
+        "Type": "Substance",
+        "Amount": 10,
+        "Name": {
+          "English": "Gold",
+          "SimplifiedChinese": "金",
+          "TencentChinese": "金",
+          "TraditionalChinese": "金"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+      },
+      "Ingredients": {
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "GREEN2": {
+          "Id": "GREEN2",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril",
+            "SimplifiedChinese": "艾梅里尔",
+            "TencentChinese": "艾梅里尔",
+            "TraditionalChinese": "砪"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.green.2.png"
+        }
+      }
+    }
+  ]
 }

@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1175",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_SMALL3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Pickled Fish",
+          "SimplifiedChinese": "腌鱼",
+          "TraditionalChinese": "酸菜魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_RAD_RARE_S2": {
+          "Id": "F_RAD_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nucleic Skipper",
+            "SimplifiedChinese": "单核鲤",
+            "TraditionalChinese": "核輻射鰹魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.3.png"
+        }
+      }
+    }
+  ]
 }

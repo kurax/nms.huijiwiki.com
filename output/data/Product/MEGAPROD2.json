@@ -106,5 +106,103 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ULTRAPROD2",
+      "Name": {
+        "English": "Stasis Device",
+        "SimplifiedChinese": "休眠设备",
+        "TencentChinese": "休眠设备",
+        "TraditionalChinese": "休眠裝置"
+      },
+      "Icon": "ui-frontend-icons-update3-ultraprod.2.png",
+      "Requirements": [
+        {
+          "Id": "MEGAPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Processor",
+            "SimplifiedChinese": "量子处理器",
+            "TencentChinese": "量子处理器",
+            "TraditionalChinese": "量子處理器"
+          },
+          "Icon": "ui-frontend-icons-update3-megaprod.2.png"
+        },
+        {
+          "Id": "MEGAPROD3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cryogenic Chamber",
+            "SimplifiedChinese": "低温舱",
+            "TencentChinese": "低温舱",
+            "TraditionalChinese": "低溫艙"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.cryochamber.png"
+        },
+        {
+          "Id": "ALLOY8",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Iridesite",
+            "SimplifiedChinese": "辐矿",
+            "TencentChinese": "辐矿",
+            "TraditionalChinese": "霓虹石"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.iridisite.png"
+        }
+      ]
+    },
+    {
+      "Id": "ULTRAPROD1",
+      "Name": {
+        "English": "Fusion Ignitor",
+        "SimplifiedChinese": "核融起爆机",
+        "TencentChinese": "核融触发机",
+        "TraditionalChinese": "融合點火器"
+      },
+      "Icon": "ui-frontend-icons-update3-ultraprod.1.png",
+      "Requirements": [
+        {
+          "Id": "MEGAPROD1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Portable Reactor",
+            "SimplifiedChinese": "便携式反应器",
+            "TencentChinese": "便携式反应器",
+            "TraditionalChinese": "可攜式反應器"
+          },
+          "Icon": "ui-frontend-icons-update3-megaprod.1.png"
+        },
+        {
+          "Id": "MEGAPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quantum Processor",
+            "SimplifiedChinese": "量子处理器",
+            "TencentChinese": "量子处理器",
+            "TraditionalChinese": "量子處理器"
+          },
+          "Icon": "ui-frontend-icons-update3-megaprod.2.png"
+        },
+        {
+          "Id": "ALLOY7",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Geodesite",
+            "SimplifiedChinese": "晶土矿",
+            "TencentChinese": "晶土矿",
+            "TraditionalChinese": "晶球岩"
+          },
+          "Icon": "ui-frontend-icons-products-product.metallic.7.png"
+        }
+      ]
+    }
+  ]
 }

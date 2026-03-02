@@ -83,5 +83,269 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_892",
+      "RecipeType": {
+        "English": "Processor Setting: Preserve Flesh",
+        "SimplifiedChinese": "加工设置：肉类保鲜",
+        "TencentChinese": "加工设置：肉类保鲜",
+        "TraditionalChinese": "處理器設定：保存肉品"
+      },
+      "RecipeName": {
+        "English": "Preserve Flesh",
+        "SimplifiedChinese": "保藏肉类",
+        "TraditionalChinese": "保存肉品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nightmare Sausage",
+          "SimplifiedChinese": "噩梦香肠",
+          "TraditionalChinese": "夢魘香腸"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+      },
+      "Ingredients": {
+        "FOOD_W_CASE": {
+          "Id": "FOOD_W_CASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Membrane",
+            "SimplifiedChinese": "凝胶薄膜",
+            "TraditionalChinese": "膠狀黏膜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        },
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_893",
+      "RecipeType": {
+        "English": "Processor Setting: Preserve Flesh",
+        "SimplifiedChinese": "加工设置：肉类保鲜",
+        "TencentChinese": "加工设置：肉类保鲜",
+        "TraditionalChinese": "處理器設定：保存肉品"
+      },
+      "RecipeName": {
+        "English": "Preserve Flesh",
+        "SimplifiedChinese": "保藏肉类",
+        "TraditionalChinese": "保存肉品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nightmare Sausage",
+          "SimplifiedChinese": "噩梦香肠",
+          "TraditionalChinese": "夢魘香腸"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+      },
+      "Ingredients": {
+        "FOOD_W_CASE": {
+          "Id": "FOOD_W_CASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Membrane",
+            "SimplifiedChinese": "凝胶薄膜",
+            "TraditionalChinese": "膠狀黏膜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        },
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_894",
+      "RecipeType": {
+        "English": "Processor Setting: Preserve Flesh",
+        "SimplifiedChinese": "加工设置：肉类保鲜",
+        "TencentChinese": "加工设置：肉类保鲜",
+        "TraditionalChinese": "處理器設定：保存肉品"
+      },
+      "RecipeName": {
+        "English": "Preserve Flesh",
+        "SimplifiedChinese": "保藏肉类",
+        "TraditionalChinese": "保存肉品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_MEAT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Nightmare Sausage",
+          "SimplifiedChinese": "噩梦香肠",
+          "TraditionalChinese": "夢魘香腸"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+      },
+      "Ingredients": {
+        "FOOD_W_CASE": {
+          "Id": "FOOD_W_CASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Membrane",
+            "SimplifiedChinese": "凝胶薄膜",
+            "TraditionalChinese": "膠狀黏膜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        },
+        "FISHCORE": {
+          "Id": "FISHCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hadal Core",
+            "SimplifiedChinese": "超深渊核心",
+            "TencentChinese": "超深渊核心",
+            "TraditionalChinese": "海溝核心"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fishcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_895",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_W_SWEETM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Syrupy Viscera",
+          "SimplifiedChinese": "糖渍内脏",
+          "TraditionalChinese": "黏膩內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.evilstew.png"
+      },
+      "Ingredients": {
+        "FOOD_W_MEAT": {
+          "Id": "FOOD_W_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nightmare Sausage",
+            "SimplifiedChinese": "噩梦香肠",
+            "TraditionalChinese": "夢魘香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_911",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wriggling Tack",
+          "SimplifiedChinese": "蠕动硬饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "蠕動壓縮餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_W_MEAT": {
+          "Id": "FOOD_W_MEAT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nightmare Sausage",
+            "SimplifiedChinese": "噩梦香肠",
+            "TraditionalChinese": "夢魘香腸"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.offal.png"
+        }
+      }
+    }
+  ]
 }

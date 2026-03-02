@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1123",
+      "RecipeType": {
+        "English": "Processor Setting: Purge by Fire",
+        "SimplifiedChinese": "加工设置：火焰净化",
+        "TraditionalChinese": "處理器設定：火焰淨化"
+      },
+      "RecipeName": {
+        "English": "Purge by Fire",
+        "SimplifiedChinese": "火焰净化",
+        "TraditionalChinese": "火焰淨化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_HORROR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Purged Ribs",
+          "SimplifiedChinese": "净化肋排",
+          "TraditionalChinese": "淨化肋排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meat.png"
+      },
+      "Ingredients": {
+        "FOOD_M_HORROR": {
+          "Id": "FOOD_M_HORROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Rancid Flesh",
+            "SimplifiedChinese": "腐臭的肉",
+            "TraditionalChinese": "酸敗的肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.meat.sausage.png"
+        }
+      }
+    }
+  ]
 }

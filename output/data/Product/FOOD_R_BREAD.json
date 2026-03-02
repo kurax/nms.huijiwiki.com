@@ -85,5 +85,49 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_65",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BREAD",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bread",
+          "SimplifiedChinese": "面包",
+          "TencentChinese": "面包",
+          "TraditionalChinese": "麵包"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.bread.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DOUGH": {
+          "Id": "FOOD_R_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dough",
+            "SimplifiedChinese": "面团",
+            "TencentChinese": "面团",
+            "TraditionalChinese": "麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        }
+      }
+    }
+  ]
 }

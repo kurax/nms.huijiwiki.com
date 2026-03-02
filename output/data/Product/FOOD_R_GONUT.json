@@ -85,5 +85,73 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_70",
+      "RecipeType": {
+        "English": "Processor Setting: Accelerated Fry",
+        "SimplifiedChinese": "加工设置：加速煎炸",
+        "TencentChinese": "加工设置：加速煎炸",
+        "TraditionalChinese": "處理器設定：加速油炸"
+      },
+      "RecipeName": {
+        "English": "Accelerated Fry",
+        "SimplifiedChinese": "加速煎炸",
+        "TraditionalChinese": "加速油炸"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_GONUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Beignet",
+          "SimplifiedChinese": "原型煎饼",
+          "TencentChinese": "原型煎饼",
+          "TraditionalChinese": "原始貝涅餅"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GOIL": {
+          "Id": "FOOD_R_GOIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Oil",
+            "SimplifiedChinese": "原型型油",
+            "TencentChinese": "原型型油",
+            "TraditionalChinese": "原始油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cookinggrease.png"
+        },
+        "FOOD_R_DOUGH": {
+          "Id": "FOOD_R_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Dough",
+            "SimplifiedChinese": "面团",
+            "TencentChinese": "面团",
+            "TraditionalChinese": "麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    }
+  ]
 }

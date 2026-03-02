@@ -85,5 +85,220 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_304",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamed Organ Soup",
+          "SimplifiedChinese": "奶油内脏炖汤",
+          "TencentChinese": "奶油内脏炖汤",
+          "TraditionalChinese": "奶油內臟湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_ORGAN_STEW": {
+          "Id": "FOOD_ORGAN_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stewed Organs",
+            "SimplifiedChinese": "炖内脏",
+            "TencentChinese": "炖内脏",
+            "TraditionalChinese": "燉內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CREAM": {
+          "Id": "FOOD_S_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creamy Sauce",
+            "SimplifiedChinese": "奶油酱",
+            "TencentChinese": "奶油酱",
+            "TraditionalChinese": "鮮奶油醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_776",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamed Organ Soup",
+          "SimplifiedChinese": "奶油内脏炖汤",
+          "TencentChinese": "奶油内脏炖汤",
+          "TraditionalChinese": "奶油內臟湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BONE": {
+          "Id": "FOOD_STEW_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystalline Soup",
+            "SimplifiedChinese": "晶体汤",
+            "TraditionalChinese": "結晶湯"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CREAM": {
+          "Id": "FOOD_S_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creamy Sauce",
+            "SimplifiedChinese": "奶油酱",
+            "TencentChinese": "奶油酱",
+            "TraditionalChinese": "鮮奶油醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_778",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamed Organ Soup",
+          "SimplifiedChinese": "奶油内脏炖汤",
+          "TencentChinese": "奶油内脏炖汤",
+          "TraditionalChinese": "奶油內臟湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BEET": {
+          "Id": "FOOD_STEW_BEET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Goop",
+            "SimplifiedChinese": "胶质粘稠物",
+            "TraditionalChinese": "膠狀黏稠物"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CREAM": {
+          "Id": "FOOD_S_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creamy Sauce",
+            "SimplifiedChinese": "奶油酱",
+            "TencentChinese": "奶油酱",
+            "TraditionalChinese": "鮮奶油醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_780",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_CR",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Creamed Organ Soup",
+          "SimplifiedChinese": "奶油内脏炖汤",
+          "TencentChinese": "奶油内脏炖汤",
+          "TraditionalChinese": "奶油內臟湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BALL": {
+          "Id": "FOOD_STEW_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy 'Dumpling' Stew",
+            "SimplifiedChinese": "耐嚼炖“饺”",
+            "TraditionalChinese": "Q彈「麵疙瘩」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_CREAM": {
+          "Id": "FOOD_S_CREAM",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creamy Sauce",
+            "SimplifiedChinese": "奶油酱",
+            "TencentChinese": "奶油酱",
+            "TraditionalChinese": "鮮奶油醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

@@ -86,5 +86,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1163",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_STARFISH",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Legs",
+          "SimplifiedChinese": "嫩滑海星腿",
+          "TraditionalChinese": "鮮嫩足肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_TOX_LEG_S1": {
+          "Id": "F_TOX_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Emeril Sunstar",
+            "SimplifiedChinese": "艾梅里尔阳星",
+            "TraditionalChinese": "艾默里爾太陽海星"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.starfish.png"
+        }
+      }
+    }
+  ]
 }

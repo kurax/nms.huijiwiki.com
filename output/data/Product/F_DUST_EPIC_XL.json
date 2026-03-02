@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1267",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Fishy Slab",
+          "SimplifiedChinese": "大块鱼肉",
+          "TraditionalChinese": "魚排"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.tuna.png"
+      },
+      "Ingredients": {
+        "F_DUST_EPIC_XL": {
+          "Id": "F_DUST_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cave Prowler",
+            "SimplifiedChinese": "洞穴徘徊者",
+            "TraditionalChinese": "洞穴潛伏者"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.1.png"
+        }
+      }
+    }
+  ]
 }

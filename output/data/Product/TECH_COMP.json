@@ -95,5 +95,195 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "STAFF_PART_B",
+      "Name": {
+        "English": "Atlantideum Chamber",
+        "SimplifiedChinese": "亚特拉迪姆室",
+        "TraditionalChinese": "亞特蘭提德鋼艙"
+      },
+      "Icon": "ui-frontend-icons-products-staffpartb.png",
+      "Requirements": [
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "DRONE_SHARD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Radiant Shard",
+            "SimplifiedChinese": "光耀碎片",
+            "TraditionalChinese": "發光裂片"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.droneshard.png"
+        },
+        {
+          "Id": "MICROCHIP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Microprocessor",
+            "SimplifiedChinese": "微处理器",
+            "TencentChinese": "微处理器",
+            "TraditionalChinese": "微處理機"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.microchip.png"
+        }
+      ]
+    },
+    {
+      "Id": "MIND_ARC",
+      "Name": {
+        "English": "Mind Ark",
+        "SimplifiedChinese": "心灵方舟",
+        "TencentChinese": "心灵之弧",
+        "TraditionalChinese": "思維方舟"
+      },
+      "Icon": "ui-frontend-icons-update3-mindarc.png",
+      "Requirements": [
+        {
+          "Id": "SOUL_ENGINE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Soul Engine",
+            "SimplifiedChinese": "灵魂引擎",
+            "TencentChinese": "灵魂引擎",
+            "TraditionalChinese": "靈魂引擎"
+          },
+          "Icon": "ui-frontend-icons-update3-soulengine.png"
+        },
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ROBO_ARMS",
+      "Name": {
+        "English": "Construct Limbs",
+        "SimplifiedChinese": "构造体肢体",
+        "TraditionalChinese": "構造肢幹"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotarms.png",
+      "Requirements": [
+        {
+          "Id": "QUAD_PROD",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quad Servo",
+            "SimplifiedChinese": "四足机甲伺服系统",
+            "TencentChinese": "四足机甲伺服系统",
+            "TraditionalChinese": "四核伺服"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.quadservo.png"
+        },
+        {
+          "Id": "NANOTUBES",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Carbon Nanotubes",
+            "SimplifiedChinese": "碳纳米管",
+            "TencentChinese": "碳纳米管",
+            "TraditionalChinese": "奈米碳管"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.nanotubes.png"
+        },
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        }
+      ]
+    },
+    {
+      "Id": "ROGUE_CRAFTBOX",
+      "Name": {
+        "English": "Memory Fragment",
+        "SimplifiedChinese": "记忆碎片",
+        "TraditionalChinese": "記憶碎片"
+      },
+      "Icon": "ui-frontend-icons-u4products-proctech-roguetech.general.png",
+      "Requirements": [
+        {
+          "Id": "TECH_COMP",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Wiring Loom",
+            "SimplifiedChinese": "卷线器",
+            "TencentChinese": "卷线器",
+            "TraditionalChinese": "線組電路板"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.techmodule.png"
+        },
+        {
+          "Id": "ASTEROID1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Silver",
+            "SimplifiedChinese": "银",
+            "TencentChinese": "银",
+            "TraditionalChinese": "銀"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.1.png"
+        },
+        {
+          "Id": "ROBOT1",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Pugneum",
+            "SimplifiedChinese": "普茵",
+            "TencentChinese": "普茵",
+            "TraditionalChinese": "搏"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.1.png"
+        }
+      ]
+    }
+  ]
 }

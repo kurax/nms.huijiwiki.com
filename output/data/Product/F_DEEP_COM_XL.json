@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1331",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_OCTOPUS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Grilled Tentacle",
+          "SimplifiedChinese": "烤触手",
+          "TraditionalChinese": "碳烤觸手"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DEEP_COM_XL": {
+          "Id": "F_DEEP_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bleached Octopus",
+            "SimplifiedChinese": "漂白章鱼",
+            "TraditionalChinese": "白化章魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.octopus.png"
+        }
+      }
+    }
+  ]
 }

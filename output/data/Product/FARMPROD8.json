@@ -106,5 +106,77 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "MEGAPROD3",
+      "Name": {
+        "English": "Cryogenic Chamber",
+        "SimplifiedChinese": "低温舱",
+        "TencentChinese": "低温舱",
+        "TraditionalChinese": "低溫艙"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.cryochamber.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD8",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Glass",
+            "SimplifiedChinese": "活体玻璃",
+            "TencentChinese": "活体玻璃",
+            "TraditionalChinese": "活玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.8.png"
+        },
+        {
+          "Id": "COMPOUND6",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cryo-Pump",
+            "SimplifiedChinese": "冷沉淀泵",
+            "TencentChinese": "冷沉淀泵",
+            "TraditionalChinese": "低溫泵"
+          },
+          "Icon": "ui-frontend-icons-update3-compound.6.png"
+        }
+      ]
+    },
+    {
+      "Id": "WHALE_BEACON",
+      "Name": {
+        "English": "Dream Aerial",
+        "SimplifiedChinese": "梦境飞行",
+        "TraditionalChinese": "夢境天線"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.whalebeacon.png",
+      "Requirements": [
+        {
+          "Id": "MIRROR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Solar Mirror",
+            "SimplifiedChinese": "太阳能镜",
+            "TraditionalChinese": "日鏡"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.mirror.png"
+        },
+        {
+          "Id": "FARMPROD8",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Living Glass",
+            "SimplifiedChinese": "活体玻璃",
+            "TencentChinese": "活体玻璃",
+            "TraditionalChinese": "活玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.8.png"
+        }
+      ]
+    }
+  ]
 }

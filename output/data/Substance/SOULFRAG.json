@@ -80,5 +80,41 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": false
+  "EggModifierIngredient": false,
+  "[RELATED]Products": [
+    {
+      "Id": "BIOSHIP_COMP4",
+      "Name": {
+        "English": "Seeds of Glass",
+        "SimplifiedChinese": "玻璃的种子",
+        "TraditionalChinese": "玻璃種子"
+      },
+      "Icon": "ui-frontend-icons-technology-bio-product.biocomp4.png",
+      "Requirements": [
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        },
+        {
+          "Id": "SOULFRAG",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Fragmented Qualia",
+            "SimplifiedChinese": "破碎的感质",
+            "TraditionalChinese": "分裂感質"
+          },
+          "Icon": "ui-frontend-icons-u4products-sub.soulfrag.png"
+        }
+      ]
+    }
+  ]
 }

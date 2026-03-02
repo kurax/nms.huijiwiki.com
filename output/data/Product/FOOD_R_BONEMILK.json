@@ -83,5 +83,180 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_934",
+      "RecipeType": {
+        "English": "Processor Setting: Dough Augmentation",
+        "SimplifiedChinese": "加工设置：面团强化",
+        "TencentChinese": "加工设置：蒸植物类",
+        "TraditionalChinese": "處理器設定：麵團改良"
+      },
+      "RecipeName": {
+        "English": "Dough Augmentation",
+        "SimplifiedChinese": "面团强化",
+        "TencentChinese": "GoogleTranslated",
+        "TraditionalChinese": "麵團改良"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_B_MILK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Milky Cookie",
+          "SimplifiedChinese": "浓郁饼干",
+          "TencentChinese": "GoogleTranslated",
+          "TraditionalChinese": "營養強化餅乾"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.biscuit.png"
+      },
+      "Ingredients": {
+        "FOOD_B_DOUGH": {
+          "Id": "FOOD_B_DOUGH",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sugar Dough",
+            "SimplifiedChinese": "加糖面团",
+            "TencentChinese": "GoogleTranslated",
+            "TraditionalChinese": "甜麵團"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_BONEMILK": {
+          "Id": "FOOD_R_BONEMILK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Milk",
+            "SimplifiedChinese": "骨乳",
+            "TraditionalChinese": "骨頭奶"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.milk.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_579",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BONEMILK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Milk",
+          "SimplifiedChinese": "骨乳",
+          "TraditionalChinese": "骨頭奶"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.milk.png"
+      },
+      "Ingredients": {
+        "FOOD_V_BONE": {
+          "Id": "FOOD_V_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Nuggets",
+            "SimplifiedChinese": "骨块",
+            "TraditionalChinese": "骨塊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.weirdfruit.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1347",
+      "RecipeType": {
+        "English": "Processor Setting: Stew Bones",
+        "SimplifiedChinese": "加工设置：炖骨头",
+        "TraditionalChinese": "處理器設定：熬煮骨頭"
+      },
+      "RecipeName": {
+        "English": "Stew Bones",
+        "SimplifiedChinese": "炖骨头",
+        "TraditionalChinese": "熬煮骨頭"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BONEMILK",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Milk",
+          "SimplifiedChinese": "骨乳",
+          "TraditionalChinese": "骨頭奶"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.milk.png"
+      },
+      "Ingredients": {
+        "ANY_BONE": {
+          "Id": "ANY_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Any Edible Bone",
+            "SimplifiedChinese": "任意可食用骨头",
+            "TraditionalChinese": "任何可食用的骨頭"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.bones.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_580",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BCREAM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Bone Cream",
+          "SimplifiedChinese": "骨奶油",
+          "TraditionalChinese": "骨頭鮮奶油"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cream.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BONEMILK": {
+          "Id": "FOOD_R_BONEMILK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Milk",
+            "SimplifiedChinese": "骨乳",
+            "TraditionalChinese": "骨頭奶"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.milk.png"
+        }
+      }
+    }
+  ]
 }

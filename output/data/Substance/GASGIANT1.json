@@ -81,5 +81,40 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "PURPM_GAS_KEY",
+      "Name": {
+        "English": "Reality Anchor",
+        "SimplifiedChinese": "现实锚点",
+        "TraditionalChinese": "現實錨點"
+      },
+      "Icon": "ui-frontend-icons-products-product.2024.purplekey.png",
+      "Requirements": [
+        {
+          "Id": "GASGIANT1",
+          "Type": "Substance",
+          "Amount": 380,
+          "Name": {
+            "English": "Crystallized Helium",
+            "SimplifiedChinese": "氦晶体",
+            "TraditionalChinese": "結晶氦"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.biome.gasgiant.png"
+        },
+        {
+          "Id": "PURPLE2",
+          "Type": "Substance",
+          "Amount": 160,
+          "Name": {
+            "English": "Quartzite",
+            "SimplifiedChinese": "石英岩",
+            "TraditionalChinese": "石英岩"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.purple.2.png"
+        }
+      ]
+    }
+  ]
 }

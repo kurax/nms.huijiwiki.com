@@ -85,5 +85,220 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_310",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Organs",
+          "SimplifiedChinese": "美味炖内脏",
+          "TencentChinese": "美味炖内脏",
+          "TraditionalChinese": "鮮味內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_ORGAN_STEW": {
+          "Id": "FOOD_ORGAN_STEW",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Stewed Organs",
+            "SimplifiedChinese": "炖内脏",
+            "TencentChinese": "炖内脏",
+            "TraditionalChinese": "燉內臟"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_786",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Organs",
+          "SimplifiedChinese": "美味炖内脏",
+          "TencentChinese": "美味炖内脏",
+          "TraditionalChinese": "鮮味內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BONE": {
+          "Id": "FOOD_STEW_BONE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystalline Soup",
+            "SimplifiedChinese": "晶体汤",
+            "TraditionalChinese": "結晶湯"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_788",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Organs",
+          "SimplifiedChinese": "美味炖内脏",
+          "TencentChinese": "美味炖内脏",
+          "TraditionalChinese": "鮮味內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BEET": {
+          "Id": "FOOD_STEW_BEET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gelatinous Goop",
+            "SimplifiedChinese": "胶质粘稠物",
+            "TraditionalChinese": "膠狀黏稠物"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_790",
+      "RecipeType": {
+        "English": "Processor Setting: Combine and Reduce",
+        "SimplifiedChinese": "加工设置：组合与减少",
+        "TencentChinese": "加工设置：组合与减少",
+        "TraditionalChinese": "處理器設定：合併減縮"
+      },
+      "RecipeName": {
+        "English": "Combine And Reduce",
+        "SimplifiedChinese": "组合与减少",
+        "TraditionalChinese": "結合與稠化"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_STEW_O_VEG",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Flavorsome Organs",
+          "SimplifiedChinese": "美味炖内脏",
+          "TencentChinese": "美味炖内脏",
+          "TraditionalChinese": "鮮味內臟"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+      },
+      "Ingredients": {
+        "FOOD_STEW_BALL": {
+          "Id": "FOOD_STEW_BALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chewy 'Dumpling' Stew",
+            "SimplifiedChinese": "耐嚼炖“饺”",
+            "TraditionalChinese": "Q彈「麵疙瘩」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.meatstew.png"
+        },
+        "FOOD_S_VEG": {
+          "Id": "FOOD_S_VEG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Flavorsome Sauce",
+            "SimplifiedChinese": "美味酱",
+            "TencentChinese": "美味酱",
+            "TraditionalChinese": "鮮味醬"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.sauce.png"
+        }
+      }
+    }
+  ]
 }

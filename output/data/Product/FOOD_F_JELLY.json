@@ -82,5 +82,486 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1143",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ALL_LEG_M1": {
+          "Id": "F_ALL_LEG_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Golden Jellyfish",
+            "SimplifiedChinese": "黄金水母",
+            "TraditionalChinese": "黃金水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product3.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1150",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_TOX_COM_M2": {
+          "Id": "F_TOX_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Toxic Jelly",
+            "SimplifiedChinese": "毒胶冻",
+            "TraditionalChinese": "毒刺水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1184",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_RAD_LEG_S1": {
+          "Id": "F_RAD_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Many-Eyed Jellyfish",
+            "SimplifiedChinese": "多眼水母",
+            "TraditionalChinese": "多眼水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1207",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_HOT_LEG_L1": {
+          "Id": "F_HOT_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jelly of the Veil",
+            "SimplifiedChinese": "面纱水母",
+            "TraditionalChinese": "面紗水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1226",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_COLD_LEG_S1": {
+          "Id": "F_COLD_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Crystal Jelly",
+            "SimplifiedChinese": "水晶胶冻",
+            "TraditionalChinese": "冰晶水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product2.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1238",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_LUSH_RARE_S2": {
+          "Id": "F_LUSH_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mellifluous Jellyfish",
+            "SimplifiedChinese": "蜜水母",
+            "TraditionalChinese": "美柔水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1247",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_LUSH_LEG_S1": {
+          "Id": "F_LUSH_LEG_S1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Glass Angel",
+            "SimplifiedChinese": "玻璃天使",
+            "TraditionalChinese": "玻璃天使"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1274",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ODD_COM_S3": {
+          "Id": "F_ODD_COM_S3",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Aurora Jellyfish",
+            "SimplifiedChinese": "极光水母",
+            "TraditionalChinese": "極光水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1291",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_ODD_LEG_L1": {
+          "Id": "F_ODD_LEG_L1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Child of Helios",
+            "SimplifiedChinese": "赫利俄斯之子",
+            "TraditionalChinese": "赫利奧斯之子"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1314",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_GAS_RARE_M2": {
+          "Id": "F_GAS_RARE_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Mineralised Jellyfish",
+            "SimplifiedChinese": "矿化水母",
+            "TraditionalChinese": "礦化水母"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1329",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JELLY",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellymeat",
+          "SimplifiedChinese": "水母肉",
+          "TraditionalChinese": "水母肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+      },
+      "Ingredients": {
+        "F_DEEP_COM_M2": {
+          "Id": "F_DEEP_COM_M2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Whispering Jelly",
+            "SimplifiedChinese": "低语胶冻",
+            "TraditionalChinese": "低語果凍魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.jelly.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1301",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_JEELS",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Jellied Eel",
+          "SimplifiedChinese": "鳗鱼冻",
+          "TraditionalChinese": "鰻魚肉凍"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "FOOD_F_JELLY": {
+          "Id": "FOOD_F_JELLY",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Jellymeat",
+            "SimplifiedChinese": "水母肉",
+            "TraditionalChinese": "水母肉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+        },
+        "FOOD_F_EEL": {
+          "Id": "FOOD_F_EEL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Fleshy Cylinder",
+            "SimplifiedChinese": "鳗鱼肉卷",
+            "TraditionalChinese": "鮮肉管"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.fish.squid.png"
+        }
+      }
+    }
+  ]
 }

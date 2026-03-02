@@ -86,5 +86,411 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Products": [
+    {
+      "Id": "BASE_WPLANT1",
+      "Name": {
+        "English": "Curly Coral",
+        "SimplifiedChinese": "卷曲珊瑚",
+        "TencentChinese": "卷曲珊瑚",
+        "TraditionalChinese": "捲珊瑚"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.waterplant01.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_WPLANT7",
+      "Name": {
+        "English": "Succulent Algae Tower",
+        "SimplifiedChinese": "多肉藻塔",
+        "TraditionalChinese": "多肉海藻塔"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.biomeprop.waterplant07.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "FISHBAIT_NIGHT",
+      "Name": {
+        "English": "Shadow Lure",
+        "SimplifiedChinese": "暗影诱饵",
+        "TraditionalChinese": "暗影假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.night.png",
+      "Requirements": [
+        {
+          "Id": "ANTIMATTER",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Antimatter",
+            "SimplifiedChinese": "反物质",
+            "TencentChinese": "反物质",
+            "TraditionalChinese": "反物質"
+          },
+          "Icon": "ui-frontend-icons-products-product.antimatter.png"
+        },
+        {
+          "Id": "CASING",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Metal Plating",
+            "SimplifiedChinese": "金属电镀",
+            "TencentChinese": "金属电镀",
+            "TraditionalChinese": "金屬電鍍"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.casing.png"
+        },
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_WPLANT5",
+      "Name": {
+        "English": "Strip Coral",
+        "SimplifiedChinese": "条纹珊瑚",
+        "TraditionalChinese": "細條珊瑚"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.waterplant05.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_WPLANT2",
+      "Name": {
+        "English": "Aquatic Crystal",
+        "SimplifiedChinese": "水生晶体",
+        "TencentChinese": "水生晶体",
+        "TraditionalChinese": "水中晶石"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.waterplant02.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_WPLANT6",
+      "Name": {
+        "English": "Aquatic Colony",
+        "SimplifiedChinese": "水生殖民地",
+        "TraditionalChinese": "水中殖民地"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.waterplant06.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_WPLANT8",
+      "Name": {
+        "English": "Lantern Kelp",
+        "SimplifiedChinese": "灯笼海带",
+        "TraditionalChinese": "燈籠巨藻"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.biomeprop.waterplant08.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_WPLANT3",
+      "Name": {
+        "English": "Candelabra Bloom",
+        "SimplifiedChinese": "烛台花",
+        "TencentChinese": "烛台花",
+        "TraditionalChinese": "燭台花"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.waterplant03.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "SUBFUEL",
+      "Name": {
+        "English": "Hydrothermal Fuel Cell",
+        "SimplifiedChinese": "热液燃料电池",
+        "TencentChinese": "热液燃料电池",
+        "TraditionalChinese": "熱液燃料電池"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.subfuel.png",
+      "Requirements": [
+        {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        },
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        },
+        {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 40,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_BARNACLE",
+      "Name": {
+        "English": "Barnacle",
+        "SimplifiedChinese": "藤壶",
+        "TencentChinese": "藤壶",
+        "TraditionalChinese": "藤壺"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special.barnacle.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    },
+    {
+      "Id": "BASE_WPLANT4",
+      "Name": {
+        "English": "Armored Anemone",
+        "SimplifiedChinese": "装甲海葵",
+        "TraditionalChinese": "裝甲海葵"
+      },
+      "Icon": "ui-frontend-icons-specialshop-special1.waterplant04.png",
+      "Requirements": [
+        {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 80,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      ]
+    }
+  ],
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_7",
+      "RecipeType": {
+        "English": "Requested Operation: Algal Processing",
+        "SimplifiedChinese": "请求操作：藻类处理",
+        "TencentChinese": "请求操作：藻类处理",
+        "TraditionalChinese": "需執行作業：處理藻類"
+      },
+      "RecipeName": {
+        "English": "Algal Processing",
+        "SimplifiedChinese": "藻类处理",
+        "TraditionalChinese": "藻類加工"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "FUEL2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Condensed Carbon",
+          "SimplifiedChinese": "浓缩碳",
+          "TencentChinese": "浓缩碳",
+          "TraditionalChinese": "濃縮碳"
+        },
+        "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+      },
+      "Ingredients": {
+        "WATERPLANT": {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_76",
+      "RecipeType": {
+        "English": "Requested Operation: Salt Crystal Polishing",
+        "SimplifiedChinese": "请求操作：盐晶抛光",
+        "TencentChinese": "请求操作：盐晶抛光",
+        "TraditionalChinese": "需執行作業：鹽晶拋光"
+      },
+      "RecipeName": {
+        "English": "Salt Crystal Polishing",
+        "SimplifiedChinese": "盐晶抛光",
+        "TraditionalChinese": "鹽晶拋光"
+      },
+      "TimeToMake": 20,
+      "Cooking": false,
+      "Result": {
+        "Id": "FARMPROD3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Glass",
+          "SimplifiedChinese": "玻璃",
+          "TencentChinese": "玻璃",
+          "TraditionalChinese": "玻璃"
+        },
+        "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+      },
+      "Ingredients": {
+        "WATERPLANT": {
+          "Id": "WATERPLANT",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Cyto-Phosphate",
+            "SimplifiedChinese": "磷酸细胞",
+            "TencentChinese": "磷酸细胞",
+            "TraditionalChinese": "細胞磷酸鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.plant.png"
+        },
+        "WATER1": {
+          "Id": "WATER1",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Salt",
+            "SimplifiedChinese": "盐",
+            "TencentChinese": "盐",
+            "TraditionalChinese": "鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.water.1.png"
+        }
+      }
+    }
+  ]
 }

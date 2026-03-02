@@ -85,5 +85,487 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_37",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERINGUE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Meringue",
+          "SimplifiedChinese": "可口蛋白酥皮",
+          "TencentChinese": "可口蛋白酥皮",
+          "TraditionalChinese": "精緻蛋白霜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_38",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERINGUE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Meringue",
+          "SimplifiedChinese": "可口蛋白酥皮",
+          "TencentChinese": "可口蛋白酥皮",
+          "TraditionalChinese": "精緻蛋白霜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_V_EGG": {
+          "Id": "FOOD_V_EGG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creature Egg",
+            "SimplifiedChinese": "生物卵",
+            "TencentChinese": "生物卵",
+            "TraditionalChinese": "生物卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_39",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERINGUE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Meringue",
+          "SimplifiedChinese": "可口蛋白酥皮",
+          "TencentChinese": "可口蛋白酥皮",
+          "TraditionalChinese": "精緻蛋白霜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_V_STRIDER": {
+          "Id": "FOOD_V_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tall Eggs",
+            "SimplifiedChinese": "高卵",
+            "TencentChinese": "高卵",
+            "TraditionalChinese": "高卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_40",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERINGUE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Delicate Meringue",
+          "SimplifiedChinese": "可口蛋白酥皮",
+          "TencentChinese": "可口蛋白酥皮",
+          "TraditionalChinese": "精緻蛋白霜"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_SUGAR": {
+          "Id": "FOOD_R_SUGAR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Processed Sugar",
+            "SimplifiedChinese": "加工糖",
+            "TencentChinese": "加工糖",
+            "TraditionalChinese": "加工糖"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.sugar.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_340",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MMERMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Writhing, Roiling Batter",
+          "SimplifiedChinese": "翻腾打滚面糊",
+          "TencentChinese": "翻腾打滚面糊",
+          "TraditionalChinese": "扭曲打滾麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERINGUE": {
+          "Id": "FOOD_R_MERINGUE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Delicate Meringue",
+            "SimplifiedChinese": "可口蛋白酥皮",
+            "TencentChinese": "可口蛋白酥皮",
+            "TraditionalChinese": "精緻蛋白霜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_337",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Extra-Fluffy Batter",
+          "SimplifiedChinese": "超蓬松面糊",
+          "TencentChinese": "超蓬松面糊",
+          "TraditionalChinese": "超蓬鬆麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERINGUE": {
+          "Id": "FOOD_R_MERINGUE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Delicate Meringue",
+            "SimplifiedChinese": "可口蛋白酥皮",
+            "TencentChinese": "可口蛋白酥皮",
+            "TraditionalChinese": "精緻蛋白霜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_EGG": {
+          "Id": "FOOD_V_EGG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creature Egg",
+            "SimplifiedChinese": "生物卵",
+            "TencentChinese": "生物卵",
+            "TraditionalChinese": "生物卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_338",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Extra-Fluffy Batter",
+          "SimplifiedChinese": "超蓬松面糊",
+          "TencentChinese": "超蓬松面糊",
+          "TraditionalChinese": "超蓬鬆麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERINGUE": {
+          "Id": "FOOD_R_MERINGUE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Delicate Meringue",
+            "SimplifiedChinese": "可口蛋白酥皮",
+            "TencentChinese": "可口蛋白酥皮",
+            "TraditionalChinese": "精緻蛋白霜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_STRIDER": {
+          "Id": "FOOD_V_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tall Eggs",
+            "SimplifiedChinese": "高卵",
+            "TencentChinese": "高卵",
+            "TraditionalChinese": "高卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_339",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MERMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Extra-Fluffy Batter",
+          "SimplifiedChinese": "超蓬松面糊",
+          "TencentChinese": "超蓬松面糊",
+          "TraditionalChinese": "超蓬鬆麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERINGUE": {
+          "Id": "FOOD_R_MERINGUE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Delicate Meringue",
+            "SimplifiedChinese": "可口蛋白酥皮",
+            "TencentChinese": "可口蛋白酥皮",
+            "TraditionalChinese": "精緻蛋白霜"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.dough.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    }
+  ]
 }

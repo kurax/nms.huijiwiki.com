@@ -106,5 +106,271 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_253",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_254",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "LAND1": {
+          "Id": "LAND1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Ferrite Dust",
+            "SimplifiedChinese": "铁氧体粉末",
+            "TencentChinese": "铁氧体粉末",
+            "TraditionalChinese": "鐵氧體粉塵"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_255",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        },
+        "FUEL1": {
+          "Id": "FUEL1",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Carbon",
+            "SimplifiedChinese": "碳",
+            "TencentChinese": "碳",
+            "TraditionalChinese": "碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.1.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_256",
+      "RecipeType": {
+        "English": "Requested Operation: Plasma Pressurization",
+        "SimplifiedChinese": "请求操作：等离子增压",
+        "TencentChinese": "请求操作：等离子增压",
+        "TraditionalChinese": "需執行作業：電漿加壓"
+      },
+      "RecipeName": {
+        "English": "Plasma Pressurisation",
+        "SimplifiedChinese": "等离子增压",
+        "TraditionalChinese": "電漿加壓"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "GRENFUEL1",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Unstable Plasma",
+          "SimplifiedChinese": "不稳定的等离子",
+          "TencentChinese": "不稳定的等离子",
+          "TraditionalChinese": "不穩定電漿"
+        },
+        "Icon": "ui-frontend-icons-products-product.plasma1.png"
+      },
+      "Ingredients": {
+        "OXYGEN": {
+          "Id": "OXYGEN",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Oxygen",
+            "SimplifiedChinese": "氧气",
+            "TencentChinese": "氧气",
+            "TraditionalChinese": "氧"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.air.1.png"
+        },
+        "FUEL2": {
+          "Id": "FUEL2",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Condensed Carbon",
+            "SimplifiedChinese": "浓缩碳",
+            "TencentChinese": "浓缩碳",
+            "TraditionalChinese": "濃縮碳"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.fuel.2.png"
+        },
+        "LAND2": {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      }
+    }
+  ]
 }

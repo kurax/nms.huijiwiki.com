@@ -96,5 +96,43 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "ATLAS_SEED_2",
+      "Name": {
+        "English": "Englobed Shade",
+        "SimplifiedChinese": "球中的阴影",
+        "TencentChinese": "球中的阴影",
+        "TraditionalChinese": "球狀影"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.2.png",
+      "Requirements": [
+        {
+          "Id": "ATLAS_SEED_1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Captured Nanode",
+            "SimplifiedChinese": "捕获的纳米节点",
+            "TencentChinese": "捕获的纳米节点",
+            "TraditionalChinese": "捕到的訥結"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.1.png"
+        },
+        {
+          "Id": "LAND2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Pure Ferrite",
+            "SimplifiedChinese": "纯铁氧体",
+            "TencentChinese": "纯铁氧体",
+            "TraditionalChinese": "純鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.2.png"
+        }
+      ]
+    }
+  ]
 }

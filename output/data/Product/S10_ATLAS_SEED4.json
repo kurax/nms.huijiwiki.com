@@ -97,5 +97,41 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ATLAS_SEED5",
+      "Name": {
+        "English": "Seed of Hope",
+        "SimplifiedChinese": "希望之种",
+        "TraditionalChinese": "希望種子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.9.png",
+      "Requirements": [
+        {
+          "Id": "S10_ATLAS_SEED4",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Seed of Life",
+            "SimplifiedChinese": "生命之种",
+            "TraditionalChinese": "生命種子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.5.png"
+        },
+        {
+          "Id": "STELLAR2",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Chromatic Metal",
+            "SimplifiedChinese": "有色金属",
+            "TencentChinese": "有色金属",
+            "TraditionalChinese": "有色金屬"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.stellar.2.png"
+        }
+      ]
+    }
+  ]
 }

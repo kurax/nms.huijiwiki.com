@@ -97,5 +97,41 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ATLAS_SEED3",
+      "Name": {
+        "English": "Seed of Will",
+        "SimplifiedChinese": "意志之种",
+        "TraditionalChinese": "意志種子"
+      },
+      "Icon": "ui-frontend-icons-update3-atlasseed.6.png",
+      "Requirements": [
+        {
+          "Id": "S10_ATLAS_SEED2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Seed of Power",
+            "SimplifiedChinese": "力量之种",
+            "TraditionalChinese": "能量種子"
+          },
+          "Icon": "ui-frontend-icons-update3-atlasseed.7.png"
+        },
+        {
+          "Id": "CAVE2",
+          "Type": "Substance",
+          "Amount": 100,
+          "Name": {
+            "English": "Ionized Cobalt",
+            "SimplifiedChinese": "离子钴",
+            "TencentChinese": "离子钴",
+            "TraditionalChinese": "離子化鈷"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.cave.2.png"
+        }
+      ]
+    }
+  ]
 }

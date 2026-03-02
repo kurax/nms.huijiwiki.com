@@ -85,5 +85,169 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_196",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_G",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Omelets",
+          "SimplifiedChinese": "原型煎蛋卷",
+          "TencentChinese": "原型煎蛋卷",
+          "TraditionalChinese": "原始歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_EGG": {
+          "Id": "FOOD_V_EGG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creature Egg",
+            "SimplifiedChinese": "生物卵",
+            "TencentChinese": "生物卵",
+            "TraditionalChinese": "生物卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_197",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_G",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Omelets",
+          "SimplifiedChinese": "原型煎蛋卷",
+          "TencentChinese": "原型煎蛋卷",
+          "TraditionalChinese": "原始歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_STRIDER": {
+          "Id": "FOOD_V_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tall Eggs",
+            "SimplifiedChinese": "高卵",
+            "TencentChinese": "高卵",
+            "TraditionalChinese": "高卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_198",
+      "RecipeType": {
+        "English": "Processor Setting: Bind Proteins",
+        "SimplifiedChinese": "加工设置：凝结蛋白质",
+        "TencentChinese": "加工设置：凝结蛋白质",
+        "TraditionalChinese": "處理器設定：結合蛋白質"
+      },
+      "RecipeName": {
+        "English": "Bind Proteins",
+        "SimplifiedChinese": "凝结蛋白质",
+        "TraditionalChinese": "蛋白質結合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_EGGPIE_G",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Proto-Omelets",
+          "SimplifiedChinese": "原型煎蛋卷",
+          "TencentChinese": "原型煎蛋卷",
+          "TraditionalChinese": "原始歐姆蛋"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.omlette.png"
+      },
+      "Ingredients": {
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        },
+        "FOOD_R_GCHEESE": {
+          "Id": "FOOD_R_GCHEESE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "ProtoCheese",
+            "SimplifiedChinese": "原芝士",
+            "TencentChinese": "原芝士",
+            "TraditionalChinese": "原始乳酪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    }
+  ]
 }

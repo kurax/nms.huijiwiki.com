@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1254",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_MED3",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Smoked Fish",
+          "SimplifiedChinese": "熏鱼",
+          "TraditionalChinese": "煙燻魚肉"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.salmon.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_M1": {
+          "Id": "F_DUST_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Chalkscale Nibber",
+            "SimplifiedChinese": "粉鳞吞食者",
+            "TraditionalChinese": "白堊鱗啃食魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    }
+  ]
 }

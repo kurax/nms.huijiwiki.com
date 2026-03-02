@@ -80,5 +80,87 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": false
+  "EggModifierIngredient": false,
+  "[RELATED]Products": [
+    {
+      "Id": "SPOOK_JUICE",
+      "Name": {
+        "English": "Elixir of Glass",
+        "SimplifiedChinese": "玻璃灵药",
+        "TraditionalChinese": "玻璃靈藥"
+      },
+      "Icon": "ui-frontend-icons-products-product.spookjuice.png",
+      "Requirements": [
+        {
+          "Id": "LAUNCHSUB",
+          "Type": "Substance",
+          "Amount": 30,
+          "Name": {
+            "English": "Di-hydrogen",
+            "SimplifiedChinese": "二氢",
+            "TencentChinese": "二氢",
+            "TraditionalChinese": "二氫"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.launchsub.1.png"
+        },
+        {
+          "Id": "SQUIDFRAG",
+          "Type": "Substance",
+          "Amount": 10,
+          "Name": {
+            "English": "Shattered Qualia",
+            "SimplifiedChinese": "残缺感质",
+            "TraditionalChinese": "破碎感質"
+          },
+          "Icon": "ui-frontend-icons-u4products-sub.soulfrag.png"
+        }
+      ]
+    },
+    {
+      "Id": "MESSAGE_JUICE4",
+      "Name": {
+        "English": "Elixir of Blood<span class=\"name name-img\">PR_0</span>",
+        "SimplifiedChinese": "鲜血灵药<span class=\"name name-img\">PR_0</span>",
+        "TraditionalChinese": "血之靈藥 <span class=\"name name-img\">PR_0</span>"
+      },
+      "Icon": "ui-frontend-icons-products-product.messagejuice4.png",
+      "Requirements": [
+        {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 15,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        },
+        {
+          "Id": "SQUIDFRAG",
+          "Type": "Substance",
+          "Amount": 25,
+          "Name": {
+            "English": "Shattered Qualia",
+            "SimplifiedChinese": "残缺感质",
+            "TraditionalChinese": "破碎感質"
+          },
+          "Icon": "ui-frontend-icons-u4products-sub.soulfrag.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ]
 }

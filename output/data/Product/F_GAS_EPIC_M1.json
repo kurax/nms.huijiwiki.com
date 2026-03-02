@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1318",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_CRAB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Peeled Claws",
+          "SimplifiedChinese": "去壳鳌肉",
+          "TraditionalChinese": "剝皮爪"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.scallop.png"
+      },
+      "Ingredients": {
+        "F_GAS_EPIC_M1": {
+          "Id": "F_GAS_EPIC_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Quartzshell Crab",
+            "SimplifiedChinese": "晶壳蟹",
+            "TraditionalChinese": "石英殼蟹"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.crab.png"
+        }
+      }
+    }
+  ]
 }

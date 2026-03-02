@@ -85,5 +85,754 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_344",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_BLOBBUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Questionably Sweet Cake",
+          "SimplifiedChinese": "可疑甜蛋糕",
+          "TencentChinese": "可疑甜蛋糕",
+          "TraditionalChinese": "可疑香甜蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_CAKEMIX": {
+          "Id": "FOOD_R_CAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Cake Batter",
+            "SimplifiedChinese": "蛋糕面糊",
+            "TencentChinese": "蛋糕面糊",
+            "TraditionalChinese": "蛋糕麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_380",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_BLOBBUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Questionably Sweet Cake",
+          "SimplifiedChinese": "可疑甜蛋糕",
+          "TencentChinese": "可疑甜蛋糕",
+          "TraditionalChinese": "可疑香甜蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BCAKEMIX": {
+          "Id": "FOOD_R_BCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Thick, Sweet Batter",
+            "SimplifiedChinese": "甜味稠面糊",
+            "TencentChinese": "甜味稠面糊",
+            "TraditionalChinese": "香甜濃麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_336",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_MCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Wailing Batter",
+          "SimplifiedChinese": "哀号面糊",
+          "TencentChinese": "哀号面糊",
+          "TraditionalChinese": "哀號麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FIENDCORE": {
+          "Id": "FIENDCORE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Larval Core",
+            "SimplifiedChinese": "幼虫核心",
+            "TencentChinese": "幼虫核心",
+            "TraditionalChinese": "蟲核"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.fiendcore.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_434",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MM_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Itching, Creeping Honey Sponge",
+          "SimplifiedChinese": "惊悚痒痒蜂蜜海绵蛋糕",
+          "TencentChinese": "惊悚痒痒蜂蜜海绵蛋糕",
+          "TraditionalChinese": "發癢悚然蜂蜜海綿"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.ccakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MMERMIX": {
+          "Id": "FOOD_R_MMERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Writhing, Roiling Batter",
+            "SimplifiedChinese": "翻腾打滚面糊",
+            "TencentChinese": "翻腾打滚面糊",
+            "TraditionalChinese": "扭曲打滾麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_362",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CG_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Most Curious Cake",
+          "SimplifiedChinese": "最古怪蛋糕",
+          "TencentChinese": "最古怪蛋糕",
+          "TraditionalChinese": "真古怪蛋糕"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakegek.png"
+      },
+      "Ingredients": {
+        "FOOD_R_GCAKEMIX": {
+          "Id": "FOOD_R_GCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Batter",
+            "SimplifiedChinese": "原型面糊",
+            "TencentChinese": "原型面糊",
+            "TraditionalChinese": "原始麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_318",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Thick, Sweet Batter",
+          "SimplifiedChinese": "甜味稠面糊",
+          "TencentChinese": "甜味稠面糊",
+          "TraditionalChinese": "香甜濃麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_EGG": {
+          "Id": "FOOD_V_EGG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Creature Egg",
+            "SimplifiedChinese": "生物卵",
+            "TencentChinese": "生物卵",
+            "TraditionalChinese": "生物卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_324",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Thick, Sweet Batter",
+          "SimplifiedChinese": "甜味稠面糊",
+          "TencentChinese": "甜味稠面糊",
+          "TraditionalChinese": "香甜濃麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_STRIDER": {
+          "Id": "FOOD_V_STRIDER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Tall Eggs",
+            "SimplifiedChinese": "高卵",
+            "TencentChinese": "高卵",
+            "TraditionalChinese": "高卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_330",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BCAKEMIX",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Thick, Sweet Batter",
+          "SimplifiedChinese": "甜味稠面糊",
+          "TencentChinese": "甜味稠面糊",
+          "TraditionalChinese": "香甜濃麵糊"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_R_FLOUR": {
+          "Id": "FOOD_R_FLOUR",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Refined Flour",
+            "SimplifiedChinese": "精制面粉",
+            "TencentChinese": "精制面粉",
+            "TraditionalChinese": "精製麵粉"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.flour.png"
+        },
+        "FOOD_V_DIPLO": {
+          "Id": "FOOD_V_DIPLO",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Egg",
+            "SimplifiedChinese": "巨卵",
+            "TencentChinese": "巨卵",
+            "TraditionalChinese": "巨卵"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.egg.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1094",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CK_PCATBUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Syrup-Drenched Delight",
+          "SimplifiedChinese": "糖渍美味",
+          "TraditionalChinese": "糖漿淋漓"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cake.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PCAKEMIX": {
+          "Id": "FOOD_R_PCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Syrupy Batter",
+            "SimplifiedChinese": "糖浆面糊",
+            "TraditionalChinese": "糖漿麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_398",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_CM_BLOBBUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Screamer",
+          "SimplifiedChinese": "黏腻奶油糊",
+          "TencentChinese": "黏腻奶油糊",
+          "TraditionalChinese": "黏糊糊尖叫料理"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.cupcakeevil.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MCAKEMIX": {
+          "Id": "FOOD_R_MCAKEMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Wailing Batter",
+            "SimplifiedChinese": "哀号面糊",
+            "TencentChinese": "哀号面糊",
+            "TraditionalChinese": "哀號麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_416",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Baked Product",
+        "SimplifiedChinese": "加工设置：配置烘烤食品",
+        "TencentChinese": "加工设置：配置烘烤食品",
+        "TraditionalChinese": "處理器設定：組成烘焙製品"
+      },
+      "RecipeName": {
+        "English": "Assemble Baked Product",
+        "SimplifiedChinese": "配置烘烤食品",
+        "TraditionalChinese": "組成烘焙製品"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_MC_BLOB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Honey Puff",
+          "SimplifiedChinese": "黏腻蜂蜜泡芙",
+          "TencentChinese": "黏腻蜂蜜泡芙",
+          "TraditionalChinese": "黏糊糊蜂蜜泡芙"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.cakeblob.png"
+      },
+      "Ingredients": {
+        "FOOD_R_MERMIX": {
+          "Id": "FOOD_R_MERMIX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Extra-Fluffy Batter",
+            "SimplifiedChinese": "超蓬松面糊",
+            "TencentChinese": "超蓬松面糊",
+            "TraditionalChinese": "超蓬鬆麵糊"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.batter.png"
+        },
+        "FOOD_R_BLOBBUT": {
+          "Id": "FOOD_R_BLOBBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Gooey Butter",
+            "SimplifiedChinese": "黏腻黄油",
+            "TencentChinese": "黏腻黄油",
+            "TraditionalChinese": "黏糊糊奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_62",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BLOBBUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Butter",
+          "SimplifiedChinese": "黏腻黄油",
+          "TencentChinese": "黏腻黄油",
+          "TraditionalChinese": "黏糊糊奶油"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BUTTER": {
+          "Id": "FOOD_R_BUTTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Churned Butter",
+            "SimplifiedChinese": "已搅拌的黄油",
+            "TencentChinese": "已搅拌的黄油",
+            "TraditionalChinese": "攪拌奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_V_BLOB": {
+          "Id": "FOOD_V_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sticky 'Honey'",
+            "SimplifiedChinese": "粘性蜂蜜",
+            "TencentChinese": "粘性蜂蜜",
+            "TraditionalChinese": "黏性「蜂蜜」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_627",
+      "RecipeType": {
+        "English": "Processor Setting: Component Churn",
+        "SimplifiedChinese": "加工设置：搅拌成分",
+        "TencentChinese": "加工设置：搅拌成分",
+        "TraditionalChinese": "處理器設定：攪拌成分"
+      },
+      "RecipeName": {
+        "English": "Component Churn",
+        "SimplifiedChinese": "材料搅拌",
+        "TraditionalChinese": "攪拌成分"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_R_BLOBBUT",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Gooey Butter",
+          "SimplifiedChinese": "黏腻黄油",
+          "TencentChinese": "黏腻黄油",
+          "TraditionalChinese": "黏糊糊奶油"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+      },
+      "Ingredients": {
+        "FOOD_R_BBUTTER": {
+          "Id": "FOOD_R_BBUTTER",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Bone Butter",
+            "SimplifiedChinese": "骨黄油",
+            "TraditionalChinese": "骨頭奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        },
+        "FOOD_V_BLOB": {
+          "Id": "FOOD_V_BLOB",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sticky 'Honey'",
+            "SimplifiedChinese": "粘性蜂蜜",
+            "TencentChinese": "粘性蜂蜜",
+            "TraditionalChinese": "黏性「蜂蜜」"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.honey.png"
+        }
+      }
+    }
+  ]
 }

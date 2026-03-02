@@ -85,5 +85,185 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": true
+  "EggModifierIngredient": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_54",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK2",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Runaway Mold",
+          "SimplifiedChinese": "失控的模具",
+          "TencentChinese": "失控的模具",
+          "TraditionalChinese": "狂生黴菌"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.2.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK4": {
+          "Id": "SPACEGUNK4",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Living Slime",
+            "SimplifiedChinese": "活体黏质",
+            "TencentChinese": "活体黏质",
+            "TraditionalChinese": "活軟泥"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_3",
+      "RecipeType": {
+        "English": "Requested Operation: Biological Purge",
+        "SimplifiedChinese": "请求操作：生物净化",
+        "TencentChinese": "请求操作：生物净化",
+        "TraditionalChinese": "需執行作業：生物清除"
+      },
+      "RecipeName": {
+        "English": "Biological Purge",
+        "SimplifiedChinese": "生物净化",
+        "TraditionalChinese": "生物清除"
+      },
+      "TimeToMake": 60,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK4",
+        "Type": "Substance",
+        "Amount": 50,
+        "Name": {
+          "English": "Living Slime",
+          "SimplifiedChinese": "活体黏质",
+          "TencentChinese": "活体黏质",
+          "TraditionalChinese": "活軟泥"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+      },
+      "Ingredients": {
+        "EYEBALL": {
+          "Id": "EYEBALL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hypnotic Eye",
+            "SimplifiedChinese": "催眠之眼",
+            "TencentChinese": "催眠之眼",
+            "TraditionalChinese": "催眠之眼"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.eyeball.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_55",
+      "RecipeType": {
+        "English": "Requested Operation: Recycle Waste Materials",
+        "SimplifiedChinese": "请求操作：回收废料",
+        "TencentChinese": "请求操作：回收废料",
+        "TraditionalChinese": "需執行作業：回收廢棄材料"
+      },
+      "RecipeName": {
+        "English": "Recycle Waste Materials",
+        "SimplifiedChinese": "回收废料",
+        "TraditionalChinese": "回收廢棄材料"
+      },
+      "TimeToMake": 150,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK4",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Living Slime",
+          "SimplifiedChinese": "活体黏质",
+          "TencentChinese": "活体黏质",
+          "TraditionalChinese": "活軟泥"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+      },
+      "Ingredients": {
+        "SPACEGUNK5": {
+          "Id": "SPACEGUNK5",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Viscous Fluids",
+            "SimplifiedChinese": "粘性流质",
+            "TencentChinese": "粘性流质",
+            "TraditionalChinese": "黏稠液體"
+          },
+          "Icon": "ui-frontend-icons-update3-spacegunk.5.png"
+        }
+      }
+    },
+    {
+      "Id": "REFINERECIPE_333",
+      "RecipeType": {
+        "English": "Requested Operation: Reanimation",
+        "SimplifiedChinese": "请求操作：复苏",
+        "TraditionalChinese": "需執行作業：復活"
+      },
+      "RecipeName": {
+        "English": "Slime/Echo Infusion",
+        "SimplifiedChinese": "黏质/回音融合",
+        "TraditionalChinese": "軟泥/回音灌注"
+      },
+      "TimeToMake": 3600,
+      "Cooking": false,
+      "Result": {
+        "Id": "SPACEGUNK4",
+        "Type": "Substance",
+        "Amount": 1,
+        "Name": {
+          "English": "Living Slime",
+          "SimplifiedChinese": "活体黏质",
+          "TencentChinese": "活体黏质",
+          "TraditionalChinese": "活軟泥"
+        },
+        "Icon": "ui-frontend-icons-update3-spacegunk.4.png"
+      },
+      "Ingredients": {
+        "ROBOT2": {
+          "Id": "ROBOT2",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Atlantideum",
+            "SimplifiedChinese": "亚特拉迪姆",
+            "TraditionalChinese": "亞特蘭提德鋼"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.robot.2.png"
+        },
+        "CREATURE1": {
+          "Id": "CREATURE1",
+          "Type": "Substance",
+          "Amount": 5,
+          "Name": {
+            "English": "Mordite",
+            "SimplifiedChinese": "腐藤",
+            "TencentChinese": "腐藤",
+            "TraditionalChinese": "歿鹽"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.creature.1.png"
+        }
+      }
+    }
+  ]
 }

@@ -107,5 +107,133 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": false,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "S10_ROBO_LEGS",
+      "Name": {
+        "English": "Construct Legs",
+        "SimplifiedChinese": "构造体腿部",
+        "TraditionalChinese": "構造腿部"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotlegs.png",
+      "Requirements": [
+        {
+          "Id": "HYDRALIC",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Hydraulic Wiring",
+            "SimplifiedChinese": "水力线路",
+            "TraditionalChinese": "液壓線路"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hydralic.png"
+        },
+        {
+          "Id": "MAGNET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetic Resonator",
+            "SimplifiedChinese": "磁性共振器",
+            "TraditionalChinese": "磁力共振器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.magnet.png"
+        },
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "S8_BEACON",
+      "Name": {
+        "English": "Homeworld Repeater",
+        "SimplifiedChinese": "母星中继器",
+        "TraditionalChinese": "母星中繼器"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.roguefinder.png",
+      "Requirements": [
+        {
+          "Id": "HYDRALIC",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hydraulic Wiring",
+            "SimplifiedChinese": "水力线路",
+            "TraditionalChinese": "液壓線路"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hydralic.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 20,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        },
+        {
+          "Id": "LAND3",
+          "Type": "Substance",
+          "Amount": 60,
+          "Name": {
+            "English": "Magnetized Ferrite",
+            "SimplifiedChinese": "磁化铁氧体",
+            "TencentChinese": "磁化铁氧体",
+            "TraditionalChinese": "磁化鐵氧體"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.land.3.png"
+        }
+      ]
+    },
+    {
+      "Id": "FRIG_BOOST_MIN",
+      "Name": {
+        "English": "Mineral Compressor",
+        "SimplifiedChinese": "矿物压缩机",
+        "TencentChinese": "矿物压缩机",
+        "TraditionalChinese": "礦物壓縮機"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.frigboost.mining.png",
+      "Requirements": [
+        {
+          "Id": "HYDRALIC",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Hydraulic Wiring",
+            "SimplifiedChinese": "水力线路",
+            "TraditionalChinese": "液壓線路"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hydralic.png"
+        },
+        {
+          "Id": "ASTEROID2",
+          "Type": "Substance",
+          "Amount": 50,
+          "Name": {
+            "English": "Gold",
+            "SimplifiedChinese": "金",
+            "TencentChinese": "金",
+            "TraditionalChinese": "金"
+          },
+          "Icon": "ui-frontend-icons-u4substances-substance.asteroid.2.png"
+        }
+      ]
+    }
+  ]
 }

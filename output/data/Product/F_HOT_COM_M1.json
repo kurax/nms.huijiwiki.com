@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1191",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_PRAWN",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Shell Puree",
+          "SimplifiedChinese": "贝壳肉泥",
+          "TraditionalChinese": "殼煮濃湯"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.prawn.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_M1": {
+          "Id": "F_HOT_COM_M1",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Boiled Snapper",
+            "SimplifiedChinese": "沸腾啮鱼",
+            "TraditionalChinese": "沸鯛"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.prawn.png"
+        }
+      }
+    }
+  ]
 }

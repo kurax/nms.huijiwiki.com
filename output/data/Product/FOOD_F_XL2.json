@@ -82,5 +82,358 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1137",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_ALL_RARE_XL": {
+          "Id": "F_ALL_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Ray",
+            "SimplifiedChinese": "巨鳐",
+            "TraditionalChinese": "大魟魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.ray.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1152",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_TOX_COM_XL": {
+          "Id": "F_TOX_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Whiskerfish",
+            "SimplifiedChinese": "巨须鱼",
+            "TraditionalChinese": "巨型鬚魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.medium.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1173",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_RAD_COM_XL": {
+          "Id": "F_RAD_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Polyscale Bloater",
+            "SimplifiedChinese": "塑鳞鲱鱼",
+            "TraditionalChinese": "多鱗鯡魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1194",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_HOT_COM_XL": {
+          "Id": "F_HOT_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Basalt-Tooth Bloater",
+            "SimplifiedChinese": "玄岩齿鲱鱼",
+            "TraditionalChinese": "玄武岩齒鯡魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.2.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1208",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_HOT_LEG_XL": {
+          "Id": "F_HOT_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Ancient Irontail",
+            "SimplifiedChinese": "远古铁尾",
+            "TraditionalChinese": "古代鐵尾魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.3.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1242",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_LUSH_RARE_XL": {
+          "Id": "F_LUSH_RARE_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Giant Sunray",
+            "SimplifiedChinese": "巨阳鳐",
+            "TraditionalChinese": "巨型太陽魟"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.ray.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1257",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DUST_COM_XL": {
+          "Id": "F_DUST_COM_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Greater Rocktooth",
+            "SimplifiedChinese": "大岩牙",
+            "TraditionalChinese": "大岩齒魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.big.1.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1271",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DUST_LEG_XL": {
+          "Id": "F_DUST_LEG_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Megalodon",
+            "SimplifiedChinese": "巨齿鲨",
+            "TraditionalChinese": "巨齒鯊"
+          },
+          "Icon": "ui-frontend-icons-fish-product5.fish.shark.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_1341",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_XL2",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Whole Roast Fish",
+          "SimplifiedChinese": "烤全鱼",
+          "TraditionalChinese": "烤全魚"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.trout.png"
+      },
+      "Ingredients": {
+        "F_DEEP_EPIC_XL": {
+          "Id": "F_DEEP_EPIC_XL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Colossal Jawfish",
+            "SimplifiedChinese": "巨型颌鱼",
+            "TraditionalChinese": "巨型大顎魚"
+          },
+          "Icon": "ui-frontend-icons-fish-product.fish.xl.1.png"
+        }
+      }
+    }
+  ]
 }

@@ -85,5 +85,223 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_76",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_HONB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Honeybutter Doughnut",
+          "SimplifiedChinese": "蜂蜜黄油甜甜圈",
+          "TencentChinese": "蜂蜜黄油甜甜圈",
+          "TraditionalChinese": "蜂蜜奶油甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_R_SWEETBUT": {
+          "Id": "FOOD_R_SWEETBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetened Butter",
+            "SimplifiedChinese": "加糖黄油",
+            "TencentChinese": "加糖黄油",
+            "TraditionalChinese": "甜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_77",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_HONB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Honeybutter Doughnut",
+          "SimplifiedChinese": "蜂蜜黄油甜甜圈",
+          "TencentChinese": "蜂蜜黄油甜甜圈",
+          "TraditionalChinese": "蜂蜜奶油甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_R_SWEETGEK": {
+          "Id": "FOOD_R_SWEETGEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Sweetened Proto-Butter",
+            "SimplifiedChinese": "加糖原型黄油",
+            "TencentChinese": "加糖原型黄油",
+            "TraditionalChinese": "原始甜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_78",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_HONB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Honeybutter Doughnut",
+          "SimplifiedChinese": "蜂蜜黄油甜甜圈",
+          "TencentChinese": "蜂蜜黄油甜甜圈",
+          "TraditionalChinese": "蜂蜜奶油甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_R_HONEYBUT": {
+          "Id": "FOOD_R_HONEYBUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Honey Butter",
+            "SimplifiedChinese": "蜂蜜黄油",
+            "TencentChinese": "蜂蜜黄油",
+            "TraditionalChinese": "蜂蜜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_79",
+      "RecipeType": {
+        "English": "Processor Setting: Nutrient Injection",
+        "SimplifiedChinese": "加工设置：注射营养",
+        "TencentChinese": "加工设置：注射营养",
+        "TraditionalChinese": "處理器設定：注入營養素"
+      },
+      "RecipeName": {
+        "English": "Nutrient Injection",
+        "SimplifiedChinese": "注入营养",
+        "TraditionalChinese": "注入營養素"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_DNUT_HONB",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Honeybutter Doughnut",
+          "SimplifiedChinese": "蜂蜜黄油甜甜圈",
+          "TencentChinese": "蜂蜜黄油甜甜圈",
+          "TraditionalChinese": "蜂蜜奶油甜甜圈"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+      },
+      "Ingredients": {
+        "FOOD_R_DONUT": {
+          "Id": "FOOD_R_DONUT",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lumpen Doughnut",
+            "SimplifiedChinese": "大块甜甜圈",
+            "TencentChinese": "大块甜甜圈",
+            "TraditionalChinese": "凹凸甜甜圈"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.doughnut.png"
+        },
+        "FOOD_R_HONEYGEK": {
+          "Id": "FOOD_R_HONEYGEK",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Honied Proto-Butter",
+            "SimplifiedChinese": "蜂蜜原型黄油",
+            "TencentChinese": "蜂蜜原型黄油",
+            "TraditionalChinese": "原始蜂蜜奶油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.butter.png"
+        }
+      }
+    }
+  ]
 }

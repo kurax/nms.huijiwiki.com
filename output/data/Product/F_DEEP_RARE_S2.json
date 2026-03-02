@@ -82,5 +82,46 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_1333",
+      "RecipeType": {
+        "English": "Processor Setting: Seafood Assembly",
+        "SimplifiedChinese": "加工设置：海鲜组件",
+        "TraditionalChinese": "處理器設定：海鮮組合"
+      },
+      "RecipeName": {
+        "English": "Seafood Assembly",
+        "SimplifiedChinese": "海鲜组件",
+        "TraditionalChinese": "海鮮組合"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_F_WORM",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Poached Worms",
+          "SimplifiedChinese": "水煮蠕虫",
+          "TraditionalChinese": "水煮蠕蟲"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.fish.octopus.png"
+      },
+      "Ingredients": {
+        "F_DEEP_RARE_S2": {
+          "Id": "F_DEEP_RARE_S2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Marine Glowworm",
+            "SimplifiedChinese": "海洋萤火虫",
+            "TraditionalChinese": "海洋螢火蟲"
+          },
+          "Icon": "ui-frontend-icons-fish-product4.fish.worm.png"
+        }
+      }
+    }
+  ]
 }

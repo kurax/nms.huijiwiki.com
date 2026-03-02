@@ -85,5 +85,222 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Recipes": [
+    {
+      "Id": "RECIPE_160",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_GREASE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Solidified Grease Pie",
+          "SimplifiedChinese": "凝脂馅饼",
+          "TencentChinese": "凝脂馅饼",
+          "TraditionalChinese": "凝脂派"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_V_REX": {
+          "Id": "FOOD_V_REX",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Regis Grease",
+            "SimplifiedChinese": "里吉斯油",
+            "TencentChinese": "里吉斯油",
+            "TraditionalChinese": "裡吉斯油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.animalgrease.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_161",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_GREASE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Solidified Grease Pie",
+          "SimplifiedChinese": "凝脂馅饼",
+          "TencentChinese": "凝脂馅饼",
+          "TraditionalChinese": "凝脂派"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_R_OIL": {
+          "Id": "FOOD_R_OIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Clarified Oil",
+            "SimplifiedChinese": "净化油",
+            "TencentChinese": "净化油",
+            "TraditionalChinese": "澄清油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cookinggrease.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_162",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_GREASE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Solidified Grease Pie",
+          "SimplifiedChinese": "凝脂馅饼",
+          "TencentChinese": "凝脂馅饼",
+          "TraditionalChinese": "凝脂派"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_R_GOIL": {
+          "Id": "FOOD_R_GOIL",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Proto-Oil",
+            "SimplifiedChinese": "原型型油",
+            "TencentChinese": "原型型油",
+            "TraditionalChinese": "原始油"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.cookinggrease.png"
+        }
+      }
+    },
+    {
+      "Id": "RECIPE_998",
+      "RecipeType": {
+        "English": "Processor Setting: Assemble Pie",
+        "SimplifiedChinese": "加工设置：配置馅饼",
+        "TencentChinese": "加工设置：配置馅饼",
+        "TraditionalChinese": "處理器設定：組成派"
+      },
+      "RecipeName": {
+        "English": "Assemble Pie",
+        "SimplifiedChinese": "配置馅饼",
+        "TraditionalChinese": "組成派"
+      },
+      "TimeToMake": 5,
+      "Cooking": true,
+      "Result": {
+        "Id": "FOOD_PIE_GREASE",
+        "Type": "Product",
+        "Amount": 1,
+        "Name": {
+          "English": "Solidified Grease Pie",
+          "SimplifiedChinese": "凝脂馅饼",
+          "TencentChinese": "凝脂馅饼",
+          "TraditionalChinese": "凝脂派"
+        },
+        "Icon": "ui-frontend-icons-cookingproducts-product.refined.vegpie.png"
+      },
+      "Ingredients": {
+        "FOOD_R_PIECASE": {
+          "Id": "FOOD_R_PIECASE",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Pie Case",
+            "SimplifiedChinese": "馅饼盒",
+            "TencentChinese": "馅饼盒",
+            "TraditionalChinese": "派皮"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.refined.emptypie.png"
+        },
+        "FOOD_V_BUG": {
+          "Id": "FOOD_V_BUG",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Nourishing Slime",
+            "SimplifiedChinese": "营养黏质",
+            "TraditionalChinese": "營養軟泥怪"
+          },
+          "Icon": "ui-frontend-icons-cookingproducts-product.animalgrease.png"
+        }
+      }
+    }
+  ]
 }

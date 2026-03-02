@@ -80,5 +80,48 @@
   "CookingIngredient": false,
   "GoodForSelling": false,
   "EasyToRefine": false,
-  "EggModifierIngredient": false
+  "EggModifierIngredient": false,
+  "[RELATED]Recipes": [
+    {
+      "Id": "REFINERECIPE_324",
+      "RecipeType": {
+        "English": "Requested Operation: Doom Cycling",
+        "SimplifiedChinese": "请求操作：厄运循环",
+        "TencentChinese": "请求操作：厄运循环",
+        "TraditionalChinese": "需執行作業：殞滅循環"
+      },
+      "RecipeName": {
+        "English": "Doom Cycling",
+        "SimplifiedChinese": "厄运循环",
+        "TraditionalChinese": "殞滅循環"
+      },
+      "TimeToMake": 90,
+      "Cooking": false,
+      "Result": {
+        "Id": "TECHFRAG",
+        "Type": "Substance",
+        "Amount": 2,
+        "Name": {
+          "English": "Nanite Cluster",
+          "SimplifiedChinese": "纳米星团",
+          "TencentChinese": "纳米星团",
+          "TraditionalChinese": "奈米機群"
+        },
+        "Icon": "ui-frontend-icons-substances-nanite.png"
+      },
+      "Ingredients": {
+        "AF_METAL": {
+          "Id": "AF_METAL",
+          "Type": "Substance",
+          "Amount": 1,
+          "Name": {
+            "English": "Tainted Metal",
+            "SimplifiedChinese": "污染的金属",
+            "TraditionalChinese": "遭汙染的金屬"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.taintedmetal.png"
+        }
+      }
+    }
+  ]
 }

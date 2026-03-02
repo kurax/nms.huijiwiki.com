@@ -106,5 +106,134 @@
   "GiveRewardOnSpecialPurchase": "",
   "EggModifierIngredient": true,
   "IsTechbox": false,
-  "CanSendToOtherPlayers": true
+  "CanSendToOtherPlayers": true,
+  "[RELATED]Products": [
+    {
+      "Id": "FISHBAIT_3",
+      "Name": {
+        "English": "Bionic Lure",
+        "SimplifiedChinese": "仿生诱饵",
+        "TraditionalChinese": "仿生假餌"
+      },
+      "Icon": "ui-frontend-icons-products-product.fishbait.3.png",
+      "Requirements": [
+        {
+          "Id": "BIO",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Amino Chamber",
+            "SimplifiedChinese": "氨基舱",
+            "TraditionalChinese": "胺基艙"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.bio.png"
+        },
+        {
+          "Id": "POWERCELL",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Ion Battery",
+            "SimplifiedChinese": "离子电池",
+            "TencentChinese": "离子电池",
+            "TraditionalChinese": "離子電池"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.powercell.png"
+        },
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 3,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "S10_ROBO_LEGS",
+      "Name": {
+        "English": "Construct Legs",
+        "SimplifiedChinese": "构造体腿部",
+        "TraditionalChinese": "構造腿部"
+      },
+      "Icon": "ui-frontend-icons-u4products-product.s10.robotlegs.png",
+      "Requirements": [
+        {
+          "Id": "HYDRALIC",
+          "Type": "Product",
+          "Amount": 2,
+          "Name": {
+            "English": "Hydraulic Wiring",
+            "SimplifiedChinese": "水力线路",
+            "TraditionalChinese": "液壓線路"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.hydralic.png"
+        },
+        {
+          "Id": "MAGNET",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Magnetic Resonator",
+            "SimplifiedChinese": "磁性共振器",
+            "TraditionalChinese": "磁力共振器"
+          },
+          "Icon": "ui-frontend-icons-u4products-product.magnet.png"
+        },
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        }
+      ]
+    },
+    {
+      "Id": "FARMPROD8",
+      "Name": {
+        "English": "Living Glass",
+        "SimplifiedChinese": "活体玻璃",
+        "TencentChinese": "活体玻璃",
+        "TraditionalChinese": "活玻璃"
+      },
+      "Icon": "ui-frontend-icons-update3-farmprod.8.png",
+      "Requirements": [
+        {
+          "Id": "FARMPROD2",
+          "Type": "Product",
+          "Amount": 1,
+          "Name": {
+            "English": "Lubricant",
+            "SimplifiedChinese": "润滑剂",
+            "TencentChinese": "润滑剂",
+            "TraditionalChinese": "潤滑劑"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.2.png"
+        },
+        {
+          "Id": "FARMPROD3",
+          "Type": "Product",
+          "Amount": 5,
+          "Name": {
+            "English": "Glass",
+            "SimplifiedChinese": "玻璃",
+            "TencentChinese": "玻璃",
+            "TraditionalChinese": "玻璃"
+          },
+          "Icon": "ui-frontend-icons-update3-farmprod.3.png"
+        }
+      ]
+    }
+  ]
 }
