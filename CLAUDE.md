@@ -26,9 +26,13 @@
 
 ## 设置和运行
 
-1. **安装依赖**: `yarn install` (使用 Yarn 4.12.0)
-2. **运行整个流程**: `yarn start` (运行 `src/index.ts` - 注意：可能需要检查入口点，当前src目录下无index.ts)
-3. **环境变量**: 创建 `.env` 文件，包含以下内容：
+1. **安装依赖**: `yarn install` (使用 Yarn 4.13.0)
+2. **运行数据处理**: `yarn tsx src/gamedata.ts`
+3. **运行本地化处理**: `yarn tsx src/localization.ts`
+4. **运行数据更新**: `yarn tsx src/update.ts`
+5. **运行模块更新**: `yarn tsx src/module.ts`
+6. **运行图片上传**: `yarn tsx src/upload.ts`
+7. **环境变量**: 创建 `.env` 文件，包含以下内容：
    - `API_KEY`: 灰机wiki API 密钥
    - `BOT_USER`: 机器人账号用户名
    - `BOT_PASS`: 机器人账号密码
@@ -56,12 +60,14 @@
 - Node.js + TypeScript (5.9.3)
 - tsx 用于执行 (4.21.0)
 - 主要依赖：
-  - `@inquirer/prompts`: 交互式提示
   - `fast-xml-parser`: 解析 MXML 文件
-  - `sharp`: 图像处理
   - `lodash`: 数据处理
   - `lua-json`: JSON转Lua表格式
+  - `p-all`: 并发控制
   - `p-retry`: 重试逻辑
   - `signale`: 日志记录
-  - `execa`: 执行shell命令
+  - `chalk`: 彩色输出
+  - `dotenv`: 环境变量管理
+  - `sort-keys`: 排序键值对
+  - `true-case-path`: 真实路径匹配
 ```
